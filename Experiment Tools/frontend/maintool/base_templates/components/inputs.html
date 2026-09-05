@@ -1,0 +1,80 @@
+{% macro button(text='', theme='lime') -%}
+    <button {{ merge_attr(kwargs or {}, class=" c_button s_"+theme)|hxattr }}>
+        {{ caller() if caller else text }}
+    </button>
+{%- endmacro %}
+
+
+{% macro round_button(icon='', theme='lime') -%}
+    <button {{ merge_attr(kwargs or {}, class=" c_round-button s_"+theme)|hxattr }}>
+        {{ caller() if caller else icon }}
+    </button>
+{%- endmacro %}
+
+{% macro text_button(text='', theme='lime') -%}
+    <button {{ merge_attr(kwargs or {}, class=" c_text-button s_"+theme)|hxattr }}>
+        {{ caller() if caller else text }}
+    </button>
+{%- endmacro %}
+
+
+{%- macro icon_button(icon, label='', theme='lime', label_class='', reverse=false) -%}
+<button {{ merge_attr(kwargs or {}, class=" c_icon-button s_"+theme + (' s_reverse' if reverse else ''))|hxattr }}>
+    {{ icon }}
+    <div class="t_divider w-px h-4"></div>
+    <div class="text-xs whitespace-nowrap {{label_class}}">
+        {{ caller() if caller else label }}
+    </div>
+</button>
+{%- endmacro -%}
+
+{%- macro square_button(icon, theme='lime') -%}
+<button 
+    {{ merge_attr(kwargs or {}, class=" c_square-button s_"+theme)|hxattr }} >
+    <i class="fa-solid fa-{{ icon }} fa-xs" style="display: block;"></i>
+</button>
+{%- endmacro -%}
+
+{%- macro input(name=none, value=none) -%}
+    <input {{ merge_attr(kwargs or {}, name=name, value=value, class=" c_input")|hxattr }}>
+{%- endmacro -%}
+
+
+{% macro labeled_input(label, label_class='') -%}
+    <label class="flex flex-col text-xs {{label_class}}">{{ label }}
+        {{ input(**merge_attr(kwargs, class=" text-base")) }}
+    </label>
+{%- endmacro %}
+
+
+{%- macro select_items(options, selected=none) -%}
+    <select {{ merge_attr(kwargs or {}, class=" c_select")|hxattr }} >
+        {% for option, value in options %}
+            {% set label = option|string %}
+            <option value="{{ value }}" {{'selected' if option == selected }}>{{ label }}</option>
+        {% endfor %}
+    </select>
+{%- endmacro -%}
+
+{%- macro select(options=[], selected=none) -%}
+    <select {{ merge_attr(kwargs or {}, class=" c_select")|hxattr }} >
+        {% if caller %}
+            {{ caller() }}
+        {% else %}
+            {% set is_mapping = options is mapping %}
+            {% for option in options %}
+                {% set label = option|string %}
+                {% set value = options.option if is_mapping else label.lower()|replace(' ', '_') %}
+                <option value="{{ value }}" {{'selected' if option == selected }}>{{ label }}</option>
+            {% endfor %}
+        {% endif %}
+    </select>
+{%- endmacro -%}
+
+
+{%- macro content_fit_input() -%}
+    <div class="relative">
+        <p class="invisible">{{ kwargs.get('value') }}</p>
+        {{ input(**merge_attr(kwargs, class=" w-full absolute inset-0", script=" on input set (previous <p/>)'s innerHTML to my value end")) }}
+    </div>
+{%- endmacro -%}

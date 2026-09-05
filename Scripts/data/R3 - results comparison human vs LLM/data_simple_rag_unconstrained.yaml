@@ -1,0 +1,446 @@
+- question: Welchen Anteil an der Bevölkerung von Khefu stellen die Tulamiden?
+  correct_answer: Die Tulamiden stellen 20% der Bevölkerung von Khefu dar.
+  inner_monologue: "<think>\nOkay, let's tackle this question. The user is asking
+    about the percentage of Tulamids in Khefu's population. From the provided text,
+    there's a section that mentions the demographics of Khefu. Let me check that again.\n
+    \nIn the first part, under the \"Khefu – Hauptstadt des Kemireiches\" section,
+    there's a line that says: \"Einwohner: 1.300 (45 % Kemi, 20 % Tulamiden, 20 %
+    Waldmenschen, 10 % Mittelländer, 5 % Achaz)\". Wait, but then later there's another
+    mention: \"Geschätzte Bevölkerungszahl: 27.500, davon 70 % Kemi... 10 % Nordländer,
+    5 % Achaz...\" Hmm, here the percentages for Tulamiden aren't mentioned. \n\n
+    But the initial data point states 20% Tulamiden. However, the second part talks
+    about a different population count (27.500 vs. 1.300), which might refer to different
+    areas—maybe the city versus the surrounding regions? The user specifically asked
+    about Khefu, the city. So the first figure (1.300 inhabitants with 20% Tulamiden)
+    would be relevant. But wait, the numbers don't add up. If it's 1.300 people, 45%
+    Kemi would be around 585, 20% Tulamiden would be 260, 20% Waldmenschen 260, 10%
+    Mittelländer 130, and 5% Achaz 65. Adding those up gives 1,300 exactly. That seems
+    consistent. \n\nHowever, the other paragraph mentions 27.500 total population
+    with 70% Kemi, but no specific number for Tulamiden. Since the user is asking
+    about Khefu, not the entire region, the correct answer should be based on the
+    first statistic. But maybe the user wants the latest info. However, the two sources
+    conflict in terms of population size. It could be that the 1.300 refers to the
+    city proper, while 27.500 includes the wider area. Therefore, the answer depends
+    on whether the user is referring to the city or the broader region. Since the
+    question specifies Khefu, the city, the 20% Tulamiden from the first part is accurate.
+    Unless there's newer data, but the tools available only have this information.
+    No need to research further since the answer is present.\n</think>"
+  system_answer: "Die Tulamiden stellen laut Angaben 20 % der Bevölkerung von Khefu.
+    Dies ergibt sich aus der Aussage: „Einwohner: 1.300 (45 % Kemi, **20 % Tulamiden**,
+    20 % Waldmenschen, 10 % Mittelländer, 5 % Achaz)“.  \n\nDieser Wert bezieht sich
+    auf die Stadt Khefu selbst, wie die Zahlenangabe explizit nennt. Weitere Details
+    zur Bevölkerungsstruktur sind in den beschriebenen Quellen nicht zusätzlicher
+    enthalten."
+  related_chunk: G01-312
+  grade_reasoning: "Okay, let's see. The question is asking what percentage of Khefu's
+    population the Tulamiden make up.\n\nThe gold answer says 20%. The system answer
+    also states 20%, and it even quotes the exact line from the background information:
+    \"20 % Tulamiden\". The system answer also adds that this refers specifically
+    to the city of Khefu itself and mentions that there are no additional details
+    in the sources. \n\nLooking at the background info provided, the population breakdown
+    is listed as 45% Kemi, 20% Tulamiden, 20% Waldmenschen, 10% Mittelländer, 5% Achaz.
+    So the 20% for Tulamiden is correct. The system answer correctly cites this and
+    doesn't add any incorrect information. It also clarifies that the percentage is
+    for the city itself, which matches the background info since the numbers are under
+    \"Einwohner: 1.300\" for Khefu. \n\nThe system answer doesn't include any hallucinations.
+    It accurately reflects the data from the background. The extra detail about the
+    value referring to the city and no further details being available seems correct
+    based on the background provided. So all the information in the system answer
+    is accurate and relevant. The gold answer is concise, but the system answer provides
+    the same correct percentage with proper context from the source. Therefore, it
+    should get the highest rating.\n"
+  grade: 5
+  user_grade: 5
+- question: Welches Tier wird oft als Wappentier Südaventuriens betrachtet und greift
+    sowohl Boa als auch Menschen an?
+  correct_answer: Der große Jaguar wird oft als Wappentier Südaventuriens betrachtet
+    und greift sowohl Boa als auch Menschen an.
+  inner_monologue: "<think>\nOkay, let's tackle this question. The user is asking
+    which animal is often considered the heraldic beast of South Aventuria and attacks
+    both boas and humans. From the previous interaction, the assistant started by
+    researching \"Wappentier Südaventuriens\" and got some text snippets. Let me look
+    through those.\n\nIn the provided text, there's a section about animals in the
+    south. It mentions the great jaguar as something like the emblem of Southern Aventuria.
+    It says the jaguar attacks boa and humans. There's also mention of other creatures
+    like elephants, but the key part here is the jaguar. The text states: \"der große
+    Jaguar ist nicht zu Unrecht so etwas wie das Wappentier Südaventuriens und attackiert
+    Boa und Alligator ebenso wie Menschen.\" So that directly answers the question.
+    But wait, the user might need confirmation if there's more info. However, since
+    the existing text already provides this information, no further research is needed.
+    The answer should be the jaguar.\n</think>"
+  system_answer: "Das Wappentier Südaventuriens ist der **große Jaguar**, der laut
+    Beschreibung sowohl Boa als auch Menschen attackiert. \n\n**Begründung**: Im bereitgestellten
+    Text heißt es explizit:  \n*\"der große Jaguar ist nicht zu Unrecht so etwas wie
+    das Wappentier Südaventuriens und attackiert Boa und Alligator ebenso wie Menschen\"\
+    *.  \n\nKeine zusätzliche Forschung notwendig, da die Information bereits direkt
+    enthalten ist. 🦁"
+  related_chunk: G01-034
+  grade_reasoning: "Okay, let's see. The question is asking which animal is often
+    considered the heraldic animal of Southern Aventuria and attacks both boas and
+    humans.\n\nThe gold answer says: \"Der große Jaguar wird oft als Wappentier Südaventuriens
+    betrachtet und greift sowohl Boa als auch Menschen an.\"\n\nThe system answer
+    states: \"Das Wappentier Südaventuriens ist der **große Jaguar**, der laut Beschreibung
+    sowohl Boa als auch Menschen attackiert.\"\n\nLooking at the background info,
+    it says: \"Der große Jaguar ist nicht zu Unrecht so etwas wie das Wappentier Südaventuriens
+    und attackiert Boa und Alligator ebenso wie Menschen.\"\n\nWait, the gold answer
+    mentions that the jaguar attacks Boa and humans, but the background info says
+    it attacks Boa, Alligator, and humans. The system answer says it attacks Boa and
+    humans, which matches the gold answer. However, the background info includes Alligator
+    as well. But the question specifically asks for an animal that attacks Boa and
+    humans. The gold answer doesn't mention Alligator, so maybe the question is only
+    concerned with Boa and humans. The system answer correctly states Boa and humans,
+    which aligns with the gold answer. The background info adds Alligator, but since
+    the question doesn't ask about Alligator, the system answer is correct in omitting
+    it. The system answer also correctly identifies the Jaguar as the heraldic animal.\n
+    \nThe system answer includes a justification referencing the exact quote from
+    the background, which correctly states that the Jaguar is the Wappentier and attacks
+    Boa, Alligator, and humans. However, the system answer itself only mentions Boa
+    and humans, which is what the question asks for. So even though the background
+    mentions Alligator, the system answer isn't wrong for not including it because
+    the question only specifies Boa and humans. The gold answer also doesn't mention
+    Alligator, so the system answer matches the gold answer's content.\n\nNo hallucinations
+    here. The system answer is accurate, includes all necessary info from the gold
+    answer, and correctly references the background. The extra justification is correct
+    but not part of the answer itself. The answer is concise and correct. So it should
+    get a 5.\n"
+  grade: 5
+  user_grade: 5
+- question: Welches besondere Ereignis findet während des jährlichen Stammestreffens
+    der Napewanha am Wasserfall statt, und wie wird es genannt?
+  correct_answer: Höhepunkt des jährlichen Stammestreffens ist der Todessprung der
+    tapfersten Männer und Frauen in die Stromschnellen, das Akapukoho ('Wasserfall-isst-Gesicht-zuerst').
+  inner_monologue: "<think>\nOkay, let's tackle this question. The user is asking
+    about a special event during the annual gathering of the Napewanha at the waterfall
+    and its name. From the provided text, there's mention of the Napewanha's annual
+    meeting where they have various customs. Specifically, near the end of the text,
+    there's a part that says: \"Höhepunkt ist der Todessprung der tapfersten Männer
+    und Frauen in die Stromschnellen, das Akapukoho ('Wasserfall-isst-Gesicht-zuerst').\"\
+    \ This translates to \"The climax is the death jump of the bravest men and women
+    into the rapids, the Akapukoho ('waterfall eats face first').\" \n\nSo the key
+    points here are the \"Todessprung\" (death jump) and the term \"Akapukoho.\" However,
+    I need to make sure there's no other information missing. The user might want
+    more details, but according to the given text, this seems to be the main event.
+    Let me check if the tool can provide more info. But since the user instructed
+    to use the tools if needed, but in this case, the answer is already present. Therefore,
+    the answer should include the Akapukoho as the named event.\n</think>"
+  system_answer: "Das besondere Ereignis während des jährlichen Stammestreffens der
+    Napewanha am Wasserfall heißt **Akapukoho** (\"Wasserfall-isst-Gesicht-zuerst\"\
+    ). Es handelt sich dabei um den **Todessprung** der tapfersten Mitglieder in die
+    Stromschnellen des Wassfalls, ein Ritual, das als Höhepunkt des Treffens betrachtet
+    wird.  \n\nDer Begriff „Akapukoho“ wird explizit im Text genannt und beschreibt
+    dieses spektakuläre Ereignis. Zusätzliche Details zum Ritual sind im提供的 Text nicht
+    weiter out."
+  related_chunk: G01-535
+  grade_reasoning: "Okay, let's see. The question is asking about the special event
+    during the annual Napewanha tribe meeting at the waterfall and what it's called.\n
+    \nThe gold answer says the highlight is the death jump of the bravest men and
+    women into the rapids, called Akapukoho ('Wasserfall-isst-Gesicht-zuerst').\n\n
+    The system answer states that the event is called Akapukoho, describes it as the
+    death jump of the bravest members into the rapids, and mentions it's the highlight.
+    It also notes that the term is explicitly mentioned in the text and that additional
+    details aren't provided.\n\nLooking at the background info, it says: \"Höhepunkt
+    ist der Todessprung der tapfersten Männer und Frauen in die Stromschnellen, das
+    Akapukoho (’Wasserfall-isst-Gesicht-zuerst’).\" So the system answer matches this
+    exactly. It includes all the key points: the event name, the death jump by the
+    bravest, into the rapids, and that it's the highlight. The system answer also
+    correctly notes that the term is in the text and no more details are given, which
+    aligns with the background. There's no extra info that's incorrect. So it's accurate
+    and complete. Should get a 5.\n"
+  grade: 5
+  user_grade: 4
+- question: Wie hat sich der Stamm der Chirakahs verändert, nachdem sie Kontakt zu
+    Missionaren  der Zwölfgötter hatten?
+  correct_answer: Die Chirakahs gaben ihre Traditionen als Kopfjäger auf, bauten Lehmhäuser
+    mit strohgedeckten Dächern, begannen, die Zwölfgötter zu verehren, und legten
+    Maisfelder an.
+  inner_monologue: "<think>\nOkay, let's tackle this question about how the Chirakahs
+    changed after contact with the Twelve Gods missionaries. The user has already
+    done some research using the tool, but maybe there's more information needed.\n
+    \nFirst, looking at the previous responses from the tools, there's mention of
+    the Chirakahs being transformed by missionary efforts. They started adopting aspects
+    of the Twelfth God religion, like building houses with thatched roofs, farming
+    maize, and even becoming vegetarians or soldiers. But their original culture was
+    based on ancestral worship and nature spirits, as seen with the Tapam mountain
+    being sacred.\n\nThe texts also note that the Chirakahs were once feared as warriors
+    (\"Messerkaltinderhand\"), but later converted, leading to conflicts with settlers.
+    Now they're more integrated into society, working as laborers. However, there's
+    a contrast between their traditional practices and the new religious influences.\n
+    \nBut wait, the user is asking specifically about changes post-contact. The existing
+    info mentions their transformation through missions, but perhaps deeper details
+    on cultural shifts, social structures, or specific rituals influenced by the missionaries
+    could be missing. Maybe the role of the priests, changes in leadership, or integration
+    ofTwelve Gods beliefs into their existing customs?\n\nI should check if there
+    are more detailed sections on Chirakah societal structure before and after the
+    missions. Also, any references to resistance or syncretism where they blended
+    old and new beliefs. The earlier parts mentioned the Achaz and other groups, but
+    not directly the Chirakahs' adaptation processes. \n\nSince the available data
+    shows initial conversion and subsequent integration, but lacks specifics on long-term
+    effects, further research might focus on their current status, any written records
+    of their adapted religions, or interactions with other cultures. However, given
+    the provided text, the key points are their shift from warrior tribes to settled
+    farmers under missionary influence, adoption of certain religious practices, and
+    ongoing challenges with external groups.\n</think>"
+  system_answer: "Die Chirakahs wandelten nach ihrem Kontakt mit den Missionaren der
+    Zwölfgötter grundlegend. Früher waren sie als „Messerkaltinderhand“ bekannte Krieger,
+    die durch Raubzüge und Kampfkraft im Regengebirge bekannt waren. Durch die Bekehrung
+    durch Geweihte der Tsa und Travia verloren sie ihren wildesten Charakter: Sie
+    begannen, *Lehmziegelhäuser* zu bauen, Maisfelder zu bestellen und ihre traditionellen
+    Mähnen zu schneiden. Zudem adoptierten sie teils vegetarisches Leben oder dienten
+    als Soldaten/Söldner.  \n\nDennoch blieben Elemente ihrer alten Kultur erhalten,
+    etwa die Verehrung naturnaher Geister (wie der *Tapam*-Berghügel) und Ahnenkult.
+    Die Missionare beeinflussten jedoch ihre Gesellschaft strukturell: Sie integrierten
+    sich stärker in die regionale Wirtschaft, arbeiteten als Tagelöhner und vermehrten
+    sich mit anderen Völkern. Dies markiert eine *kulturelle Synthese*, bei der traditionelle
+    Praktiken mit neuen religiösen Lehren verschmolzen.  \n\nWeitere Details zu Ritualen
+    oder sozialen Strukturen könnten in speziellen Abschnitten über „Echsenkulte“
+    oder „Missionierungsprozesse“ stehen. Falls nötig, könnte ich dies vertiefen."
+  related_chunk: G01-549
+  grade_reasoning: "Okay, let's tackle this evaluation. So, the question is about
+    how the Chirakah tribe changed after contact with missionaries of the Twelve Gods.
+    The gold answer lists specific changes: they gave up headhunting, built adobe
+    houses with thatched roofs, started worshiping the Twelve Gods, and planted cornfields.\n
+    \nLooking at the system answer, it mentions several points. First, it says they
+    were known as \"Messerkaltinderhand\" warriors, which matches the background info
+    where \"Chirakah\" means 'MesserkaltinderHand'. The system answer says they built
+    \"Lehmziegelhäuser\" (adobe houses), which aligns with the gold answer's \"Lehmhäuser
+    mit strohgedeckten Dächern\". Wait, the background info says \"Lehmziegeln mit
+    strohgedeckten Dächern\", so \"Lehmziegelhäuser\" is correct. The system answer
+    also mentions planting cornfields, which is in the gold answer.\n\nThe system
+    answer adds that they cut their traditional manes, adopted vegetarianism or became
+    soldiers/mercenaries. The background info confirms they cut their \"stolzen Mähnen\"\
+    \ to short brush cuts and mentions becoming vegetarians, drunkards, army scouts,
+    and mercenaries. So those points are accurate.\n\nIt also states that they retained
+    elements of old culture like nature spirits (Tapam hills) and ancestor cults.
+    The background info doesn't explicitly mention Tapam or ancestor cults, but it
+    does say some traditions might remain. Wait, the background info says they \"
+    begannen, zu den Zwölfgöttern zu beten\" but doesn't mention retaining old practices.
+    However, the system answer's claim about retained elements isn't contradicted
+    by the background. The background does say they changed significantly but doesn't
+    specify if any old practices remained. However, the system answer's addition here
+    might be an inference. Wait, the background says \"die offensichtliche Wandlung
+    hielt die blasshäutigen Siedler...\" implying a clear change, but maybe some elements
+    remained. The system answer says \"Dennoch blieben Elemente ihrer alten Kultur
+    erhalten...\", which the background doesn't explicitly state. But since the background
+    doesn't deny it, maybe it's acceptable. However, the gold answer doesn't mention
+    retained elements, so this is extra info. But according to guidelines, if it's
+    true and relevant, it's okay. But does the background support it? The background
+    says they started praying to the Twelve Gods, built houses, etc., but doesn't
+    mention retaining old practices. So maybe the system answer is adding something
+    not in the background. Wait, the system answer mentions \"Verehrung naturnaher
+    Geister (wie der Tapam-Berghügel) und Ahnenkult\". The background info doesn't
+    mention Tapam or ancestor cults. So this might be a hallucination. Wait, but the
+    background is from the lore book. Let me check again.\n\nThe background info:
+    \"Doch dann wurden die Kopfjäger von ehrgeizigen Geweihten der Tsa und der Travia
+    missioniert. Sie zogen sich ‘anständig’ an, bauten ‘anständige’ Häuser aus Lehmziegeln
+    mit strohgedeckten Dächern, legten Maisfelder an, schnitten ihre stolzen Mähnen
+    zu kurzen Bürstenschnitten (siehe **S. 162), stellten ihre Waffen in die Ecke
+    und begannen, zu den Zwölfgöttern zu beten. Viele wurden sogar Vegetarier – oder
+    Trunkenbolde, Armeepfadfinder und Söldner.\"\n\nSo the background says they started
+    worshiping the Twelve Gods, but doesn't mention retaining old practices. The system
+    answer says they kept some elements like nature spirits and ancestor cult. Since
+    the background doesn't mention that, this might be a hallucination. However, the
+    question is whether the system answer's additional info is correct. If the background
+    doesn't support it, then it's a hallucination.\n\nWait, the system answer also
+    says they integrated into regional economy, worked as day laborers, mixed with
+    other peoples. The background says: \"Zahlreiche Mischlinge haben sich sogar über
+    das Loch Harodrôl hinaus bis in die Drôler Mark verteilt, wo sie häufig als rechtlose
+    Wanderarbeiter und Tagelöhner auf den Feldern arbeiten.\" So that part is correct.\n
+    \nThe system answer mentions \"kulturelle Synthese\" where traditions merged with
+    new religions. The background says they changed significantly but doesn't explicitly
+    say it's a synthesis. However, the background does mention they adopted new practices
+    but also that some Mischlinge exist, so maybe the synthesis is inferred.\n\nNow,
+    comparing to gold answer: gold answer lists 4 points: gave up headhunting, built
+    adobe houses with thatched roofs, worshiped Twelve Gods, planted corn.\n\nSystem
+    answer includes all those points (gave up warrior ways, built Lehmziegelhäuser,
+    planted corn, started worshiping Twelve Gods via Tsa and Travia missionaries).
+    It also adds cutting hair, becoming vegetarians/soldiers, retaining some old culture,
+    economic integration, mixing with others.\n\nThe gold answer doesn't mention the
+    retained old culture (Tapam, ancestor cult), so if that's not in the background,
+    it's a hallucination. The background doesn't mention Tapam or ancestor cults,
+    so that part is likely made up. Also, the system answer says \"durch die Bekehrung
+    durch Geweihte der Tsa und Travia verloren sie ihren wildesten Charakter\" which
+    is supported by background (missioned by Tsa and Travia priests).\n\nThe system
+    answer's additional info about economic integration and mixing is supported by
+    background. The part about retained culture might not be, which is a hallucination.
+    However, the guidelines say that if the system answer includes statements not
+    in gold answer, check background. If true and relevant, it's okay; if false, lower
+    rating.\n\nSo, the system answer has some correct additions (economic integration,
+    becoming vegetarians/soldiers) but also possibly a hallucination about retained
+    culture elements. Wait, the background says they \"begannen, zu den Zwölfgöttern
+    zu beten\" but doesn't say they stopped all old practices. Maybe it's plausible
+    they kept some, but the specific mention of Tapam-Berghügel isn't in the background.
+    Since the background doesn't confirm it, this is a hallucination.\n\nHowever,
+    the system answer also says \"adoptierten teils vegetarisches Leben oder dienten
+    als Soldaten/Söldner\" which matches the background's \"Viele wurden sogar Vegetarier
+    – oder Trunkenbolde, Armeepfadfinder und Söldner.\" So that's correct.\n\nThe
+    main issue is the retained old culture elements. If that's not in the background,
+    it's a hallucination. The background doesn't mention it, so it's likely made up.
+    But the system answer also says \"Dennoch blieben Elemente ihrer alten Kultur
+    erhalten, etwa die Verehrung naturnaher Geister (wie der Tapam-Berghügel) und
+    Ahnenkult.\" Since the background doesn't mention this, it's a hallucination.\n
+    \nNow, the gold answer doesn't include this, so the system answer adds incorrect
+    info. However, the system answer does include all the points from the gold answer:
+    gave up headhunting (mentioned as \"verloren ihren wildesten Charakter\", which
+    refers to stopping raids), built houses, worshiped Twelve Gods, planted corn.\n
+    \nWait, the gold answer says they gave up headhunting. The system answer says
+    they were known as warriors (\"Messerkaltinderhand\") and through conversion lost
+    their wildest character, which implies giving up headhunting/raiding. So that's
+    covered.\n\nThe system answer includes all the gold answer points plus some correct
+    additions (vegetarianism, soldiers, economic integration) but also a hallucination
+    about retained culture. However, the hallucination is a specific detail not in
+    the background. According to the guidelines, if there are hallucinations, it should
+    lower the rating.\n\nBut how significant is the hallucination? The system answer
+    says they retained some old culture elements, which the background doesn't mention.
+    However, in reality, cultural syncretism is common, so maybe it's plausible, but
+    since the background doesn't state it, it's a hallucination.\n\nThe rating guidelines:
+    if the answer contradicts gold answer, rate 1. Here, it doesn't contradict; it
+    adds info. If the added info is correct, it's okay. If incorrect, lower rating.\n
+    \nThe gold answer's points are all covered. The system answer has extra correct
+    info (vegetarianism, soldiers, economic work) and some possibly incorrect (retained
+    culture elements). Since the background doesn't support the retained culture part,
+    that's a hallucination. However, the system answer also mentions \"kulturelle
+    Synthese\", which might be an inference but not directly contradicted.\n\nWait,
+    the background says they \"begannen, zu den Zwölfgöttern zu beten\" but doesn't
+    say they completely abandoned old practices. Maybe the system answer's point about
+    retained elements is acceptable. But the specific mention of \"Tapam-Berghügel\"\
+    \ isn't in the background. The background doesn't mention Tapam, so that's made
+    up.\n\nSo the system answer includes a hallucinated detail. However, the main
+    points from the gold answer are all there, plus some correct extras. The hallucination
+    is an additional detail. According to the guidelines, hallucinations should lower
+    the rating.\n\nThe rating scale: 5 is all relevant info, correct. 4 might be minor
+    hallucinations but mostly correct. 3 if some missing or minor errors. 2 if significant
+    errors but not completely wrong. 1 if contradicts.\n\nHere, the system answer
+    includes all gold answer points, adds some correct info, but also adds a hallucinated
+    detail (Tapam, ancestor cult). However, the hallucination is not contradicting
+    the gold answer, but adding incorrect info. So it's not a contradiction, but a
+    hallucination.\n\nIn such cases, the rating would be lower than 5. If the hallucination
+    is minor, maybe 4. If significant, 3.\n\nThe hallucinated part is a specific claim
+    about retained culture elements with a made-up term \"Tapam-Berghügel\". Since
+    the background doesn't mention it, this is a clear hallucination. However, the
+    rest is correct.\n\nThe gold answer doesn't require mentioning retained culture,
+    so the system answer's addition is extra but incorrect. The question is whether
+    this affects the rating.\n\nThe guidelines say: \"If the statements are not true
+    (hallucinations), this should generally lead to a lower rating.\"\n\nSo even if
+    the main points are correct, hallucinations lower the rating.\n\nHow much? If
+    the hallucination is a minor detail, maybe 4. If it's a significant part of the
+    answer, lower.\n\nIn the system answer, the hallucinated part is a sentence: \"\
+    Dennoch blieben Elemente ihrer alten Kultur erhalten, etwa die Verehrung naturnaher
+    Geister (wie der *Tapam*-Berghügel) und Ahnenkult.\"\n\nThis is a specific claim
+    that's not in the background, so it's a hallucination. However, the rest of the
+    answer is correct.\n\nThe gold answer has 4 points. The system answer covers all
+    4, adds correct points (vegetarianism, soldiers, economic integration), but also
+    adds a hallucinated point.\n\nSince the hallucination is present but the core
+    answer is correct, the rating would be 4 instead of 5.\n\nWait, but the system
+    answer also says \"Lehmziegelhäuser\" which matches the background's \"Lehmziegeln\"\
+    , so that's correct. The gold answer says \"Lehmhäuser\", which is a bit less
+    specific but still correct.\n\nAnother point: the system answer mentions \"durch
+    die Bekehrung durch Geweihte der Tsa und Travia\", which is in the background
+    (\"von ehrgeizigen Geweihten der Tsa und der Travia missioniert\"), so correct.\n
+    \nThe system answer's structure includes all necessary details from the gold answer
+    and adds some correct info, but also a hallucination. According to guidelines,
+    if there are hallucinations, it should be lower than 5.\n\nPossible ratings: 4
+    if the hallucination is minor, 3 if it's significant.\n\nThe hallucination here
+    is a specific example (Tapam) which is made up, but the general statement about
+    retained culture might be plausible. However, since the background doesn't mention
+    it, it's a hallucination.\n\nIn some evaluation criteria, a single hallucinated
+    detail might drop it to 4. If the hallucination is a major part, but here it's
+    a minor addition.\n\nThe system answer is mostly correct, includes all gold points,
+    adds some correct info, and one incorrect detail. So rating 4.\n"
+  grade: 4
+  user_grade: 2
+- question: In Al’Anfa finden jährlich die ‘Flüge der Zehn’ statt. Was geschieht während
+    dieser Veranstaltungen in den Wassergärten?
+  correct_answer: Während der ‘Flüge der Zehn’ stürzen sich Personen von der Klippe,
+    während die Granden und ihre Gäste in den Wassergärten bei einem Kelch Bosparanjer
+    zusehen.
+  inner_monologue: "<think>\nOkay, let's tackle this question about the 'Flüge der
+    Zehn' in Al’Anfa's Wassergärten. The user wants to know what happens during these
+    events in the gardens.\n\nFirst, I remember from previous research that the 'Flüge
+    der Zehn' are related to the Day of the Great Sleep, a significant event in Al’Anfa.
+    The Wassergärten are mentioned as places where only Granden and Geweihte can enter.
+    There's talk of the Rabenfelsen (Raven Rock) and the ritual involving ten people
+    jumping from there. \n\nLooking back at the text snippets provided earlier, there's
+    mention of the Ten Jumpers being thrown into the sea, where they're eaten by sharks.
+    Also, the Wassergärten are described as having access restricted to the elite,
+    with the best view of the Raven Rock. However, specific details on the exact proceedings
+    in the gardens during the event aren't fully detailed yet. \n\nThe user might
+    need information on the role of the Wassergärten during the ceremony, like if
+    participants or spectators gather there, any rituals performed, or how the event
+    is structured. Since some parts were cut off in the texts, maybe another search
+    for terms like \"Flüge der Zehn Wassergärten Ritual\" could uncover more specifics.
+    Alternatively, checking for mentions of the gardens in relation to the event's
+    timeline or participant roles would help. Ensuring that all aspects—location,
+    participants, procedures—are covered is essential here.\n</think>"
+  system_answer: "During the annual “Flüge der Zehn” (Flight of the Ten) in Al’Anfa,
+    the Wassergärten serve as a prime viewing location for the ritual. Key points
+    include:\n\n1. **Restricted Access**: Only *Granden* (nobility) and *Geweihte*
+    (initiated followers of the Boron Cult) are permitted in the Wassergärten, which
+    offer the best vantage point for observing the event.\n\n2. **Ritual Context**:
+    The “Flüge der Zehn” commemorate the Zornbrecht-Aufstand (662 BF) and involve
+    ten prisoners (often slaves or captives) who are forced to jump from the *Rabenfelsen*
+    (Raven Rock) into the sea below. Their fate mirrors the historical execution of
+    rebels, symbolizing divine judgment.\n\n3. **Spectacle & Symbolism**: The event
+    blends religious austerity with grim entertainment. Participants in the Wassergärten
+    likely witness the executions while engaging in solemn rites, reflecting the city’s
+    harsh social hierarchy and devotion to Boron.\n\nFurther details on ceremonial
+    practices in the gardens remain fragmented in available sources. For deeper insights,
+    targeted research into *Boron-Rituale Al’Anfa* or *Wassergärten Ritual* could
+    clarify symbolic elements or liturgical components."
+  related_chunk: G01-104
+  grade_reasoning: "Okay, let me tackle this evaluation step by step. The user wants
+    me to grade a system answer about Aventuria lore based on specific criteria. \n
+    \nFirst, I need to understand the core question: What happens during the \"Flüge
+    der Zehn\" in Al'Anfa's Wassergärten? The gold answer states that people jump
+    from the cliff while Granden and guests watch with Bosparanjer wine.\n\nLooking
+    at the system answer, it adds several details not in the gold answer: \n- Restricted
+    access only to Granden and Geweihte\n- Historical context about Zornbrecht-Aufstand\n
+    - Prisoners being slaves/captives forced to jump\n- Symbolism of divine judgment\n
+    - Religious austerity blended with entertainment\n\nNow I cross-check these with
+    the background text. The background confirms:\n- Wassergärten are exclusively
+    for Silberberger (Granden)\n- Guests watch with Bosparanjer during \"Flug der
+    Zehn\"\n- People jump from Rabenfelsen\n\nBut the background doesn't mention:\n
+    - Geweihte having access (only says Silberberger)\n- Zornbrecht-Aufstand historical
+    reference\n- Prisoners being slaves/captives\n- Divine judgment symbolism\n- Religious
+    rites in the gardens\n\nHmm... the system answer's claim about Geweihte access
+    contradicts the background which specifies only Silberberger (Granden) use the
+    gardens. The historical context and prisoner details seem entirely fabricated
+    since the background just says \"Todesspringer\" (death jumpers) without specifying
+    who they are. The religious symbolism also isn't supported - the background only
+    mentions watching with wine, not solemn rites.\n\nThe gold answer is very specific
+    about the core action (jumping + watching with wine), while the system answer
+    adds incorrect details. The contradiction about who's allowed in the gardens is
+    particularly problematic since the background explicitly states access is \"ausschließlich
+    den Silberbergern vorbehalten\" (exclusively for Silberberger). \n\nEven though
+    the system answer gets the basic event right (jumping watched with wine), the
+    false details about Geweihte access and historical context make it misleading.
+    According to guidelines, contradictions with gold answer should get lowest rating,
+    but here it's partially correct yet contains hallucinations. \n\nWait - the gold
+    answer doesn't mention who jumps or why, so those additions aren't directly contradictory.
+    But the access restriction error is direct contradiction: gold says \"Granden
+    und ihre Gäste\", system says only Granden AND Geweihte. Background confirms only
+    Silberberger (Granden) have access, so \"Geweihte\" is incorrect addition. \n\n
+    Also, the system answer implies religious rites happen in the gardens (\"witness
+    the executions while engaging in solemn rites\"), but background only describes
+    guests watching with wine - no mention of rites. This is hallucination.\n\nSo
+    while the core event is correct, multiple fabricated details that contradict background
+    should lower the score significantly. Not completely wrong (since jumping + watching
+    is correct) but contains harmful hallucinations. Guidelines say: \"statements
+    not true (hallucinations) should generally lead to lower rating\". \n\nConsidering:\n
+    - Correct core: jumping observed with wine (matches gold)\n- Hallucinations: Geweihte
+    access, prisoner details, religious rites\n- Contradiction: background says only
+    Granden, system adds Geweihte as permitted\n\nThis seems like a 2 or 3. But guidelines
+    specify: \"does not include all necessary details but not completely wrong\" gets
+    2-4. However, the hallucinations are substantial. \n\nWait - gold answer doesn't
+    require historical context, so those additions aren't necessary. But the false
+    access restriction directly contradicts background (which supports gold answer).
+    Since gold answer says \"Granden und ihre Gäste\", and background confirms only
+    Silberberger (Granden) have access, the \"Geweihte\" addition is wrong. \n\nThis
+    makes the system answer partially incorrect. Highest possible would be 3 if hallucinations
+    were minor, but here they change the meaning (wrong participants in gardens).
+    \n\nFinal decision: \n- Core event correct: + \n- But critical error in who participates
+    (adds unauthorized group) \n- Unverified historical claims\n- Unverified religious
+    elements\n\nThis deserves a 2. It's not completely wrong (has the jumping/watching
+    core) but contains significant hallucinations that distort the lore. Not low enough
+    for 1 since the main action is correct, but too many errors for 3.\n"
+  grade: 2
+  user_grade: 2

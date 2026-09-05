@@ -1,0 +1,714 @@
+- question: Welche Gottheiten werden in Al’Anfa am häufigsten verehrt?
+  correct_answer: In Al’Anfa werden die Zwölfgötter am häufigsten verehrt, wobei ein
+    besonderer Schwerpunkt auf Boron liegt.
+  inner_monologue: "<think>\nFirst, I need to go through what I already know about
+    the user's request. They want to know which gods are most commonly worshipped
+    in Al'Anfa. From the initial research on \"Al'Anfa,\" there was information about
+    the religious landscape, mentioning that 90% of the population follows the Twelve
+    Gods with a focus on Boron. There's also mention of other religions like Kor,
+    Rastullah, and others.\n\nLooking at the second tool call regarding \"Religion
+    Al'Anfa,\" the text mentions the dominance of the Twelve Gods, particularly Boron.
+    It also notes the presence of Rastullah, especially among certain groups like
+    the Aramyas. However, it seems like the specific details about the frequency of
+    worship for each deity aren't fully detailed. For example, while Boron is highlighted
+    as central, the exact ranking or percentages for other deities like Ra, Loh, etc.,
+    might not be clear from the given texts.\n\nSince the user asked for the most
+    frequently revered gods, I should check if there's more detailed data available.
+    The current excerpts don't provide explicit rankings beyond the 90% figure for
+    the Twelve Gods overall. To ensure completeness, I might need to perform another
+    search focusing specifically on the hierarchy or prevalence of individual deities
+    within Al'Anfa's religion. This could involve looking into sub-sections about
+    specific gods or additional sources that discuss their popularity. Since my existing
+    knowledge isn't sufficient, using the research tool again would help gather precise
+    information needed to answer accurately.\n</think>"
+  system_answer: "In Al’Anfa wird der Zwölfgötterglaube dominiert von **Boron**, dem
+    „Götterkönig“ der alanfanischen Tradition. Weitere bedeutende Gottheiten sind:\n
+    \n- **Ra** (Verbindung zur Sonne und Reinheit)  \n- **Loh** (Wachstum und Fruchtbarkeit)\
+    \  \n- **Peraine** (Gottheit der Feldfrucht und Bauerntum, sehr populär im ländlichen
+    Raum)  \n- **Firun** (Jagdgott, bevorzugt in adeligen Kreisen)  \n\nDer **Rastullah-Glaube**
+    ist weniger verbreitet, aber in bestimmten Regionen (wie Yaquirtal) stark vertreten.
+    Die **Kor-Verehrung** sowie **Marbo** und **Gror** spielen eine minoritärende
+    Rolle. Aus den Texten geht hervor, dass Boron und Peraine die höchste Präsenz
+    besitzen, wobei Boron als zentraler religiöser Ankerpunkt der Stadt fungiert.
+    Eine genauere Rangfolge einzelner Gottheiten könnte tiefere Recherchen erforderlich
+    machen. \n\nFür präzise Statistiken oder hierarchische Rankings würde eine zusätzliche
+    Suche nötig sein. Möchten Sie, dass ich dies tue?"
+  related_chunk: G01-096
+  grade_reasoning: "Okay, let's see. The question is asking which deities are most
+    commonly worshipped in Al'Anfa.\n\nThe gold answer says that the Twelve Gods are
+    the most worshipped, with a particular emphasis on Boron.\n\nThe system answer
+    mentions the Twelve Gods being dominated by Boron, which matches the gold answer.
+    Then it lists other deities like Ra, Loh, Peraine, Firun. It also mentions Rastullah,
+    Kor, Marbo, and Gror as less prominent.\n\nLooking at the background info, under
+    \"Vorherrschende Religion\" it says 90% follow the Twelve Gods with a focus on
+    Boron. The other percentages are 5% Kor, 3% Rastullah, 2% others. So the main
+    point is the Twelve Gods, especially Boron.\n\nThe system answer lists specific
+    gods from the Twelve (like Peraine, Firun) which are part of the Twelve, so that's
+    correct. However, Ra and Loh aren't part of the Twelve Gods in Aventurian lore.
+    Wait, the Twelve Gods are a specific pantheon in Aventuria: Praios, Rondra, Efferd,
+    Travia, Boron, Hesinde, Firun, Tharguniton, Peraine, Ingerimm, Rahja, and Phex.
+    So Ra and Loh aren't part of them. The system answer incorrectly includes Ra and
+    Loh as part of the Twelve Gods in Al'Anfa. That's a hallucination.\n\nWait, the
+    background info says the main religion is the Twelve Gods (Zwölfgötterglaube)
+    with focus on Boron. The system answer says \"Zwölfgötterglaube dominiert von
+    Boron\", which is correct, but then lists Ra and Loh as additional deities. However,
+    Ra and Loh aren't part of the Twelve. So including them as part of the main worship
+    in Al'Anfa is wrong. The background info lists other temples like Kor, Marbo,
+    Levthan, Rur, Gror, but Ra and Loh aren't mentioned. So the system answer added
+    incorrect deities.\n\nBut wait, in the background info under Tempel: \"Boron und
+    alle anderen Zwölfgötter, Kor, Marbo, Levthan (geheim), Rur und Gror\". So the
+    Twelve Gods are all present, but Ra and Loh aren't part of them. So the system
+    answer's inclusion of Ra and Loh is a mistake. Ra is actually part of the Horasian
+    pantheon, not Aventurian. Loh might be a typo for another god, but in standard
+    Aventurian lore, the Twelve are specific.\n\nTherefore, the system answer has
+    hallucinated Ra and Loh as being worshipped in Al'Anfa, which they aren't. However,
+    it correctly identifies Boron as the main one and mentions Peraine and Firun,
+    which are part of the Twelve. The gold answer only mentions the emphasis on Boron,
+    but the system answer adds more details, some correct (Peraine, Firun) but some
+    incorrect (Ra, Loh).\n\nThe gold answer says \"Zwölfgötter am häufigsten verehrt,
+    wobei ein besonderer Schwerpunkt auf Boron liegt.\" So the main point is the Twelve
+    Gods with Boron emphasized. The system answer does state that, but adds extra
+    info. The incorrect parts (Ra, Loh) are hallucinations, which should lower the
+    score.\n\nBut how much does that affect the rating? The system answer does include
+    the correct main point (Twelve Gods with Boron focus), but adds incorrect deities.
+    The gold answer doesn't list other gods, but the question is about which are most
+    commonly worshipped. The background says 90% Twelve Gods, so the main answer is
+    correct. However, the system answer incorrectly lists Ra and Loh as part of the
+    main worship, which they aren't. So those are factual errors.\n\nThe guidelines
+    say if there are hallucinations, it should lower the rating. Since the answer
+    includes false information, even though the main point is correct, it's not a
+    5. The gold answer is concise and correct. The system answer has extra correct
+    info (Peraine, Firun) but also incorrect (Ra, Loh). So it's partially correct
+    but with hallucinations.\n\nPossible rating: 3 or 4. But since there are clear
+    hallucinations (Ra, Loh not being part of the Twelve), which are significant errors,
+    maybe a 3. However, the main point is correct. Let's check the guidelines again.\n\
+    \n\"A system answer that does not include all necessary details given in the gold
+    answer but is not completely wrong as well should get a rating between 2 and 4.\"\
+    \n\nWait, the gold answer doesn't list other gods, just says Zwölfgötter with
+    focus on Boron. The system answer includes more details, some correct (Peraine,
+    Firun are part of Zwölfgötter) but some incorrect (Ra, Loh). So the additional
+    correct info is okay, but the hallucinations are bad.\n\nThe guidelines say: \"\
+    If the statements are not true (hallucinations), this should generally lead to
+    a lower rating.\"\n\nSo even though the main answer is correct, the presence of
+    hallucinations would lower it. The highest rating is 5 for including all relevant
+    info. Since there are hallucinations, it can't be 5. If it had only correct additional
+    info, maybe 5, but here there are errors.\n\nHow severe are the hallucinations?
+    Ra and Loh are not part of the Aventurian pantheon, so that's a clear mistake.
+    The system answer presents them as part of the main worship in Al'Anfa, which
+    is wrong. So this is a significant error.\n\nBut the system answer does correctly
+    state the main point (Zwölfgötter with Boron focus). So it's not completely wrong
+    (which would be rating 1), but has some errors. The question is whether the hallucinations
+    are major enough to drop it to 3 or 4.\n\nThe gold answer is very concise. The
+    system answer adds more, but some wrong. The background info confirms that Zwölfgötter
+    are 90%, with Boron focus. The system answer correctly identifies Boron as dominant,
+    and mentions other Zwölfgötter (Peraine, Firun) which are correct. However, Ra
+    and Loh are not part of the Zwölfgötter, so including them as \"weitere bedeutende
+    Gottheiten\" under the Zwölfgötterglaube is wrong. Wait, the system answer says
+    \"Weitere bedeutende Gottheiten sind: Ra, Loh, Peraine, Firun\". But Ra and Loh
+    aren't part of the Zwölfgötter, so listing them as part of the main worship (which
+    is Zwölfgötter) is incorrect. The other religions are Kor (5%), Rastullah (3%),
+    etc. So Ra and Loh aren't mentioned in the background, so they shouldn't be there.\n
+    \nTherefore, the system answer has two hallucinated deities (Ra, Loh) presented
+    as part of the main worship, which is incorrect. However, Peraine and Firun are
+    correctly part of the Zwölfgötter. The system answer also correctly mentions Rastullah
+    and Kor as less prevalent.\n\nSo the answer has both correct additional info and
+    some hallucinations. The presence of hallucinations should lower the score. The
+    question is how much.\n\nThe guidelines say a contradiction gets 1, but this isn't
+    a contradiction—it's mostly correct but with some errors. So probably a 3 or 4.\n
+    \nIf the hallucinations are significant but the main answer is correct, maybe
+    3. If the hallucinations are minor, maybe 4. But Ra and Loh are major errors because
+    they're not part of the pantheon. In Aventurian lore, the Twelve Gods are a specific
+    set, so adding others as part of the main worship is wrong.\n\nThe system answer
+    says \"Zwölfgötterglaube dominiert von Boron\", which is correct, but then lists
+    Ra and Loh as part of the \"weitere bedeutende Gottheiten\" under that same context.
+    Since Ra and Loh aren't part of the Twelve, this is incorrect. So the answer mixes
+    correct and incorrect info.\n\nThe gold answer only mentions the emphasis on Boron
+    within the Twelve Gods. The system answer correctly states that but adds incorrect
+    deities. So the core answer is correct, but extra info has errors.\n\nIn such
+    cases, the rating might be 3 because of the hallucinations, even though the main
+    point is right. Alternatively, if the hallucinations are considered significant
+    enough to mislead, it's a 3. If the main point is correct and the extra info is
+    partially wrong but not central, maybe 4.\n\nWait, the question is \"Welche Gottheiten
+    werden in Al’Anfa am häufigsten verehrt?\" So the most commonly worshipped. The
+    answer should list the main ones. The gold answer says Zwölfgötter with focus
+    on Boron. The system answer says Zwölfgötter dominated by Boron, then lists several
+    gods, including non-Twelve ones as part of the main worship.\n\nSince Ra and Loh
+    aren't part of the Zwölfgötter, including them as \"weitere bedeutende Gottheiten\"\
+    \ in the context of the main worship (which is Zwölfgötter) is wrong. So the system
+    answer is stating that Ra and Loh are among the most commonly worshipped, which
+    they aren't. That's a factual error.\n\nTherefore, the answer has incorrect information
+    that affects the accuracy. So the rating should be lower. Since the main point
+    (Boron within Zwölfgötter) is correct, but additional wrong info is present, it's
+    not a 5. It's not a 1 because it's not contradicting the gold answer entirely.
+    The gold answer doesn't list other gods, but the question is about which are most
+    commonly worshipped. The system answer lists some correct (Peraine, Firun) and
+    some incorrect (Ra, Loh) as part of the main group.\n\nIn the background, it's
+    90% Zwölfgötter, so all Twelve are worshipped, but the emphasis is on Boron. The
+    other gods in the Twelve are present but not as emphasized. The system answer
+    correctly notes Peraine and Firun as part of the Twelve, which is accurate. However,
+    Ra and Loh are not part of the Twelve, so their inclusion is wrong.\n\nSo the
+    answer has two correct additional deities (Peraine, Firun) and two incorrect (Ra,
+    Loh). The presence of hallucinations (Ra, Loh) would lower the score. How much?\n
+    \nThe guidelines say if there are hallucinations, it should lower the rating.
+    The highest possible with hallucinations would be 4 if the hallucinations are
+    minor, but here they are significant.\n\nGiven that, maybe a 3. Because the answer
+    is partially correct but includes false information that could mislead someone
+    about which gods are actually worshipped there.\n\nAlternatively, if the system
+    answer had only correct info beyond the gold answer, it would be a 5. But since
+    it has errors, it's lower.\n\nAnother angle: the gold answer is concise, but the
+    system answer provides more detail, some correct, some not. The question is whether
+    the additional correct info (Peraine, Firun) compensates for the errors. But since
+    the errors are present, the rating can't be 5. If the errors are significant,
+    it's a 3. If minor, 4.\n\nGiven that Ra and Loh are not part of the Aventurian
+    pantheon at all (they're from other mythologies), this is a clear hallucination.
+    So the answer is factually incorrect in parts. Therefore, the rating should be
+    3.\n"
+  grade: 3
+  user_grade: 2
+- question: Welche Familie übt die uneingeschränkte Herrschaft über die Menschen in
+    der Stadt H’Rabaal aus?
+  correct_answer: Die Familie der Charazzar herrscht uneingeschränkt in H’Rabaal.
+  inner_monologue: "<think>\nFirst, I need to go through what I already know about
+    the user's request. The question is asking which family exercises unlimited authority
+    over the people in the city of H’Rabaal. From the initial research on \"H'Rabaal,\"\
+    \ there's mention that the Charazzar family holds power. Specifically, it states,
+    \"die Familie der Charazzar (unter dem alten ‘König’ Azzaph) herrscht uneingeschränkt
+    unter den Menschen.\" This translates to the Charazzar family, under the old 'King'
+    Azzaph, rules absolutely among the humans.\n\nAdditionally, further details from
+    researching \"Charazzar\" confirm this, mentioning that the family has been in
+    control for centuries and their influence extends into the region. They have a
+    strict plantation and mining economy, and they maintain close ties with the reptiles,
+    which adds to their power dynamics in the area.\n\nThe text notes that even though
+    the family might not hold the official title anymore due to alliances with Brabak,
+    they still act as kings, indicating their continued dominance. There's no other
+    family mentioned as having such unchecked rule over the human population in H’Rabaal.
+    Therefore, based on the information retrieved, the answer should directly point
+    to the Charazzar family without needing additional searches.\n</think>"
+  system_answer: Die Familie der **Charazzar** übt die uneingeschränkte Herrschaft
+    über die Menschen in H’Rabaal aus. Sie regieren seit langer Zeit, unterstützt
+    durch ihre Kontrolle über Plantagen, Minen und enge Verbünde mit den Echsen. Obwohl
+    sie offiziell keinen Königstitel tragen, verhalten sie sich trotzdem als solche,
+    insbesondere unter den menschlichen Bewohnern der Stadt.
+  related_chunk: G01-327
+  grade_reasoning: "Okay, let's see. The question is asking which family exercises
+    unrestricted rule over the people in the city of H'Rabaal.\n\nThe gold answer
+    says it's the Charazzar family. The system answer also states that the Charazzar
+    family holds unrestricted rule, which matches the gold answer. But the system
+    answer adds more details: they've ruled for a long time, control plantations and
+    mines, have alliances with the lizards (Achaz), and even though they don't have
+    a king title, they act like one, especially among the human inhabitants.\n\nNow,
+    checking the background info. The background states: \"Die Familie der Charazzar
+    (unter dem alten ‘König’ Azzaph) herrscht uneingeschränkt unter den Menschen.\"\
+    \ So the Charazzar family does rule unrestrictedly under the old 'King' Azzaph.
+    The background also mentions that there are Achaz in the area (5% of the population
+    plus 1600 Achaz in the surroundings), and the relationship between humans and
+    Achaz has worsened. The city has Achaz-Tempelwachen (temple guards). The background
+    mentions plantations and mines? Wait, the background info says \"Unterstützt durch
+    ihre Kontrolle über Plantagen, Minen...\" Wait no, the system answer mentions
+    plantations and mines, but looking at the background provided here: the background
+    info under \"Besonderheiten\" talks about ancient ruins, pyramids, etc., but doesn't
+    explicitly mention plantations or mines. Wait, the background info given here
+    is:\n\n\"Herrschaft/Politik: Die Familie der Charazzar (unter dem alten ‘König’
+    Azzaph) herrscht uneingeschränkt unter den Menschen.\"\n\nThen under \"Besonderheiten\"\
+    \ it says: \"Überall in und um H’Rabaal liegen archaische Zeugnisse der Echsenzeit...
+    Es gibt hier keine Herbergen. Die Napewanha, Waldmenschen des Umlandes, fürchten
+    und meiden die Stadt.\"\n\nWait, the system answer says \"unterstützt durch ihre
+    Kontrolle über Plantagen, Minen und enge Verbünde mit den Echsen.\" But the background
+    info provided here doesn't mention plantations or mines. Wait, the background
+    info given in the problem statement for this specific case is:\n\n#### H’Rabaal
+    für den eiligen Leser\nEinwohner: um 1.100 (10 % Waldmenschen, 5 % Achaz), zusätzlich
+    noch etwa 1.600 Achaz und 200 Ziliten in den Sümpfen der Umgebung \nWappen: schwarze
+    Panzerkröte auf grün \nHerrschaft/Politik: Die Familie der Charazzar (unter dem
+    alten ‘König’ Azzaph) herrscht uneingeschränkt unter den Menschen. \nGarnisonen:
+    20 Stadtgardisten, 1 Lanze Königlich Brabaker Hellebardiere, einige Achaz-Tempelwachen
+    \nTempel: Chr’Ssir’Ssr, Hesinde, H’Szint, Kha, Tsa / Zsahh, weitere Tempel im
+    Tempelbezirk vermutet \nBesonderheiten: Überall in und um H’Rabaal liegen archaische
+    Zeugnisse der Echsenzeit: Die Tempelstadt ist größtenteils vom Urwald überwuchert
+    oder vom Sumpf verschlungen. Doch ein halbes Dutzend Pyramiden sind noch gut sichtbar,
+    manche altenHäuser wurden in viele Schritt hohen Panzern ausgestorbener Riesenschildkröten
+    erbaut. Es gibt hier keine Herbergen. Die Napewanha, Waldmenschen des Umlandes,
+    fürchten und meiden die Stadt. \nStimmung in der Stadt: Die H’Rabaaler pflegen
+    obskure alte Sitten und sind eigenbrötlerisch oder sogar abweisend allen Fremden
+    gegenüber, wenn nicht ein Charazzar es anders anordnet. Das Verhältnis zwischen
+    Menschen und Achaz der Umgebung ist in den letzten Jahren immer schlechter geworden.
+    \nWas die H’Rabaaler über ihre Stadt denken: Hier verbinden sich Vergangenheit
+    und Gegenwart zu etwas Besserem. Diese Stadt hat ihre eigenen Geheimnisse. Rtak
+    tzrtech H’Rabaalak ensch Zzzs.\n\nSo, in the background info, under Herrschaft/Politik,
+    it's stated that Charazzar rules unrestrictedly under the old 'King' Azzaph. The
+    system answer says they rule without restriction, which matches. The system answer
+    adds that they control plantations, mines, and have alliances with the lizards
+    (Echsen). But in the background info, there's no mention of plantations or mines.
+    Wait, the background mentions \"Achaz-Tempelwachen\" (Achaz temple guards), and
+    the population includes Achaz. The system answer says \"enge Verbünde mit den
+    Echsen\" (close alliances with the lizards). The Achaz are a race of lizard-like
+    beings in Aventuria, so \"Echsen\" here refers to Achaz. The background info says
+    the relationship between humans and Achaz has worsened, but the system answer
+    says they have close alliances. Wait, that's a contradiction.\n\nWait, the background
+    states: \"Das Verhältnis zwischen Menschen und Achaz der Umgebung ist in den letzten
+    Jahren immer schlechter geworden.\" So relations between humans and Achaz have
+    worsened. But the system answer says \"enge Verbünde mit den Echsen\" (close alliances
+    with the lizards/Achaz). That's conflicting. So the system answer is saying they
+    have close alliances, but the background says relations have worsened. So that
+    part is incorrect.\n\nAlso, the system answer mentions \"Kontrolle über Plantagen,
+    Minen\" but the background doesn't mention plantations or mines. So those are
+    hallucinations.\n\nHowever, the main point of the question is which family rules,
+    and the system answer correctly identifies Charazzar. But it adds incorrect information
+    about alliances with Achaz (since relations are bad) and mentions plantations/mines
+    which aren't in the background.\n\nSo the gold answer is just \"Die Familie der
+    Charazzar herrscht uneingeschränkt in H’Rabaal.\" The system answer gets the main
+    point right but adds incorrect details. According to the guidelines: if the system
+    answer includes statements not in the gold answer, check if they're true (using
+    background). If they're false, that lowers the rating.\n\nThe system answer says
+    \"enge Verbünde mit den Echsen\" but background says relations are worse, so that's
+    false. Also, plantations and mines aren't mentioned in the background, so those
+    are hallucinations.\n\nBut the main answer is correct. The question is specifically
+    about which family rules, so the extra info is additional. However, since some
+    of the extra info is incorrect, does that affect the rating?\n\nThe guidelines
+    say: \"A system answer that includes all relevant information to answer the question
+    should get the highest rating (5)\". The relevant info here is the family name.
+    The system answer includes that, but adds incorrect details. However, the question
+    is only asking for the family, so maybe the extra info, even if wrong, doesn't
+    make the answer wrong, but since it's incorrect, it's a hallucination.\n\nBut
+    the guidelines also say: \"If the statements are not true (hallucinations), this
+    should generally lead to a lower rating.\"\n\nSo even though the main answer is
+    correct, the presence of hallucinations would lower the rating. How much?\n\n
+    The gold answer is correct and concise. The system answer is correct on the main
+    point but adds false details. So it's not contradicting the gold answer (since
+    the main point is right), but has extra false info.\n\nAccording to the guidelines:
+    \"A system answer that does not include all necessary details given in the gold
+    answer but is not completely wrong as well should get a rating between 2 and 4.\"\
+    \n\nWait, but in this case, the system answer does include the necessary detail
+    (Charazzar), but adds extra incorrect info. The gold answer doesn't have those
+    details, but the question only requires the family name.\n\nWait, the question
+    is \"Welche Familie übt die uneingeschränkte Herrschaft über die Menschen in der
+    Stadt H’Rabaal aus?\" So the answer should be the family name. The gold answer
+    is exactly that. The system answer also gives the family name, which is correct,
+    but adds more. However, some of the added info is wrong.\n\nThe guidelines say
+    that if the system answer includes statements not in the gold answer, check if
+    they're true. If they are true and relevant, it's okay. If false, lower rating.\n
+    \nIn this case, the added statements: \"Sie regieren seit langer Zeit, unterstützt
+    durch ihre Kontrolle über Plantagen, Minen und enge Verbünde mit den Echsen. Obwohl
+    sie offiziell keinen Königstitel tragen, verhalten sie sich trotzdem als solche,
+    insbesondere unter den menschlichen Bewohnern der Stadt.\"\n\nFrom background:
+    \"Die Familie der Charazzar (unter dem alten ‘König’ Azzaph) herrscht uneingeschränkt
+    unter den Menschen.\" So they rule under the old 'King' Azzaph. The system answer
+    says they don't have a king title but act as such, especially among humans. The
+    background refers to Azzaph as 'König' in quotes, so maybe they do use the title
+    but it's not official? Or Azzaph is called king but it's in quotes, meaning it's
+    not a real king. The system answer says they don't officially have a king title
+    but act as kings. That might be correct based on the background's use of quotes
+    around 'König'.\n\nBut the part about plantations and mines: background doesn't
+    mention those. So that's a hallucination.\n\nAlso, \"enge Verbünde mit den Echsen\"\
+    \ (close alliances with the lizards/Achaz). But background says \"Das Verhältnis
+    zwischen Menschen und Achaz der Umgebung ist in den letzten Jahren immer schlechter
+    geworden.\" So relations are bad, not close alliances. So that's a hallucination.\n
+    \nTherefore, the system answer has two hallucinations: plantations/mines and close
+    alliances with Achaz. However, the main answer is correct.\n\nAccording to the
+    guidelines, contradicting the gold answer is a 1. But here, the main answer doesn't
+    contradict; it's correct. The hallucinations are extra. So it's not a contradiction,
+    but the presence of false info.\n\nThe guidelines say: \"A system answer that
+    does not include all necessary details given in the gold answer but is not completely
+    wrong as well should get a rating between 2 and 4.\"\n\nWait, but in this case,
+    the system answer does include the necessary detail (the family name), so it's
+    not missing necessary details. The problem is extra false details.\n\nThe guidelines
+    also say: \"If the statements are not true (hallucinations), this should generally
+    lead to a lower rating.\"\n\nSo even if the main answer is correct, hallucinations
+    in additional info can lower the rating.\n\nHow much? The highest rating is 5
+    for including all relevant info. Since the question only requires the family name,
+    the extra info isn't necessary, but if it's correct, it's okay. But since it's
+    incorrect, it's bad.\n\nBut the question is only asking for the family, so the
+    additional info is not required. However, the system included wrong info. So the
+    answer is correct in the main part but has false additions.\n\nIn such cases,
+    what's the rating? The guidelines say that contradicting the gold answer is 1.
+    This doesn't contradict, so not 1. If it has all relevant info (which it does,
+    since the family name is there) but adds incorrect info, maybe it's a 4? Or 3?\n
+    \nWait, the gold answer is just the family name. The system answer gives the family
+    name correctly, which is the necessary info. The extra info is not required for
+    the question, but since it's wrong, it's a hallucination. However, the question
+    is only about which family rules, so the extra info is irrelevant to the question's
+    requirements. But the guidelines say that hallucinations should lower the rating.\n
+    \nBut how much? If the core answer is correct, but there's extra false info, maybe
+    it's a 4 instead of 5. Because the main answer is correct, but there are some
+    inaccuracies in the additional details.\n\nWait, the example in the guidelines:
+    \"A system answer that includes all relevant information to answer the question
+    should get the highest rating (5)\". The relevant information here is the family
+    name. The system answer includes that. The additional info is not relevant to
+    the question (since the question doesn't ask for how they rule, just who), but
+    the fact that the additional info is false might not affect the rating much because
+    it's extra. However, the guidelines say that hallucinations should lower the rating.\n
+    \nBut perhaps in this case, since the question is only about the family, and the
+    system got that right, the hallucinations in the extra info might not be a big
+    deal. However, the hallucinations are about the ruling method, which is somewhat
+    related.\n\nWait, the user instruction says: \"To evaluate a system answer that
+    includes statements not included in the gold answer, you need to look into the
+    background information. If the statements are true and relevant to the question,
+    this is ok/good. If the statements are not true (hallucinations), this should
+    generally lead to a lower rating.\"\n\nSo even if the statements are not part
+    of the gold answer, if they're false, it's bad.\n\nIn this case, the system answer
+    added false statements, so it should be lower than 5.\n\nHow much lower? Let's
+    see:\n\n- 5: includes all relevant info (which it does, since the family is there)
+    and no hallucinations.\n\nBut since there are hallucinations, it can't be 5.\n
+    \n- 4: maybe minor hallucinations but core correct.\n\n- 3: some hallucinations
+    that are noticeable but core is correct.\n\nThe hallucinations here are about
+    plantations/mines and alliances with Achaz. The background says relations with
+    Achaz are bad, so saying they have close alliances is a direct contradiction.
+    That's a significant hallucination.\n\nBut the main answer is correct.\n\nSo perhaps
+    a 3? Or 4?\n\nWait, the guidelines say: \"A system answer that does not include
+    all necessary details given in the gold answer but is not completely wrong as
+    well should get a rating between 2 and 4.\"\n\nBut in this case, the system answer
+    does include the necessary detail (the family name), so it's not missing necessary
+    details. The issue is extra false details.\n\nThe guidelines don't explicitly
+    cover this scenario, but they do say that hallucinations should lower the rating.\n
+    \nGiven that the main answer is correct, but there are significant hallucinations
+    in the additional info, the rating would be 4 if the hallucinations are minor,
+    but 3 if they are significant.\n\nThe hallucination about alliances with Achaz
+    is significant because the background states that relations are bad. So saying
+    they have close alliances is a clear error.\n\nPlantations and mines aren't mentioned
+    in the background, so that's also a hallucination.\n\nTherefore, two hallucinations,
+    but the core answer is correct.\n\nIn such cases, I think the rating would be
+    3. Because the answer is correct in the main part but has notable inaccuracies
+    in the extra info.\n\nWait, but maybe 4? Because the question only asks for the
+    family, so the extra info, even if wrong, doesn't make the answer wrong for the
+    question's purpose. However, the guidelines say hallucinations should lower the
+    rating.\n\nAnother angle: the system answer's additional info might mislead someone
+    into thinking that the Charazzar have good relations with Achaz, which is not
+    the case. But the question isn't about that.\n\nBut according to the evaluation
+    criteria, any hallucinations should lower the rating, regardless of whether they're
+    directly related to the question's answer.\n\nSo even if the hallucinations are
+    in extra info, they still count.\n\nIn academic grading, if a student answers
+    the question correctly but adds wrong information, they might lose some points.\n
+    \nGiven that, I think the rating should be 3 or 4.\n\nLooking at the scale:\n\n
+    1: contradicts gold answer.\n\n2: mostly wrong but some correct parts.\n\n3: partially
+    correct, missing some details or has some errors.\n\n4: correct with minor errors
+    or extra correct info.\n\n5: perfect.\n\nWait, the system answer is correct on
+    the main point but has significant errors in the extra info. So maybe 3.\n\nBut
+    another way: the gold answer is one sentence. The system answer is correct in
+    the first part, then adds incorrect details. So the answer is correct but with
+    extra false info. Depending on how strict the evaluation is.\n\nIn some contexts,
+    adding wrong info would make it less accurate, so 4 instead of 5.\n\nBut the presence
+    of clear hallucinations (contradicting background) might warrant a 3.\n\nWait,
+    the background says relations with Achaz are bad, system says they have close
+    alliances. That's a direct contradiction with the background. So that's a major
+    hallucination.\n\nPlantations and mines: not mentioned in background, so hallucination.\n
+    \nSo two hallucinations, one of which is a direct contradiction of the background.\n
+    \nBut the main answer is correct.\n\nSo the answer is correct in the essential
+    part but has false additional info.\n\nIn the guidelines, it's said that hallucinations
+    lower the rating. So from 5, it goes down.\n\nIf the hallucinations are relevant
+    to the question, it's worse. Here, the question is about who rules, not how, but
+    the additional info is about how they rule, which is somewhat related.\n\nI think
+    the rating would be 3. Because the core is correct, but there are significant
+    errors in the elaboration.\n\nAlternatively, maybe 4, if the errors are considered
+    not critical for the question's answer.\n\nBut given that one of the hallucinations
+    directly contradicts the background (alliances vs. worsening relations), which
+    is a key point, it's a notable error.\n\nSo I think 3 is appropriate.\n"
+  grade: 3
+  user_grade: 4
+- question: Welche Truppen stehen unter dem Befehl der Großmarschallin Brabaks, die
+    in der Residenz des Generalstabs ihren Sitz hat?
+  correct_answer: Die Großmarschallin befehligt sowohl die regulären Truppen Brabaks
+    als auch (Gerüchten zufolge) mehrere Achaz-Sippen in den Sümpfen.
+  inner_monologue: "<think>\nFirst, I need to go through what I already know about
+    the user's request. They're asking which troops are under the command of the Großmarschallin
+    of Brabak, who is based in the Residenz des Generalstabs. From my previous research,
+    I found that the Großmarschallin is Zaraphine Charazzar, and she has influence
+    over several groups, including some Achaz-Sippen in the swamps. Additionally,
+    there's mention of the King's army following her orders, but it seems like there
+    might be more specific units or formations she commands directly.\n\nThe first
+    step was researching \"Großmarschallin Brabaks Generalstab,\" which gave information
+    on her political role and alliances, such as with the Audienzia and other families.
+    However, this didn't explicitly list the military units under her command. Then,
+    when I researched \"Truppenbefehl der Großmarschallin Brabaks,\" I got details
+    about historical events involving the Brabaker fleet and armies, mentioning the
+    King's forces and potential alliances, but not a clear list of her direct troop
+    commands.\n\nSince the question specifically asks for the troops under her command,
+    I should look into whether any additional sources clarify this. My next move would
+    be to search for terms related to her military authority or specific units tied
+    to her position. Possible targets could include \"Militäreinheiten der Großmarschallin\"\
+    \ or similar phrases focusing on her direct command structure. If no immediate
+    results come up, breaking down the query further—like looking at the Generalstab’s
+    responsibilities or mentions of her commanding forces during key battles—might
+    reveal more detailed information.\n</think>"
+  system_answer: "In der **Residenz des Generalstabs** hat Zaraphine Charazzar als
+    **Großmarschallin** indirekten Einfluss auf die **regulären Truppen Brabaks**,
+    darunter die **Königlich Brabaker Hellebardiere** und **Lanzentruppen**. Zudem
+    wird erwähnt, dass sie die Ergebenheit **Achaz-Sippen in den Sümpfen** nutzt,
+    welche als „Hilfstrupps“ fungieren. Direkt unter ihrem Befehl stehen jedoch keine
+    spezifischen Einheiten explizit beschrieben – ihr Einfluss beruht eher auf politischen
+    Allianzen (z. B. mit den Hammerfausts) und der Nutzung regionaler Streitmächte.
+    Für präzise militärische Strukturen wäre eine tiefere Suche nach „Militäreinheiten
+    der Großmarschallin“ erforderlich. \n\nNochmals recherchieren? 🛡️"
+  related_chunk: G01-295
+  grade_reasoning: "Okay, let's tackle this evaluation. So, the question is asking
+    which troops are under the command of the Grand Marshal of Brabak, who has her
+    seat in the General Staff's residence.\n\nFirst, I need to check the gold answer.
+    It says: \"Die Großmarschallin befehligt sowohl die regulären Truppen Brabaks
+    als auch (Gerüchten zufolge) mehrere Achaz-Sippen in den Sümpfen.\" Translating
+    that, it's \"The Grand Marshal commands both the regular troops of Brabak as well
+    as (according to rumors) several Achaz clans in the swamps.\"\n\nNow, looking
+    at the system answer. It mentions that Zaraphine Charazzar, as Grand Marshal,
+    has indirect influence on the regular troops, including the \"Königlich Brabaker
+    Hellebardiere\" and \"Lanzentruppen.\" It also says she uses the loyalty of Achaz
+    clans in the swamps as \"Hilfstrupps\" (auxiliary troops). However, it adds that
+    no specific units are explicitly under her direct command, and her influence is
+    more through political alliances, like with the Hammerfausts, and using regional
+    forces. It also suggests that a deeper search would be needed for precise military
+    structures.\n\nThe background info states: \"Hier befehligt sie nicht nur die
+    wenigen regulären Truppen Brabaks, sondern genießt Gerüchten zufolge die Ergebenheit
+    mehrerer Achaz-Sippen in den Sümpfen.\" So, the background confirms she commands
+    the regular troops and, according to rumors, the Achaz clans. The system answer
+    correctly identifies the regular troops and the Achaz clans but adds details not
+    in the gold answer, like specific unit names (Hellebardiere, Lanzentruppen) and
+    mentions indirect influence and political alliances.\n\nWait, the gold answer
+    says \"befehligt\" (commands), while the system answer says \"indirekten Einfluss\"\
+    \ (indirect influence) and that no specific units are explicitly under her direct
+    command. The background says \"befehligt... die regulären Truppen\" which is direct
+    command. So the system answer might be contradicting the background by saying
+    it's indirect and no explicit units. But the background says she commands the
+    regular troops directly. However, the system answer adds \"Königlich Brabaker
+    Hellebardiere\" and \"Lanzentruppen\" as examples. Let me check if those are in
+    the background.\n\nLooking at the background info: under the Admiralität, it mentions
+    the fleet (Galeeren, Segler, etc.), but for the General Staff's residence, it
+    just says \"die wenigen regulären Truppen Brabaks\" without naming specific units.
+    The system answer specifies Hellebardiere and Lanzentruppen, which aren't mentioned
+    in the background. So those might be hallucinations.\n\nAlso, the system answer
+    says \"Direkt unter ihrem Befehl stehen jedoch keine spezifischen Einheiten explizit
+    beschrieben – ihr Einfluss beruht eher auf politischen Allianzen...\" which contradicts
+    the background which states she commands the regular troops. The background says
+    \"befehligt... die regulären Truppen\", so the system answer is incorrect in saying
+    there are no specific units under her direct command.\n\nAdditionally, the system
+    answer mentions using Achaz clans as \"Hilfstrupps\", which the background refers
+    to as 'Hilfstruppe', so that part is correct. But the system answer's emphasis
+    on indirect influence and political alliances might be adding incorrect info not
+    in the background.\n\nThe gold answer states she commands both regular troops
+    and Achaz clans (per rumors). The system answer includes those elements but adds
+    incorrect details (specific units not in background, claiming no direct command
+    when background says she does command them directly). Also, the part about needing
+    deeper search is extra but not necessarily wrong, though it's not in the gold
+    answer.\n\nSo the system answer has some correct info but also hallucinations
+    (specific unit names) and a contradiction regarding direct command vs. indirect
+    influence. The gold answer is straightforward: she commands regular troops and
+    Achaz clans (rumors). The system answer says she has indirect influence and no
+    explicit units, which contradicts the background. Therefore, the system answer
+    is partially wrong.\n\nAccording to the guidelines: contradicting the gold answer
+    should get a 1, but here it's not a full contradiction. The system answer does
+    mention both regular troops and Achaz clans, but adds incorrect details. The main
+    issue is the claim that there are no specific units under her direct command,
+    which contradicts the background (and thus the gold answer, which says she commands
+    them). So this is a partial contradiction.\n\nThe rating guidelines say if it
+    contradicts the gold answer, it's a 1. But here, the system answer does include
+    the correct elements but adds incorrect info. Wait, the gold answer says she commands
+    the regular troops, but the system answer says she has indirect influence and
+    no specific units. So the system answer is saying she doesn't directly command
+    them, which contradicts the gold answer. Therefore, this is a contradiction, which
+    should be a 1. But wait, the background says \"befehligt... die regulären Truppen\"\
+    , so the system answer's statement that \"Direkt unter ihrem Befehl stehen jedoch
+    keine spezifischen Einheiten explizit beschrieben\" is incorrect because the background
+    says she does command them. So the system answer is wrong here.\n\nHowever, the
+    system answer does mention the regular troops and Achaz clans, which are correct,
+    but adds incorrect details. The key point is whether the contradiction on the
+    command structure (direct vs. indirect) is a major error. Since the gold answer
+    states she commands them, and the system answer says she doesn't have direct command,
+    this is a contradiction. Therefore, according to the guidelines, contradicting
+    the gold answer should get a 1.\n\nWait, but the system answer says \"indirekten
+    Einfluss auf die regulären Truppen\" which might be a misinterpretation. The background
+    says she commands them directly. So the system answer is incorrect in stating
+    it's indirect. Therefore, this is a contradiction, leading to a low rating.\n\n
+    But the system answer does include the correct parts (regular troops and Achaz
+    clans), but with added incorrect info. The guidelines say if it contradicts the
+    gold answer, it's a 1. However, maybe it's not a full contradiction because it
+    still mentions the correct troops but adds extra wrong info. Hmm.\n\nWait, the
+    gold answer says she commands both, the system answer says she has indirect influence
+    on the regular troops (so not direct command) and uses Achaz as auxiliaries. The
+    background says she commands the regular troops directly. So the system answer's
+    statement about indirect influence contradicts the background, hence the gold
+    answer. Therefore, this is a contradiction, so rating 1.\n\nBut wait, the system
+    answer says \"indirekten Einfluss auf die regulären Truppen Brabaks, darunter
+    die Königlich Brabaker Hellebardiere und Lanzentruppen.\" But the background says
+    she commands the regular troops. So the system answer is wrong in saying it's
+    indirect. However, it does mention the regular troops, which is correct, but the
+    nature of the command is wrong.\n\nIn the guidelines: \"A system answer contradicting
+    the gold answer should get the lowest rating (1)\". The gold answer states she
+    commands them, system says indirect influence (so not commanding directly), which
+    is a contradiction. Therefore, this should be a 1.\n\nBut wait, maybe \"befehligen\"\
+    \ in German can sometimes be interpreted as having command, but the system answer
+    says \"indirekten Einfluss\", which is different. So yes, contradiction.\n\nHowever,
+    the system answer also correctly mentions the Achaz clans. But since part of the
+    answer contradicts, it's a problem. The guidelines say if it contradicts, lowest
+    rating. So even if part is correct, if there's a contradiction, it's a 1.\n\n
+    Alternatively, maybe the contradiction is only partial. The gold answer says she
+    commands regular troops, system says indirect influence. So the system answer
+    is wrong on that point, but correct on mentioning the troops exist. But the key
+    fact is the command structure. Since the question is about which troops are under
+    her command, saying they are under indirect influence might imply they are not
+    directly under her command, which contradicts the gold answer.\n\nTherefore, this
+    should be a 1. But let me check again.\n\nGold answer: commands both regular troops
+    and Achaz clans (rumors).\n\nSystem answer: has indirect influence on regular
+    troops (so not direct command), and uses Achaz as auxiliaries.\n\nBackground:
+    she commands the regular troops directly and has Achaz clans' loyalty per rumors.\n
+    \nSo system answer's statement about indirect influence on regular troops is wrong;
+    it should be direct command. Therefore, the system answer contradicts the gold
+    answer on a key point. Hence, rating 1.\n\nBut wait, the system answer says \"\
+    indirekten Einfluss auf die regulären Truppen Brabaks\", but the background says
+    \"befehligt... die regulären Truppen\". So \"befehligen\" means to command, so
+    direct command. The system answer's \"indirekten Einfluss\" is incorrect. Therefore,
+    contradiction.\n\nThus, the answer should be rated 1.\n"
+  grade: 1
+  user_grade: 2
+- question: Welche geografische Linie beansprucht Al’Anfa als Grundlage für seine
+    Gebietsansprüche, und welche Flüsse markieren diese Linie?
+  correct_answer: Al’Anfa beansprucht die sogenannte Kaiser-Debrek-Linie als Grundlage
+    für seine Gebietsansprüche, die durch den Lauf der Flüsse Chabab und Arrati markiert
+    wird.
+  inner_monologue: "<think>\nFirst, I need to go through what I already know about
+    the user's request. They want to know which geographic line Al’Anfa claims as
+    the basis for its territorial claims and which rivers mark this line.\n\nFrom
+    my previous research, I found mentions of the Loth Harodrôl and the Regengebirge
+    (Rain Mountains). There is also reference to the Arrati river, known as Osdask
+    in older works. Additionally, there's mention of the Meridiansche Halbinsel (Meridianic
+    Peninsula) shaped like a dragon's claw, with the Rain Mountains resembling knuckles.
+    The Regengebirge stretches from Loch Harodrôl to the sources of the Mysob, containing
+    several six-thousand-step peaks. The Petolo Pass connects East and West coasts,
+    but most trade uses the road from Port Corrad to Mengbilla.\n\nThe key points
+    seem to revolve around the geographical features that form the natural boundaries
+    claimed by Al’Anfa. Specifically, the Loth Harodrôl appears as a significant point,
+    possibly marking part of their border. Also mentioned is the Regengebirge, which
+    acts as a dividing mountain range. Regarding rivers, the Arrati (Osdask) is noted
+    as flowing into the Bay of Port Corrad, and other rivers might include the Hanfla
+    and the Chamir.\n\nHowever, I'm not entirely certain if these details fully answer
+    the question without further verification. To ensure accuracy, it would be prudent
+    to conduct another targeted search focusing on Al’Anfa's territorial claims and
+    specific geographic markers such as lines and rivers. This will help confirm whether
+    the identified elements indeed represent the claimed boundary and verify any additional
+    relevant information.\n</think>"
+  system_answer: "Al’Anfa beansprucht die **Regengebirgskette** als geografische Linie
+    für seine Territorialansprüche. Diese gebirgliche Barriere trennt den nördlichen
+    Teil der Halbinsel von den südlichen Regionen und diente historisch als natürliche
+    Grenze. Markante Flüsse, die diese Linie begleiten, sind:\n\n1. **Arrati (Osdask)**:
+    Entspringt in den Eternen und mündet in der Bucht von Port Corrad. Er ist ein
+    zentraler Fluss im regionalen Handel und definiert teilweise die südliche Grenze.\n
+    2. **Hanfla**: Mündet in Al’Anfa in die Goldene Bucht und ist ein weiterer wichtiger
+    Fluss in der Region.\n3. **Chamir**: Entsteht im Regengebirge nördlich von Mirham
+    und fließt in die Schicksalsbucht.\n\nZusätzlich wird das **Loch Harodrôl** als
+    geografische Referenz genannt, das als Übergangszone zwischen tropischem und subtropischem
+    Klima fungiert und somit eine naturbedingte Grenze darstellt. Diese Elemente bilden
+    gemeinsam die grundlegenden geografischen Marker für Al’Anfas Ansprüche."
+  related_chunk: G01-228
+  grade_reasoning: "Okay, let's tackle this evaluation. So, the question is asking
+    which geographical line Al'Anfa claims as the basis for its territorial claims
+    and which rivers mark that line.\n\nThe gold answer states that Al'Anfa claims
+    the \"Kaiser-Debrek-Linie,\" marked by the rivers Chabab and Arrati.\n\nNow, looking
+    at the system answer. It says Al'Anfa claims the \"Regengebirgskette\" (Rain Mountain
+    Range) as the geographical line. Then it lists rivers Arrati (Osdask), Hanfla,
+    and Chamir. It also mentions Loch Harodrôl as a reference.\n\nBut according to
+    the background info, the correct line is the Kaiser-Debrek-Linie, which follows
+    the Chabab and Arrati rivers. The background mentions Loch Harodrôl in the context
+    of recent conflicts with the Horasreich, not as part of the territorial claim
+    line. The rivers mentioned in the system answer (Hanfla, Chamir) aren't in the
+    background info as markers for the Kaiser-Debrek-Linie. Instead, the background
+    specifically says Chabab and Arrati.\n\nSo the system answer is wrong about the
+    geographical line (Regengebirgskette instead of Kaiser-Debrek-Linie) and lists
+    incorrect rivers (Hanfla, Chamir) plus the correct Arrati but with an alternate
+    name (Osdask). Wait, Arrati is mentioned in the background as part of the line,
+    so Arrati is correct, but the system answer added Hanfla and Chamir which aren't
+    in the background. Also, the Loch Harodrôl is mentioned in the background but
+    as a conflict area, not as part of the territorial claim line.\n\nThe system answer
+    contradicts the gold answer by naming a different line (Regengebirgskette) instead
+    of Kaiser-Debrek-Linie. The gold answer specifies the two rivers, but the system
+    answer includes extra rivers not mentioned in the background as part of the line.
+    The background says the line follows Chabab and Arrati, so Chabab is missing in
+    the system answer, and they added others. Also, Loch Harodrôl is mentioned in
+    the background but not as part of the territorial claim line, so including it
+    as a geographic reference for the claims is incorrect.\n\nTherefore, the system
+    answer has major errors: wrong line name, wrong rivers (except Arrati, but even
+    then it's called Osdask which might be a different name but the background says
+    Arrati). Wait, the background says \"Chabab und des Arrati\", so Arrati is correct.
+    But the system answer lists Arrati (Osdask) as one, but the background doesn't
+    mention Osdask. Maybe Osdask is another name for Arrati? The background doesn't
+    specify, but the gold answer just says Arrati. However, the system answer's main
+    issue is the line name being wrong and including extra rivers.\n\nSince the system
+    answer contradicts the gold answer on the key point (the line's name and the rivers),
+    this should be a low rating. The guidelines say if it contradicts the gold answer,
+    lowest rating (1). But wait, does it contradict? The gold answer says Kaiser-Debrek-Linie
+    with Chabab and Arrati. The system says Regengebirgskette with Arrati, Hanfla,
+    Chamir. So yes, it's a direct contradiction on the line's name and the rivers
+    involved. The background confirms Kaiser-Debrek-Linie is correct. So the system
+    answer is wrong on the main points, hence rating 1.\n"
+  grade: 1
+  user_grade: 1
+- question: In welchen Bereichen verfügt Chanya ‘Al’Mout’pekeret’ Al’Plâne über besondere
+    Fähigkeiten, und wo zeigt sie Schwächen?
+  correct_answer: Chanya ist eine erfahrene und bei ihren Soldaten beliebte Heerführerin
+    mit Stärken im Kriegswesen, zeigt jedoch Schwächen auf dem politischen Parkett
+    und ist anfällig für Intrigen.
+  inner_monologue: "<think>\nFirst, I need to go through what I already know about
+    the user's request. They want to know where Chanya 'Al'Mout'pekeret' Al'Plâne
+    has special skills and weaknesses.\n\nLooking at my previous research steps:\n
+    \n1. First search for her basic info: found some details like she is a military
+    leader from Kemi, part of the political landscape there.\n2. Second search on
+    abilities/skills: found mentions of her being skilled in warfare, having talents
+    in \"Betören\" (seduction?), \"Kriegskunst\" (war art), and other combat-related
+    traits. Also noted that she might have issues with politics due to being straightforward.\n
+    3. Third search on political profile: saw she's involved with various factions
+    but maybe not very savvy politically.\n4. Fourth search on strategy/weaknesses:
+    didn't find much concrete data yet.\n5. Fifth search on personal flaws: again,
+    limited direct information.\n\nThe most useful bits were under her character description
+    where it says she's experienced in jungle warfare (\"Dschungelkrieg\"), won against
+    invasion forces, and has high attributes in strength (MU 13), intellect (KL 15),
+    charisma (CH 16). But also mentioned she's naive politically (\"unbedarft auf
+    dem politischen Parkett\") which makes her vulnerable to intrigues.\n\nAlso important
+    that she's loyal to the new regime but doesn't seem to understand its complexities
+    well. She's described as open and direct, which could be both a strength and weakness
+    depending on context.\n\nNeed to check if there are any more specific tactical
+    or strategic capabilities mentioned elsewhere. Maybe look into how she handles
+    different types of battles or campaigns? Any mention of leadership style?\n\n
+    But since the available text seems limited, based on current findings, I can outline
+    her strengths in combat expertise, loyalty, and certain social skills while noting
+    her relative naivety in political matters as a key weakness.\n</think>"
+  system_answer: "Chanya 'Al'Mout'pekeret' Al'Plâne zeichnet sich durch folgende **Fähigkeiten**
+    aus:  \n- **Kriegserfahrung**: Erfahrene Heerführerin mit Expertise im Dschungelkrieg
+    und Siege über alanfanische Invasionstruppen („Kennerin des Dschungelkrieges“).\
+    \  \n- **Taktische Begabung**: Hohe Attribute in **Kriegskunst** (16) und **Betören**
+    (14), sowie Meisterschaft in Nahkampf-Talen.  \n- **Loyalität**: Treu gegenüber
+    der neu errichteten Regierung Kemis und motiviert durch pragmatischen Patriotismus.\
+    \  \n\n**Schwächen**:  \n- **Politische Naivität**: Unbedarft im politischen Spiel
+    („unbedarft auf dem politischen Parkett“), leicht manipulierbar durch Intrigen.\
+    \  \n- **Egozentrisch**: Goldgier (Goldgier 5) und starke persönliche Ambitionen
+    könnten Entscheidungen beeinträchtigen.  \n- **Unflexibel**: Offene, direkte Art
+    („offen und unbedarf[t]“) macht sie weniger anpassungsfähig in komplexen Konfliktsituationen.\
+    \  \n\nZusätzlich wird sie als „leichtes Opfer für gewitzte Intrigen“ beschrieben,
+    was ihre strategische Schwäche aufzeigt."
+  related_chunk: G01-659
+  grade_reasoning: "Okay, let's tackle this evaluation. So, the task is to grade the
+    system answer based on how well it matches the gold answer, using the background
+    info to check for hallucinations.\n\nFirst, the question is asking about Chanya's
+    strengths and weaknesses. The gold answer says she's an experienced and popular
+    military leader with strengths in warfare but weaknesses in politics and vulnerability
+    to intrigues.\n\nLooking at the system answer, it lists several strengths: war
+    experience (jungle warfare, victories against Alanfan troops), tactical skills
+    (high attributes in War Art and Charm, melee mastery), and loyalty. Weaknesses
+    include political naivety, egocentrism (greed and ambition), and inflexibility.
+    It also mentions she's an easy target for clever intrigues.\n\nNow, check the
+    background info. The background says she's an experienced jungle warfare expert,
+    victorious against Alanfan invaders, loyal to the new government. Her strengths
+    in warcraft but political naivety making her an easy target for intrigues. Also,
+    her attributes: CH 16, Betören 14, Kriegskunst 16, Goldgier 5.\n\nThe system answer
+    correctly includes the jungle warfare expertise, victories, high Kriegskunst and
+    Betören, Goldgier 5. It mentions her loyalty to Kemis's new government, which
+    is in the background (\"der neuen Nisut loyal ergeben\"). The weaknesses like
+    political naivety and being a target for intrigues are also there.\n\nWait, the
+    system answer added \"egozentrisch\" with Goldgier 5 and personal ambitions. The
+    background does list Goldgier 5 as a trait, so that's accurate. Also, \"offen
+    und unbedarft\" in the background supports the inflexibility and directness mentioned.\n
+    \nBut the gold answer doesn't mention Goldgier or inflexibility; it just says
+    political weaknesses and vulnerability to intrigues. However, the system answer's
+    extra details are all backed by the background. For example, Goldgier 5 is a stated
+    trait, so including that as a weakness is correct. The background says she's \"\
+    unbedarft auf dem politischen Parkett\" which translates to politically naive,
+    and the system answer's points about being manipulable and ego-centric are supported.\n
+    \nNo hallucinations here. All additional info in the system answer is from the
+    background. The gold answer is a summary, but the system answer provides more
+    detailed correct points. Since the guidelines say if extra info is true and relevant,
+    it's okay. So the system answer includes all gold answer points plus accurate
+    extras. Therefore, it should get a 5.\n"
+  grade: 5
+  user_grade: 5

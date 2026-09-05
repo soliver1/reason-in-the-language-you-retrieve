@@ -1,0 +1,614 @@
+- question: Wie viele Erwachsene bilden typischerweise eine Dorfgemeinschaft unter
+    den Völkern des Dschungels?
+  correct_answer: Eine typische Dorfgemeinschaft besteht aus 30 bis 50 erwachsenen
+    Bewohnern, wobei es selten auch bis zu 100 sein können.
+  inner_monologue: "<think>\nD’abord, je dois parcourir ce que je sais déjà sur la
+    demande de l’utilisateur. L'utilisateur cherche à savoir combien d’adultes forment
+    généralement une communauté villageoise parmi les peuples de la jungle.\n\nJ’ai
+    trouvé trois fragments dans ma base de données :\n1. Le fragment avec l'id G01-489
+    mentionne : « *La typique kerngruppe eines Dorfes umfasst 30 bis 50 Erwachsene*
+    », ce qui signifie qu’il y a entre 30 et 50 adultes typiquement dans une communauté
+    villageoise.\n2. Les autres fragments n’ont pas d’informations spécifiques sur
+    le nombre d’adultes dans une communauté villageoise.\n\nJe devrais vérifier si
+    ces informations sont suffisantes ou si j'ai besoin de plus d'information en utilisant
+    la fonction research_lore_books pour explorer davantage. Comme le premier fragment
+    répond directement à la question, il semble être suffisant.\n\nDonc, la réponse
+    est claire : entre 30 et 50 adultes forment typiquement une communauté villageoise
+    parmi les peuples de la jungle."
+  system_answer: Eine Dorfgemeinschaft unter den Völkern des Dschungels bildet typischerweise
+    zwischen **30 und 50 Erwachsene**. Dies ergibt sich aus der Beschreibung in der
+    Quelle mit der ID `G01-489`.
+  related_chunk: G01-489
+  grade_reasoning: "Okay, let's see. The question is asking how many adults typically
+    form a village community among the jungle peoples.\n\nThe gold answer says a typical
+    village community consists of 30 to 50 adults, and sometimes up to 100.\n\nThe
+    system answer states that a village community typically forms between 30 and 50
+    adults, citing source ID G01-489.\n\nLooking at the background info, it says:
+    \"Die typische Kerngruppe eines Dorfes umfasst 30 bis 50 Erwachsene, selten auch
+    bis zu 100; dann handelt es sich allerdings meist um zwei oder drei deutlich unterschiedene
+    Sippen.\" So the background confirms 30-50 adults typically, with up to 100 being
+    rare and usually two or three distinct clans.\n\nThe system answer mentions 30-50
+    but doesn't include the part about up to 100. However, the gold answer includes
+    both the typical range and the rare up to 100. Wait, the gold answer says \"30
+    bis 50 erwachsenen Bewohnern, wobei es selten auch bis zu 100 sein können.\" So
+    the system answer only gives the 30-50 part but omits the \"selten bis zu 100\"\
+    \ part.\n\nBut the system answer adds \"Dies ergibt sich aus der Beschreibung
+    in der Quelle mit der ID `G01-489`.\" The background info here is from the provided
+    text, which does mention up to 100. However, the system answer doesn't include
+    that part. So the system answer is missing the \"selten bis zu 100\" part which
+    is in the gold answer.\n\nBut wait, the question is asking for \"typischerweise\"\
+    , which translates to \"typically\". The gold answer includes both the typical
+    range (30-50) and the rare case (up to 100). However, the question is about the
+    typical number, so maybe the \"selten bis zu 100\" is additional info but not
+    part of the typical. Wait, the gold answer says \"typischerweise... 30 bis 50...
+    selten auch bis zu 100\". So the typical is 30-50, and the up to 100 is a rare
+    exception.\n\nThe system answer says \"typischerweise zwischen 30 und 50 Erwachsene\"\
+    , which matches the typical part. The gold answer includes the rare case as well,
+    but the question is about the typical number. So maybe the system answer is correct
+    in just stating the typical range, and the gold answer includes extra info about
+    the rare case. Wait, but the gold answer is given as the correct answer, so perhaps
+    the question expects both parts.\n\nWait, let me check the question again: \"
+    Wie viele Erwachsene bilden typischerweise eine Dorfgemeinschaft unter den Völkern
+    des Dschungels?\"\n\nThe word \"typischerweise\" means \"typically\", so the answer
+    should be the typical number, which is 30-50. The part about \"selten bis zu 100\"\
+    \ is additional info but not part of the typical. However, the gold answer includes
+    both: \"typischerweise... 30 bis 50... selten auch bis zu 100\". So maybe in the
+    context of the question, even though it's asking for typical, the gold answer
+    includes the exception as part of the answer.\n\nLooking at the background info:
+    \"typische Kerngruppe... 30 bis 50 Erwachsene, selten auch bis zu 100\". So the
+    background says the typical group is 30-50, and rarely up to 100. Therefore, the
+    gold answer correctly states both parts. The system answer only mentions 30-50,
+    omitting the rare case up to 100.\n\nBut the question is specifically about \"\
+    typischerweise\", so maybe the rare case is not required. However, the gold answer
+    includes it, so perhaps the expected answer includes both. Let me check the gold
+    answer again: \"Eine typische Dorfgemeinschaft besteht aus 30 bis 50 erwachsenen
+    Bewohnern, wobei es selten auch bis zu 100 sein können.\" So it's structured as
+    the typical is 30-50, but with a note that sometimes it's up to 100.\n\nThe system
+    answer says \"typischerweise zwischen 30 und 50 Erwachsene\", which matches the
+    main part. It doesn't include the \"selten bis zu 100\" part. However, the gold
+    answer includes that. So the system answer is missing that part. But is that part
+    necessary for the answer?\n\nThe question is asking for the typical number. The
+    \"selten bis zu 100\" is an exception, so maybe it's not required for the answer.
+    However, the gold answer includes it, so perhaps the correct answer should mention
+    both. Let's see the background info: the typical core group is 30-50, rarely up
+    to 100. So the gold answer is accurately reflecting the background. The system
+    answer only gives the typical range but doesn't mention the rare case. However,
+    the question is about \"typischerweise\", so the rare case might be extra info
+    but not necessary. Wait, but the gold answer includes it, so maybe the question
+    expects that info as part of the correct answer.\n\nWait, the gold answer is the
+    correct answer as per the problem statement. So if the system answer misses part
+    of the gold answer, it's a problem. The gold answer says \"30 bis 50... selten
+    auch bis zu 100\". The system answer only says 30-50. So the system answer is
+    missing the \"selten bis zu 100\" part. Therefore, it's not including all necessary
+    details from the gold answer.\n\nBut the question is about \"typischerweise\"
+    , so the main answer is 30-50. The \"selten bis zu 100\" is additional info. However,
+    the gold answer includes it, so the system answer should include it to get a 5.
+    Since the system answer doesn't, it might be a 4 instead of 5.\n\nWait, the guidelines
+    say: \"A system answers that includes all relevant information to answer the question
+    should get the highest rating (5)\". The gold answer has two parts: typical 30-50,
+    and rarely up to 100. If the question is about the typical number, then the rarely
+    part is additional but maybe not necessary. However, the gold answer includes
+    it, so perhaps in the context of the question, it's considered relevant.\n\nLooking
+    at the background info: \"typische Kerngruppe... 30 bis 50... selten auch bis
+    zu 100\". So the typical is 30-50, and the up to 100 is a rare exception. The
+    question is asking for the typical number, so the answer should be 30-50. The
+    \"selten bis zu 100\" is extra info but not part of the typical. However, the
+    gold answer includes it, which might be because the question's correct answer
+    as per the creators includes that nuance.\n\nIn the system answer, they only state
+    30-50. The gold answer includes the rare case. So the system answer is missing
+    that part. But is that part necessary? If the question is \"typischerweise\",
+    then the answer is 30-50. The rare case is additional. However, the gold answer
+    includes it, so perhaps the expected answer should mention both. For example,
+    maybe the question is designed to have the answer include both the typical and
+    the exception.\n\nIn that case, the system answer is incomplete because it doesn't
+    mention the up to 100 part. Therefore, it should get a 4 instead of 5.\n\nBut
+    wait, the system answer also adds \"Dies ergibt sich aus der Beschreibung in der
+    Quelle mit der ID `G01-489`.\" The background info here is the provided text,
+    which does mention up to 100. However, the system answer's citation might be correct,
+    but the content is missing the rare case. So the system answer is correct in the
+    main part but omits the exception.\n\nAccording to the guidelines: \"A system
+    answer that does not include all necessary details given in the gold answer but
+    is not completely wrong as well should get a rating between 2 and 4.\"\n\nSince
+    the gold answer includes the exception, and the system answer doesn't, but the
+    main part is correct, it's missing a detail. So it's a 4?\n\nAlternatively, maybe
+    the exception is not necessary because the question is about \"typischerweise\"\
+    , so the main answer is 30-50, and the exception is extra. But the gold answer
+    includes it, so the system answer should include it to be fully correct.\n\nIn
+    the background info, the sentence is: \"Die typische Kerngruppe eines Dorfes umfasst
+    30 bis 50 Erwachsene, selten auch bis zu 100; dann handelt es sich allerdings
+    meist um zwei oder drei deutlich unterschiedene Sippen.\"\n\nSo the \"selten auch
+    bis zu 100\" is part of the description of the typical core group. Wait, no: \"\
+    typische Kerngruppe... 30 bis 50, selten auch bis zu 100\". So the typical is
+    30-50, and in rare cases up to 100. So the gold answer correctly states both.
+    The system answer only states the typical range.\n\nTherefore, the system answer
+    is missing the \"selten bis zu 100\" part which is in the gold answer. So it's
+    not including all necessary details. However, the question is about \"typischerweise\"\
+    , so maybe the rare case is not required. But the gold answer includes it, so
+    the system answer should include it to match the gold answer.\n\nThus, the system
+    answer is incomplete. It has the main part correct but misses the additional detail
+    present in the gold answer. According to the guidelines, this would be a 4, since
+    it's not completely wrong but missing some details.\n\nWait, but the system answer
+    adds a citation to a source ID. The background info here is from the provided
+    text, which is presumably the source G01-489. The system answer correctly cites
+    the source, which is not part of the gold answer. However, the guidelines say
+    that if the additional info is true and relevant, it's okay. The citation is true
+    (assuming G01-489 is the correct source), but it's not part of the gold answer.
+    However, the main issue is the missing \"selten bis zu 100\" part.\n\nSo the system
+    answer has two aspects: correct main answer (30-50), missing the rare case, and
+    adding a citation. The citation is extra but correct. The missing part is a detail
+    from the gold answer.\n\nSince the gold answer includes the rare case, the system
+    answer should include it to get a 5. Since it doesn't, it's a 4.\n\nAlternatively,
+    maybe the rare case is considered part of the necessary details. The question
+    is \"typischerweise\", but the gold answer includes the exception as part of the
+    answer. So the correct answer is 30-50 typically, with up to 100 rarely. Therefore,
+    the system answer is incomplete.\n\nThus, the rating should be 4.\n"
+  grade: 4
+  user_grade: 4
+- question: Welche besonderen Vorteile können Söldner durch den Eintritt in einen
+    der Kirchenorden in Al’Anfa erlangen?
+  correct_answer: Söldner, die einem der Kirchenorden beitreten, profitieren von Privilegien
+    wie lebenslanger Mitgliedschaft, regelmäßigen Fleischrationen, freiem Zugang zu
+    Tempeln und Messen, die vom Patriarchen geleitet werden, sowie dem Recht, in der
+    Stadt des Schweigens bestattet zu werden.
+  inner_monologue: "<think>\nD’abord, je dois parcourir ce que je sais déjà sur la
+    demande de l’utilisateur. Il veut savoir quelles sont les avantages particuliers
+    que peuvent obtenir des mercenaires en entrant dans un ordre religieux à Al’Anfa.\n
+    \nJe connais plusieurs textes qui parlent des mercenaires, des ordres religieux
+    et de la société d’Al’Anfa. Parmi ceux-ci, il est mentionné que les mercenaires
+    sont très présents dans l’armée d’Al’Anfa, car c’est une ville qui dépend presque
+    uniquement de leurs forces pour défendre ses intérêts commerciaux et politiques.
+    \n\nLes ordres religieux comme celui du Cor ou de Boron ont également une influence
+    considérable dans cette région. Ils possèdent souvent des privilèges, des autorités
+    importantes, et contrôlent certaines zones stratégiques. Cela pourrait être attirant
+    pour les mercenaires cherchant plus de stabilité ou de pouvoir.\n\nDans certains
+    passages, on dit que les mercenaires peuvent bénéficier de protections accrues,
+    de récompenses matérielles, voire même de promotions sociales grâce à leur engagement
+    avec ces ordres. Certains ordres fournissent aussi aux mercenaires des équipements
+    spécialisés, des formations avancées, ainsi qu’un accès préférentiel aux ressources
+    de la cité.\n\nEn outre, participer à un ordre religieux peut donner aux mercenaires
+    une légitimité supplémentaire, facilitant ainsi leur intégration dans les cercles
+    influents d’Al’Anfa. Cette reconnaissance sociale permettrait aux mercenaires
+    non seulement de mieux survivre mais aussi d’accéder à des positions de leadership
+    futurs.\n\nIl semble donc clair que rejoindre un ordre religieux offre aux mercenaires
+    des bénéfices concrets : sécurité, prestige social, formation, équipement, et
+    potentiellement des opportunités de promotion ou d’influence politique. Ces éléments
+    combinés font de cet investissement une stratégie attrayante pour tout mercenaire
+    souhaitant élever son statut au-delà de simples combattants payés."
+  system_answer: "Die Eintrittsposition von Söldnern in kirchliche Orden in Al’Anfa
+    bringt diverse Vorteile:\n\n1. **Soziale Anerkennung**: Söldner können durch den
+    Eintritt in einen Kirchenorden mehr Respekt und Status genießen, was ihre Integration
+    in die hohe Gesellschaft verbessert.\n\n2. **Verstärkte Sicherheit**: Als Mitglied
+    eines Kirchenorders profitieren Söldner von der Schutzfunktion des Orders und
+    können sich in gefährlichen Situationen sicherer fühlen.\n\n3. **Fortbildung und
+    Ausrüstung**: Kirchenorden bieten oft spezielle Trainingsprogramme, bessere Waffen
+    und Rüstungen sowie spirituelle Begleitung an, was die Effizienz und Motivation
+    der Söldner steigert.\n\n4. **Karrierechancen**: Mitglieder von Kirchenorden haben
+    oft bessere Chancen auf Aufstieg, sowohl in militärischer als auch in administrativer
+    Hinsicht, und können in prestigevolle Positionen gelangen.\n\n5. **Religiöse Protektion**:
+    Durch den Schutz der Kirche erhalten Söldner Zugang zu bestimmten privilegierten
+    Ressourcen, wie temporären Wohnsituationen oder finanzieller Unterstützung.\n\n
+    Diese Vorteile ermöglichen Söldnern, nicht nur materiell zu profitieren, sondern
+    auch sozial und ideologisch integriert zu werden, was ihre Rolle in der Stadt
+    Al’Anfa wesentlich verändert."
+  related_chunk: G01-211
+  grade_reasoning: "Okay, let's tackle this evaluation. So, the task is to grade the
+    system answer based on the given guidelines. Let me start by understanding all
+    the components here.\n\nFirst, the question is in German, asking about the special
+    advantages mercenaries can gain by joining one of the church orders in Al'Anfa.
+    The gold answer lists specific privileges: lifelong membership, regular meat rations,
+    free access to temples and masses led by the patriarch, and the right to be buried
+    in the City of Silence.\n\nThe system answer provided five points: social recognition,
+    enhanced security, training and equipment, career opportunities, and religious
+    protection. Each of these points includes details not mentioned in the gold answer.
+    Now, I need to check if these additional details are correct based on the background
+    information.\n\nLooking at the background info: It mentions that the church orders
+    are the heart of the Alanfan legions. The privileges listed there are lifelong
+    membership, meat rations, free temple visits and masses by the patriarch, burial
+    rights in the City of Silence, and the possibility of rising from Fana to higher
+    ranks up to Grand Master.\n\nComparing the system answer to the background info:\n
+    \n1. Social Recognition: The background says joining is a career dream for many
+    mercenaries and mentions rising in ranks, which implies social status. So maybe
+    this is correct, but the gold answer doesn't mention it. However, the background
+    does talk about the allure of rising in ranks, so social recognition might be
+    inferred.\n\n2. Enhanced Security: The background doesn't mention protection or
+    security benefits from the orders. The system answer says they get protection
+    from the order. Since the background doesn't state this, it might be a hallucination.\n
+    \n3. Training and Equipment: The background mentions \"spezielle Trainingsprogramme,
+    bessere Waffen und Rüstungen\" but wait, no—the actual background says \"die Aussicht,
+    vom Fana bis in die oberen Ränge oder sogar zum Ordens-Großmeister aufsteigen
+    zu können.\" There's no mention of training programs or better weapons. Wait,
+    the system answer says the orders offer training, better weapons, etc. But the
+    background info doesn't mention that. So this might be a hallucination.\n\nWait,
+    let me check again. The background info: \"Privilegien wie lebenslange Mitgliedschaft,
+    Fleischrationen, freier Tempelbesuch und Messen durch den Patriarchen sowie Bestattungsrecht
+    in der Stadt des Schweigens sind ebenso verführerisch wie die Aussicht, vom Fana
+    bis in die oberen Ränge oder sogar zum Ordens-Großmeister aufsteigen zu können.\"\
+    \n\nSo the privileges listed are the ones in the gold answer plus the possibility
+    of rising in ranks. The system answer's point 3 about training and equipment isn't
+    in the background. Similarly, point 2 about security isn't there. Point 5 mentions
+    religious protection with resources like temporary housing or financial support,
+    which isn't in the background either.\n\nThe gold answer only includes the specific
+    privileges from the background. The system answer adds several points not present
+    in the background. According to the guidelines, if the system answer includes
+    statements not in the gold answer, check if they're true based on background.
+    If they're false (hallucinations), that lowers the rating.\n\nSo, checking each
+    point:\n\n1. Social recognition: The background mentions the allure of rising
+    in ranks, which could imply social status. Maybe this is acceptable, but the gold
+    answer doesn't include it. However, since the background does talk about the career
+    prospects (rising to Grand Master), social recognition might be inferred. So this
+    could be correct.\n\n2. Enhanced security: Not mentioned in background. Hallucination.\n
+    \n3. Training and equipment: Not in background. The background says \"Aussicht...
+    aufsteigen zu können\" which is about promotion, not training or better gear.
+    So this is a hallucination.\n\n4. Career opportunities: The background does mention
+    rising in ranks up to Grand Master, so this part is correct. However, the system
+    answer phrases it as \"bessere Chancen auf Aufstieg, sowohl in militärischer als
+    auch in administrativer Hinsicht,\" which aligns with the background's mention
+    of rising through ranks. So this might be okay.\n\n5. Religious protection with
+    resources: The background lists privileges like temple access, but not temporary
+    housing or financial support. So this is a hallucination.\n\nSo the system answer
+    includes some correct points (career opportunities, maybe social recognition)
+    but also several hallucinations (security, training/equipment, religious protection
+    specifics). The gold answer only lists the specific privileges from the background.
+    The system answer misses the actual privileges (meat rations, burial rights, etc.)
+    and instead adds incorrect details.\n\nWait, the system answer doesn't mention
+    any of the actual privileges listed in the gold answer and background. The gold
+    answer's points are all in the background: lifelong membership, meat rations,
+    temple access, burial rights. The system answer completely omits these and instead
+    lists other supposed benefits, some of which are hallucinated.\n\nSo the system
+    answer contradicts the gold answer by not including the correct privileges and
+    adding incorrect ones. According to the guidelines, if the system answer contradicts
+    the gold answer, it should get a 1. But wait, does it contradict or just omit?\n
+    \nThe gold answer lists specific privileges. The system answer lists different
+    privileges, none of which are in the gold answer except maybe career opportunities
+    (since the background mentions rising in ranks). However, the system answer's
+    career opportunities point might align with the background's \"Aussicht... aufsteigen
+    zu können,\" but the gold answer doesn't include that—it only lists the specific
+    privileges. Wait, the gold answer does include \"sowie dem Recht, in der Stadt
+    des Schweigens bestattet zu werden.\" The background also mentions \"Bestattungsrecht
+    in der Stadt des Schweigens.\"\n\nWait, the gold answer is: lifelong membership,
+    regular meat rations, free temple access and masses by patriarch, burial right
+    in City of Silence.\n\nThe system answer does not mention any of these. Instead,
+    it lists social recognition, security, training, career, religious protection.
+    The only possible overlap is career opportunities, which the background does mention
+    as part of the allure (rising in ranks). However, the gold answer does not include
+    career advancement as a privilege—it's listed in the background as \"ebenso verführerisch
+    wie die Aussicht...\" So the privileges are the listed ones (meat, temples, etc.)
+    plus the career prospect. Wait, the background says: \"Privilegien wie [list]
+    sind ebenso verführerisch wie die Aussicht...\" So the career prospect is separate
+    from the privileges. So the gold answer correctly lists the privileges, and the
+    career opportunity is an additional allure but not a privilege per se.\n\nTherefore,
+    the system answer's point 4 (career opportunities) is not part of the privileges
+    listed in the gold answer or background as a privilege—it's a separate allure.
+    So the system answer is incorrect in including it as a privilege.\n\nSince the
+    system answer does not include any of the actual privileges mentioned in the gold
+    answer and background, and instead lists incorrect or hallucinated benefits, this
+    is a case where the system answer contradicts the gold answer. Therefore, according
+    to the guidelines, it should get a 1.\n\nWait, but let me confirm. The system
+    answer's points are all not in the gold answer, and some are hallucinated. The
+    gold answer's points are all missing in the system answer. So the system answer
+    is completely wrong, providing incorrect information instead of the correct privileges.
+    That's a contradiction, so rating 1.\n"
+  grade: 1
+  user_grade: 1
+- question: Welches Ereignis führte im Jahr 106 v.BF zur Zerstörung der Mirhamer Flotte?
+  correct_answer: Der Sternenfall von Elem.
+  inner_monologue: "<think>\nD’abord, je dois parcourir ce que je sais déjà sur la
+    demande de l’utilisateur. L’année 106 v.BF est mentionnée comme étant liée à une
+    catastrophe qui a détruit la flotte de Mirham. Je cherche donc des informations
+    dans les textes fournis pour trouver précisément quel événement a causé cette
+    destruction.\n\nJ’ai trouvé plusieurs mentions :\n- Dans le texte avec l'id `G01-061`,
+    il y a une référence à « 106 v.BF » et dit : « ...ein glühender Himmelstern stürzte
+    in die Bucht von Selem...» et cela a entraîné une vague destructrice qui a touché
+    Mirham et sa flotte.\n- Dans le texte avec l'id `G05-044`, on lit également qu’un
+    « glühender Himmelskörper » est tombé dans la baie de Selem en 106 v.BF et que
+    c’est cet incident qui a mis fin à la puissance maritime élmite.\n\nCes deux passages
+    semblent indiquer clairement que l’événement était la chute d’un corps céleste
+    — un météore ou une comète — dans la baie de Selem, provoquant une vague destructive
+    qui a détruit la flotte de Mirham.\n\nJe peux maintenant répondre directement
+    sans avoir besoin de plus amples recherches car ces éléments sont suffisants pour
+    expliquer l'événement demandé par l'utilisateur.\n</think>"
+  system_answer: Das Ereignis, das im Jahr 106 v.BF zur Zerstörung der Mirhamer Flotte
+    führte, war der Einschlag eines glühenden Himmelskörpers in die Bucht von Selem.
+    Dieser Einschlag löste eine riesige Flutwelle aus, die die Mirhamer Flotte sowie
+    die Hafenanlagen und Unterstadt von Mirham schwer beschädigte. Dieser meteorologische
+    und kosmische Unfall markierte das Ende der tulamidischen Seemacht im Süden.
+  related_chunk: G01-341
+  grade_reasoning: "Okay, let's see. The question is asking which event in 106 v.BF
+    led to the destruction of the Mirhamer fleet.\n\nThe gold answer is \"Der Sternenfall
+    von Elem.\" So the correct answer should be the Sternenfall von Elem.\n\nThe system
+    answer says: \"Das Ereignis, das im Jahr 106 v.BF zur Zerstörung der Mirhamer
+    Flotte führte, war der Einschlag eines glühenden Himmelskörpers in die Bucht von
+    Selem. Dieser Einschlag löste eine riesige Flutwelle aus, die die Mirhamer Flotte
+    sowie die Hafenanlagen und Unterstadt von Mirham schwer beschädigte. Dieser meteorologische
+    und kosmische Unfall markierte das Ende der tulamidischen Seemacht im Süden.\"\
+    \n\nNow, checking the background information. The background states: \"**106 v.BF:**
+    der Sternenfall von Elem; Zerstörung der Mirhamer Flotte\"\n\nSo the key point
+    here is that the event is called \"Sternenfall von Elem\". The system answer refers
+    to it as an Einschlag eines glühenden Himmelskörpers (impact of a glowing celestial
+    body) in the Bucht von Selem (Selem Bay), causing a tsunami that destroyed the
+    fleet.\n\nWait, the background says \"Sternenfall von Elem\", which translates
+    to \"Starfall of Elem\". The system answer describes it as a meteor impact causing
+    a tsunami. But according to the background, the event is named \"Sternenfall von
+    Elem\", but the system answer is adding details like the location (Bucht von Selem)
+    and the tsunami.\n\nNow, does the background information confirm those details?
+    The background only mentions \"Sternenfall von Elem; Zerstörung der Mirhamer Flotte\"\
+    \ for 106 v.BF. There's no mention of the bay, the tsunami, or the specific effects
+    on the harbor and lower city.\n\nSo the system answer is adding extra information
+    not present in the background. The question is whether those additions are correct
+    or hallucinations.\n\nThe gold answer is just the name of the event: Sternenfall
+    von Elem. The system answer provides a description of what happened, but according
+    to the background, the event is called Sternenfall von Elem. However, the background
+    doesn't specify the details the system answer gives.\n\nWait, but maybe \"Sternenfall\"\
+    \ implies a star falling, which could be a meteor impact. So maybe \"Sternenfall
+    von Elem\" is the name, and the system answer is explaining what it was. But the
+    background doesn't confirm the specifics like the bay of Selem or the tsunami.\n
+    \nWait, the background says \"Zerstörung der Mirhamer Flotte\" as part of the
+    event. So the event caused the destruction. The system answer says the impact
+    caused a tsunami that destroyed the fleet, which aligns with the background's
+    statement that the event led to the destruction.\n\nBut the background doesn't
+    mention the tsunami or the bay. However, since \"Sternenfall\" (star fall) would
+    logically involve a celestial object hitting, maybe the system answer is correctly
+    inferring the cause. But the problem is whether the specific details (Bucht von
+    Selem, tsunami, damage to harbor and lower city) are accurate according to the
+    background.\n\nThe background doesn't provide those details, so the system answer
+    might be adding information not present. However, in the context of the fictional
+    world, if \"Sternenfall von Elem\" is the event name, perhaps the system answer
+    is elaborating correctly based on common knowledge of what a star fall implies.
+    But since the background doesn't confirm the specifics, those could be hallucinations.\n
+    \nWait, the user instruction says: \"To evaluate a system answer that includes
+    statements not included in the gold answer, you need to look into the background
+    information. If the statements are true and relevant to the question, this is
+    ok/good. If the statements are not true (hallucinations), this should generally
+    lead to a lower rating.\"\n\nSo the background must be the source to check if
+    the added info is correct.\n\nThe background states for 106 v.BF: \"der Sternenfall
+    von Elem; Zerstörung der Mirhamer Flotte\"\n\nSo the event is called Sternenfall
+    von Elem, which caused the destruction. The system answer says it was the impact
+    of a glowing celestial body in Selem Bay, causing a tsunami that destroyed the
+    fleet, etc.\n\nBut the background doesn't mention Selem Bay, tsunami, or the other
+    damages. So those details are not in the background. Therefore, they might be
+    hallucinations.\n\nBut wait, maybe \"Sternenfall\" is a term that in Aventurian
+    lore refers to a specific event that includes those details. However, the background
+    given here only lists the name and the consequence (destruction of the fleet).
+    Since the background doesn't provide the additional details, the system answer
+    is adding information not present in the background. Therefore, those additions
+    are hallucinations.\n\nHowever, the system answer does correctly identify the
+    event as the cause (the impact leading to destruction), but the gold answer just
+    names the event. The question is asking for the event that led to the destruction,
+    so the correct answer is the name of the event: Sternenfall von Elem.\n\nThe system
+    answer doesn't mention \"Sternenfall von Elem\" at all. Instead, it describes
+    the event in detail but doesn't use the proper name. The gold answer is the proper
+    name. So the system answer is not providing the correct name, but instead a description.
+    However, maybe in the context, the description is equivalent. Wait, but the question
+    is \"Welches Ereignis...\" which means \"Which event...\", so the answer should
+    be the name of the event.\n\nLooking at the system answer: it says the event was
+    the impact of a celestial body in Selem Bay. But according to the background,
+    the event is called \"Sternenfall von Elem\". So the correct answer is the name,
+    not the description. The system answer does not state the name \"Sternenfall von
+    Elem\", which is the gold answer. Therefore, the system answer is incorrect because
+    it's not giving the name of the event, but instead a made-up description that
+    isn't confirmed by the background.\n\nWait, but maybe \"Sternenfall von Elem\"\
+    \ translates to \"Elem's Starfall\", which would be the name, and the system answer
+    is describing what the starfall was. However, the background lists \"Sternenfall
+    von Elem\" as the event name. So the correct answer is that name. The system answer
+    doesn't mention that name at all; it just describes the event. So it's not matching
+    the gold answer.\n\nTherefore, the system answer is contradicting the gold answer
+    because it provides a different answer (a descriptive event) instead of the named
+    event. Wait, but maybe in the lore, the Sternenfall von Elem is exactly that impact.
+    So if the system answer describes it correctly, even without the name, is it still
+    correct?\n\nBut the gold answer is \"Der Sternenfall von Elem.\" So the expected
+    answer is the name of the event. The system answer doesn't use that name, instead
+    giving a description. However, if the description is accurate and refers to the
+    same event, perhaps it's acceptable. But according to the background, the event
+    is named \"Sternenfall von Elem\", so the correct answer should be that name.\n
+    \nThe system answer's description: \"Einschlag eines glühenden Himmelskörpers
+    in die Bucht von Selem\" (impact of a glowing celestial body into Selem Bay).
+    The background says \"Sternenfall von Elem\". \"Sternenfall\" would be \"star
+    fall\", which is a meteor impact. So the description matches what Sternenfall
+    means. However, the location in the system answer is \"Bucht von Selem\", but
+    the event is called \"von Elem\", which might refer to the region of Elem. Maybe
+    Selem is part of Elem? The background mentions \"Reich der Wudu\" between 600-250
+    v.BF and \"Großsultanat Elem\" conquering Mirham around 250 v.BF. So Elem is a
+    region. Selem might be a place within Elem. However, the background doesn't mention
+    Selem Bay.\n\nSince the background doesn't confirm the location as Selem Bay,
+    the system answer is adding specific details not present. Therefore, those are
+    hallucinations.\n\nMoreover, the system answer says \"dieser meteorologische und
+    kosmische Unfall\" (this meteorological and cosmic accident). But a star fall
+    (meteor impact) is a cosmic event, but meteorological refers to weather, which
+    might not be accurate. However, the tsunami would be a result, but the cause is
+    cosmic. Maybe \"meteorologisch\" here is a mistake, but in German, \"meteorologisch\"\
+    \ specifically relates to weather, whereas \"meteoritisch\" would be meteor-related.
+    So that might be an error.\n\nBut the main issue is that the system answer does
+    not state the name of the event as given in the background and gold answer. Instead,
+    it provides a detailed description that includes unverified details (Selem Bay,
+    tsunami, etc.), which are not in the background. Therefore, the system answer
+    is hallucinating details and not providing the correct name.\n\nSince the gold
+    answer is the name \"Sternenfall von Elem\", and the system answer does not mention
+    this name at all, but instead describes an event with added incorrect details,
+    this would be a contradiction. Wait, but does it contradict? The system answer's
+    description might be referring to the same event but without using the proper
+    name. However, the question asks for the event name, so not providing the name
+    would be incorrect.\n\nFor example, if the question is \"What caused the destruction?\"\
+    , and the correct answer is \"The Starfall of Elem\", but the system says \"A
+    meteor impact in Selem Bay\", then if \"Starfall of Elem\" is the official name,
+    the system answer is not giving the name, hence incorrect.\n\nIn this case, the
+    gold answer is the name of the event, so the system should provide that name.
+    Since it doesn't, and instead gives a descriptive answer with extra details not
+    in the background, it's incorrect.\n\nTherefore, the system answer contradicts
+    the gold answer because it doesn't state the correct event name and adds unverified
+    information. So the rating should be 1.\n\nWait, but let's check again. The background
+    says for 106 v.BF: \"der Sternenfall von Elem; Zerstörung der Mirhamer Flotte\"\
+    . So the event is named Sternenfall von Elem, which caused the destruction. The
+    system answer describes the event as an impact causing a tsunami, which aligns
+    with what a starfall would be, but adds specifics not in the background.\n\nHowever,
+    the question is asking for the event that led to the destruction. The correct
+    answer is the name of the event. The system answer does not provide the name but
+    describes it. In some contexts, describing the event might be acceptable if it's
+    clear what it's referring to, but since the background gives the specific name,
+    the expected answer is that name.\n\nTherefore, the system answer is incorrect
+    because it doesn't mention \"Sternenfall von Elem\" and instead provides a detailed
+    description with hallucinated elements. So it contradicts the gold answer, which
+    is the name. Hence, rating 1.\n"
+  grade: 1
+  user_grade: 4
+- question: Geron des Einhändigen erlangte Berühmtheit durch Heldentaten. Welche besondere
+    Fähigkeit besaß die Bestie Harodia, die ihm bei der Bekämpfung große Schwierigkeiten
+    bereitete?
+  correct_answer: Die Bestie Harodia besaß eine geradezu dämonische Fähigkeit der
+    Regeneration, wodurch es Geron schwer fiel, sie zu besiegen.
+  inner_monologue: "<think>\nD’abord, je dois parcourir ce que je sais déjà sur la
+    demande de l’utilisateur. Il cherche à savoir quelle capacité particulière avait
+    la bête Harodia qui a causé beaucoup de difficultés à Gérôn lors de sa lutte contre
+    elle. \n\nJ’ai trouvé trois fragments dans les livres de lore : \n1. Dans le premier
+    fragment, il est mentionné qu’il y a eu une bataille entre Gérôn et les Trois
+    Sœurs Serpentines, mais pas directement avec Harodia.\n2. Le deuxième fragment
+    parle de Gérôm ayant vaincu une créature nommée Harodia, dont on dit qu’elle possédait
+    une capacité remarquable au rétablissement. C’est là que je trouve ma réponse
+    possible.\n3. Le troisième fragment décrit également cette victoire, confirmant
+    que Harodia avait une capacité exceptionnelle de régénération.\n\nCependant, pour
+    être certain, je devrais vérifier si d’autres textes ou sections fournissent plus
+    de détails sur cette capacité spécifique. Si nécessaire, je peux chercher davantage
+    en utilisant les outils fournis.\n</think>"
+  system_answer: Die Bestie Harodia besaß die bemerkenswerte Fähigkeit zur **Regeneration**,
+    was Geron beim Kampf gegen sie große Schwierigkeiten bereitete. Dies ist in dem
+    Fragment „#### Geron besiegt die Bestie Harodia“ erwähnt, wonach Geron den Fluch
+    der Bestie erst brechen konnte, indem er die Macht aller Götter zur Hilfe rief.
+    Diese Eigenschaft der Regelung macht Harodia besonders gefährlich und erklärt,
+    weshalb Geron zunächst erfolglos blieb.
+  related_chunk: G01-052
+  grade_reasoning: "Okay, let's see. I need to grade the system answer based on the
+    given criteria. First, I'll check if the system answer contradicts the gold answer.
+    The gold answer says Harodia had a \"geradezu dämonische Fähigkeit der Regeneration,\"\
+    \ which translates to a demonic regeneration ability. The system answer states
+    \"Regeneration\" as the ability, which matches. So no contradiction there.\n\n
+    Next, does the system answer include all necessary details from the gold answer?
+    The gold answer mentions the regeneration making it hard for Geron to defeat her.
+    The system answer says the same, so that's covered.\n\nNow, the system answer
+    adds extra info: it refers to the fragment \"Geron besiegt die Bestie Harodia\"\
+    \ and mentions that Geron had to call all gods' power to break the curse. Also,
+    it says \"Regelung\" instead of \"Regeneration\" once. Wait, \"Regelung\" is a
+    typo for \"Regeneration\"? Let me check the background info. The background says
+    \"geradezu dämonische Fähigkeit der Regeneration\" and \"diesen Fluch – nach drei
+    vergeblichen Angriffen... erst brechen, als er die Macht aller Götter zur Hilfe
+    rief.\" So the part about calling all gods is correct according to the background.
+    However, the system answer says \"Regelung\" once, which is a misspelling of \"\
+    Regeneration.\" But maybe it's a typo. Also, the system answer mentions \"diese
+    Eigenschaft der Regelung\" which should be \"Regeneration.\" That's an error.\n
+    \nBut the main point is whether the additional info is correct. The background
+    confirms that Geron needed the gods' help after three failed attempts, so that's
+    accurate. The typo might be a minor issue. The gold answer doesn't include the
+    part about the gods, but since the background supports it, it's correct info.
+    However, the question is about the special ability that caused difficulties, which
+    is regeneration. The system answer correctly identifies regeneration as the ability
+    and adds context that's true per background. The typo might be a hallucination
+    or just a spelling mistake. Since the key point is correct and the extra info
+    is accurate, maybe the typo doesn't lower the grade much. But the gold answer
+    doesn't mention the gods part, but the system answer includes it as part of explaining
+    why regeneration was a problem. The guidelines say if extra info is true and relevant,
+    it's okay. The gods part is relevant to how he overcame the regeneration, so it's
+    good. However, the typo \"Regelung\" is incorrect. Wait, in the system answer:
+    \"Diese Eigenschaft der Regelung macht Harodia besonders gefährlich...\" \"Regelung\"\
+    \ is German for \"regulation\" or \"adjustment,\" which is wrong here. It should
+    be \"Regeneration.\" So that's a factual error. The background says \"Regeneration,\"\
+    \ so the system answer misspelled it as \"Regelung,\" which is a hallucination
+    or typo. That's a mistake. So the system answer has a factual error here. \n\n
+    So the main points: correct on the regeneration ability (matches gold answer),
+    adds correct info about the gods from background, but has a typo/error in \"Regelung.\"\
+    \ The question is whether that error is significant. The gold answer's key point
+    is the regeneration ability. The system answer gets that right but misspells it
+    once. However, in the same sentence, it says \"Fähigkeit zur Regeneration\" correctly.
+    Then later uses \"Regelung,\" which is wrong. So that's a hallucination. According
+    to the guidelines, hallucinations should lower the rating. \n\nSo the system answer
+    has a correct main point but includes a hallucinated term (\"Regelung\") which
+    is incorrect. Also, the extra info about the gods is correct per background, so
+    that's good. But the typo/error in \"Regelung\" is a problem. How severe is that?
+    The question is about the special ability, which is regeneration. The system answer
+    does state regeneration correctly first, but then uses the wrong term. Maybe it's
+    a typo, but in evaluation, we have to treat it as a hallucination. \n\nThe gold
+    answer is correct. The system answer mostly correct but has one error. So it's
+    not contradicting the gold answer entirely, but has an inaccuracy. According to
+    the guidelines, if it doesn't include all necessary details but isn't completely
+    wrong, rating 2-4. But here, it does include the necessary detail (regeneration),
+    but adds some correct info and one incorrect term. The error is in a part that's
+    additional, not the main answer. The main answer part is correct. The hallucination
+    is in the extra explanation. \n\nThe guidelines say: \"If the statements are not
+    true (hallucinations), this should generally lead to a lower rating.\" So even
+    if the main answer is correct, a hallucination in extra info lowers the rating.
+    The highest rating is 5 for including all relevant info without errors. Here,
+    there's a hallucination (\"Regelung\"), so it can't be 5. How much does it affect?
+    The main answer is correct, but there's an error in the added context. So maybe
+    a 4? Because the core answer is correct, extra info is mostly correct except for
+    one error. Or maybe a 3 if the error is significant. \n\nWait, the system answer
+    says: \"Diese Eigenschaft der Regelung macht Harodia besonders gefährlich...\"\
+    \ So they used \"Regelung\" instead of \"Regeneration.\" That's a clear mistake.
+    Since the background says \"Regeneration,\" this is a hallucination. Even though
+    the first part correctly states \"Regeneration,\" the later error might confuse.
+    However, the key part of the answer (the ability) is correct. The question is
+    asking for the special ability, which the system answer correctly identifies as
+    regeneration. The error is in an additional statement. So perhaps the error is
+    minor, but still a hallucination. \n\nIn grading, if the main answer is correct
+    but there's a hallucination in extra info, the rating would be 4 instead of 5.
+    Because the guidelines say \"includes all relevant information... should get 5\"\
+    . If there's a hallucination, even in extra info, it's not perfect. So 4 might
+    be appropriate. Alternatively, if the hallucination is significant, maybe 3. But
+    the core answer is correct. Let me check the guidelines again.\n\n\"A system answer
+    that includes all relevant information to answer the question should get the highest
+    rating (5)\" — the system answer does include the relevant info (regeneration),
+    but adds extra correct info (gods part) and one incorrect term. However, the incorrect
+    term is part of the explanation. Since the question only asks for the special
+    ability, the extra info isn't necessary, but the error in it might not affect
+    the main answer. Wait, the gold answer only mentions the regeneration ability.
+    The system answer correctly states that, but adds more. The error is in the added
+    part. So the main answer is correct, the extra has a mistake. The guidelines say
+    that hallucinations in extra statements lower the rating. So even if the main
+    answer is correct, a hallucination would prevent a 5. So possible ratings: 4 if
+    the hallucination is minor, 3 if it's more severe.\n\nIn this case, \"Regelung\"\
+    \ instead of \"Regeneration\" is a clear error, but it's in the explanatory part.
+    The key fact (the ability is regeneration) is correct. So maybe 4. Because the
+    answer to the question is correct, and the extra info has a minor error. Alternatively,
+    since \"Regelung\" is a different word, it's a significant error. But the system
+    answer does correctly state the ability as regeneration first. The mistake is
+    in a subsequent sentence. So perhaps the error is a typo but still a hallucination.
+    The evaluators might consider that a 4.\n"
+  grade: 4
+  user_grade: 5
+- question: Welche Kultgemeinschaft erlebte durch die Entdeckung einer leuchtenden
+    Kugel im Jahr 796 in Altaïa eine Blütezeit?
+  correct_answer: Durch die Entdeckung der Kugel erlebte der Hesinde-Kult eine Blütezeit,
+    da viele Gläubige und Ratsuchende nach Altaïa kamen.
+  inner_monologue: "<think>\nD’abord, je dois parcourir ce que je sais déjà sur la
+    demande de l’utilisateur. Il cherche à savoir quelle communauté religieuse a connu
+    une période florissante après la découverte d’une balle lumineuse en 796 dans
+    Altaïa. Je dispose déjà de quelques informations via les outils fournis :\n\n
+    Dans le premier résultat trouvé, il est mentionné qu’il y avait une « lumière
+    éternelle » associée aux temples de Praios, mais pas spécifiquement liée à Altaïa
+    ou à 796. Dans le second texte, on apprend que dans le village d’Altaïa, une balle
+    brillante fut trouvée en 796, qui était gardée dans le temple d’Hésinde. C’est
+    là probablement la réponse : c’était la communauté religieuse d'Hésinde qui a
+    bénéficié de cette découverte. Mais pour être sûr, il faudrait vérifier si d'autres
+    textes confirment cela. Si nécessaire, je peux chercher davantage avec les outils
+    disponibles.\n</think>"
+  system_answer: Die Kultgemeinschaft, die durch die Entdeckung einer leuchtenden
+    Kugel im Jahr 796 in Altaïa eine Blütezeit erlebte, war die **Hesinde-Kultgemeinschaft**.
+    Dies geht aus dem Text hervor, der erwähnt, dass in den Minen von Altaïa eine
+    grün leuchtende, magische Kugel gefunden wurde, die danach im Hesinde-Tempel der
+    Stadt aufbewahrt wurde. Diese Kugel spielte eine zentrale Rolle für das Wirken
+    der Hesinde-Anbetung in Altaïa.
+  related_chunk: G01-077
+  grade_reasoning: "Okay, let's see. The question is asking which religious community
+    experienced a flourishing period due to the discovery of a glowing orb in Altaïa
+    in the year 796.\n\nThe gold answer states that it was the Hesinde cult because
+    many believers and seekers came to Altaïa after the orb's discovery.\n\nThe system
+    answer says it was the Hesinde religious community, referencing the text where
+    a green glowing magical orb was found in Altaïa's mines and kept in the Hesinde
+    temple. It also mentions the orb played a central role in Hesinde worship there.\n
+    \nLooking at the background info: In 796, a green glowing magical orb was found
+    in Altaïa's mines, stored in the Hesinde temple. Along with Hesinde's oracle,
+    it attracted many believers and seekers, causing the cult around the Altaïa oracle
+    to flourish.\n\nThe system answer correctly identifies the Hesinde cult. It adds
+    details about the orb being green, stored in the temple, and central to worship.
+    The background confirms the green orb, storage in the temple, and that it attracted
+    believers. The gold answer mentions the cult's flourishing due to people coming,
+    which the background supports. The system answer's extra details are accurate
+    per the background. No contradictions, all info aligns. So it should get a 5.\n"
+  grade: 5
+  user_grade: 5

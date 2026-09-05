@@ -1,0 +1,495 @@
+- question: Welche militärische Einheit ist auf der Insel Bilku, in der Siedlung Neu-Bosparan
+    stationiert und wer hat dort das Kommando?
+  correct_answer: Auf der Insel Bilku, in der Siedlung Neu-Bosparan ist eine Kompanie
+    (strafversetzter) Horasgardisten stationiert, die unter dem Kommando von Cavalliera
+    Nurim ya Balesh steht.
+  inner_monologue: ''
+  system_answer: Auf der Insel Bilku, in der Siedlung Neu-Bosparan, ist eine **Kompanie
+    (strafversetzter) Horasgardisten** stationiert. Das Kommando darüber hat **Cavalliera
+    Nurim ya Balesh**, die auch als „trunksüchtige“ Offizierin beschrieben wird. Ihre
+    Einheit zeichnet sich durch Brünnen, Banner und fein ziselierte Prunkhellebarden
+    aus, was ein deutliches politisches Zeichen des Alten Reiches darstellt.
+  related_chunk: G01-424
+  grade_reasoning: "Okay, let's see. I need to grade the system answer based on the
+    given criteria. First, I'll check if the system answer contradicts the gold answer.
+    The gold answer says there's a company of (punished) Horasgardists stationed there
+    under Cavalliera Nurim ya Balesh.\n\nThe system answer states: \"Eine Kompanie
+    (strafversetzter) Horasgardisten stationiert. Das Kommando darüber hat Cavalliera
+    Nurim ya Balesh, die auch als „trunksüchtige“ Offizierin beschrieben wird. Ihre
+    Einheit zeichnet sich durch Brünnen, Banner und fein ziselierte Prunkhellebarden
+    aus, was ein deutliches politisches Zeichen des Alten Reiches darstellt.\"\n\n
+    Comparing to the gold answer, the main points are correct: the unit is the Horasgardists
+    company under Nurim. The system answer adds that she's described as \"trunksüchtige\"\
+    \ (alcoholic) and details about the unit's appearance (Brünnen, Banner, Prunkhellebarden)
+    as a political symbol.\n\nNow, check the background info. The background says:
+    \"die trunksüchtige Cavalliera Nurim ya Balesh kommandiert hier immerhin eine
+    ganze Kompanie (strafversetzter) Horasgardisten, deren Brünnen, Banner und fein
+    ziselierten Prunkhellebarden ein deutliches politisches Zeichen des Alten Reiches
+    setzen.\"\n\nSo the additional info in the system answer (trunksüchtige, Brünnen,
+    Banner, etc.) is all present in the background. Therefore, those are correct and
+    relevant. The system answer includes all the gold answer's info plus accurate
+    extra details from the background. No contradictions, no hallucinations. So it
+    should get a 5.\n"
+  grade: 5
+  user_grade: 5
+- question: In welchem Jahrhundert wurde die Silem-Horas-Straße bis nach Port Corrad
+    verlängert?
+  correct_answer: Im 7. Jahrhundert.
+  inner_monologue: ''
+  system_answer: Die Silem-Horas-Straße wurde im 1. Jahrhundert nach Christus bis
+    nach Port Corrad verlängert.
+  related_chunk: G01-375
+  grade_reasoning: "Okay, let me try to figure out how to grade this system answer.
+    So the question is asking in which century the Silem-Horas-Straße was extended
+    to Port Corrad.\n\nFirst, looking at the gold answer: it says \"Im 7. Jahrhundert.\"\
+    \ Which translates to \"In the 7th century.\" But wait, the background information
+    uses BF (Before Founding, probably of the Empire or something in Aventuria). The
+    background lists events with years like 632 BF, ca. 650, 903 BF, etc.\n\nThe key
+    point here is the date for the extension of the road: \"ca. 650\" which is approximately
+    650 BF. Now, converting that to a century. If it's 650 BF, how does that translate
+    to a century? In historical terms, centuries are counted as, for example, 1-100
+    AD is 1st century, 101-200 is 2nd, etc. But BF would be Before Founding, so it's
+    a different era.\n\nWait, but the gold answer says \"7. Jahrhundert\" (7th century).
+    Let's see: if 650 BF is the year, then the century would be calculated as (650
+    / 100) +1? Wait, 650 BF would be the 7th century BF? Because 700-601 BF would
+    be the 7th century BF. So 650 is in the 7th century BF. So the gold answer is
+    correct as \"7. Jahrhundert\" in the context of BF.\n\nBut the system answer says
+    \"im 1. Jahrhundert nach Christus\". Wait, \"nach Christus\" is AD. So the system
+    answer is mixing BF and AD? That's a problem. Because the background uses BF,
+    not AD. The system answer is converting BF to AD, which is incorrect because BF
+    is a different calendar system in Aventuria. The question is about the century
+    in the in-universe calendar (BF), not real-world AD.\n\nWait, the background information
+    has years like 632 BF, ca. 650 (which is probably 650 BF), 903 BF, etc. The \"\
+    ca. 650\" is the year when the road was extended. So 650 BF. To find the century:
+    in the BF system, the centuries would be counted backwards. So 700-601 BF is the
+    7th century BF. Therefore, 650 BF is in the 7th century BF. So the gold answer
+    \"Im 7. Jahrhundert\" refers to the 7th century BF.\n\nBut the system answer says
+    \"im 1. Jahrhundert nach Christus\". That's a big mistake because it's using AD
+    instead of BF. The system answer is placing the event in 1-100 AD, which is completely
+    wrong because the background says it's around 650 BF. So the system answer is
+    contradicting the gold answer and the background information. The correct answer
+    is 7th century BF, but the system says 1st century AD, which is a hallucination.
+    Therefore, this should be rated as 1 because it's contradicting the gold answer.\n"
+  grade: 1
+  user_grade: 1
+- question: Welche Namensgebungstradition ist bei den Kemi üblich, wenn es um Familiennamen
+    geht?
+  correct_answer: Bei den Kemi sind Nachnamen ungebräuchlich. Stattdessen wird oft
+    der Herkunftsort an den Namen angehängt.
+  inner_monologue: ''
+  system_answer: Bei den Kemi sind traditionelle Familiennamen selten. Oft wird statt
+    dessen der Ort angefügt, aus dem die Person stammt, z.B. „Kerret Ni Náareb“ oder
+    „Nesereka Ni Biazzan“. Nur einflussreiche, alte Familien verbände führen regelrechte
+    Nachnamen. Bekannte Beispiele sind „Pâestumai“ oder „Mes’kha-rê“. Es können auch
+    Mischformen auftreten, bei denen Vornamen und Nachnamen anderer Kulturen verwendet
+    werden.
+  related_chunk: G01-267
+  grade_reasoning: "Okay, let's tackle this evaluation. So, the question is about
+    the naming tradition of the Kemi regarding family names.\n\nFirst, the gold answer
+    says that among the Kemi, surnames are uncommon. Instead, they often append the
+    place of origin to the name, like \"Kerret Ni Náareb\" or \"Nesereka Ni Biazzan\"\
+    . \n\nThe system answer states that traditional family names are rare, and instead,
+    the place of origin is added. It gives examples like \"Kerret Ni Náareb\" and
+    \"Nesereka Ni Biazzan\". Then it adds that only influential, old family groups
+    have actual surnames, with examples like \"Pâestumai\" or \"Mes’kha-rê\". It also
+    mentions mixed forms using names from other cultures.\n\nNow, checking the background
+    info: It confirms that surnames are uncommon, and they append the place of origin.
+    It says only influential, old family groups have surnames, like the examples given
+    (Pâestumai, Mes’kha-rê). Also mentions mixed forms with names from other cultures.\n
+    \nSo the system answer matches the background info. The gold answer didn't mention
+    the part about influential families having surnames or mixed forms, but the system
+    answer includes that. However, since the background info confirms those points
+    are true, the extra info in the system answer is correct and relevant. \n\nThe
+    question is specifically about family name traditions. The gold answer says surnames
+    are uncommon and place of origin is added. The system answer adds that some families
+    do have surnames and mixed forms. Since the background info supports this, the
+    system answer is more complete but still accurate. \n\nThe guidelines say if the
+    system answer includes true and relevant info not in the gold answer, it's okay.
+    The gold answer might be a simplified version, but the system answer provides
+    additional correct details. Therefore, it should get a high rating. Since it includes
+    all necessary info from the gold answer plus correct additional info, it's a 5.\n"
+  grade: 5
+  user_grade: 5
+- question: Welche besonderen Geister der Verwirrung können Schamanen der Utulus beschwören,
+    und woher stammt dieses Wissen?
+  correct_answer: Schamanen der Utulus können Karungi und Gotongi beschwören. Dieses
+    Wissen stammt jedoch aus altechsischer Dämonologie und die Geister gehören zum
+    Gefolge des Erzdämonen Amazeroth.
+  inner_monologue: ''
+  system_answer: "Die Schamanen der Utulus können **Karungi** und **Gotongi**, die
+    Geister der Verwirrung, beschwören. Dieses Wissen stammt aus der **altechsischen
+    Dämonologie**. \n\nWenn du weitere Details zu diesen Geistern oder ihrer Rolle
+    in der utulischem Mythologie suchst, kann ich nach zusätzlichen Quellen suchen.
+    Möchtest du das?"
+  related_chunk: G01-516
+  grade_reasoning: "Okay, let's see. I need to grade the system answer based on the
+    given criteria.\n\nFirst, the question is asking which special spirits of confusion
+    the Utulus shamans can summon and where this knowledge comes from.\n\nThe gold
+    answer states: Schamanen der Utulus können Karungi und Gotongi beschwören. Dieses
+    Wissen stammt jedoch aus altechsischer Dämonologie und die Geister gehören zum
+    Gefolge des Erzdämonen Amazeroth.\n\nSo the correct answer should mention both
+    spirits (Karungi and Gotongi), that the knowledge comes from altechsian demonology,
+    and that the spirits are part of Amazeroth's entourage.\n\nNow the system answer
+    says: Die Schamanen der Utulus können **Karungi** und **Gotongi**, die Geister
+    der Verwirrung, beschwören. Dieses Wissen stammt aus der **altechsischen Dämonologie**.
+    \n\nThen there's an extra part: \"Wenn du weitere Details zu diesen Geistern oder
+    ihrer Rolle in der utulischem Mythologie suchst, kann ich nach zusätzlichen Quellen
+    suchen. Möchtest du das?\"\n\nLooking at the background info: It says \"Die Schamanen
+    der Utulus können die Karungi und Gotongi, die Geister der Verwirrung, rufen.
+    In Wirklichkeit handelt es sich hierbei um altechsische Dämonologie und bei den
+    Geistern um Gefolge des Erzdämonen Amazeroth.\"\n\nSo the background confirms
+    that the knowledge is from altechsian demonology and the spirits are part of Amazeroth's
+    entourage.\n\nThe system answer correctly mentions Karungi and Gotongi as the
+    spirits of confusion, and that the knowledge comes from altechsian demonology.
+    However, the gold answer also includes that the spirits belong to Amazeroth's
+    entourage, which the system answer omits. \n\nWait, the system answer stops after
+    mentioning the source as altechsische Dämonologie. The gold answer adds \"und
+    die Geister gehören zum Gefolge des Erzdämonen Amazeroth.\" So the system answer
+    is missing that part.\n\nBut the background info says \"In Wirklichkeit handelt
+    es sich hierbei um altechsische Dämonologie und bei den Geistern um Gefolge des
+    Erzdämonen Amazeroth.\" So the system answer didn't include the part about Amazeroth.\n
+    \nHowever, the system answer also has an extra sentence offering to search for
+    more details. The guidelines say that if the system answer includes statements
+    not in the gold answer, check if they're true based on background info.\n\nThe
+    extra part in the system answer is: \"Wenn du weitere Details zu diesen Geistern
+    oder ihrer Rolle in der utulischem Mythologie suchst, kann ich nach zusätzlichen
+    Quellen suchen. Möchtest du das?\"\n\nThe background info doesn't mention anything
+    about \"utulischem Mythologie\" (probably a typo for utulus). The correct term
+    from the background is \"Utulus\". The system answer says \"utulischem\", which
+    might be a misspelling. But the main point is, the system is offering to look
+    for more sources, which isn't part of the answer. However, the guidelines say
+    that if the additional info is true and relevant, it's okay. But this part is
+    just an offer to search more, not factual content. So maybe it's neutral.\n\n
+    But the main issue is the missing part about Amazeroth. The gold answer includes
+    that the spirits are part of Amazeroth's entourage, but the system answer doesn't
+    mention that. So the system answer is incomplete.\n\nAccording to the guidelines:
+    \"A system answer that does not include all necessary details given in the gold
+    answer but is not completely wrong as well should get a rating between 2 and 4.\"\
+    \n\nThe system answer has the correct spirits and the source (altechsische Dämonologie),
+    but misses the Amazeroth part. So it's missing a key detail from the gold answer.\n
+    \nIn the background info, it's stated that the spirits are part of Amazeroth's
+    entourage, so the gold answer is correct in including that. The system answer
+    omitted that part.\n\nTherefore, the system answer is partially correct but missing
+    a necessary detail. So it should be a 3 or 4?\n\nThe guidelines say: \"A system
+    answers that includes all relevant information to answer the question should get
+    the highest rating (5)\".\n\nSince it's missing the Amazeroth part, which is in
+    the gold answer and confirmed by the background, it's not including all relevant
+    info.\n\nThe question asks \"woher stammt dieses Wissen?\" The gold answer says
+    it's from altechsische Dämonologie AND the spirits are part of Amazeroth's entourage.
+    Wait, the \"woher stammt\" refers to the knowledge, which is from altechsische
+    Dämonologie. The part about the spirits belonging to Amazeroth is additional info
+    explaining the nature of the knowledge.\n\nWait, the question is: \"Welche besonderen
+    Geister der Verwirrung können Schamanen der Utulus beschwören, und woher stammt
+    dieses Wissen?\"\n\nSo two parts: 1) which spirits, 2) where does the knowledge
+    come from.\n\nThe gold answer says the knowledge comes from altechsische Dämonologie,
+    and adds that the spirits are part of Amazeroth's entourage. So the \"woher stammt\"\
+    \ is answered by \"altechsische Dämonologie\", and the additional info is about
+    the spirits' origin.\n\nBut the system answer correctly answers both parts: lists
+    the spirits and says the knowledge is from altechsische Dämonologie. However,
+    the gold answer includes an extra detail that the spirits are part of Amazeroth's
+    entourage. Is that part of answering \"woher stammt dieses Wissen\"?\n\nThe question
+    is \"woher stammt dieses Wissen?\" (where does this knowledge come from). The
+    gold answer says the knowledge comes from altechsische Dämonologie, and then adds
+    that the spirits are part of Amazeroth's entourage. So the \"stammt aus\" is correctly
+    answered by altechsische Dämonologie, and the rest is additional context.\n\n
+    Wait, the gold answer structure: \"Dieses Wissen stammt jedoch aus altechsischer
+    Dämonologie und die Geister gehören zum Gefolge des Erzdämonen Amazeroth.\"\n\n
+    So it's two separate statements: the knowledge comes from altechsische Dämonologie,
+    and the spirits are part of Amazeroth's entourage.\n\nThe question asks \"woher
+    stammt dieses Wissen?\" so the answer to that part is \"altechsische Dämonologie\"\
+    . The part about the spirits being Amazeroth's entourage is additional information
+    that explains the nature of the knowledge, but is it required for the answer?\n
+    \nThe background info says: \"In Wirklichkeit handelt es sich hierbei um altechsische
+    Dämonologie und bei den Geistern um Gefolge des Erzdämonen Amazeroth.\"\n\nSo
+    the knowledge being from altechsische Dämonologie implies that the spirits are
+    part of Amazeroth's entourage. But the gold answer includes both parts.\n\nThe
+    system answer only includes the first part (knowledge from altechsische Dämonologie)
+    but not the second (spirits are Amazeroth's entourage). However, the question
+    is asking for where the knowledge comes from, so maybe the second part is extra.
+    Wait, but the gold answer includes it, so according to the problem statement,
+    the system answer must include all relevant information from the gold answer.\n
+    \nThe gold answer has two sentences: first about the spirits, second about the
+    knowledge source and the spirits' origin.\n\nWait, the gold answer is: \"Schamanen
+    der Utulus können Karungi und Gotongi beschwören. Dieses Wissen stammt jedoch
+    aus altechsischer Dämonologie und die Geister gehören zum Gefolge des Erzdämonen
+    Amazeroth.\"\n\nSo the second sentence has two parts connected by \"und\": the
+    knowledge comes from altechsische Dämonologie, and the spirits belong to Amazeroth.\n
+    \nTherefore, both parts are part of the answer to the question. The question has
+    two parts: which spirits, and where the knowledge comes from. But the \"where
+    the knowledge comes from\" is answered by \"altechsische Dämonologie\", and the
+    \"and the spirits belong to...\" is additional info that's part of the gold answer.\n
+    \nBut does the question require that additional info? The question is \"woher
+    stammt dieses Wissen?\" which is \"where does this knowledge come from?\" So the
+    direct answer is \"altechsische Dämonologie\". The part about the spirits being
+    Amazeroth's entourage is explaining why it's from there, but perhaps it's considered
+    part of the complete answer.\n\nGiven that the gold answer includes it, the system
+    answer must include it to get a 5. Since the system answer omits that part, it's
+    missing a detail from the gold answer.\n\nAdditionally, the system answer has
+    an extra sentence offering to search for more details. The background info doesn't
+    mention anything about offering to search, so that's not factual content. But
+    it's not a hallucination; it's just a prompt. However, the guidelines say that
+    if the system answer includes statements not in the gold answer, check if they're
+    true. In this case, the extra sentence isn't a factual statement but a conversational
+    offer, so maybe it's neutral.\n\nSo the main issue is the missing part about Amazeroth.
+    The system answer has the correct spirits and the source of knowledge, but not
+    the connection to Amazeroth.\n\nAccording to the guidelines: \"A system answer
+    that does not include all necessary details given in the gold answer but is not
+    completely wrong as well should get a rating between 2 and 4.\"\n\nSince the system
+    answer has the main points but misses a detail that's in the gold answer and confirmed
+    by background, it's a 4? Or 3?\n\nThe gold answer's second part is \"Dieses Wissen
+    stammt jedoch aus altechsischer Dämonologie und die Geister gehören zum Gefolge
+    des Erzdämonen Amazeroth.\" So both clauses are part of the answer. The system
+    answer only includes the first clause of that sentence.\n\nTherefore, the system
+    answer is incomplete. It has the correct spirits and the source, but not the Amazeroth
+    part.\n\nIn the background, it's stated that \"In Wirklichkeit handelt es sich
+    hierbei um altechsische Dämonologie und bei den Geistern um Gefolge des Erzdämonen
+    Amazeroth.\" So both parts are true.\n\nSince the system answer omitted the Amazeroth
+    part, which is part of the gold answer and true per background, it's missing a
+    necessary detail.\n\nHow critical is that detail? The question asks where the
+    knowledge comes from. The answer is altechsische Dämonologie, but the gold answer
+    adds that the spirits are part of Amazeroth's entourage. Is that part of explaining
+    the source? Maybe the source being altechsische Dämonologie inherently includes
+    that the spirits are Amazeroth's, but the gold answer explicitly states it.\n\n
+    Given that the gold answer includes it, the system answer should too for a 5.
+    Since it's missing, it's not a 5.\n\nIs it a 4 or 3? The guidelines say 5 is for
+    including all relevant info. 4 might be for minor omissions. Since the Amazeroth
+    part is a key detail (as per background, it's part of the reality), omitting it
+    makes the answer incomplete but not wrong.\n\nSo rating 4: includes most relevant
+    info but misses a detail.\n\nWait, another angle: the system answer says \"Dieses
+    Wissen stammt aus der altechsischen Dämonologie.\" The gold answer says \"Dieses
+    Wissen stammt jedoch aus altechsischer Dämonologie und die Geister gehören zum
+    Gefolge des Erzdämonen Amazeroth.\"\n\nSo the system answer stops at the source,
+    but the gold answer adds the Amazeroth part. Since the background confirms both,
+    the system answer is correct but incomplete.\n\nIn grading, if the answer has
+    all necessary info to answer the question, it's 5. The question is \"where does
+    this knowledge come from?\" The direct answer is altechsische Dämonologie. The
+    Amazeroth part is additional context. However, the gold answer includes it, so
+    according to the task, the system answer must match the gold answer's content.\n
+    \nThe task says: \"A system answers that includes all relevant information to
+    answer the question should get the highest rating (5)\".\n\nBut the gold answer
+    includes more than just the direct answer. The relevant information for the question
+    might be just the source (altechsische Dämonologie), but the gold answer adds
+    the Amazeroth part as part of the answer.\n\nGiven that the background info states
+    both, and the gold answer includes both, the system answer should include both
+    to be fully correct.\n\nSince the system answer misses the Amazeroth part, it's
+    not including all relevant info from the gold answer. So it's a 4.\n\nAdditionally,
+    the system answer has that extra sentence. The guidelines say if the additional
+    statements are true and relevant, it's okay. The extra sentence is not factual
+    content but an offer to search, which isn't in the background. However, it's not
+    a hallucination of facts, just a conversational prompt. So it doesn't lower the
+    grade.\n\nSo main issue is missing Amazeroth part. So rating 4.\n"
+  grade: 4
+  user_grade: 5
+- question: Wie groß können die Tentakel der Hüterin des Meeres, H’Arthria-Letha,
+    angeblich werden?
+  correct_answer: Ihre nesselbesetzten Tentakel können eine Länge von mehreren Hundert
+    Schritten erreichen.
+  inner_monologue: ''
+  system_answer: Die Tentakel der Hüterin des Meeres, H’Arthria-Letha, sollen eine
+    Länge von „viele[n] Hundert Schritten“ erreichen. Dies gibt zwar keine exakte
+    Zahl an, lässt jedoch darauf schließen, dass es sich um extrem lange Tentakel
+    handelt. Falls du weitere Details suchst, könnte ich gerne weitere Forschungen
+    starten. Möchtest du das?
+  related_chunk: G01-711
+  grade_reasoning: "Okay, let's see. The question is asking how long the tentacles
+    of H’Arthria-Letha, the Guardian of the Sea, are said to become.\n\nThe gold answer
+    states: \"Ihre nesselbesetzten Tentakel können eine Länge von mehreren Hundert
+    Schritten erreichen.\" Which translates to \"Her stinging tentacles can reach
+    a length of several hundred steps.\"\n\nThe system answer says: \"Die Tentakel
+    der Hüterin des Meeres, H’Arthria-Letha, sollen eine Länge von „viele[n] Hundert
+    Schritten“ erreichen. Dies gibt zwar keine exakte Zahl an, lässt jedoch darauf
+    schließen, dass es sich um extrem lange Tentakel handelt. Falls du weitere Details
+    suchst, könnte ich gerne weitere Forschungen starten. Möchtest du das?\"\n\nLooking
+    at the background info: \"Ihre nesselbesetzten Tentakel sollen eine Länge von
+    vielen Hundert Schritten erreichen.\" So the background says \"vielen Hundert
+    Schritten\".\n\nThe gold answer uses \"mehreren Hundert Schritten\" which is \"\
+    several hundred steps\", while the system answer quotes \"viele[n] Hundert Schritten\"\
+    \ (\"many hundred steps\"). The difference between \"mehreren\" (several) and
+    \"vielen\" (many) is subtle, but in German, \"mehreren\" is more like \"a few\"\
+    \ or \"several\", whereas \"vielen\" is \"many\". However, the background info
+    says \"vielen\", so the system answer is correctly quoting the background. The
+    gold answer uses \"mehreren\", which is slightly different but might be considered
+    equivalent in this context.\n\nWait, the gold answer is supposed to be the correct
+    answer based on the background. Let me check again. The background says \"vielen
+    Hundert Schritten\". The gold answer says \"mehreren Hundert Schritten\". Hmm,
+    so there's a discrepancy here. But maybe \"mehreren\" and \"vielen\" are used
+    interchangeably here. However, the system answer directly quotes the background's
+    \"vielen Hundert Schritten\", which is accurate. The gold answer uses \"mehreren\"\
+    , which might be a slight variation but still correct. Wait, but the task is to
+    grade the system answer against the gold answer. The gold answer is given as correct,
+    so if the system answer differs, even if it's accurate according to the background,
+    but the gold answer is the standard.\n\nWait, the user says: \"The gold answer
+    is the correct answer to the question.\" So even if the background says \"vielen\"\
+    , if the gold answer says \"mehreren\", then the correct answer is \"mehreren\"\
+    . But looking at the background info provided here, it's \"vielen Hundert Schritten\"\
+    . Wait, let me check the background info again.\n\nBackground info: \"Ihre nesselbesetzten
+    Tentakel sollen eine Länge von vielen Hundert Schritten erreichen.\"\n\nGold answer:
+    \"mehreren Hundert Schritten\"\n\nSo the background says \"vielen\", gold answer
+    says \"mehreren\". That's a conflict. But perhaps in the context of the question,
+    \"mehreren\" and \"vielen\" are considered equivalent enough. Or maybe the gold
+    answer is a paraphrase. However, the system answer uses \"vielen\", which matches
+    the background exactly. But the gold answer uses \"mehreren\". So does that mean
+    the system answer is correct because it's matching the background, but the gold
+    answer is a slightly different phrasing?\n\nWait, the user instructions say: \"\
+    The gold answer is the correct answer to the question.\" So regardless of the
+    background, the gold answer is the standard. But the background is provided to
+    check if the system answer has hallucinations.\n\nWait, the task is: use the background
+    info to check if the system answer's additional info is correct. The system answer
+    should match the gold answer in the relevant parts.\n\nThe question is about the
+    length of the tentacles. The gold answer says \"mehreren Hundert Schritten\".
+    The system answer says \"vielen Hundert Schritten\". The background says \"vielen\"\
+    . So the system answer is correct according to the background, but the gold answer
+    uses a different word. However, in German, \"mehreren\" (several) and \"vielen\"\
+    \ (many) are similar but not exactly the same. However, in this context, maybe
+    they are considered equivalent. Alternatively, maybe the gold answer is a mistake,
+    but according to the problem statement, the gold answer is correct.\n\nWait, perhaps
+    \"mehreren\" here is a mistranslation or misstatement. But according to the problem
+    setup, the gold answer is the correct one. So if the system answer says \"vielen\"\
+    \ instead of \"mehreren\", is that a contradiction?\n\nWait, looking at the German
+    words: \"mehreren\" is the dative plural of \"mehrere\", meaning \"several\".
+    \"Vielen\" is dative plural of \"viele\", meaning \"many\". So \"mehreren Hundert
+    Schritten\" vs \"vielen Hundert Schritten\". The difference is \"several hundred\"\
+    \ vs \"many hundred\". Depending on context, these could be considered similar,
+    but \"many\" might imply a larger number than \"several\". However, in the background
+    info, it's \"vielen\", so the correct answer should be \"vielen\". But the gold
+    answer says \"mehreren\". This is confusing.\n\nWait, perhaps there's a typo in
+    the gold answer. But according to the problem statement, the gold answer is correct.
+    So maybe in the context of Aventuria lore, \"mehreren\" is the intended term,
+    even if the background says \"vielen\". Or perhaps the background info provided
+    here has a typo. But as per the given data, the background says \"vielen\", gold
+    answer says \"mehreren\".\n\nThe system answer uses \"vielen\", which matches
+    the background. But the gold answer uses \"mehreren\". So does that mean the system
+    answer is incorrect because it doesn't match the gold answer? But according to
+    the background, the system answer is correct. However, the instructions say: \"\
+    A system answer contradicting the gold answer should get the lowest rating (1)\"\
+    .\n\nSo if the system answer's key fact differs from the gold answer, even if
+    it's correct per background, it's a contradiction. Wait, but the gold answer is
+    supposed to be the correct one based on the background. So perhaps the gold answer
+    is a paraphrase. Let me check the exact wording.\n\nGold answer: \"mehreren Hundert
+    Schritten\"\n\nBackground: \"vielen Hundert Schritten\"\n\nIn German, \"mehreren\"\
+    \ is \"several\", \"vielen\" is \"many\". They are similar but not identical.
+    However, in some contexts, they might be used interchangeably. If the question
+    is asking for the alleged length, and both \"several\" and \"many\" hundred steps
+    are approximate terms, perhaps the difference is negligible. But the gold answer
+    specifies \"mehreren\", so the correct answer should use that term.\n\nThe system
+    answer uses \"vielen\", which is different. So does that count as contradicting
+    the gold answer? If \"mehreren\" and \"vielen\" are considered different enough,
+    then yes. But maybe in this context, they are acceptable variants.\n\nAdditionally,
+    the system answer adds extra information: \"Dies gibt zwar keine exakte Zahl an,
+    lässt jedoch darauf schließen, dass es sich um extrem lange Tentakel handelt.
+    Falls du weitere Details suchst, könnte ich gerne weitere Forschungen starten.
+    Möchtest du das?\"\n\nThe gold answer is just the factual statement. The system
+    answer adds interpretation and an offer to do more research. According to the
+    guidelines: if the system answer includes statements not in the gold answer, check
+    if they're true and relevant.\n\nThe added part says it's not an exact number
+    but implies extremely long tentacles. The background says \"vielen Hundert Schritten\"\
+    , which is indeed not exact and implies very long, so that part is correct. The
+    offer to do more research is not relevant to the question and is fluff, but not
+    incorrect. However, the main point is whether the key fact matches.\n\nThe key
+    fact in the system answer is \"vielen Hundert Schritten\" vs gold's \"mehreren\"\
+    . If these are considered different, then it's a contradiction. But given that
+    the background says \"vielen\", and the gold answer says \"mehreren\", perhaps
+    the gold answer is a mistake, but according to the problem statement, the gold
+    answer is correct. Wait, no—the gold answer is created based on the background.
+    Maybe there was a miscommunication. Wait, the user says: \"The background information
+    is a piece of text from a lore book that includes information that was used to
+    create the question and gold answer.\"\n\nSo the gold answer should be derived
+    from the background. Here, the background says \"vielen\", so the gold answer
+    should say \"vielen\", but it says \"mehreren\". That's odd. Maybe it's a typo,
+    but as per the given data, we have to work with what's provided.\n\nAssuming that
+    \"mehreren\" in the gold answer is correct (as per problem statement), but the
+    background says \"vielen\", which is conflicting. Wait, no—the background is the
+    source, so the gold answer should reflect the background. Therefore, perhaps \"\
+    mehreren\" is a mistake, but according to the problem, the gold answer is correct.
+    This is confusing.\n\nAlternatively, maybe in German, \"mehreren Hundert\" is
+    a correct way to say \"several hundred\", while the background uses \"vielen Hundert\"\
+    \ (\"many hundred\"). The difference might be minor, and both acceptable. In that
+    case, the system answer's use of \"vielen\" matches the background and is correct,
+    even if the gold answer uses \"mehreren\". But the problem states that the gold
+    answer is the correct one, so if the system answer differs, it's a problem.\n\n
+    Wait, the guidelines say: \"A system answer contradicting the gold answer should
+    get the lowest rating (1)\". So if the system answer's main fact differs from
+    the gold answer, even if it's correct per background, it's a contradiction. But
+    in this case, the background supports the system answer's wording. However, the
+    gold answer is supposed to be correct, so perhaps the gold answer is a paraphrase
+    that's still acceptable.\n\nAlternatively, maybe \"mehreren\" and \"vielen\" are
+    used interchangeably here. For example, in some contexts, \"mehrere\" can mean
+    \"a number of\", which could be similar to \"many\". If that's the case, then
+    the system answer's \"vielen\" is acceptable.\n\nLooking at the system answer:
+    it quotes \"viele[n] Hundert Schritten\", which matches the background exactly.
+    The gold answer uses \"mehreren\", which is a synonym but not the exact term.
+    However, the question is about what is \"angeblich\" (allegedly) stated, so as
+    long as the number range is correct (hundreds of steps), the exact adjective might
+    not matter. But the gold answer specifies \"mehreren\", so the system should match
+    that.\n\nWait, but the background says \"vielen\", so the correct answer should
+    be \"vielen\". The gold answer might have a typo, but according to the problem
+    statement, the gold answer is correct. This is a bit of a pickle.\n\nAlternatively,
+    perhaps \"mehreren Hundert\" is grammatically correct while \"vielen Hundert\"\
+    \ is not. Wait, in German, \"Hundert\" is a number, so you say \"viele hundert
+    Schritte\" (without capitalization in the middle), but in the background it's
+    written as \"vielen Hundert Schritten\" (dative case). Let me check grammar.\n
+    \nThe phrase is \"eine Länge von vielen Hundert Schritten\". \"Von\" requires
+    dative, so \"vielen Hundert Schritten\". \"Hundert\" here is acting as a noun?
+    Or is it an adjective? Hmm. Actually, in German, when you say \"viele hundert
+    Schritte\", \"hundert\" is lowercase and part of the number phrase. But in the
+    background, it's written as \"vielen Hundert Schritten\" with \"Hundert\" capitalized,
+    which would be incorrect. Wait, but in the background info provided here, it's
+    written as \"vielen Hundert Schritten\"—\"Hundert\" is capitalized, which in German
+    nouns are capitalized, but \"hundert\" as a number is not a noun. So this might
+    be a grammatical error in the background. However, in the context of a fictional
+    lore book, maybe it's stylized.\n\nBut regardless of grammar, the key point is
+    the adjective used: \"vielen\" vs \"mehreren\".\n\nAssuming that both \"mehreren\"\
+    \ and \"vielen\" in this context are considered correct approximations (since
+    both mean a large but unspecified number in the hundreds), then the system answer's
+    main fact is correct. The system answer uses the exact term from the background,
+    which is \"vielen\", whereas the gold answer uses \"mehreren\". If the gold answer
+    is supposed to be correct, but it's using a different synonym, perhaps the system
+    answer is still acceptable.\n\nAdditionally, the system answer adds explanatory
+    text: stating that it's not an exact number but implies extremely long tentacles.
+    This is accurate based on the background. Then it offers to do more research,
+    which is unnecessary but not incorrect.\n\nAccording to the guidelines: if the
+    system answer includes all relevant info from the gold answer and additional correct
+    info, it's okay. The gold answer only states the length. The system answer states
+    the length (with \"vielen\" instead of \"mehreren\"), explains it's not exact,
+    and adds a comment. If \"vielen\" is considered equivalent to \"mehreren\" here,
+    then the main fact is correct. If not, then it's a contradiction.\n\nGiven that
+    both terms are approximate and in the context of the question asking for \"angeblich\"\
+    \ (allegedly), which suggests an approximate or mythical measure, the difference
+    between \"several\" and \"many\" hundred steps might not be significant. Therefore,
+    the system answer's key fact is acceptable.\n\nThe extra explanation is correct
+    and relevant, so it's a plus. The offer to research more is fluff but not harmful.\n
+    \nSo the system answer includes the correct main fact (if we consider \"vielen\"\
+    \ acceptable as per background, even if gold says \"mehreren\"—maybe a translation
+    nuance), plus additional correct info. Therefore, it should get a high rating.\n
+    \nWait, but the gold answer is \"mehreren\", system says \"vielen\". If the gold
+    answer is the standard, and they are different words, does that count as a contradiction?
+    If the question is specifically about the term used in the lore, then using a
+    different word would be incorrect. But the question is \"wie groß können die Tentakel...
+    angeblich werden?\"—so it's asking for the alleged size, not the exact wording.\n
+    \nIn that case, both \"mehreren\" and \"vielen\" convey the same meaning (hundreds
+    of steps, not exact), so the system answer is correct. The gold answer's \"mehreren\"\
+    \ might just be a paraphrase of the background's \"vielen\".\n\nTherefore, the
+    system answer is correct, includes the key info, and adds some accurate explanation.
+    The extra offer to research is unnecessary but not wrong. So rating should be
+    5.\n\nWait, but the system answer puts \"viele[n] Hundert Schritten\" in quotes,
+    which matches the background's wording. The gold answer uses \"mehreren\", which
+    is a slight variation. But since the background says \"vielen\", the system answer
+    is more accurate. However, the gold answer is considered correct, so maybe the
+    variation is acceptable.\n\nAlternatively, perhaps \"mehreren Hundert\" is the
+    correct term in German for \"several hundred\", whereas \"vielen Hundert\" would
+    be \"many hundred\", but in the context of the question, both are acceptable as
+    they both indicate a large, unspecified number in the hundreds.\n\nGiven that,
+    the system answer's main fact is correct, and the additional info is also correct.
+    So it should get a 5.\n\nBut wait, the system answer says \"sollen eine Länge
+    von „viele[n] Hundert Schritten“ erreichen.\" The background says \"sollen eine
+    Länge von vielen Hundert Schritten erreichen.\" So the system answer is quoting
+    it correctly. The gold answer paraphrases it as \"mehreren Hundert Schritten\"\
+    . Since the question is about what is \"angeblich\" (allegedly) stated, quoting
+    the exact phrase from the lore is better. However, the gold answer is the standard.
+    But if the gold answer is a correct paraphrase, then both are acceptable.\n\n
+    In this case, since the system answer matches the background exactly, and the
+    gold answer is a synonymous paraphrase, the system answer should be considered
+    correct. The additional explanation is accurate, so it's a good answer.\n\nTherefore,
+    the rating should be 5.\n"
+  grade: 5
+  user_grade: 5

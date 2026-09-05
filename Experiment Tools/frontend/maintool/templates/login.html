@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PnP Tools</title>
+
+    <link rel="stylesheet" href="{{ route.shared('css/style_out.css') }}">
+    <link rel="stylesheet" href="{{ route.static('style.css') }}">
+</head>
+
+<body>
+    <h1 class="text-center font-bold text-4xl my-6">Tools</h1>
+    
+    
+    <div class="login-container">
+
+        
+        {% include 'login_form.html' %}
+
+    </div>
+
+</body>
+
+<script src="https://unpkg.com/htmx.org@2.0.4"></script>
+<script src="https://unpkg.com/hyperscript.org@0.9.14"></script>
+</html>

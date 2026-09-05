@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<!--<html lang="en">-->
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="/heldenmanufaktur/static/style_out.css">
+    <link rel="stylesheet" href="/heldenmanufaktur/static/fonts/css/all.css">
+
+</head>
+<style>
+
+    #chat_history {
+       overflow: auto;
+       .question {
+            text-align: right;
+       }
+       .answer {
+       }
+    }
+
+    textarea {
+        resize: none;
+    }
+
+    .loading-indicator {
+        display: none;
+        width: 1.5rem;
+        aspect-ratio: 1;
+        border: 4px solid oklch(0.685 0.169 237.323);
+        border-bottom-color: transparent;
+        animation: rotation 1s linear infinite;
+        border-radius: 10000rem;
+    }
+
+    @keyframes rotation {
+        0% {
+            transform: rotate(0deg);
+        }
+        100% {
+            transform: rotate(360deg);
+        }
+    }
+
+    .htmx-request {
+        .loading-indicator {
+            display: block;
+        }
+    }
+</style>
+
+<!-- - book 1-->
+<!--  - chapter 1-->
+<!--     - section 1 -->
+<!--     - section 2-->
+
+<body class="dark:bg-slate-950 h-screen flex flex-col">
+
+{#    <div class="h-full flex flex-col">#}
+    <h1 class="text-5xl font-bold my-6 text-center">Meisterwissen</h1>
+    <div class="grid grid-cols-[1fr_2fr_1fr] gap-4 flex-grow min-h-0 ">
+{#        id="knowledge_references"#}
+        <div class="grow m-4 p-4 dark:bg-slate-900 shrink-0 overflow-auto rounded-sm">
+            <h2 class="text-3xl font-bold text-center mb-2">Buchquellen</h2>
+            {% include 'knowledge_references.html' %}
+        </div>
+        <div class="grow-2 flex flex-col gap-4">
+
+            <div class="grow dark:bg-slate-900 p-4 flex flex-col gap-4 m-4 rounded-sm">
+                <div id="chat_history" class="dark:bg-slate-700 p-2 grow flex flex-col text-lg rounded-sm" style="flex-basis: 0">
+                </div>
+
+                <!-- hx-target: hashtag is used for search by id -->
+                <form class="flex items-center gap-4"
+                      hx-post="/meisterwissen/ask_query"
+                      hx-target="#chat_history"
+                      hx-swap="beforeend scroll:#chat_history:bottom"
+{#                      hx-include="#knowledge_references"#}
+                      _="on htmx:afterRequest send reset to me"
+                >
+
+                    <div class="loading-indicator"></div>
+
+                    <textarea name="user_query" placeholder="Was möchten Sie wissen?" required minlength="1" class="dark:bg-slate-700 p-2 rounded-sm grow"
+                              _="on keydown(code, ctrlKey) if (code == 'Enter' or code == 'NumpadEnter') and ctrlKey then trigger submit on closest <form/>"></textarea>
+                    {% set generation_in_progress = false %}
+                    {% include 'submit-button.html' %}
+                </form>
+            </div>
+        </div>
+        <div class="dark:bg-slate-900 p-4 grow m-4 overflow-auto rounded-sm">
+            <h2 class="text-3xl font-bold text-center mb-2">System</h2>
+            <div id="system-insight">
+{#            {% include "system_insight.html" %}#}
+            </div>
+        </div>
+    </div>
+
+    <div id="notification" hx-swap-oob="true" hx-swap="outerHTML" class="fixed top-0 right-0 z-50 hidden">Notification</div>
+    <div id="notification-container" class="flex flex-col gap-1 fixed bottom-0 right-0 p-3 m-8 z-50" hx-swap-oob="beforeend">
+    </div>
+
+    <script src="https://unpkg.com/htmx.org@2.0.2"></script>
+    <script src="https://unpkg.com/hyperscript.org@0.9.14"></script>
+</body>
+
+</html>

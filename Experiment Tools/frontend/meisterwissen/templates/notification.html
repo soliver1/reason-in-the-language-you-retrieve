@@ -1,0 +1,32 @@
+{#I would like to make the notification just appear for a short time (also #}
+{#<div class="fixed bottom-0 right-0 p-3 m-8 z-50 bg-orange-100 border border-orange-500 rounded-sm opacity-0" id="notification" hx-swap-oob="true"#}
+
+{# gets stripped, original definition in index is what counts #}
+<div id="notification-container" hx-swap-oob="beforeend">
+
+{#    id="notification" hx-swap-oob="true" #}
+    <div class=" p-4 bg-blue-900 border-2 border-blue-600 rounded-sm opacity-0 cursor-pointer max-w-lg max-h-100 overflow-auto"
+    _="on load transition my opacity to 1 over 0.5s wait 5 seconds then
+         repeat until event fadeOut
+            if no .hidden-message in me
+                trigger fadeOut on me
+             else
+               if not (first .hidden-message in me matches .hidden)
+                 trigger fadeOut on me
+               end
+            end
+         end
+       on fadeOut transition my opacity to 0 over 1 seconds then toggle .hidden on me
+       on dblclick toggle .hidden on .hidden-message in me">
+        <h4 class="text-lg font-bold">{{ title }}</h4>
+        <span class="">{{ message }}</span>
+        {% if hidden %}
+            <div class="hidden-message italic pt-1 text-sm">mehr... (doppelklick)</div>
+            <div class="hidden-message hidden">
+                <hr class="my-2">
+                {{ hidden }}
+            </div>
+        {% endif %}
+
+    </div>
+</div>

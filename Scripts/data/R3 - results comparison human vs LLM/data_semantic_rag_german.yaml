@@ -1,0 +1,958 @@
+- question: Welche Position im Al'Anfaner Rat der Zwölf bekleidet Sannah Wilmaan?
+  correct_answer: Sannah Wilmaan ist eine Boron-Geweihte und Magistra Kryptographicae
+    im Rat der Zwölf.
+  inner_monologue: "<think>\nIch muss zunächst durchgehen, was ich über die Anfrage
+    des Nutzers bereits weiß.  Der Nutzer fragt nach der Position, die Sannah Wilmaan
+    im Al’Anfaner Rat der Zwölf bekleidet. \n\nIm ersten Schritt habe ich bereits
+    recherchiert, was über Sannah Wilmaan bekannt ist. Dabei bin ich auf folgendes
+    Material gestoßen:\n\nDer Abschnitt mit der ID `G01-192` beschreibt Sannah Wilmaan
+    als „Magistra Kryptographicae“ (Meisterin der verborgenen Schriften), verantwortlich
+    für Lehre, Wissen, Stadthistorie und Zeugnisse der Offenbarung des Raben; zuständig
+    für ’kirchliche Aufklärung’, sprich Öffentlichkeitsarbeit. Weiterhin wird erwähnt,
+    dass sie in den Rat der Zwölf eingetreten ist, nachdem ihre Urgroßtante Mata Al’Sulem
+    verschwunden war. \n\nAußerdem finde ich im Abschnitt mit der ID `G01-629`, der
+    sich mit dem „Haus Wilmaan“ beschäftigt, dass Sannah Wilmaan als „Magistra Kryptographicae
+    im Rat der Zwölf“ fungiert. \n\nZudem gibt es den Abschnitt `G01-186`, der den
+    „Hohen Rat der Zwölf“ beschreibt. Hier wird erwähnt, dass der Rat aus sechs Geweihten
+    des Boron und sechs Bürgern besteht. Die Geweihten werden vom Patriarchen auf
+    Lebenszeit bestimmt. Sannah Wilmaan ist offenkundig eine Geweihte des Boron, da
+    sie als Magistra Kryptographicae fungiert, was typischerweise mit einer religiösen
+    Rolle verbunden ist.\n\nEs ergibt sich also klar, dass Sannah Wilmaan als *Magistra
+    Kryptographicae* im Rat der Zwölf tätig ist. Ihre Rolle ist damit eng mit kirchlichen
+    und historischen Aufgaben verbunden, insbesondere mit der Dokumentation und Vermittlung
+    der Stadtgeschichte und religiöser Offenbarungen. \n\nDa die Information direkt
+    in den bisher gefundenen Quellen enthalten ist und keine zusätzlichen Details
+    notwendig sind, könnte ich antworten, dass Sannah Wilmaan als *Magistra Kryptographicae*
+    im Rat der Zwölf sitzt. Dennoch ist sicherzustellen, dass es keine weiteren Positionsbezeichnungen
+    oder spezieller Rollen gibt, die in anderen Quellen erwähnt werden könnten.\n\n
+    Um sicherzugehen, suche ich eventuell nach weiteren Referenzen, wo genau ihre
+    Position im Rat explizit formuliert wird. Möglicherweise findet man dies in der
+    Beschreibung des Rates selbst, falls dort jemand konkret genannt wird. Daher werde
+    ich zusätzlich recherchieren, ob der Name Sannah Wilmaan im Abschnitt über den
+    Rat der Zwölf explizit erwähnt wird.\n\nWenn nichts Neues dazu kommt, dann ist
+    meine Antwort korrekt.\n</think>"
+  system_answer: "Sannah Wilmaan bekleidet die Position der **Magistra Kryptographicae**
+    im Rat der Zwölf von Al’Anfa. Diese Rolle umfasst Aufgaben rund um Lehre, Wissen,
+    Stadthistorie und die Vermittlung religiöser Offenbarungen, insbesondere im Zusammenhang
+    mit der Kirche des Boron. Sie trat im Rahmen der aktuellen Zusammensetzung des
+    Rates (1027 BF) nach dem Verschwinden ihrer Urgroßtante Mata Al’Sulem in den Rat
+    ein.  \n\nKeine weiteren Details zur exakten Funktion innerhalb des Rates sind
+    in den vorliegenden Quellen explizit angegeben. Falls tiefergehende Informationen
+    erforderlich wären, könnte eine weitere Suche nach direkten Erwähnungen ihres
+    Amtes im Kontext des Rates erfolgen.  \n\nAntwort: **Magistra Kryptographicae**."
+  related_chunk: G01-629
+  grade_reasoning: "Okay, let's see. The question is asking about Sannah Wilmaan's
+    position in the Al'Anfaner Rat der Zwölf.\n\nThe gold answer says she's a Boron-Geweihte
+    and Magistra Kryptographicae in the Rat der Zwölf. The system answer states she's
+    the Magistra Kryptographicae, which matches the gold answer. But the system answer
+    adds more details: her role involves teaching, knowledge, city history, religious
+    revelations related to Boron's church, and mentions she took over after her great-aunt
+    Mata Al’Sulem disappeared in 1027 BF.\n\nLooking at the background info: It says
+    Sannah Wilmaan is the Magistra Kryptographicae in the Rat der Zwölf. The background
+    also mentions she took her Urgroßtante's place after she disappeared in Rahjamond
+    1026, with elections in Praios 1027. The system answer correctly notes the year
+    1027 BF (BF probably stands for Before Founding or something similar in Aventuria's
+    calendar). The additional details in the system answer about her role's responsibilities
+    (Lehre, Wissen, etc.) aren't explicitly in the background info. Wait, the background
+    info under \"Bedeutende Angehörige\" lists her as Magistra Kryptographicae, but
+    doesn't detail her duties. However, since she's a Boron-Geweihte (which the gold
+    answer mentions), and Boron is the god of death, time, and knowledge in Aventuria,
+    it's plausible her role involves knowledge and religious aspects. The system answer's
+    extra info might be inferred correctly from her being a Boron priestess, but the
+    background doesn't explicitly state those duties. However, the system answer also
+    says \"Keine weiteren Details zur exakten Funktion... sind explizit angegeben,\"\
+    \ which shows it's acknowledging the lack of explicit info beyond the title.\n
+    \nWait, the system answer includes the title correctly, which is the main point.
+    The extra details might be reasonable extrapolation based on her being a Boron-Geweihte,
+    but the background doesn't confirm those specifics. However, the system answer
+    doesn't contradict the background. The gold answer only states her title and that
+    she's a Boron-Geweihte. The system answer includes the title (correct) and adds
+    context that's plausible but not in the background. However, the background does
+    mention she's a Boron-Geweihte, so saying her role relates to Boron's church is
+    accurate. The part about taking over after her great-aunt is confirmed by the
+    background (Mata Al’Sulem disappeared, Sannah took over in 1027). The system answer's
+    additional info seems correct based on the background and lore. The note that
+    no further details are explicitly given is also accurate. So the system answer
+    provides the correct title, adds relevant context that's supported by the background
+    (her being a Boron priestess, succession after Mata), and doesn't include false
+    info. The gold answer is concise, but the system answer's extra details are accurate.
+    Therefore, it should get a 5.\n"
+  grade: 5
+  user_grade: 5
+- question: Welche konkreten Produkte oder Dienstleistungen liefert die Alchimistische
+    Fakultät an die Flotte von Al’Anfa?
+  correct_answer: Die Alchimistische Fakultät liefert Mengbiller Feuer an die Flotte
+    von Al’Anfa.
+  inner_monologue: "<think>\nIch muss zunächst durchgehen, was ich über die Anfrage
+    des Nutzers bereits weiß.  Die Frage lautet:\n\n\"Welche konkreten Produkte oder
+    Dienstleistungen liefert die Alchimistische Fakultät an die Flotte von Al’Anfa?\"\
+    \n\nIn meiner ersten Suche habe ich zwei relevante Abschnitte gefunden:\n\n1.
+    Eine Erwähnung der *Alchimistischen Fakultät* innerhalb des *Universitäts-Bereichs*,
+    beschrieben als „Lieferant von Mengbiller Feuer an die Flotte“ und beteiligt an
+    der Herstellung von Wahrheitselixiren und Angstgiften.\n   \n   > *\"Bedeutendste
+    Errungenschaften: Der Fakultät comes unter anderem als Lieferant von Mengbiller
+    Feuer an die Flotte sowie dank der Herstellung von Wahrheitselixieren und Angstgiften
+    große militärische und politische Bedeutung zu.\"*\n\n2. Eine Erwähnung der *Seefahrts-Fakultät*,
+    welche sich mit Schiffsbau, Navigation etc. beschäftigt, aber nichts direkt über
+    die Alchimistische Fakultät sagt.\n\nNebenbei wurden auch andere Fakultäten erwähnt,
+    zum Beispiel die *Magische Fakultät*. Allerdings geht es hier explizit um die
+    *Alchimistische Fakultät*.\n\nZiel ist es also, genau zu klären, was die Alchimistische
+    Fakultät konkret für die Flotte produziert. Ich kenne bereits Mengbiller Feuer,
+    Wahrheitselixiere und Angstgifte. Es könnte aber noch mehr geben. Vielleicht gibt
+    es weitere Produktionsdetails in anderen Teilen?\n\nDa mein aktuelles Wissen nur
+    teilweise Antworten bietet, sollte ich eventuell nach weiteren Details suchen.
+    Zum Beispiel könnten dort noch spezifische Werkstoffe, Kampfstoffe oder technologische
+    Hilfsmittel beschrieben sein, die für die Flotte relevant sind. \n\nDes Weiteren
+    wäre interessant zu wissen, ob es zusätzliche Dienstleistungen gab — wie beispielsweise
+    Beratung, Entwicklung oder Training im Bereich chemischer Waffen / Techniken.
+    \n\nUm sicherzugehen, dass ich alle Informationen zusammengetragen habe, würde
+    ich nochmal grundsätzlich nach Produkten/Lieferungen der Alchimistischen Fakultät
+    suchen. Eventuell auch nach Bezugnahme in anderen Abschnitten, wo die Flotte erwähnt
+    wird. \n</think>"
+  system_answer: "Die Alchimistische Fakultät liefert folgende konkrete Produkte und
+    Dienstleistungen an die Flotte von Al’Anfa:\n\n- **Mengbiller Feuer**: Als Hauptprodukt
+    der Fakultät wird dieses explosive Chemikalien-Mischung für militärische Einsätze
+    bereitgestellt.\n  \n- **Wahrheitselixiere**: Zur Sicherstellung von Vertrauensbildungsmaßnahmen
+    oder Informationsgewinnung in diplomatischen Situationen.\n\n- **Angstgifte**:
+    Für psychologische oder taktische Einsatzmöglichkeiten in militärischen Operationen.\n
+    \nDarüber hinaus deutet der Hinweis auf \"Experimente\" und \"Testpersonen\" daraufhin,
+    dass die Fakultät möglicherweise auch **experimentelle Substanzen**, **Giftformeln**
+    oder **Rauschmittelformulierungen** entwickelt, die in verschiedenen militärischen
+    Kontexten eingesetzt werden könnten.\n\nWeitere Detailinformationen wären ideal,
+    um komplexe Zusatzprodukte oder -dienstleistungen zu bestätigen. Falls notwendig,
+    kann ich vertiefend recherchieren."
+  related_chunk: G01-170
+  grade_reasoning: "Okay, let's see. The question is asking what specific products
+    or services the Alchemical Faculty provides to the Al'Anfan fleet.\n\nThe gold
+    answer says they deliver Mengbiller Feuer. That's the only thing mentioned.\n\n
+    Now, the system answer lists Mengbiller Feuer as the main product, which matches
+    the gold answer. But then it also adds Wahrheitselixiere (truth elixirs) and Angstgifte
+    (fear poisons), plus mentions experimental substances, poison formulas, and drugs.
+    \n\nLooking at the background info: It says the faculty is a supplier of Mengbiller
+    Feuer to the fleet and, due to the production of truth elixirs and fear poisons,
+    has significant military and political importance. Wait, so the background does
+    mention Wahrheitselixiere and Angstgifte as part of their contributions. But the
+    question is specifically about what they deliver to the fleet. The gold answer
+    only includes Mengbiller Feuer, but the background says \"Lieferant von Mengbiller
+    Feuer an die Flotte sowie dank der Herstellung von Wahrheitselixieren und Angstgiften
+    große militärische und politische Bedeutung zu.\" So the Mengbiller Feuer is delivered
+    to the fleet, while the truth elixirs and fear poisons contribute to their military/political
+    importance, but maybe not necessarily delivered to the fleet. The key is whether
+    the Wahrheitselixiere and Angstgifte are actually provided to the fleet or just
+    used in other contexts.\n\nThe background states: \"als Lieferant von Mengbiller
+    Feuer an die Flotte sowie dank der Herstellung von Wahrheitselixieren und Angstgiften
+    große militärische und politische Bedeutung zu.\" The structure here is a bit
+    ambiguous. It could mean that supplying Mengbiller Feuer to the fleet AND producing
+    truth elixirs and fear poisons (for other purposes) give them importance. So maybe
+    the truth elixirs and fear poisons aren't necessarily supplied to the fleet. The
+    gold answer only lists Mengbiller Feuer as the product delivered to the fleet,
+    which matches the explicit mention in the background. The system answer includes
+    the other items as being delivered to the fleet, but the background doesn't explicitly
+    say they are delivered to the fleet—only that their production contributes to
+    military importance. Therefore, adding Wahrheitselixiere and Angstgifte as products
+    delivered to the fleet might be a hallucination.\n\nWait, the system answer says:
+    \"Wahrheitselixiere: Zur Sicherstellung von Vertrauensbildungsmaßnahmen oder Informationsgewinnung
+    in diplomatischen Situationen.\" and \"Angstgifte: Für psychologische oder taktische
+    Einsatzmöglichkeiten in militärischen Operationen.\" But the question is about
+    what is delivered to the fleet. The fleet is a naval/military force, so maybe
+    the Angstgifte could be used by the fleet, but the background doesn't specify
+    that they are delivered to the fleet. The background only explicitly states Mengbiller
+    Feuer as delivered to the fleet. The other products are mentioned in the context
+    of their military and political importance, but not specifically as being supplied
+    to the fleet.\n\nTherefore, the system answer includes additional items (Wahrheitselixiere,
+    Angstgifte, etc.) that are not stated in the gold answer and, according to the
+    background, may not actually be delivered to the fleet. The background says the
+    faculty is a supplier of Mengbiller Feuer to the fleet, and their production of
+    the other items gives them importance, but it's unclear if those other items are
+    also delivered to the fleet. The gold answer only includes Mengbiller Feuer, so
+    the system answer is adding extra information that might not be correct in the
+    context of the question (i.e., specifically for the fleet).\n\nThe system answer
+    also mentions experimental substances, which the background refers to in the context
+    of testing on Fanas and volunteers, but again, not necessarily delivered to the
+    fleet.\n\nSo the system answer includes information not in the gold answer. According
+    to the evaluation guidelines, if the added statements are true and relevant, it's
+    okay. But if they're hallucinations, it lowers the rating.\n\nFrom the background:
+    The faculty's role as a supplier of Mengbiller Feuer to the fleet is explicit.
+    The Wahrheitselixiere and Angstgifte are part of their production that gives them
+    military/political importance, but the background doesn't say these are delivered
+    to the fleet. Therefore, the system answer is incorrectly stating that these are
+    delivered to the fleet, which is a hallucination. Hence, the system answer is
+    adding incorrect information, which should lower the rating.\n\nThe gold answer
+    is correct with only Mengbiller Feuer. The system answer has the correct main
+    point but adds extra items that aren't supported for the fleet context. So it's
+    partially correct but includes hallucinations. According to the guidelines, if
+    it contradicts the gold answer, it's a 1, but here it's adding extra, not contradicting.
+    The gold answer doesn't say \"only Mengbiller Feuer,\" but the question asks for
+    concrete products/services delivered. If the background doesn't confirm the others
+    are delivered to the fleet, then the system answer is wrong to include them.\n
+    \nSo the system answer has the correct main point but adds incorrect details.
+    The guidelines say if it includes all relevant info, it's a 5. If it's missing
+    necessary details but not completely wrong, 2-4. But here, it's adding incorrect
+    info. The presence of hallucinations should lower the rating.\n\nThe system answer
+    gets a 3? Because it has the correct main answer but adds incorrect extra info.
+    Wait, the guidelines say: \"If the statements are not true (hallucinations), this
+    should generally lead to a lower rating.\"\n\nSo the correct part is there (Mengbiller
+    Feuer), but the rest is hallucinated. Since the question is specifically about
+    what's delivered to the fleet, and the other items aren't stated as being delivered
+    there, the hallucinations make the answer partially incorrect. So the rating should
+    be lower than 5. How much lower?\n\nThe gold answer is only Mengbiller Feuer.
+    The system answer includes that plus three other items which are not confirmed
+    for the fleet. So the answer is mostly correct but with significant hallucinations.
+    According to the scale:\n\n- 5: includes all relevant info (gold answer has only
+    one item, so system answer should have that and no incorrect extras)\n- 4: maybe
+    if it had correct extra info, but here extras are wrong\n- 3: partially correct
+    but missing some or has some errors\n- 2: mostly wrong but some correct\n- 1:
+    contradicts\n\nSince the main point is correct, but there are significant hallucinations,
+    maybe a 3. But if the hallucinations are critical, maybe a 2. Wait, the question
+    is asking for concrete products/services delivered. The system answer lists multiple
+    items, only one of which is correct. So it's mostly wrong? No, the first item
+    is correct, others are wrong. So it's partially correct.\n\nThe guidelines say:
+    \"A system answer that does not include all necessary details given in the gold
+    answer but is not completely wrong as well should get a rating between 2 and 4.\"\
+    \n\nBut in this case, the system answer does include the necessary detail (Mengbiller
+    Feuer) but adds incorrect ones. The gold answer is correct, so the system answer
+    has the correct info but extra wrong info.\n\nThe evaluation criteria for this
+    scenario: \"If the statements are not true (hallucinations), this should generally
+    lead to a lower rating.\"\n\nSo the presence of hallucinations reduces the score.
+    Since the correct answer is present but with significant hallucinations, the rating
+    would be 3. Because it's not contradicting (so not 1), but has extra false info.
+    A 4 might be if the extra info was correct, but here it's wrong. So 3 is appropriate.\n"
+  grade: 3
+  user_grade: 3
+- question: Welche göttlichen und legendären Figuren werden in den Überlieferungen
+    als Geschwister von Mououn genannt?
+  correct_answer: In den Überlieferungen wird Mououn als Schwester der gefallenen
+    Göttin Charyptoroth und als Schwester des Gottes Efferd genannt. Ebenso wird berichtet,
+    dass sie einen Bruder namens Nominoru hat, der gegen die alveranischen Herrscher
+    rebelliert.
+  inner_monologue: "<think>\nIch muss zunächst durchgehen, was ich über die Anfrage
+    des Nutzers bereits weiß.  Der Nutzer fragt nach göttlichen und legendären Figuren,
+    die in den Überlieferungen als Geschwister von Mououn genannt werden. \n\nBisher
+    habe ich beim ersten Versuch mit der Suche „Mououn Geschwister“ relevante Abschnitte
+    gefunden:\n\n1. Der Abschnitt *„G05-100“* spricht von der tulamidischen Vaterschaftsregel,
+    wonach alle Kinder eines Mannes Geschwister sind, egal wer ihre Mutter ist. Aber
+    das hat mit Mououn nichts direkt zu tun.\n\n2. Der Abschnitt *„G08-757“* geht
+    auf das Band der Zwillinge ein, erwähnt aber keine Geschwister von Mououn.\n\n
+    3. Der Abschnitt *„G01-716“* beschreibt Mououn als eine gigantische Gottheit,
+    geboren aus der Kraft beseelter Elemente und dem Schmerz und der Kraft der sterbenden
+    Sumu. Dort wird erwähnt, dass Efferd ihr Bruder wäre, bevor er der fünften Sphäre
+    zustrebte, und Charyptoroth ihre gefallene Schwester. Diese beiden könnten potentielle
+    Geschwister von Mououn sein.\n\nDanach habe ich mit der Suche „Mououn Geschwister
+    mythology“ weitergerecherchiert und bin auf folgende Abschnitte gestoßen:\n\n
+    1. *„G05-428“*: Beschäftigt sich mit dem Glauben der Baburier, erwähnt aber keine
+    Geschwister von Mououn.\n\n2. *„G05-323“*: Beschreibt die Mungos, was mit Mououn
+    nichts zu tun hat.\n\n3. *„G08-811“*: Erwähnt die „Drei Schlangenleibigen Schwestern“,
+    aber es handelt sich um Echsenmenschen, nicht um Geschwister von Mououn.\n\nMit
+    der Suche „Mououn Brüder Schwestern“ habe ich dann den Abschnitt *„G01-474“* gefunden,
+    der zwar über Waldmenschen und Utulus spricht, aber keinen Hinweis auf mououns
+    Geschwister bietet.\n\nEs gab also bisher keine expliziten Erwähnungen von Geschwistern
+    von Mououn außer Efferd und Charyptoroth. Um sicherzugehen, dass ich alles relevantes
+    gefunden habe, könnte ich nochmal nachgeschaut werden, ob es vielleicht weitere
+    Abschnitte gibt, die Mououn und ihre Geschwister ansprechen. Vielleicht gibt es
+    ja noch mehr Details in den Kind- oder Elternabschnitten der bereits gefundenen
+    Texte?\n\nZudem würde ich gerne wissen, ob es in den Abschnitten, die bereits
+    gefunden wurden, eventuell Referenzen auf weitere Geschwister oder Verwandte von
+    Mououn gibt, die mir möglicherweise entgangen sind. Da es sich bei Mououn um eine
+    sehr alte und mächtige Gottheit handelt, könnte es durchaus weitere mythologische
+    Figuren geben, die in Zusammenhang mit ihr stehen.\n\nUm sicherzugehen, dass ich
+    keine Information übersehen habe, werde ich nochmals suchen, ob es in den vorhandenen
+    Texten weitere Erwähnungen gibt. Falls nicht, könnte ich eventuell auch nach ähnlichen
+    Namen suchen, falls Mououn anders bezeichnet wird, oder nach anderen Gottheiten,
+    die in der Nähe von Wasser oder Naturgewalten stehen, da Mououn mit dem Meer assoziiert
+    wird.\n\nEin mögliches Vorgehen wäre also, erneut nach „Mououn Geschwister“ zu
+    suchen, um mögliche weitere Abschnitte zu finden, oder nach alternativen Bezeichnungen
+    wie „Mutter Meer Geschwister“. Alternativ könnte ich auch nach anderen Gottheiten
+    suchen, die mit Mououn in Verbindung stehen, um zu sehen, ob sie als ihre Geschwister
+    bezeichnet werden.\n\nDa ich bisher nur Efferd und Charyptoroth als mögliche Geschwister
+    identifizieren konnte, möchte ich nochmals prüfen, ob es weitere Erwähnungen gibt.
+    Eventuell gibt es auch regionale Mythen oder spezielle Kulte, die Mououn unterschiedlich
+    darstellen. Ich werde also erneut nach „Mououn Geschwister“ suchen, um sicherzugehen,
+    dass ich nichts übersehen habe.\n</think>"
+  system_answer: "Efferd und Charyptoroth werden in den Quellen als Geschwister von
+    Mououn genannt.  \n- **Efferd**: Er wird als ihr Bruder beschrieben, bevor er
+    der fünften Sphäre zustrebte.  \n- **Charyptoroth**: Sie gilt als ihre gefallene
+    Schwester.  \n\nWeitere Geschwister oder Verwandte von Mououn werden in den bereitgestellten
+    Texten nicht erwähnt. Falls zusätzliche Informationen benötigt werden, kann eine
+    tiefergehende Recherche erfolgen."
+  related_chunk: G01-716
+  grade_reasoning: "Okay, let's see. The question is asking which divine and legendary
+    figures are mentioned as siblings of Mououn in the traditions.\n\nThe gold answer
+    states that Mououn is referred to as the sister of the fallen goddess Charyptoroth
+    and the god Efferd. It also mentions a brother named Nominoru who rebelled against
+    the Alveranian rulers.\n\nLooking at the system answer, it says Efferd and Charyptoroth
+    are named as siblings. It specifies Efferd as her brother before he aimed for
+    the fifth sphere, and Charyptoroth as her fallen sister. However, it adds that
+    no other siblings or relatives are mentioned in the provided texts and suggests
+    further research if needed.\n\nNow, checking the background info: It says \"Es
+    heißt, Efferd war ihr Bruder, bevor er der fünften Sphäre zustrebte, Charyptoroth
+    ihre gefallene Schwester. Nominoru, ein weiterer Bruder, fand nach selbigen Legenden
+    keine Aufnahme in Alveran und rebelliert seitdem mit anderen Göttern gegen die
+    alveranischen Herrscher.\" So the background does mention Nominoru as another
+    brother who rebelled.\n\nThe system answer didn't include Nominoru, which is part
+    of the gold answer. The gold answer specifically lists Nominoru as a brother.
+    The system answer says no other siblings are mentioned, but according to the background,
+    Nominoru is indeed mentioned. Therefore, the system answer is missing Nominoru,
+    which is a necessary detail from the gold answer.\n\nAdditionally, the system
+    answer says \"weitere Geschwister... werden in den bereitgestellten Texten nicht
+    erwähnt,\" but the background does mention Nominoru, so that statement is incorrect.
+    This is a hallucination because the system claims Nominoru isn't mentioned when
+    he actually is.\n\nSince the system answer omits a key part of the gold answer
+    (Nominoru) and incorrectly states that no other siblings are mentioned (when they
+    are), this is a significant error. However, it's not completely wrong because
+    it got Efferd and Charyptoroth right. But missing a required part of the answer
+    and adding incorrect info about no other siblings would lower the rating.\n\n
+    The guidelines say if it doesn't include all necessary details but isn't completely
+    wrong, rate between 2-4. Since it's missing one of three key points (Nominoru)
+    and has a factual error, maybe a 3? Wait, the gold answer has three parts: Charyptoroth
+    (sister), Efferd (brother), Nominoru (brother). The system answer only includes
+    two and incorrectly denies the third. So it's missing a necessary detail and has
+    a hallucination. The guidelines say contradictions get a 1, but here it's not
+    contradicting directly but omitting and adding false info.\n\nWait, the system
+    answer says \"weitere Geschwister... nicht erwähnt,\" but the background does
+    mention Nominoru, so this is a hallucination. So the system answer is wrong in
+    stating that no others are mentioned. Therefore, it's both missing info and adding
+    incorrect info.\n\nAccording to the guidelines: if it includes statements not
+    in gold answer that are true, it's okay. But if they're false (hallucinations),
+    lower rating. Here, the statement that no others are mentioned is false, so that's
+    a hallucination. So the system answer has a hallucination and misses a key part.\n
+    \nThe gold answer requires all three: Charyptoroth, Efferd, Nominoru. The system
+    answer only has two, and adds a false statement. So it's partially correct but
+    with errors. The rating should be 3? Because it's not completely wrong but missing
+    necessary details and has a hallucination. Wait, the guidelines say \"does not
+    include all necessary details given in the gold answer but is not completely wrong
+    as well should get a rating between 2 and 4.\"\n\nSince it's missing one of three
+    key points and has a hallucination, maybe a 2? But maybe the hallucination is
+    a bigger issue. If the system answer says no others are mentioned, but they are,
+    that's a direct contradiction in the sense that the gold answer includes Nominoru,
+    so the system answer's omission plus the false statement might make it more severe.\n
+    \nWait, the gold answer says \"Ebenso wird berichtet, dass sie einen Bruder namens
+    Nominoru hat...\" so the system answer not including that is a missing detail,
+    and the system's statement that no others are mentioned is incorrect. So the system
+    answer is both incomplete and factually wrong in that part.\n\nThe guidelines
+    say a contradiction should get a 1. But is the system answer contradicting the
+    gold answer? The gold answer says Nominoru is mentioned, the system says he's
+    not. So that's a contradiction. Therefore, the system answer contradicts the gold
+    answer on the presence of Nominoru, which would warrant a 1. But wait, the system
+    answer doesn't explicitly say Nominoru doesn't exist, but says \"weitere Geschwister...
+    nicht erwähnt,\" which in the context of the question (which asks which are named),
+    if the system says only Efferd and Charyptoroth are named, but the gold answer
+    includes Nominoru, then the system is contradicting by omission and by stating
+    no others are mentioned.\n\nSo the system answer's assertion that no other siblings
+    are mentioned is false, as per the background. Therefore, this is a contradiction
+    because the gold answer includes Nominoru as being mentioned, and the system says
+    he's not. So the system answer is incorrect in stating that, hence contradicting
+    the gold answer. Therefore, rating 1.\n\nWait, but the system answer says \"weitere
+    Geschwister... werden in den bereitgestellten Texten nicht erwähnt.\" The background
+    does mention Nominoru, so the system is wrong here. Therefore, the system answer
+    is factually incorrect in that part, which contradicts the gold answer's inclusion
+    of Nominoru. So the answer is wrong because it denies the existence of a sibling
+    that is actually mentioned. Hence, this is a contradiction, leading to a rating
+    of 1.\n\nBut wait, the question is asking which figures are named as siblings.
+    The gold answer lists three: Charyptoroth (sister), Efferd (brother), Nominoru
+    (brother). The system answer lists two and says no others are mentioned. Since
+    Nominoru is actually mentioned in the background, the system answer is wrong to
+    say no others are mentioned. Therefore, the system answer is incorrect in its
+    completeness and has a factual error. According to the guidelines, if it contradicts
+    the gold answer, rate 1. Since the gold answer includes Nominoru and the system
+    does not, and even states he's not mentioned, which is false, this is a contradiction.
+    So rating 1.\n\nBut wait, maybe the system answer is correct in the part it does
+    mention. However, the guidelines say \"contradicting the gold answer should get
+    the lowest rating (1)\". Since the gold answer includes Nominoru and the system
+    answer excludes him and states he's not mentioned, that's a contradiction. Therefore,
+    rating 1.\n"
+  grade: 1
+  user_grade: 3
+- question: Welche Eigenschaften der Waldmenschen des nördlichen Regengebirges machen
+    sie besonders anfällig für Beeinflussung durch Fremde?
+  correct_answer: Die Waldmenschen des nördlichen Regengebirges besitzen eine große
+    Neugier, Naivität und reagieren mit Unkenntnis auf fremde Konzepte wie Geld, wodurch
+    sie leicht durch Magie, fremde Talente oder einfache Tricks beeinflusst werden
+    können.
+  inner_monologue: "<think>\nIch muss zunächst durchgehen, was ich über die Anfrage
+    des Nutzers bereits weiß.  Der Nutzer fragt nach den Eigenschaften der Waldmenschen
+    im nördlichen Regengebirge, die sie besonders anfällig für Beeinflussung durch
+    Fremde machen. \n\nIm ersten Schritt habe ich schon einmal nach „Waldmensch nördliches
+    Regengebirge“ recherchiert. Dabei wurden verschiedene Einträge gefunden:\n\nDer
+    Eintrag mit ID G01-488 erwähnt, dass die Stämme im Norden des Regengebirges eher
+    friedlich mit den Weißen zusammenleben. Es wird darauf hingewiesen, dass die Waldmenschen
+    eine große angeborene Neugier und eine entwaffnende Naivität zeigen, wenn sie
+    mit der Zivilisation zusammentreffen. Dies könnte direkt mit der Anfrage zusammenhängen,
+    da Neugier und Naivität oft als Anfälligkeiten für Beeinflussung angesehen werden.
+    Allerdings wird hier nicht explizit gesagt, dass sie dadurch besonders anfällig
+    sind, sondern nur beschrieben, wie sie sich gegenüber der Zivilisation verhalten.\n
+    \nEin zweiter Eintrag mit ID G01-529 spricht über die Anoihas, die im nordöstlichen
+    Regengebirge leben. Dort heißt es, dass sie hervorragende Kletterer sind und in
+    Höhlen und Felsenansiedlungen leben. Aber nichts direktes über ihre Anfälligkeit
+    für Fremde. Doch es wird erwähnt, dass sie alte Kavernen mit Höhlenmalereien aus
+    grauer Vorzeit bewohnen. Das mag indirekt etwas bedeuten, aber nicht direkt zur
+    Frage passen.\n\nWeitere Einträge, wie der mit ID G01-563, sprechen über andere
+    Stämme, aber nicht spezifisch über die im nördlichen Regengebirge. Daher scheint
+    mir, dass die Informationen über die Nordregion begrenzt sind. Was aber wichtig
+    ist, ist, dass in G01-488 deutlich gemacht wird, dass die Waldmenschen im Norden
+    weniger feindlich eingestellt sind, aber dennoch ihre Eigenheiten haben. Gerade
+    die Beschreibung der „angeborenen Neugier“ und der „Naivität“, kombiniert mit
+    ihrem Aberglauben, können als Gründe dafür dienen, warum sie leichter beeinflusst
+    werden können. \n\nAllerdings bin ich mir unsicher, ob diese Information ausreichend
+    ist, um die Frage vollständig zu beantworten. Ich sollte noch genauer suchen,
+    ob es weitere Hinweise auf ihre Anfälligkeit gibt. Vielleicht gibt es noch weitere
+    Bücher oder Regionen, die näher darauf eingehen. Deshalb wäre es gut, eine weitere
+    Forschung durchzuführen, um sicherzustellen, dass keine relevanten Details übersehen
+    werden. \n</think>"
+  system_answer: "Die Waldmenschen des nördlichen Regengebirges (vor allem die Anoihas)
+    zeichnen sich durch **angeborene Neugier**, **Naivität** und **Aberglauben** aus,
+    was sie besonders anfällig für Beeinflussung durch Fremde macht. Diese Merkmale
+    ermöglichten historisch oft Manipulation durch Sklavenjäger oder Magier.  \n\n
+    Für tiefere Einsichten in ihr Verhalten oder spezifische Mechanismen der Beeinflussbarkeit
+    könnten ergänzende Quellen hilfreich sein.  \nSoll ich nach weiteren Details forschen?"
+  related_chunk: G01-488
+  grade_reasoning: "Okay, let's see. I need to grade the system answer based on the
+    given criteria. The question is about the characteristics of the Waldmenschen
+    in the northern Regengebirge that make them vulnerable to influence by strangers.\n
+    \nFirst, the gold answer lists: great curiosity, naivety, and reacting with ignorance
+    to foreign concepts like money, making them easily influenced by magic, foreign
+    talents, or simple tricks.\n\nThe system answer mentions innate curiosity, naivety,
+    and superstition (Aberglauben), which makes them susceptible. It also says these
+    traits historically allowed manipulation by slave hunters or mages. Then it adds
+    a part about needing more sources for deeper insights and asks if it should research
+    further.\n\nLooking at the background info: The northern tribes have great innate
+    curiosity, disarming naivety when encountering civilization, react with ignorance
+    to modern concepts like money, and due to superstition and naivety, they're easily
+    influenced by magic, foreign talents, or cheap tricks. It also mentions slave
+    hunters benefiting from this.\n\nSo the system answer includes \"Aberglauben\"\
+    \ (superstition), which the gold answer doesn't mention but the background does.
+    The gold answer says \"Unkenntnis auf fremde Konzepte wie Geld\" (ignorance of
+    foreign concepts like money), which the system answer doesn't explicitly state
+    but does mention \"Aberglauben\" as a third trait. Wait, the gold answer lists
+    three points: Neugier, Naivität, Unkenntnis (ignorance) regarding concepts like
+    money. The system answer lists Neugier, Naivität, Aberglauben.\n\nWait, the background
+    info says: \"Durch ihren Aberglauben und diese Naivität sind sie besonders leicht
+    durch Magie... zu beeinflussen.\" So the background includes Aberglauben (superstition)
+    as a factor. The gold answer instead mentions \"Unkenntnis auf fremde Konzepte
+    wie Geld\" (ignorance of concepts like money). So the gold answer combines the
+    ignorance of concepts as part of why they're vulnerable, while the background
+    lists both superstition and naivität as reasons, and also mentions the ignorance
+    of concepts like money as part of their reaction.\n\nWait, the gold answer says:
+    \"eine große Neugier, Naivität und reagieren mit Unkenntnis auf fremde Konzepte
+    wie Geld, wodurch sie leicht... beeinflusst werden können.\" So the three elements
+    are Neugier, Naivität, and Unkenntnis (ignorance) of foreign concepts. The background
+    states: \"große angeborene Neugier und eine entwaffnende Naivität... reagieren
+    mit Unkenntnis auf die Errungenschaften der modernen Welt... Durch ihren Aberglauben
+    und diese Naivität sind sie besonders leicht...\" So the background actually lists
+    Aberglauben as another factor in addition to naivität. Wait, the structure here
+    is a bit confusing.\n\nLet me parse the background again: \"Die meisten Waldmenschen
+    haben eine große angeborene Neugier und eine entwaffnende Naivität, wenn sie mit
+    der ‘Zivilisation’ zusammentreffen. Sie reagieren mit Unkenntnis auf die Errungenschaften
+    der modernen Welt und werden beispielsweise länger benötigen, um das Konzept von
+    Geld oder Bezahlen zu verstehen. Durch ihren Aberglauben und diese Naivität sind
+    sie besonders leicht durch Magie, herausragende, ihnen fremde Talente, aber auch
+    durch billige Taschenspielertricks zu beeinflussen.\"\n\nSo the background says
+    they have Neugier and Naivität. They react with ignorance to modern concepts (like
+    money). Then, due to their superstition (Aberglauben) and this naivität, they
+    are easily influenced.\n\nWait, so the causes for their vulnerability are Aberglauben
+    and Naivität. The ignorance of concepts like money is part of how they react (they
+    take longer to understand money), which is perhaps part of their naivität or a
+    result of it.\n\nThe gold answer lists Neugier, Naivität, and Unkenntnis (ignorance)
+    of foreign concepts as the three properties making them vulnerable. But according
+    to the background, the vulnerability comes from Aberglauben and Naivität. The
+    Unkenntnis (ignorance) of concepts like money is a manifestation of their naivität
+    or a separate reaction, but the direct causes for vulnerability are Aberglauben
+    and Naivität.\n\nWait, the gold answer says: \"eine große Neugier, Naivität und
+    reagieren mit Unkenntnis auf fremde Konzepte wie Geld, wodurch sie leicht... beeinflusst
+    werden können.\" So the three factors are Neugier, Naivität, and Unkenntnis. But
+    the background says vulnerability is due to Aberglauben and Naivität. However,
+    the background also mentions Neugier as a trait they have, but does it say Neugier
+    contributes to vulnerability?\n\nLooking again: \"Die meisten Waldmenschen haben
+    eine große angeborene Neugier und eine entwaffnende Naivität... Durch ihren Aberglauben
+    und diese Naivität sind sie besonders leicht... zu beeinflussen.\"\n\nSo Neugier
+    is mentioned as a trait, but the direct reasons for vulnerability are Aberglauben
+    and Naivität. However, the gold answer includes Neugier as one of the properties
+    making them vulnerable.\n\nWait, the question is asking for the properties that
+    make them particularly vulnerable. The background says they have Neugier and Naivität.
+    Then, due to Aberglauben and Naivität, they are easily influenced. So Neugier
+    is a trait they have, but is it a reason for vulnerability? The background doesn't
+    explicitly say Neugier causes vulnerability, but the gold answer includes it.\n
+    \nWait, the gold answer lists Neugier as the first property. Let me check the
+    background again.\n\nBackground: \"Die meisten Waldmenschen haben eine große angeborene
+    Neugier und eine entwaffnende Naivität, wenn sie mit der ‘Zivilisation’ zusammentreffen.
+    Sie reagieren mit Unkenntnis auf die Errungenschaften der modernen Welt... Durch
+    ihren Aberglauben und diese Naivität sind sie besonders leicht... zu beeinflussen.\"\
+    \n\nSo the structure is: they have Neugier and Naivität. They react with ignorance
+    to modern concepts. Because of Aberglauben and Naivität, they are easily influenced.\n
+    \nWait, so Aberglauben is another trait. The background mentions Aberglauben as
+    a separate factor. So the traits contributing to vulnerability are Aberglauben
+    and Naivität. But where does Neugier come in? The background says they have Neugier,
+    but does it say Neugier makes them vulnerable?\n\nThe gold answer says Neugier
+    is one of the properties. The system answer also lists Neugier, Naivität, and
+    Aberglauben.\n\nWait, the background states that they have Neugier and Naivität.
+    Then, due to Aberglauben and Naivität, they are easily influenced. So Aberglauben
+    is a separate trait that, combined with Naivität, causes vulnerability. Neugier
+    is mentioned as a trait they have when encountering civilization, but it's not
+    explicitly stated as a cause for vulnerability. However, the gold answer includes
+    Neugier as a cause.\n\nWait, the gold answer says: \"große Neugier, Naivität und
+    reagieren mit Unkenntnis auf fremde Konzepte wie Geld, wodurch sie leicht... beeinflusst
+    werden können.\" So according to the gold answer, the three factors are Neugier,
+    Naivität, and Unkenntnis (ignorance) of concepts like money.\n\nBut the background
+    says vulnerability is due to Aberglauben and Naivität. The Unkenntnis (ignorance)
+    of concepts like money is part of their reaction (they take longer to understand
+    money), which is perhaps a result of their naivität or Aberglauben.\n\nThis is
+    a bit confusing. Let's break it down.\n\nGold Answer components:\n- große Neugier\n
+    - Naivität\n- Unkenntnis auf fremde Konzepte wie Geld\nThese three make them easily
+    influenced.\n\nSystem Answer components:\n- angeborene Neugier\n- Naivität\n-
+    Aberglauben\nThese make them susceptible. Also mentions historical manipulation
+    by slave hunters/magiers.\n\nBackground Information:\n- Traits: angeborene Neugier,
+    entwaffnende Naivität\n- React with Unkenntnis to modern concepts (e.g., money)\n
+    - Vulnerability due to Aberglauben and Naivität\n\nSo the background says vulnerability
+    is caused by Aberglauben and Naivität. However, the gold answer lists Neugier,
+    Naivität, and Unkenntnis (of concepts like money) as the causes.\n\nWait, but
+    the background says \"Durch ihren Aberglauben und diese Naivität sind sie besonders
+    leicht... zu beeinflussen.\" So the direct causes are Aberglauben and Naivität.
+    The Neugier is mentioned as a trait they have, but not explicitly as a cause for
+    vulnerability. However, the gold answer includes Neugier as a cause.\n\nThis discrepancy
+    might be an issue. Wait, but perhaps the gold answer is correct because the background
+    says they have Neugier and Naivität when encountering civilization, and their
+    Unkenntnis (ignorance) of concepts like money is part of why they're vulnerable.
+    But the background specifically attributes vulnerability to Aberglauben and Naivität.\n
+    \nWait, maybe there's a mistake here. Let me check again.\n\nBackground: \"Durch
+    ihren Aberglauben und diese Naivität sind sie besonders leicht durch Magie, herausragende,
+    ihnen fremde Talente, aber auch durch billige Taschenspielertricks zu beeinflussen.\"\
+    \n\nSo the reason for vulnerability is Aberglauben and Naivität.\n\nBut the gold
+    answer says the reasons are Neugier, Naivität, and Unkenntnis (ignorance) of concepts
+    like money.\n\nHmm. So there's a conflict here. The background states that Aberglauben
+    and Naivität are the causes, but the gold answer lists Neugier, Naivität, and
+    Unkenntnis.\n\nWait, but the background also says they have Neugier. Maybe Neugier
+    is considered part of the reason indirectly. Or perhaps the gold answer is incorrect?
+    But according to the problem statement, the gold answer is the correct one.\n\n
+    Wait, the problem states: \"The gold answer is the correct answer to the question.\"\
+    \ So regardless of the background, the gold answer is correct. However, when the
+    system answer adds information not in the gold answer, we need to check against
+    the background to see if it's correct.\n\nWait, the task says: \"To evaluate a
+    system answer that includes statements not included in the gold answer, you need
+    to look into the background information. If the statements are true and relevant
+    to the question, this is ok/good. If the statements are not true (hallucinations),
+    this should generally lead to a lower rating.\"\n\nSo the gold answer is considered
+    correct, but if the system answer adds correct info from background, it's okay.\n
+    \nIn this case, the gold answer lists three factors: Neugier, Naivität, Unkenntnis
+    (ignorance) of concepts like money.\n\nThe system answer lists Neugier, Naivität,
+    Aberglauben.\n\nFrom the background, Aberglauben is mentioned as a factor in vulnerability
+    (\"Durch ihren Aberglauben und diese Naivität...\"), so Aberglauben is a correct
+    additional point.\n\nBut the gold answer doesn't mention Aberglauben; instead,
+    it mentions Unkenntnis (ignorance) of concepts like money.\n\nWait, the background
+    says: \"Sie reagieren mit Unkenntnis auf die Errungenschaften der modernen Welt
+    und werden beispielsweise länger benötigen, um das Konzept von Geld oder Bezahlen
+    zu verstehen.\"\n\nSo Unkenntnis (ignorance) of modern concepts like money is
+    a trait they have, which is part of why they're vulnerable. But the background
+    attributes the vulnerability specifically to Aberglauben and Naivität.\n\nWait,
+    perhaps the Unkenntnis is a result of their Naivität and Aberglauben, but the
+    gold answer lists it as a separate factor.\n\nThis is a bit confusing. Let's see:\n
+    \nThe question is: Which properties make them particularly vulnerable to influence
+    by strangers?\n\nGold answer says: Neugier, Naivität, Unkenntnis of foreign concepts
+    like money.\n\nBackground says: They have Neugier and Naivität. They react with
+    Unkenntnis to modern concepts. Vulnerability is due to Aberglauben and Naivität.\n
+    \nSo according to background, the vulnerability factors are Aberglauben and Naivität.
+    The Unkenntnis is a reaction, not a cause. But the gold answer lists Unkenntnis
+    as a cause.\n\nWait, but the gold answer is supposed to be correct. So perhaps
+    in the fictional lore, the Unkenntnis is considered a property that contributes
+    to vulnerability.\n\nAlternatively, maybe the background's \"Durch ihren Aberglauben
+    und diese Naivität\" is the direct cause, but the Unkenntnis is part of the Naivität.\n
+    \nThis is tricky. Let's compare system answer and gold answer.\n\nSystem answer
+    includes Aberglauben instead of Unkenntnis. The gold answer has Unkenntnis instead
+    of Aberglauben.\n\nBut according to the background, both Aberglauben and Unkenntnis
+    are mentioned. Wait, the background says vulnerability is due to Aberglauben and
+    Naivität. The Unkenntnis is a separate reaction (they don't understand money),
+    which probably makes them vulnerable, but the background explicitly states the
+    cause as Aberglauben and Naivität.\n\nWait, the background says: \"Durch ihren
+    Aberglauben und diese Naivität sind sie besonders leicht... zu beeinflussen.\"\
+    \ So the direct causes are Aberglauben and Naivität.\n\nThe Unkenntnis (ignorance)
+    of concepts like money is part of their reaction to civilization, which is likely
+    a manifestation of their Naivität or Aberglauben, but not a separate cause.\n\n
+    However, the gold answer lists Unkenntnis as a separate property causing vulnerability.\n
+    \nThis suggests that the gold answer might have a slight discrepancy with the
+    background, but since the gold answer is given as correct, we have to take it
+    as the standard.\n\nWait, no—the background information is the source from which
+    the question and gold answer were created. So the gold answer should be consistent
+    with the background.\n\nWait, let me check again.\n\nBackground states:\n\n- They
+    have Neugier and Naivität.\n\n- They react with Unkenntnis to modern concepts
+    (e.g., money).\n\n- Vulnerability is due to Aberglauben and Naivität.\n\nSo the
+    background mentions Aberglauben as a cause, but the gold answer does not include
+    Aberglauben; instead, it includes Unkenntnis.\n\nThis is a problem. Wait, perhaps
+    the gold answer is incorrect? But according to the problem statement, the gold
+    answer is correct. Hmm.\n\nWait, maybe I'm misreading. Let's look at the gold
+    answer again:\n\n\"Die Waldmenschen des nördlichen Regengebirges besitzen eine
+    große Neugier, Naivität und reagieren mit Unkenntnis auf fremde Konzepte wie Geld,
+    wodurch sie leicht durch Magie, fremde Talente oder einfache Tricks beeinflusst
+    werden können.\"\n\nSo the structure is: they possess Neugier, Naivität, and react
+    with Unkenntnis... which makes them easily influenced.\n\nSo the three properties
+    are Neugier, Naivität, and Unkenntnis (as a reaction).\n\nBut the background says
+    vulnerability is due to Aberglauben and Naivität. However, the background also
+    says they have Neugier and react with Unkenntnis.\n\nThis is conflicting. Wait,
+    perhaps the gold answer is correct in that the Unkenntnis is part of the reason,
+    even if the background says \"Durch Aberglauben und Naivität\". Maybe the Unkenntnis
+    is part of what makes them naive or superstitious.\n\nAlternatively, perhaps the
+    gold answer combined the points. Let's see:\n\nThe background says vulnerability
+    is due to Aberglauben and Naivität. The gold answer lists Neugier, Naivität, Unkenntnis.\n
+    \nBut according to the background, Neugier is a trait they have, but not explicitly
+    a cause of vulnerability. However, maybe their Neugier leads them to be more easily
+    tricked, hence contributing to vulnerability.\n\nThis is a bit of a mess. Let's
+    try to see what the system answer did.\n\nSystem answer lists: angeborene Neugier,
+    Naivität, Aberglauben.\n\nBackground confirms that they have angeborene Neugier,
+    Naivität, and Aberglauben contributes to vulnerability.\n\nGold answer lists Neugier,
+    Naivität, Unkenntnis (of concepts like money).\n\nSo the system answer replaced
+    Unkenntnis with Aberglauben.\n\nBut according to the background, Aberglauben is
+    a correct factor (since vulnerability is due to Aberglauben and Naivität), while
+    Unkenntnis is a reaction (they don't understand money), which is probably part
+    of the reason but not explicitly stated as a cause.\n\nWait, the background says
+    \"Durch ihren Aberglauben und diese Naivität sind sie besonders leicht... zu beeinflussen.\"\
+    \ So the direct causes are Aberglauben and Naivität. The Unkenntnis is mentioned
+    as part of their reaction to modern concepts, which is likely a result of their
+    Naivität/Aberglauben, but not a separate cause.\n\nTherefore, the gold answer
+    might be incorrect in listing Unkenntnis as a cause, but since it's given as the
+    gold answer, we have to assume it's correct. Wait, no—the problem states that
+    the background information is from the lore book used to create the question and
+    gold answer. So the gold answer must be consistent with the background.\n\nWait,
+    the background says vulnerability is due to Aberglauben and Naivität. The gold
+    answer says it's due to Neugier, Naivität, and Unkenntnis. This is a contradiction.\n
+    \nBut looking at the background again:\n\n\"Die meisten Waldmenschen haben eine
+    große angeborene Neugier und eine entwaffnende Naivität, wenn sie mit der ‘Zivilisation’
+    zusammentreffen. Sie reagieren mit Unkenntnis auf die Errungenschaften der modernen
+    Welt und werden beispielsweise länger benötigen, um das Konzept von Geld oder
+    Bezahlen zu verstehen. Durch ihren Aberglauben und diese Naivität sind sie besonders
+    leicht durch Magie, herausragende, ihnen fremde Talente, aber auch durch billige
+    Taschenspielertricks zu beeinflussen.\"\n\nAh! Wait a second. The structure here
+    is:\n\n- They have Neugier and Naivität.\n\n- They react with Unkenntnis to modern
+    concepts (like money).\n\n- Due to their Aberglauben and this Naivität, they are
+    easily influenced.\n\nSo the cause is Aberglauben and Naivität. The Neugier is
+    mentioned as a separate trait, but not as a cause. The Unkenntnis is part of their
+    reaction, which is likely a result of their Naivität or Aberglauben.\n\nBut the
+    gold answer lists Neugier, Naivität, and Unkenntnis as the causes. This seems
+    to be a mistake. However, since the gold answer is provided as correct, perhaps
+    in the context of the fictional world, Neugier and Unkenntnis are considered contributing
+    factors even if the background's wording is a bit ambiguous.\n\nAlternatively,
+    maybe \"reagieren mit Unkenntnis\" is considered a property that makes them vulnerable,
+    hence part of the answer.\n\nThe system answer includes Aberglauben instead of
+    Unkenntnis. According to the background, Aberglauben is a correct factor (since
+    it's explicitly stated as a cause), while Unkenntnis is a reaction but not a direct
+    cause.\n\nWait, but the gold answer includes Unkenntnis as a cause. So if the
+    system answer replaces Unkenntnis with Aberglauben, which is also a correct cause
+    according to the background, but the gold answer didn't include it, is that a
+    problem?\n\nThe task says: if the system answer includes statements not in the
+    gold answer, check if they're correct per background.\n\nThe gold answer lists
+    three factors: Neugier, Naivität, Unkenntnis.\n\nThe system answer lists three
+    factors: Neugier, Naivität, Aberglauben.\n\nSo the system answer omitted Unkenntnis
+    and added Aberglauben.\n\nBut according to the background, both Aberglauben and
+    Unkenntnis are relevant. Wait, the background says vulnerability is due to Aberglauben
+    and Naivität. The Unkenntnis is a reaction (they don't understand money), which
+    probably contributes to their vulnerability, but the background explicitly attributes
+    the vulnerability to Aberglauben and Naivität.\n\nHowever, the gold answer includes
+    Unkenntnis as a factor. So perhaps in the lore, Unkenntnis is considered a separate
+    factor.\n\nThis is confusing. Let's see what's in both answers.\n\nGold Answer:
+    Neugier, Naivität, Unkenntnis (of concepts like money) → causes vulnerability.\n
+    \nSystem Answer: Neugier, Naivität, Aberglauben → causes vulnerability.\n\nBackground
+    says vulnerability is due to Aberglauben and Naivität. Also mentions they have
+    Neugier and react with Unkenntnis.\n\nSo the background supports Aberglauben as
+    a cause, but the gold answer doesn't include it. Instead, the gold answer includes
+    Unkenntnis.\n\nThis suggests that the gold answer might have an error, but since
+    it's given as correct, we have to work with it.\n\nWait, but the background is
+    the source for the gold answer, so the gold answer should align with it. Let's
+    check again.\n\nThe background states: \"Durch ihren Aberglauben und diese Naivität
+    sind sie besonders leicht... zu beeinflussen.\"\n\nSo the direct causes are Aberglauben
+    and Naivität.\n\nThe gold answer says the causes are Neugier, Naivität, and Unkenntnis.\n
+    \nThis is a discrepancy. However, the background also says they have Neugier,
+    which might be considered a contributing factor even if not explicitly stated
+    as a cause. Similarly, Unkenntnis (ignorance of concepts like money) would make
+    them vulnerable, so it's a valid point.\n\nBut according to the background, the
+    explicit reasons are Aberglauben and Naivität. So perhaps the gold answer is incorrect,
+    but since it's the gold answer, we must treat it as correct.\n\nAlternatively,
+    maybe the question is asking for properties they possess that make them vulnerable,
+    and the background lists Neugier, Naivität, Aberglauben, and Unkenntnis as properties,
+    with the vulnerability resulting from some combination.\n\nThis is really tricky.
+    Let's try to list all relevant points from background:\n\n- Properties of Waldmenschen:\n\
+    \  - große angeborene Neugier\n  - entwaffnende Naivität\n  - reagieren mit Unkenntnis
+    auf moderne Konzepte (Geld)\n  - Aberglauben (mentioned in the vulnerability cause)\n
+    \n- Vulnerability due to: Aberglauben und Naivität.\n\nSo the properties they
+    possess that lead to vulnerability are Aberglauben and Naivität. Neugier and Unkenntnis
+    are other properties, but vulnerability is specifically due to Aberglauben and
+    Naivität.\n\nHowever, the gold answer lists Neugier, Naivität, Unkenntnis as the
+    properties making them vulnerable.\n\nThis suggests that the gold answer might
+    have conflated the properties they have with the direct causes. But since it's
+    the gold answer, we have to go with it.\n\nThe system answer lists Neugier, Naivität,
+    Aberglauben.\n\nComparing to gold answer: system answer has Aberglauben instead
+    of Unkenntnis.\n\nNow, checking against background:\n\n- Aberglauben is a correct
+    property that contributes to vulnerability (background says vulnerability is due
+    to Aberglauben and Naivität).\n\n- Unkenntnis is a property they have (react with
+    ignorance to concepts like money), which likely contributes to vulnerability,
+    but background doesn't explicitly state it as a direct cause.\n\nThe gold answer
+    includes Unkenntnis as a cause, system answer includes Aberglauben.\n\nSo both
+    answers have three factors, but different third factors.\n\nThe question is whether
+    the system answer's inclusion of Aberglauben (which is correct per background)
+    and omission of Unkenntnis (which is in gold answer) affects the rating.\n\nThe
+    guidelines say: if the system answer includes statements not in the gold answer,
+    check if they're correct. If they're correct and relevant, it's okay.\n\nBut in
+    this case, the system answer replaced a part of the gold answer with another correct
+    statement.\n\nThe gold answer requires Unkenntnis to be mentioned, but the system
+    answer mentions Aberglauben instead.\n\nDoes the system answer contradict the
+    gold answer? The gold answer lists three factors; the system answer lists three
+    different factors (two overlapping, one different).\n\nThe question is whether
+    omitting Unkenntnis and including Aberglauben is a contradiction.\n\nThe gold
+    answer says the properties are Neugier, Naivität, Unkenntnis.\n\nThe system answer
+    says they are Neugier, Naivität, Aberglauben.\n\nSince both Unkenntnis and Aberglauben
+    are mentioned in the background as properties of the Waldmenschen, but the gold
+    answer specifies Unkenntnis as a cause, while the background says vulnerability
+    is due to Aberglauben and Naivität.\n\nThis is conflicting.\n\nWait, the background
+    says vulnerability is due to Aberglauben and Naivität. So the correct causes should
+    be Aberglauben and Naivität. But the gold answer lists Neugier, Naivität, Unkenntnis.\n
+    \nThis suggests that the gold answer might be incorrect, but since it's given
+    as correct, we have to assume that in the context of the question, those three
+    are the right answers.\n\nAlternatively, perhaps the question is asking for properties
+    they possess that make them vulnerable, and all four (Neugier, Naivität, Unkenntnis,
+    Aberglauben) are properties, but the gold answer selected three of them.\n\nIn
+    that case, the system answer's inclusion of Aberglauben (which is a correct property
+    per background) instead of Unkenntnis might still be acceptable if both are correct.\n
+    \nBut the gold answer specifically lists Unkenntnis, so omitting it would be a
+    problem.\n\nThe system answer does not mention Unkenntnis (ignorance of concepts
+    like money), which is part of the gold answer. Instead, it mentions Aberglauben.\n
+    \nAccording to the background, both Aberglauben and Unkenntnis are true statements
+    about the Waldmenschen. However, the gold answer considers Unkenntnis as a necessary
+    part of the answer, while the system answer provides Aberglauben instead.\n\n
+    The question is whether the system answer is missing a required element from the
+    gold answer.\n\nThe guidelines state: \"A system answer that does not include
+    all necessary details given in the gold answer but is not completely wrong as
+    well should get a rating between 2 and 4.\"\n\nThe gold answer has three elements:
+    Neugier, Naivität, Unkenntnis.\n\nThe system answer has Neugier, Naivität, Aberglauben.\n
+    \nSo it's missing Unkenntnis and adds Aberglauben.\n\nSince Unkenntnis is part
+    of the gold answer, omitting it means the system answer doesn't include all necessary
+    details.\n\nHowever, Aberglauben is correct per background. But the question is
+    whether Unkenntnis is a necessary detail.\n\nIf the gold answer requires Unkenntnis,
+    then omitting it is a flaw. But if both Unkenntnis and Aberglauben are valid,
+    but the gold answer chose one, then the system answer providing the other might
+    still be acceptable.\n\nBut according to the background, vulnerability is explicitly
+    due to Aberglauben and Naivität, which suggests that Aberglauben is a more accurate
+    answer than Unkenntnis. However, the gold answer says Unkenntnis is part of it.\n
+    \nThis is very confusing. Let's see what the background says about Unkenntnis:\n\
+    \n\"Sie reagieren mit Unkenntnis auf die Errungenschaften der modernen Welt und
+    werden beispielsweise länger benötigen, um das Konzept von Geld oder Bezahlen
+    zu verstehen.\"\n\nSo their Unkenntnis (ignorance) of modern concepts like money
+    is a trait, and this likely contributes to their vulnerability because they don't
+    understand things like money, making them easy to trick. The background then says
+    vulnerability is due to Aberglauben and Naivität.\n\nIt's possible that both Unkenntnis
+    and Aberglauben are factors, but the background explicitly names Aberglauben as
+    a cause, while Unkenntnis is a related trait.\n\nGiven that the gold answer includes
+    Unkenntnis, the system answer should include it to match the gold answer. By replacing
+    it with Aberglauben, which is also correct, but not part of the gold answer, does
+    this count as missing a necessary detail?\n\nThe guidelines say: if the system
+    answer doesn't include all necessary details from the gold answer, it should get
+    2-4.\n\nThe system answer misses Unkenntnis (a detail in gold answer) but adds
+    Aberglauben (which is correct per background).\n\nHowever, the question is whether
+    Unkenntnis is a necessary detail. Since the gold answer includes it, yes, it's
+    necessary.\n\nTherefore, the system answer is missing a required element (Unkenntnis)
+    from the gold answer, but adds a correct element (Aberglauben).\n\nIn such cases,
+    the rating would be between 2-4. Now, how severe is the omission?\n\nThe gold
+    answer lists three factors; the system answer provides two correct ones (Neugier,
+    Naivität) and replaces the third (Unkenntnis) with another correct one (Aberglauben).
+    Both Unkenntnis and Aberglauben are supported by the background.\n\nBut the gold
+    answer specifies Unkenntnis, so the system answer doesn't fully align with the
+    gold answer. However, since Aberglauben is correct, it's not a hallucination.\n
+    \nThe guidelines state that if the system answer includes correct additional info,
+    it's okay, but here it's replacing a required part.\n\nThis is a bit of a gray
+    area. The system answer provides two matching points and one different correct
+    point instead of the required third.\n\nSince the question asks for the properties
+    that make them vulnerable, and both Unkenntnis and Aberglauben are valid (per
+    background, though background emphasizes Aberglauben as a direct cause), but the
+    gold answer mandates Unkenntnis.\n\nThe omission of Unkenntnis means the answer
+    is incomplete according to the gold standard, but the added info is correct.\n
+    \nIn such cases, typically a rating of 4 might be given if the answer is mostly
+    correct but misses a minor detail. However, since one of the three key points
+    is replaced, it might be a 3.\n\nWait, the gold answer has three elements. The
+    system answer has two correct elements (Neugier, Naivität) and one different correct
+    element (Aberglauben instead of Unkenntnis). So it's 2 out of 3 required details,
+    but the third is also correct.\n\nBut the question is whether the Unkenntnis is
+    essential. If the background says vulnerability is due to Aberglauben and Naivität,
+    then Unkenntnis might be less critical, but the gold answer includes it.\n\nGiven
+    that the gold answer is the standard, missing any part of it reduces the score.\n
+    \nSince two elements match and one is replaced with another correct element, it's
+    not completely wrong but missing a necessary detail.\n\nAccording to the guidelines:
+    \"A system answer that does not include all necessary details given in the gold
+    answer but is not completely wrong as well should get a rating between 2 and 4.\"\
+    \n\nThe severity: missing one out of three key points, but the replacement is
+    correct. So probably a 4, because the answer is largely correct and the added
+    info is accurate, even though a detail from gold answer is missing.\n\nWait, but
+    the system answer doesn't include \"react with ignorance to foreign concepts like
+    money\" which is part of the gold answer. Instead, it says \"Aberglauben\".\n\n
+    The background supports Aberglauben as a cause, so it's a correct addition, but
+    the gold answer requires mentioning the ignorance of concepts like money.\n\n
+    Since the question is about properties that make them vulnerable, and both aspects
+    are valid, but the gold answer specifies one, the system answer fails to include
+    that specific point.\n\nIn evaluations like this, typically if the answer misses
+    a required element from the gold answer, even if it adds correct info, it's penalized.
+    The rating would be 4 if it's a minor omission, but 3 if it's a significant part.\n
+    \nGiven that the gold answer lists three factors, and the system answer provides
+    two plus another, it's missing one required factor. However, the replaced factor
+    is also correct.\n\nIn some rubrics, providing correct information not in the
+    gold answer doesn't offset missing required info. So if the gold answer has three
+    points, and the system answer only addresses two of them (even if it adds a fourth
+    correct one), it's considered incomplete.\n\nWait, no: the system answer addresses
+    three points, two of which match the gold answer, and the third is different but
+    correct.\n\nSo it's not missing a point, but substituting one.\n\nIn that case,
+    if the substituted point is also correct, it might still be a 5, but the gold
+    answer specifies particular points.\n\nHowever, the guidelines say: \"A system
+    answers that includes all relevant information to answer the question should get
+    the highest rating (5)\".\n\nIf the question's correct answer (gold) includes
+    specific points, even if other points are also correct, the system answer must
+    include the gold answer's points.\n\nSince the system answer does not include
+    \"react with ignorance to foreign concepts like money\" (Unkenntnis), which is
+    part of the gold answer, it's missing a necessary detail.\n\nTherefore, it doesn't
+    include all relevant information from the gold answer, so it can't be a 5.\n\n
+    But the added info (Aberglauben) is correct and relevant.\n\nSo rating would be
+    4, because it's mostly correct, includes two out of three gold points, adds a
+    correct third point, but misses one required gold point.\n\nAlternatively, if
+    the Unkenntnis is considered crucial, maybe a 3.\n\nBut looking at the background,
+    Unkenntnis is mentioned as part of their reaction, which is likely a key part
+    of why they're vulnerable (not understanding money makes them easy to trick).
+    The system answer mentions Aberglauben, which the background says is a cause.\n
+    \nGiven that both are correct, but the gold answer specifies Unkenntnis, the system
+    answer's omission is a flaw.\n\nHowever, in the background, the sentence structure
+    links vulnerability to Aberglauben and Naivität, suggesting Aberglauben is more
+    directly a cause than Unkenntnis.\n\nThis is very close. Given the system answer
+    provides two matching points and one correct but different point, and the background
+    supports the different point, it's a strong answer but doesn't match the gold
+    answer's specifics.\n\nThe guidelines say if it doesn't include all necessary
+    details from gold answer, rate 2-4. Since two out of three are there, and the
+    third is replaced with another correct detail, I think a 4 is appropriate.\n\n
+    Additionally, the system answer adds historical context about slave hunters/magiers,
+    which is supported by the background (\"Eine Eigenschaft, die vielen zum Verhängnis
+    wurde – und Sklavenjägern über Jahrhunderte hinweg ein sicheres Einkommen verschafft
+    hat.\") So that part is correct.\n\nThe system answer also has a trailing sentence
+    asking if more research is needed, which is not part of the answer and might be
+    considered irrelevant or a hallucination, but the background doesn't mention anything
+    about needing more sources. However, the guidelines say to ignore tool-related
+    parts if not beneficial. The system answer says: \"Für tiefere Einsichten... könnten
+    ergänzende Quellen hilfreich sein. Soll ich nach weiteren Details forschen?\"\n
+    \nThis part is not based on the background and seems like a generic assistant
+    response, which is a hallucination. However, the task says to prioritize factual
+    accuracy and state if there are hallucinations.\n\nThe background doesn't mention
+    anything about needing more sources or offering to research further, so this part
+    is a hallucination.\n\nNow, the presence of hallucinated content (the last two
+    sentences) would negatively impact the rating.\n\nThe main answer body is mostly
+    correct but misses Unkenntnis and adds Aberglauben. Then there's extra hallucinated
+    content.\n\nThe guidelines state: \"If the statements are not true (hallucinations),
+    this should generally lead to a lower rating.\"\n\nSo the hallucinated part at
+    the end would lower the rating.\n\nThe main answer has a substitution of one correct
+    detail for another, which might be acceptable, but the hallucinated part is a
+    problem.\n\nSo the system answer has:\n\n- Correct points: Neugier, Naivität,
+    Aberglauben (all supported by background)\n- Missing Unkenntnis (from gold answer)\n
+    - Hallucinated content: offering to research further\n\nThe missing Unkenntnis
+    is a flaw, but since Aberglauben is correct, it's not a contradiction. However,
+    the hallucinated part is a definite negative.\n\nThe guidelines say a contradicting
+    answer gets 1, but this doesn't contradict—it's incomplete and has extra hallucinations.\n
+    \nThe hallucinations here are minor (the last two sentences), but still present.\n
+    \nIn such cases, the rating would be reduced by the hallucinations.\n\nTypically,
+    if the main answer is mostly correct but has minor hallucinations, it might be
+    a 4. If the hallucinations are significant, lower.\n\nHere, the hallucinated part
+    is two sentences at the end, which are not relevant to the answer and are made
+    up. This is a clear hallucination.\n\nSo the answer has correct content but includes
+    irrelevant hallucinated text.\n\nAccording to guidelines, hallucinations lower
+    the rating.\n\nThe main answer body is accurate except for missing Unkenntnis
+    (but adding correct Aberglauben), but the hallucinated part is extra.\n\nWait,
+    the gold answer doesn't have the hallucinated part, so including it is extra and
+    false.\n\nSo the system answer has:\n\n- Accurate content: mostly, with substitution
+    of one correct detail\n- Inaccurate content: the last two sentences\n\nThe question
+    is how much the hallucinations affect the rating.\n\nIf the main answer is otherwise
+    good but has minor hallucinations, it might drop from 5 to 4, or 4 to 3.\n\nIn
+    this case, the main answer misses a detail from gold answer (Unkenntnis) but substitutes
+    a correct one (Aberglauben), so it's not perfect. Plus the hallucinations.\n\n
+    Given all that, the rating would likely be 3 or 4.\n\nLet's recap:\n\n- Gold answer
+    requires: Neugier, Naivität, Unkenntnis (of concepts like money)\n- System answer
+    provides: Neugier, Naivität, Aberglauben (all correct per background)\n- Missing
+    Unkenntnis, but Aberglauben is also correct\n- Adds historical manipulation by
+    slave hunters (correct per background)\n- Adds hallucinated offer to research
+    further\n\nThe omission of Unkenntnis is a flaw, but since Aberglauben is a valid
+    point (and background emphasizes it as a cause), it's a judgment call whether
+    this is acceptable.\n\nHowever, the gold answer is the standard, so missing any
+    of its points is a deduction.\n\nThe hallucinated part is clearly bad.\n\nConsidering
+    both:\n\n- Missing one required element from gold answer (but replaced with another
+    correct one)\n- Hallucinated content present\n\nThis would likely be a 3.\n\n
+    Because while the main points are mostly correct, missing a specified detail and
+    adding hallucinations reduces the score.\n\nAlternatively, if the substitution
+    is considered acceptable (since both points are correct), and the hallucinations
+    are minor, it could be a 4.\n\nBut the hallucinations are not minor—they're explicit
+    offers to do something not based on the background.\n\nIn academic grading, extra
+    incorrect information, even if minor, can reduce the score.\n\nGiven that, I think
+    the rating is 3.\n\nWait, another angle: the system answer includes \"Aberglauben\"\
+    \ which is correct, and the background says vulnerability is due to Aberglauben
+    and Naivität, which suggests that Aberglauben is more accurate than Unkenntnis.
+    However, the gold answer includes Unkenntnis.\n\nThis might indicate that the
+    gold answer has a mistake, but we have to go by the gold answer.\n\nIf the system
+    answer provides a more accurate answer than the gold answer, but the gold answer
+    is the standard, then the system answer still doesn't match the gold answer's
+    specifics.\n\nIn evaluations like this, adherence to the gold answer is key, even
+    if the gold answer isn't perfect.\n\nSo missing Unkenntnis (which the gold answer
+    includes) is a flaw, regardless of background accuracy.\n\nTherefore, the system
+    answer doesn't include all necessary details from the gold answer.\n\nAdditionally,
+    it adds hallucinated content.\n\nSo:\n\n- Missing one key detail from gold answer
+    (Unkenntnis)\n- Added correct detail (Aberglauben)\n- Added hallucinated content\n
+    \nThe missing detail is significant because it's part of the gold answer's three
+    points.\n\nThe hallucinated content is also a negative.\n\nIn such cases, a rating
+    of 3 seems appropriate: not completely wrong, includes some correct info, but
+    missing key details and has hallucinations.\n"
+  grade: 3
+  user_grade: 4
+- question: Welche Drachenart nistet und jagt typischerweise in den Küstenbergen am
+    Meer der Sieben Winde?
+  correct_answer: Westwinddrachen.
+  inner_monologue: "<think>\nIch muss zunächst durchgehen, was ich über die Anfrage
+    des Nutzers bereits weiß.  Der Nutzer fragt nach der Drachenart, die typischerweise
+    in den Küstenbergen am Meer der Sieben Winde nistet und jagt. Ich benötige also
+    Informationen über Drachenarten, die in diesen spezifischen geografischen Regionen
+    vorkommen. \n\nIm bisherigen Gespräch gab es verschiedene Recherchen-Ergebnisse,
+    die mir Hinweise geben könnten:\n\n1. In den Abschnitten „## Das Südmeer“ und
+    „## Drachen des Südens” wurden Drachen wie Riesenlindwürmer, Westwinddrachen,
+    Meckerdrachen und Funkeldrachen erwähnt. Allerdings lag der Fokus eher auf genereller
+    Beschreibung der Drachen im Südmeer, nicht explizit auf Küstenbergen am Meer der
+    Sieben Winde.\n\n2. In dem Abschnitt „### Drachen im Herzen des Kontinents“ wurden
+    verschiedene Drachenarten wie Kaiserdrachen, Purpurwürmer, Perldrachen und Drachen
+    wie Agapyr und Yasandyr beschrieben. Aber dies bezieht sich mehr auf regionale
+    Unterscheidungen innerhalb des Kontinents, nicht exakt auf die Küstenberge am
+    Meer der Sieben Winde.\n\n3. Im Abschnitt „## Das Perlenmeer“ wurden Perldrachen
+    erwähnt, die in der Region des Perlenmeers vorkommen. Dies könnte relevant sein,
+    da das Perlenmeer eng mit dem Meer der Sieben Winde verbunden ist.\n\nNun bin
+    ich auf der Suche nach konkreten Drachenarten, die typischerweise in den Küstenbergen
+    des Meer der Sieben Winde vorkommen. Ich werde also zusätzliche Recherchen starten,
+    um genauere Informationen zu finden. Vielleicht gibt es abschnittsbezogene Beschreibungen
+    über Drachen in diesen Gebieten. \n</think>"
+  system_answer: "Der Meer der Sieben Winde und seine Küstenberge sind Heimat mehrerer
+    Drachenarten, wobei **Perldrachen** und **Purpurwürmer** besonders häufig in diesen
+    Regionen angetroffen werden.  \n- **Perldrachen**: Sie dominieren die Küstenregionen
+    des Perlenmeers und nisten in Felsgrotten oder auf hohen Klippen. Ihre goldene
+    Haut reflektiert das Licht des Meeres, und sie jagen vor allem Fischschwarm und
+    Seegras.  \n- **Purpurwürmer**: Diese Drachen bevorzugen kühlere, bergnahe Gebiete
+    und nisten in Höhlen oder unter Felsen. Sie jagen groβe Reptilien und Wirbeltiere,
+    oft in den Flußtälern der Küstenberge.  \n\nBeide Arten sind eng mit der maritime
+    Kultur der Region verbunden und werden in Mythen als Wächter der Küsten beschrieben.
+    Weitere Details finden sich in den Abschnitten *„## Das Perlenmeer“* und *„###
+    Drachen im Herzen des Kontinents“*."
+  related_chunk: G01-737
+  grade_reasoning: "Okay, let's tackle this problem. So, the task is to grade the
+    system answer based on the given guidelines. Let me go through each part carefully.\n
+    \nFirst, the question is asking which dragon species typically nests and hunts
+    in the coastal mountains by the Sea of Seven Winds. The gold answer is \"Westwinddrachen\"\
+    \ (Westwind Dragons). \n\nNow, looking at the system answer, it mentions Pearl
+    Dragons (Perldrachen) and Purple Worms (Purpurwürmer) as the common species in
+    those regions. It gives details about their nesting habits and hunting behaviors.
+    However, the background information states that in the coastal mountains and cliffs
+    of the Sea of Seven Winds, as well as the western slopes of the Rain Mountains,
+    several Westwind Dragons (Westwinddrachen) nest. It also mentions Meckerdrachen
+    and Funkeldrachen in the rainforests, but the key point here is Westwinddrachen
+    for the coastal mountains.\n\nThe system answer didn't mention Westwinddrachen
+    at all. Instead, it listed Perldrachen and Purpurwürmer. Checking the background
+    info, there's no mention of Perldrachen in the Sea of Seven Winds area. The background
+    does talk about Purpurwürmer in other regions, like east of Nasha and southwest
+    of Fouhad, but not specifically in the coastal mountains of the Sea of Seven Winds.
+    The correct answer according to the background is Westwinddrachen.\n\nSo the system
+    answer provided incorrect species. The gold answer is Westwinddrachen, but the
+    system answer says Perldrachen and Purpurwürmer. Since the system answer contradicts
+    the gold answer, according to the guidelines, this should get the lowest rating
+    (1). Even though the system answer included detailed info, it's all hallucinated
+    because the background doesn't support Perldrachen or Purpurwürmer in that specific
+    location. The background clearly states Westwinddrachen are the ones there. Therefore,
+    the answer is wrong, leading to a rating of 1.\n"
+  grade: 1
+  user_grade: 1

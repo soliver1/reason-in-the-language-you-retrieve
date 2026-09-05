@@ -1,0 +1,53 @@
+<div id="knowledge_references">
+    <button type="button"
+            class=" grid place-items-center h-8 p-2 aspect-square bg-lime-800 rounded-full cursor-pointer hover:bg-lime-700"
+            hx-get="knowledge_references"
+            hx-target="#knowledge_references">
+
+        <i class="fa-solid fa-arrow-left"></i>
+    </button>
+    <div class="p-2">
+        {% for anc in chunk.ancestors %}
+            <div>
+                <button type="button"
+                    class="cursor-pointer hover:text-lime-600 text-left"
+                    hx-get="knowledge_reference_content/{{ anc.id }}"
+                    hx-target="#knowledge_references">
+                    {{ '→' if not loop.first }}{{ anc.title }} <span class="text-slate-500">({{ anc.id }})</span>
+                </button>
+            </div>
+        {% endfor %}
+
+{#        <span>{{ chunk.ancestors | map(attribute="title") | join(' → ') }}</span>#}
+        <h3 class="text-2xl font-bold">{{ '→' if chunk.ancestors }}{{ chunk.title }}</h3>
+
+        <div class="pl-4 italic">
+            <span>ID: {{ chunk.id }}</span><br>
+            <span>Überschriftslevel: {{ chunk.headline_level }}</span><br>
+            <span>Buchseite{{ 'n' if chunk.source_page_set | length > 1 }}: {{ chunk.source_page_set|join(", ") }}</span>
+        </div>
+        <h4 class="text-lg font-bold pt-4">Unterabschnitte</h4>
+        <div class="pl-4">
+            {% for child in chunk.children %}
+                <div>
+                    <button type="button"
+                        class="cursor-pointer hover:text-lime-600 text-left"
+                        hx-get="knowledge_reference_content/{{ child.id }}"
+                        hx-target="#knowledge_references">
+                        →{{ child.title }}
+                    </button>
+                </div>
+            {% endfor %}
+        </div>
+
+
+        <h4 class="text-lg font-bold pt-4">Inhalt</h4>
+        <div class="pl-4">
+        {% if chunk.content %}
+            {{ chunk.content }}
+        {% else %}
+            Kein Inhalt
+        {% endif %}
+        </div>
+    </div>
+</div>

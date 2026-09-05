@@ -1,0 +1,8 @@
+<div class="answer p-1 bg-lime-800 w-fit rounded-md m-1 mr-12">
+    <div class="italic cursor-pointer text-sm" _="on click log clicked then toggle .hidden on next .inner-monologue">Inneren Monolog zeigen</div>
+    <div class="inner-monologue hidden italic">
+        {{ inner_monologue | safe}}
+        <hr class="m-4">
+    </div>
+    {{ answer | safe}}
+</div>

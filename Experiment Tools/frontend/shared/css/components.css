@@ -1,0 +1,97 @@
+
+.c_button, .c_round-button, .c_text-button, .c_select, .c_icon-button, .c_square-button {
+    @apply cursor-pointer accent-yellow-500;
+}
+
+.c_button {
+    @apply px-2 py-1 m-1 rounded-lg active:bg-yellow-500! focus:outline-yellow-500 focus:outline-2 disabled:bg-stone-600 disabled:text-stone-400 disabled:cursor-default;
+        
+    &.s_lime {
+        @apply enabled:bg-lime-400 enabled:dark:bg-lime-800 enabled:hover:bg-lime-600;
+    }
+    &.s_rose {
+        @apply enabled:bg-rose-400 enabled:dark:bg-rose-800 enabled:hover:bg-rose-600;
+    }
+}
+
+.c_round-button {
+    @apply grid place-items-center h-8 p-2 aspect-square rounded-full active:bg-yellow-500 disabled:bg-stone-600 disabled:text-stone-400 disabled:cursor-default;
+
+    &.s_lime {
+        @apply enabled:bg-lime-400 enabled:dark:bg-lime-800 enabled:hover:bg-lime-600;
+    }
+    &.s_rose {
+        @apply enabled:bg-rose-400 enabled:dark:bg-rose-800 enabled:hover:bg-rose-600;
+    }
+}
+
+.c_text-button {
+    @apply my-1 px-1 rounded-lg active:text-yellow-500! focus:outline-yellow-500 focus:outline-1 active:bg-slate-700;
+
+    &.s_lime {
+        @apply hover:text-lime-500;
+    }
+    &.s_rose {
+        @apply hover:text-rose-500;
+    }
+}
+
+.c_square-button {
+    @apply aspect-square w-[1.25rem] p-[0.125rem] active:bg-yellow-500! border-solid border-2 border-lime-800 focus:outline-yellow-500 focus:outline-1;
+
+    &.s_lime {
+        @apply border-lime-800 hover:bg-lime-800;
+    }
+    &.s_rose {
+        @apply border-rose-800 hover:bg-rose-800;
+    }
+}
+
+.c_icon-button {
+    @apply flex text-sm items-center gap-1 rounded-2xl py-1 pl-2 focus:outline-yellow-500 focus:outline-1;
+
+    &:hover:not(:disabled) {
+        background-color: var(--hover-color);
+    }
+    &:active:not(:disabled) {
+        @apply active:bg-yellow-500!;
+    }
+
+    > i {
+        color: var(--icon-color);
+    }
+    > .t_divider {
+        background-color: var(--icon-color);
+    }
+
+    &.s_lime {
+        --icon-color: var(--color-lime-600);
+        --hover-color: var(--color-lime-900);
+    }
+
+    &.s_rose {
+        --icon-color: var(--color-rose-600);
+        --hover-color: var(--color-rose-900);
+    }
+
+    &:disabled {
+        --icon-color: var(--color-stone-500);
+        --hover-color: var(--color-stone-700);
+
+        cursor: default;
+    }
+
+    &.s_reverse {
+        padding-inline: 0rem 0.5rem;
+        flex-direction: row-reverse;
+    }
+
+}
+
+.c_input {
+    @apply border-b-1 w-full border-solid accent-yellow-500;
+}
+
+.c_select {
+    @apply border-1 border-solid px-2 bg-slate-300 dark:bg-slate-800;
+}

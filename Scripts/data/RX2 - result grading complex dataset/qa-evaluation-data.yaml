@@ -1,0 +1,2045 @@
+# Im Folgenden sind Fragen, korrekte Antworten und System-Antworten in verschiedenen Konfigurationen (A-F) gegeben.
+# Deine Aufgabe ist, die verschiedenen Antworten auf einer Skala von 1 (sehr schlecht) bis 5 (sehr gut) zu bewerten.
+# Trage deine Bewertung in das dafür vorgesehene 'Rating'-Feld ein.
+# Falls du zu einer Bewertung etwas Spezielles anmerken möchtest, kannst du hierzu das 'Comment'-Feld nutzen.
+# Achte dabei auf folgende Kriterien:
+# ### Inhalt
+#   - Ist eine Antwort korrekt und enthält eine Antwort alle nötigen Informationen zur Beantwortung der Frage, sollte sie mit 5 bewertet werden.
+#   - Ist eine Antwort falsch, sollte sie mit 1 bewertet werden.
+#   - Ist eine Antwort nicht vollständig, enthält jedoch einige korrekte und relevante Aspekte, die noch nicht in der Frage enthalten waren, sollte sie eine Bewertung zwischen 2 und 4 erhalten.
+#   - Enthält eine Antwort zusätzliche Informationen die nicht in der vorgegebenen korrekten Antwort enthalten sind, nutze dein eigenes Wissen über Aventurien um einzuordnen, ob die Informationen:
+#      - Korrekt sind (kein Abzug in der Bewertung)
+#      - Erfunden sind (hierfür solltest du in der Bewertung einen oder mehrere Punkte abziehen)
+# ### Formulierung
+#   - Enthält eine Antwort grammatikalische oder orthografische Fehler, kannst du dafür Punkte der Bewertung abziehen.
+#   - Ist eine Antwort unverständlich oder missverständlich formuliert, kannst du dafür Punkte in der Bewertung abziehen.
+#   - Ob eine Antwort auf eine Textpassage verweist oder nicht ist für die Bewertung irrelevant.
+
+
+- question: Die größte Stadt Aventuriens ist von einer mächtigen Stadtmauer umgeben.
+    Wie hoch und wie breit ist sie?
+  correct_answer: Die größte Stadt des Kontinents ist Gareth, die Garether Mauer ist
+    *15 Schritt hoch und 8 Schritt dick*.
+  Answer A: Die Stadtmauer von Gareth ist 15 Schritt hoch und acht Schritt dick. Sie
+    besteht aus verfugten Steinquadern und verfügt über eine Zinnenkrone sowie Schanzkleid
+    (hölzerne Überdachung). Die Mauer ist rund 8 Meilen lang und besitzt Schießerker
+    every 60 Schritt sowie große Turmbasteien every 300 Schritt.
+  Rating A:
+  Comment A: ''
+  Answer B: "Die Stadtmauer von Gareth, der größten Stadt Aventuriens, ist **15 Schritt
+    hoch** und **8 Schritt dick**. Sie besteht aus verfugten Steinquadern und verfügt
+    über Schießerker und Turmbastionen. Der Wehrgang ist mit Zinnenkrone und Schanzkleid
+    ausgelegt.  \n\n*Quelle:* [G08-306](#G08-306) (\"#### Die Stadtmauer\")"
+  Rating B:
+  Comment B: ''
+  Answer C: Die Stadtmauer von Fasar ist 20 Schritte breit und 15 Schritt hoch. Dies
+    ergibt sich aus der Beschreibung der Stadtmauer in der Region Gareth.
+  Rating C:
+  Comment C: ''
+  Answer D: Die Stadtmauer der größten Stadt Aventuriens, Gareth, ist **15 Schritte
+    hoch** und **8 Schritte dick**, wie im Abschnitt mit der ID `G08-306` erwähnt.
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nDie Stadtmauer von Gareth, der größten Stadt Aventuriens, ist **20
+    Schritt hoch** (ca. 15 Meter) und **8 Schritt breit** (ca. 6 Meter). Diese Angaben
+    stammen aus offiziellen *DSA*-Quellen wie dem *Geographica Aventurica* (4. Edition).
+    *Hinweis: Konkrete Maße können je nach Regelwerk oder regionaler Beschreibung
+    leicht variieren.*"
+  Rating E:
+  Comment E: ''
+  Answer F: 'Die Stadtmauer von Gareth ist **15 Schritte hoch** und **8 Schritte dick**,
+    wie in der Beschreibung „#### Die Stadtmauer“ (ID: G08-306) angegeben. Dies sind
+    direkte Angaben aus der Quelle. Keine weiteren Details zur Befestigung wurden
+    in den bisher abgerufenen Texten gefunden.'
+  Rating F:
+  Comment F: ''
+
+
+- question: In der zweitgrößte Stadt Aventuriens hält insbesondere eine Person die
+    Machtfäden in der Hand. Wie heißt die Tochter dieser Person?
+  correct_answer: Die Tochter von Amir Honak, dem Patriarchen von Al'Anfa (der zweitgrößten
+    Stadt Aventuriens) heißt *Amira Honak*.
+  Answer A: "Die zweitgrößte Stadt Aventuriens ist Mirham. In den Texten wird erwähnt,
+    dass die Stadt von König Damian von Shoy’Rina regiert wird, doch speziell wird
+    eine Figur namens **Amira Honak** als „designierte Nachfolgerin des Patriarchen“
+    und als „Kommandantin der Rabengarde“ beschrieben. Sie ist die Tochter von **Amir
+    Honak**, einem mächtigen religiösen und politischen Führer. \n\nSomit lautet die
+    Antwort:  \n**Amira Honak** ist die Tochter der Person, die die Machtfäden in
+    Mirham hält."
+  Rating A:
+  Comment A: ''
+  Answer B: "Die Tochter des mächtigen Adnan Zeforika aus Chorhop heißt **Melyssa
+    Zeforika**. Sie ist erwähnt als „bildhübsche Tochter des Vogtvikars“ in der Beschreibung
+    der „Großen Lotterie“. Dies bestätigt, dass sie die genannte Person ist, die die
+    Machtfäden in der zweitgrößten Stadt Aventuriens hält. \n\nAntwort: **Melyssa
+    Zeforika**."
+  Rating B:
+  Comment B: ''
+  Answer C: Die Tochter des mächtigen Mannes in Chorhop heißt Melyssa Zeforika. Sie
+    ist die bildhübsche Tochter des Vogtvikars und spielt eine rolle bei der Großen
+    Lotterie.
+  Rating C:
+  Comment C: ''
+  Answer D: Die Tochter der Person, die in der zweitgrößten Stadt Aventuriens die
+    Machtfäden hält, heißt **Melyssa Zeforika**. Sie ist die Tochter des Vogtvikars
+    Adnan Zeforika und spielt eine aktive Rolle in der Stadtspionage und Politik.
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nDie zweitgrößte Stadt Aventuriens ist Havena. Die Person, die dort
+    die \"Machtfäden\" hält, ist der **Herr der Macht**, ein Titel für den geheimen
+    Anführer der Borbarad-Kultisten in der Stadt. Seine Tochter heißt **Liliana**."
+  Rating E:
+  Comment E: ''
+  Answer F: "Die Tochter der Machtfigur in der zweitgrößten Stadt Aventuriens ist
+    **Shantalla Karinor**, Mitglied der mächtigen Familie *Karinor* in **Al’Anfa**.
+    Sie ist als *Observatora Mercaturae* im Rat der Zwölf eine einflussreiche Figur
+    und erhielt ihre Macht durch strategische Verbindungen und Manipulation.  \n\n
+    Wenn „zweitgrößte Stadt“ anders interpretiert wird, könnten weitere Forschungen
+    erforderlich sein.当前信息下，Shantalla Karinor ist die beste Übereinstimmung."
+  Rating F:
+  Comment F: ''
+
+
+- question: Wie hängt die Tochter des Patriarchen von Al'Anfa mit einer der berüchtigtsten
+    Meuchlerorganisationen Aventuriens zusammen?
+  correct_answer: Die Tochter von Amir Honak, dem Patriarchen von Al'Anfa heißt *Amira
+    Honak*. Sie ist die *offizielle Vorsteherin der Hand Borons*, einer der berüchtigtsten
+    Meuchlerorganisationen Aventuriens.
+  Answer A: Die Tochter des Patriarchen von Al’Anfa, Alena Perval-Karinor, ist indirekt
+    mit der „Hand Borons“ verbunden, da diese Organisation in Al’Anfa tätig ist und
+    dort politische und militärische Macht ausübt. Obwohl keine direkte Verbindung
+    zwischen Alena und der Hand Borons explizit beschrieben wird, könnte sie durch
+    ihre Familie oder ihre Rolle als potentielle Erbin in das Netzwerk der Macht involviert
+    sein. Da die Hand Borons oft als Instrument der Macht des Patriarchen fungiert,
+    wäre es logisch, dass auch Alenas Zukunft mit diesen Strukturen verknüpft ist.
+    Weitere Forschung müsste zeigen, ob sie aktiv in die Aktivitäten der Hand Borons
+    eingebunden ist.
+  Rating A:
+  Comment A: ''
+  Answer B: "Die Tochter des Patriarchen von Al'Anfa ist direkt mit der **Hand Borons**,
+    einer der berüchtigsten Meuchlerorganisationen Aventuriens, verbunden. Diese Verbindung
+    basiert auf der engeren Zusammenarbeit zwischen der Hand Borons, dem Boron-Temple,
+    dem Hohen Rat der Zwölf und den Grandenfamilien, welche die Macht in Al'Anfa ausüben.
+    Der Patriarch himself gilt als zentraler Akteur, der die Hand Borons strategisch
+    nutzt, um die Interessen der Stadt zu wahren – inklusive ritualhafter Morde und
+    diplomatischer Einsätze.  \n\nObwohl explizite Informationen über *die* Tochter
+    des Patriarchen nicht direkt adressiert werden, lässt sich aus den Texten ableiten,
+    dass Mitglieder der Patriarchenfamilie als symbolische oder faktische Schnittstellen
+    zwischen der Politik und der Hand Borons fungieren könnten. Insbesondere die „Eigene
+    Machtausbreitung“ der Hand Borons (siehe G01-224), bei der lokale Netzwerke geknüpft
+    werden, sowie ihre Rolle als „Agent“ und „Diplomat“ (G01-221) legen nahe, dass
+    auch familiäre Bindungen genutzt werden, um Macht und Einfluss zu sichern.  \n
+    \nEine tiefere Forschung zu spezifischen Figuren der Patriarchenfamilie oder deren
+    direkten Verbindungen zur Hand Borons könnte zusätzliche Details liefern.  \n
+    **Empfohlene nächste Suche:** `Patriarchenfamilie Al'Anfa Hand Borons Verbindungen`
+    oder `Patriarchen-Tochter Hand Borons`."
+  Rating B:
+  Comment B: ''
+  Answer C: "Die Tochter des Patriarchen von Al’Anfa, Alena Perval-Karinor, steht
+    in indirektem Zusammenhang mit der berüchtigten Meuchlerorganisation „Die Hand
+    Borons“. Obwohl direkt keine explizite Verbindung zwischen Alena und der Hand
+    Borons hergestellt wird, ist zu beachten, dass Alena innerhalb des mächtigen Establishments
+    von Al’Anfa steht und somit potenziell Zugang zu den Netzwerken der Hand Borons
+    hat. \n\nAußerdem zeigt sich, dass die Hand Borons tief in die Strukturen der
+    Stadt integriert ist und oft die Interessen der Mächtigen vertritt. Da Alenas
+    Familie, insbesondere ihre Tante Shantalla Karinor, stark in die Politik involviert
+    ist, könnte es durch Verbindungen innerhalb der Machtelite zu Aktivitäten der
+    Hand Borons kommen.\n\nUm eine direkte Verbindung zu klären, wäre eine genauere
+    Suche nach Ereignissen oder Berichten nötig, die Alena mit der Hand Borons in
+    Verbindung bringen. Dies könnte mittels zusätzlicher Forschung im System erfolgen.
+    Möchtest du, dass ich dies tue?\n\nWenn ja, sage einfach „Ja“, dann suche ich
+    weiter."
+  Rating C:
+  Comment C: ''
+  Answer D: Yasmina Honak, Tochter des Patriarchen von Al’Anfa, ist nicht direkt mit
+    der *Hand Borons* verbunden, aber durch ihre Familie und den politischen Kontext,
+    in dem sie lebt, könnte sie indirekt mit dieser Meuchlerorganisation in Verbindung
+    stehen. Ihre Familie, insbesondere der Onkel Irschan Perval, hat enge Beziehungen
+    zur Boron-Kirche und zu mächtigen politischen Strukturen, welche die *Hand Borons*
+    unterstützen oder koordinieren. Obwohl keine explizite Verbindung dokumentiert
+    ist, ist eine indirekte Beeinflussung durch familienpolitische Intrigen und Machtstrukturen
+    plausible.
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nDie Tochter des Patriarchen von Al'Anfa, **Ayla al Rashid**, ist
+    heimlich mit dem **Orden der Schwarzen Hand** verbunden – einer der berüchtigtsten
+    Meuchlerorganisationen Aventuriens. Als hochrangiges Mitglied nutzt sie ihre Stellung
+    im Herrscherhaus, um die Interessen der Schwarzen Hand in Al'Anfas Politik einzubringen.
+    Diese Verbindung ist ein zentraler Punkt des intriganen Netzwerks der Stadt und
+    wird u. a. in DSA-Quellen wie *„Das Land der Zehn Götter“* (4. Edition) thematisiert.
+    Die Schwarze Hand agiert hier als Schattenmacht hinter dem offiziellen Herrschaftsapparat."
+  Rating E:
+  Comment E: ''
+  Answer F: "Amiras Honak, Tochter des Patriarchen Amir Honak, steht in enger Verbindung
+    zur *Hand Borons*, der berüchtigsten Meuchlerorganisation Aventuriens. Obwohl
+    keine direkte familiäre Bindung zwischen Amira und der Organisation dokumentiert
+    ist, spielte sie eine zentrale Rolle bei der strategischen Lenkung der Hand Borons
+    durch den Patriarchen. \n\nIn der *„Organisation“*-Abschrift (G01-219) wird erwähnt,
+    dass die Hand Borons als „strafter Arm der Boronskrone“ fungiert und eng mit dem
+    Boron-Tempel, den Granden und Söldnerkontingenten kooperiert. Amir Honak nutzte
+    die Hand Borons, um politische Gegner neutraliseren und die Macht Al’Anfas auszubreiten.
+    Diese Dynamik legt nahe, dass auch seine Tochter Amira, als symbolische Figur
+    der kirchlichen und staatlichen Macht, indirekt mit der Organisation verbunden
+    war – sowohl durch institutionelle Kooperation als auch durch die gemeinsame Zielsetzung,
+    die Herrschaft Al’Anfas zu sichern. \n\nWeitere Detailinformationen könnten durch
+    Forschung zu spezifischen Ereignissen oder Briefwechseln zwischen Amira Honak
+    und der Hand Borons ergänzt werden."
+  Rating F:
+  Comment F: ''
+
+
+- question: Obwohl Thorwaler im Norden zuhause sind, gibt es eine große Stadt in Südaventurien
+    in denen eine Thorwalsche Familie mit zu den Entscheidungsträgern gehört. Um welche
+    Stadt und welche Thorwalsche Sippe geht es hier?
+  correct_answer: Die thorwalsche Familie *Hammerfaust* ist eine der wichtigen Familien
+    der Stadt *Brabak*, die hier zur mächtigen Audienza (dem Beratungsgremium des
+    Königs) gehören.
+  Answer A: Die Stadt, in der eine thorwalsche Familie zu den Entscheidungsträgern
+    gehört, ist **Chorhop**. Die **Hammerfausts**, eine thorwalsche Familie, spielen
+    dort eine bedeutende Rolle. Obwohl sie traditionell nordische Sitten pflegen,
+    haben sie sich inzwischen als loyale Brabaker integriert und sind besonders aktiv
+    in politischen Debatten rund um den Handel und militärische Aktivitäten.
+  Rating A:
+  Comment A: ''
+  Answer B: "Die Stadt ist **Brabak**, und die betreffende Thorwalsche Familie heißt
+    **Hammerfaust**.  \n\nDie Hammerfausts sind eine bedeutende Familie in Brabak,
+    die sich historisch aus thorwalischem Raum ableitet. Obwohl sie ursprünglich aus
+    dem Norden stammen, haben sie sich in Brabak integriert und spielen dort eine
+    entscheidende Rolle bei politischen Entscheidungen. Sie engagieren sich aktiv
+    im Widerstand gegen sklaventreibende Mächte wie Al’anfa und streben danach, Brabak
+    als Freibeutherzentrum zu etablieren. Ihr Einfluss zeigt sich u.a. in ihrer Ablehnung
+    der Sklaverei und in ihren Anträgen für die Stadt als Zufluchtsort für Gegner
+    Al’anfas.  \n\nDies ergibt sich aus der Analyse der thorwalschen Präsenz in Südaventurien,
+    insbesondere der Erwähnung der **Hammerfausts** in Verbindung mit Brabak („die
+    dritten wichtigen Familie... die hammerfausts...“) sowie deren politischen Aktivitäten."
+  Rating B:
+  Comment B: ''
+  Answer C: "Die erwähnte Stadt ist Chorhop, und die betreffende Thorwalsche Sippe
+    ist die Familie Zeforika. \n\nDie Familie Zeforika ist eine der reichsten Familien
+    Aventuriens und spielt eine entscheidende Rolle bei der Regierung der Stadt Chorhop.
+    Ihr Mitglied Adnan Zeforika ist der Vorsteher des Phex-Tempels und damit ein zentraler
+    Entscheidungsträger in der Stadt."
+  Rating C:
+  Comment C: ''
+  Answer D: "Die Stadt, in der eine thorwalsche Familie unter den Entscheidungsträgern
+    steht, ist **Brabak** in Südaventurien. Die betreffende Thorwalsche Familie ist
+    die **Hammerfausts**.\n\nDie Hammerfausts sind eine mächtige thorwalsche Familie,
+    die in Brabak eine bedeutende Rolle spielt. Sie sind besonders in militärischen
+    und strategischen Fragen aktiv und unterstützen die Vision, Brabak in einen Freibeutherofen
+    und zu einer Zuflucht für Feinde Al’Anfas zu verwandeln. Die Familie hat enge
+    Verbindungen zu den Echsen und ist in politischen und militärischen Entscheidungen
+    stark involviert. Prominente Figuren der Familie sind beispielsweise Barsotha
+    Marby-Hammerfaust."
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nDie gesuchte Stadt ist **Beilunk** in den Tulamidenländern Südaventuriens.
+    Die einflussreiche Thorwalsche Sippe dort ist die **Sippe Haffax**, die als Handelsherren
+    und politische Akteure präsent ist."
+  Rating E:
+  Comment E: ''
+  Answer F: "In Südaventurien ist die Stadt **Brabak** bekannt, dort gehört die **Hammerfaust**-Familie
+    zu den mächtigsten Entscheidungsträgern. Obwohl Thorwaler traditionell im Norden
+    ansässig sind, hat sich diese Familie im Königreich Brabak etabliert und spielt
+    eine prominente Rolle in lokalen Machtkämpfen. Die Familie folgt weiterhin thorwalschen
+    Traditionen und positioniert sich aktiv gegen Al’Anfa. \n\n**Erklärung:**  \n
+    Die Suche nach „Thorwaler Entscheidungsträger Südaventurien“ führte zu Informationen
+    über Brabak und die Hammerfausts, die explizit als einflussreiche Thorwaler-Familie
+    im südlichen Raum beschrieben werden."
+  Rating F:
+  Comment F: ''
+
+
+- question: Welches Südaventurische Reich wird von einer Borongeweihten regiert? Welchen
+    Titel trägt die dort herrschende Person?
+  correct_answer: Das Káhet ni Kemi wird von der dem Gott Boron geweihten Königin
+    Ela XV. regiert. Als Herrscherin trägt sie den Titel *Nisut (Königin)*.
+  Answer A: "Das Südaventurische Reich, das von einer Borongeweihten regiert wird,
+    ist **Al’Anfa**, eine der mächtigsten Städte des Südens. Die herrschende Person
+    trägt den Titel **„Patriarch“**.  \n\nDer *Patriarch* von Al’Anfa ist nicht nur
+    religiouses Oberhaupt der alanfanischen Boron-Kirche, sondern auch faktisch der
+    souveräne Herrscher der Stadt. Er wird in den Texten als „Hersteller der göttlichen
+    Ordnung“ und als Autorität beschrieben, die mit dem Rat der Zwölf (bestehend aus
+    sechs Geweihten und sechs Bürgern) die Macht in Al’Anfa teilt. Der aktuelle Patriarch,
+    **Amir Honak**, repräsentiert die theologische und politische Führung, während
+    die Geweihten der Boron-Kirche in der Gesellschaft eine zentrale Rolle spielen.\
+    \  \n\nDieses System ist in mehreren Abschnitten explizit beschrieben, z. B. im
+    Kapitel **„# Al’Anfa – Stadt und Imperium“** und **„### Boron“**, wo die Theokratie
+    Al’Anfas und die Macht der Borongeweihten verdeutlicht werden."
+  Rating A:
+  Comment A: ''
+  Answer B: "Das Südaventurische Reich, das von einer Borongeweihten regiert wird,
+    ist das **Kemi-Reich**. Die herrschende Person trägt den Titel **„Nisut“**, was
+    der kemschen Entsprechung für „Königin“ entspricht. Dies ergibt sich aus der Beschreibung
+    der Sozialstruktur des Kemi-Reichs, wo explizit von einer „borongeweihte Königin
+    (Nisut)“ die Rede ist. \n\nZusätzlich wird in den Quellen erwähnt, dass die Kemi-Erwählte
+    (Nisut) während der Unabhängigkeitsphase des Reichs ihre Macht stark ausbaute
+    und die Geweihtenschaft förderte. Der Titel „Nisut“ ist somit der korrekte Begriff
+    für die Herrscherin dieses Reichs. \n\n**Antwort:**  \nDas Kemi-Reich wird von
+    einer Borongeweihten regiert, welche den Titel *Nisut* trägt."
+  Rating B:
+  Comment B: ''
+  Answer C: Das Südaventurische Reich, das von einer Borongeweihten regiert wird,
+    ist das Kemi-Reich. Die herrschende Person trägt den Titel „Prinzessin“ und heißt
+    Ela XV. Sie hat im Jahre 1027 die Thronbesteigung vollzogen.
+  Rating C:
+  Comment C: ''
+  Answer D: "Das südaventurische Reich **Al’Anfa** wird von einem Borongeweihten regiert.
+    Der Titel der herrschenden Person lautet **Patriarch**. \n\nEin historischer Hinweis
+    ist, dass ein Boron-Geweihter namens **Bal Honak** im Jahre 938 zum Patriarchen
+    des Al’Anfaner Kultes geweiht wurde und somit faktisch die Macht in Al’Anfa innehatte."
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nDas Südaventurische Reich **Zekir** wird von einer Borongeweihten
+    regiert. Die herrschende Person trägt den Titel **Erzgouverneurin**."
+  Rating E:
+  Comment E: ''
+  Answer F: "Im südaventurischen Kemi-Reich wird die Gesellschaft stark von Boron-Geweihten
+    beeinflusst. Der Text erwähnt, dass Boron-Geweihte Felder segnen, Eheschließungen
+    begleiten und Ritualen der „Boronskinder“ durchführen. Während kein direkt genanntes
+    Reich explizit als „von einer Borongeweihten regiert“ beschrieben wird, zeigt
+    der Abschnitt über das Kemi-Reich, dass Geweihte eine zentrale Rolle im staatlichen
+    und religiösen Leben spielen. \n\nZusätzlich wird in einem anderen Abschnitt die
+    *Prinzessin Rhônda Setepen* als „Hohepriesterin“ mit radikalen borongetreuen Ambitionen
+    beschrieben, die im Osten Kemis aktiv ist. Allerdings fehlt ein direkter Hinweis
+    auf ein spezielles Reich, das ausschließlich von einer Borongeweihten regiert
+    wird. Weitere Forschung könnte nötig sein, um konkretere Details zu diesem Thema
+    zu erhalten."
+  Rating F:
+  Comment F: ''
+
+
+- question: Welche Tempel stehen in der Stadt, die als Erzfeind der Stadt Sylla gilt?
+  correct_answer: In Charypso, der Erzfeindin von Sylla gibt es Tempel von *Efferd*
+    und *Phex* (letzterer ist schlecht erhalten).
+  Answer A: "In der Stadt Charypso, welche als Erzfeind der Stadt Sylla gilt, sind
+    folgende Tempel erwähnt:\n\n- **Efferd**\n- **Phex**\n\nZudem wird im Zusammenhang
+    mit Charypso auch die **Erzdämonin Charyptoroth** erwähnt, obwohl es sich dabei
+    nicht um einen traditionellen Tempel handelt, sondern um eine „Unheiligtum“ nahe
+    der Stadt."
+  Rating A:
+  Comment A: ''
+  Answer B: "Die Stadt, die als Erzfeind von Sylla gilt, ist **Al’Anfa**, ein mächtiges
+    imperiales Zentrum im Süden. In Al’Anfa wurden folgende Tempel erwähnt:  \n- **Efferd-Tempel**
+    (\"Der Regen, der auf die Wellen fällt\")  \n- **Maraskantempel** (für die Zwillingsgötter
+    Rur und Gror)  \n- **Tempel des Levthan** (ein geheimer Schrein mit dunklen Praktiken).\
+    \  \n\nFür präzise Details zu diesen Tempeln könnten zusätzliche Forschungsreisen
+    notwendig sein. Möchten Sie weitere Infos zu einem der Tempel? 🏛️"
+  Rating B:
+  Comment B: ''
+  Answer C: "In der Stadt Charypso, welche als Erzfeind der Stadt Sylla gilt, gibt
+    es folgende Tempel:\n\n- **Efferd**: Dieser Tempel ist weniger eine Stätte der
+    Andacht, sondern eher ein Ort, wo Piraten mit ihren Untaten prahlen und Teile
+    ihrer Beute für weiteren Beistand des Meeresgottes opfern.\n- **Phex**: Ein Tempel,
+    der schlecht erhalten ist.\n\nZusätzlich wird erwähnt, dass es eineLegende über
+    ein **Unheiligtum der Erzdämonin Charyptoroth** nahe der Stadt gibt, jedoch handelt
+    es sich dabei nicht um einen offiziellen Tempel."
+  Rating C:
+  Comment C: ''
+  Answer D: "Charypso, die Erzfeindin der Stadt Sylla, verfügt über zwei Tempel:\n
+    \n1. **Efferd-Tempel**: Dieser Tempel ist weniger eine Stätte der Andacht, sondern
+    eher ein Ort, an dem Piraten mit ihren Untaten prahlen und Teile ihrer Beute für
+    den Gott Efferd opfern. Er spielt eine große Rolle innerhalb der Stadtstruktur.\n
+    \n2. **Phex-Tempel**: Obwohl er existiert, ist er schlecht erhalten.\n\nWeitere
+    Tempel wurden in den Quellen nicht erwähnt. Falls weitere Details benötigt werden,
+    könnte eine genauere Suche erfolgen."
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nDie Stadt Sylla in Mhanadistan gilt als Erzfeind der Stadt **Zobeiran**,
+    mit der sie einen historischen Konflikt um regionale Vorherrschaft führt. In Zobeiran
+    finden sich vor allem Tempel zu **Praios** (zentral für die tulamidische Kultur)
+    und **Rondra** (wegen militärischer Rivalität). Weitere Tempel könnten **Hesinde**
+    (Wissen) und **Travia** (Gemeinschaft) gewidmet sein, basierend auf typischen
+    aventurischen Großstadtpatronen. Genauere Angaben erfordern konkrete Quellen wie
+    *Mhanadistan: Land der Tulamiden* (DSA 4)."
+  Rating E:
+  Comment E: ''
+  Answer F: "In der Stadt Charypso, der Erzfeindin von Sylla, werden folgende Tempel
+    erwähnt:  \n- **Efferd** (zentral in der Stadt, jedoch eher als Symbol für piratische
+    Machenschaften denn als religiöser Ort).  \n- **Phex** (ebenso erwähnt, allerdings
+    als „schlecht erhalten“ beschrieben).  \n\nWeitere Details zu Tempeln in Charypso
+    könnten durch weitere Forschung in elterlichen oder kindbezogenen Abschnitten
+    ergänzt werden. Möchten Sie, dass ich nachhänge? \n\n<tool_call>  \n{\"name\"
+    : \"research_lore_books\", \"arguments\": {\"research_target\": \"Tempel in Charypso
+    - Ergänzung\"}}  \n</tool_call>"
+  Rating F:
+  Comment F: ''
+
+
+- question: Wer herrscht nominell über die Stadt, welche auch als "Pestbeule des Südens"
+    bezeichnet wird?
+  correct_answer: Rein formal ist Al'Anfa eine Monarchie, in welcher der *Vizekönig
+    von Mirham, Damian von Shoy'Rina* das Oberhaupt ist.
+  Answer A: Die Stadt, die als „Pestbeule des Südens“ bezeichnet wird, ist Al’Anfa.
+    Nominaler Herrscher der Stadt ist Seine vizekönigliche Majestät Damian von Shoy’Rina
+    zu Mirham. Allerdings liegt die tatsächliche Macht in den Händen der Boron-Kirche
+    und des Hohen Rates der Zwölf, wobei der Patriarch als Oberhaupt der Kirche die
+    entscheidende Rolle spielt.
+  Rating A:
+  Comment A: ''
+  Answer B: "Die Stadt, die als „Pestbeule des Südens“ bezeichnet wird, ist wahrscheinlich
+    **Al’Anfa**, die sogenannte *Schwarze Perle des Südens*. Nominal herrscht über
+    sie der **Vizekönig** (derzeit **Damian von Shoy’Rina**), der als symbolischer
+    Souverän figuriert. In der Praxis liegt jedoch die Macht in den Händen der **Rabenpriester**
+    (Boron-Anhänger) und des **Rates der Zwölf**, einer plutokratisch-theokratischen
+    Führungsschicht aus Grandenfamilien und religiösen Vertretern. Der aktuelle **Patriarch**
+    (zuletzt **Amir Honak**) ist der faktische Machtträger, unterstützt von der Tempelgarde
+    und Militärstreitkräften.  \n\nDies ergibt sich aus der Beschreibung der Sozialstruktur
+    und Regierung Al’Anfas in den Forschungsergebnissen. Offiziell bleibt die Monarchie
+    formell bestehen, praktisch dominiert jedoch die theokratische Elite."
+  Rating B:
+  Comment B: ''
+  Answer C: Der nominelle Herrscher der Stadt, die als „Pestbeule des Südens“ bezeichnet
+    wird, ist das Haus Gareth. Dies ergibt sich aus den gefundenen Abschnitten, insbesondere
+    aus dem Abschnitt über das Haus Gareth sowie aus Beschreibungen seiner Mitglieder
+    und deren Rolle im Mittelreich. Falls du weitere Details benötigst, kann ich weiter
+    recherchieren. Möchtest du dies?
+  Rating C:
+  Comment C: ''
+  Answer D: "Die Stadt, die als „Pestbeule des Südens“ bezeichnet wird, ist wahrscheinlich
+    **Al’Anfa**, eine bedeutende Stadt im Süden Aventuriens. \n\n**Nominell** wird
+    Al’Anfa von **Dem Vizekönig** regiert, wobei **Damian von Shoy’Rina** als Vizekönig
+    genannt wird. Allerdings liegt **faktisch die Macht** in den Händen der **Rabenpriesterschaft**
+    und des **Rates der Zwölf**, einer Gruppe mächtiger Adelsfamilien, die den realen
+    Einfluss in der Stadt besitzen.\n\nSomit lautet die Antwort:  \n**Nominell herrscht
+    der Vizekönig über Al’Anfa, doch faktisch liegt die Macht bei der Rabenpriesterschaft
+    und dem Rate der Zwölf.**"
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nDie Stadt \"Pestbeule des Südens\" ist **Punin**. Nominell herrscht
+    dort der **Graf von Punin** (aktuell Graf Eberhart von Punin) im Namen des Kaisers
+    von Aventurien."
+  Rating E:
+  Comment E: ''
+  Answer F: "Die „Pestbeule des Südens“ bezieht sich auf das Südquartier von Gareth.
+    Nominell herrscht hier der **Wehr-, Schatz- und Gerichtsvogt**, der vom Stadtrat
+    von Alt-Gareth eingesetzt wird. Diese Positionen sind jedoch oft korrupt und die
+    tatsächliche Macht liegt in den Händen lokaler Bandenführer und Eliten. \n\nFür
+    weitere Details zu historischen oder regionsspezifischen Herrschaftsstrukturen
+    könnte eine ergänzende Suche in regionalen Beschreibungen erfolgen. Möchten Sie
+    dies?"
+  Rating F:
+  Comment F: ''
+
+
+- question: Nach einem Schisma im Jahr 686 teilte sich eine der Kirchen des zwölfgöttlichen
+    Pantheons in zwei verfeindete Ausprägungen. Wer steht der in Südaventurien verbreitetsten
+    Ausprägung dieser Kirche heute als Oberhaupt vor?
+  correct_answer: Das Oberhaupt der südaventurischen, bzw. Al'Anfanischen Boronkirche
+    ist der Patriarch von Al'Anfa, *Amir Honak*.
+  Answer A: Das Oberhaupt der in Südaventurien verbreiteten Ausprägung der Boron-Kirche
+    nach dem Schisma 686 ist **Velvenya Karinor**, die als erste Matriarchin des al’Anfanischen
+    Ritus eingesetzt wurde. Sie führte die分离ierte Kirchengemeinschaft nach dem Schisma
+    und sicherte durch ihre autoritative Führung die Weiterleitung der nemekathäischen
+    Lehre. Obwohl spätere Figuren wie Amir Honak oder Shantalla Karinor politische
+    Einflussnahme ausübten, bleibt Velvenya als symbolische und theologische Leitfigur
+    der al’Anfanischen Boron-Verehrung unangefochten.
+  Rating A:
+  Comment A: ''
+  Answer B: Der führende Geistliche der in Südaventurien verbreiteten Ausprägung der
+    Boron-Kirche ist **der Patriarch von Al’Anfa**. Er ist die oberste Autorität des
+    alanfanischen Ritus, residiert in der *Stadt des Schweigens* und vertritt die
+    reformierte, theokratische Version der Boron-Verehrung, die nach dem Schisma 686
+    entstanden ist. Seine Macht umspannt religiöse und weltliche Bereiche, u.a. über
+    den Orden des Schwarzen Raben und die Tempelgarde.
+  Rating B:
+  Comment B: ''
+  Answer C: Derzeit steht der Alanfaner Kirche, welche in Südaventurien verbreitet
+    ist, der **Patriarch von Al’Anfa** vor. Er ist die oberste geistliche Autorität
+    dieser Kirchengemeinschaft und residirt in der „Stadt des Schweigens“.
+  Rating C:
+  Comment C: ''
+  Answer D: Das Oberhaupt der in Südaventurien verbreiteten Ausprägung der Kirche,
+    die nach dem Schisma im Jahr 686 entstand, ist der **Patriarch von Al’Anfa**.
+    Dies ergibt sich aus der Beschreibung des alanfanischen Kultes des Boron, insbesondere
+    aus dem Hinweis, dass der Patriarch von Al’Anfa die oberste Instanz der Kirche
+    ist und somit das Oberhaupt der entsprechenden Ausprägung darstellt.
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nGroßinquisitor der Lichttempel (Südaventuriens vorherrschende Praios-Kirche
+    nach dem Schisma von 686 BF)."
+  Rating E:
+  Comment E: ''
+  Answer F: "Das Schisma im Jahr 686 führte zur Entstehung des **Al’Anfaner Ritus**
+    der Boron-Kirche, der sich als separat und dominierend in Südaventurien etablierte.
+    Das Oberhaupt dieses Ritus ist der **Patriarch von Al’Anfa**, der in der *Stadt
+    des Schweigens* residiert und als spirituelles und weltliches Führungspersonal
+    der Kirche fungiert.  \n\nIm historischen Kontext wurde **Velvenya Karinor** als
+    erste Matriarchin des unabhängigen Al’Anfaner Kultes benannt, die nach dem Schisma
+    686 die Separation der Kirche initiierte. Allerdings geht der aktuelle zeitliche
+    Bezugsrahmen der Frage („heute“) über die verfügbaren Texte hinaus, sodass keine
+    direkten Aussagen über das „heutige“ Oberhaupt möglich sind. Aus den Quellen bleibt
+    festzustellen, dass der **Patriarch von Al’Anfa** als zentraler Führer der regional
+    stärksten Ausprägung der Boron-Kirche gilt.  \n\nKeine weiteren Details zu aktuellen
+    Führungsstrukturen sind in den bereitgestellten Texten enthalten."
+  Rating F:
+  Comment F: ''
+
+
+- question: Die schwarze Perle des Südens exportiert neben Edelsteinen insbesondere
+    auch einen besonderen Stoff. Welche Bestrafung erwartet Menschen, die eines der
+    für die Produktion dieses Stoffes genutzten Tiere stehlen?
+  correct_answer: Eine von Al'Anfas wichtigsten Exportwaren ist *Seide*. Für Diebe
+    die eine der Seidenspinnen stehlen ist speziell die *Todesstrafe durch Häutung*
+    vorgesehen.
+  Answer A: "Die schwarze Perle des Südens, speziell Al’Anfa, exportiert neben Edelsteinen
+    auch kostbare Stoffe wie Seide, Taft und Brokat. Bei der Produktion solcher Materialien
+    werden oft tierische Rohstoffe genutzt, beispielsweise Seidenspinnen, welche in
+    Al’Anfa gezüchtet werden. \n\nLaut den vorhandenen Texten existieren klare gesetzliche
+    Regelungen zur Protection dieser Ressourcen. So ist beispielsweise erwähnt, dass
+    „gefahrene Diebe“ die Todesart des Häutens gesetzlich vorgeschrieben haben. Dies
+    deutet darauf hin, dass der Diebstahl von Tieren, die für die Produktionskette
+    entscheidend sind, mit extrem schweren Strafen belegt wird. Des Weiteren wird
+    in den Texten auch auf strikte Sicherheitsmaßnahmen hingewiesen, die dafür sorgen,
+    dass solche Delikte hart bestraft werden. \n\nObwohl keine direkte Referenz auf
+    die Konsequenzen für Tierdiebstahl gemacht wird, implizieren die generellen Gesetze
+    und die Schwere der Strafen, dass solche Taten mit schweren Folgen verbunden sind—eventuell
+    sogar mit dem Tod. Um sicherzugehen, müsste man eventuell zusätzlich nachspeichern,
+    ob es explizite Paragraphen zu diesem Thema gibt."
+  Rating A:
+  Comment A: ''
+  Answer B: "Die spezifischen Tiere für die Stoffproduktion in der Schwarzen Perle
+    des Südens werden in den bereitgestellten Texten nicht explizit genannt. Allerdings
+    zeigen die Recherchen zu Strafen für Tierdiebstahl, dass schwerwiegende Offensoden
+    wie das Stählen von Produktionsmitteln mit extremen Maßnahmen bestraft werden.
+    \n\nBeispielhaft wird in den Gesetzen erwähnt, dass **Pferdediebe** auf der Stelle
+    „von dem durch den Diebstahl entehrten Tier zu Tode geleitet“ werden (siehe *Strafen*
+    Abschnitt). Obwohl dies sich auf Pferde bezieht, verdeutlicht dies, dass Diebstahl
+    von lebenswichtigem Gut für die Wirtschaft mit tödlichen Konsequenzen geahndet
+    wird. \n\nFür tierbasierte Stoffproduktion (z. B. Wolle, Seide oder Leder) könnten
+    ähnliche Regelungen gelten, da solche Ressourcen als wertvolle Handelsgüter betrachtet
+    werden. Direkte Informationen zu diesem Fall fehlen jedoch in den Quellen. \n\n
+    **Antwort**: Die Strafe für das Stelen von Tieren, die für die Stoffproduktion
+    genutzt werden, würde wahrscheinlich streng sein – möglicherweise sogar tödlich,
+    basierend auf den allgemeinen Gesetzen zur Protection wirtschaftlicher Interessen.
+    Genauere Details fehlen in den zugänglichen Texten."
+  Rating B:
+  Comment B: ''
+  Answer C: "Die schwarze Perle des Südens, also Al’Anfa, importiert und exportiert
+    u.a. Seide. Die Herstellung dieser Seide erfolgt unter strengen Sicherheitsvorkehrungen,
+    da das Wissen um die Produktionsmethode eifersüchtig gehütet wird. \n\nLaut den
+    beschriebenen Sicherheitsmaßnahmen werden bei Diebstählen von Seidenspinnen „Trommeln
+    gerührt“, Aufseher, Söldner und Gardisten eingesetzt und im Extremfall sogar die
+    Hand Borons aktiviert. Eine explizite Beschreibung der Strafe für solche Diebstähle
+    existiert nicht, allerdings wird erwähnt, dass **für gefangene Diebe die Todesart
+    des Häutens gesetzlich vorgeschrieben ist**, was darauf hindeutet, dass auch bei
+    Diebstählen von Seidenspinnen eine ähnliche oder härtere Strafe droht.\n\nWenn
+    du weitere Details suchst, könnte ich nach weiteren Passagen suchen, die spezifisch
+    auf die Strafen für Tierdiebstähle in Al’Anfa eingehen. Möchtest du, dass ich
+    das tue?"
+  Rating C:
+  Comment C: ''
+  Answer D: "Die Schwarze Perle des Südens (Al’Anfa) exportiert neben Edelsteinen
+    auch **Iryanleder**, ein wertvoller Stoff, der aus der Haut von Tieren hergestellt
+    wird. Der Diebstahl von Tieren, die für die Produktion dieses Materials genutzt
+    werden, wird in der Region **streng bestraft**.  \n\nObwohl keine expliziten Strafbestimmungen
+    für diesen Fall in den Quellen erwähnt werden, lässt sich aus der allgemeinen
+    Gesetzestreue und der wirtschaftlichen Bedeutung von Iryanleder ableiten, dass
+    solche Handlungen **schwere Folgen** haben. Mögliche Strafen könnten include:\
+    \  \n- **Arbeitsstrafe** oder **Sklaverei** für die Täter.  \n- **Finanzielle
+    Bußen** in Form von Gold oder wertvollen Handelswaren.  \n- **Soziale Ächtung**
+    oder **Exil**, insbesondere wenn die Tiere für prestigeträchtige Produkte wie
+    Iryanleder genutzt werden.  \n\nDa die Produktion von Iryanleder enger mit der
+    lokalen Kultur und Wirtschaft verknüpft ist, sind die Strafen für solche Delikte
+    **weitreichend und disziplinierend**, um die Ressourcen zu schützen. Die Genauigkeit
+    der Strafen hängt allerdings von der Situation und den örtlichen Mächten ab."
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nIn Mhanadistan („Schwarze Perle des Südens“) wird das Stehlen der
+    für die Seidenproduktion genutzten magischen Seidenraupen mit **Abhacken der Hände**
+    bestraft. Dies steht in den regionalen Gesetzen des Landes der Karawanen (DSA
+    4.1, *Mhanadistan: Land der Karawanen*, S. 45) als abschreckende Strafe für Diebstahl
+    wertvoller Handelsgüter."
+  Rating E:
+  Comment E: ''
+  Answer F: "Die schwarze Perle des Südens (Al’Anfa) exportiert neben Edelsteinen
+    besonders **Seide**, die aus den Kokons der **Seidenspinnen** hergestellt wird.
+    Die Zucht und Protection dieser Tiere ist extrem streng reguliert.  \n\nLaut den
+    Texten wird explizit erwähnt, dass **für gefangene Diebe die Todesart des Häutens
+    gesetzlich vorgeschrieben** ist – dies bezieht sich wahrscheinlich auf den Diebstahl
+    von Seidenspinnen oder deren Kokons, da diese für die Produktionskette entscheidend
+    sind. Zudem sind Sicherheitsmaßnahmen wie „Trommeln“ (Alarmmeldungen) und Einsatz
+    von Garden/Soldaten dokumentiert, um die Monopole zu wahren.  \n\nEine direkte
+    Formulierung zur Bestrafung von Tierdiebstahl im Kontext der Seidenproduktion
+    findet sich nicht, doch die strengen Gesetze und die erwähnte Todesstrafe für
+    „Stolen Seidenspinnen“ (implizit in der Passage über das Monopol) lassen darauf
+    schließen, dass solche Delikte mit **Härte** geahndet werden. Für eine genauere
+    Antwort müsste evtl. nach weiteren juristischen Details oder Fallbeispielen gesucht
+    werden.  \n\n**Zusammenfassung**: Die Bestrafung für den Diebstahl der für die
+    Seidenproduktion genutzten Tiere (Seidenspinnen) ist wahrscheinlich **Todesstrafe
+    (Häutung)**, da dies das Monopol der Seidenplantagen schützt. Direkte Quellen
+    dafür fehlen allerdings, eine tiefergehende Suche könnten Klarheit bringen."
+  Rating F:
+  Comment F: ''
+
+
+- question: Um an seine heutige Position zu kommen musste die aktuelle Spektabilität
+    der Rashduler Magierakademie seine Vorgängerin im Duell besiegen. Wie hieß die
+    Vorgängerin und wie starb sie?
+  correct_answer: Die Vorgängerin Sultan Hasrabals als Spektabilität der Rashduler
+    Magierakademie hieß *Belizeth Dschelefsunni* und wurde beim Duell mit Hasrabal
+    von einem Feuerdschinn getötet.
+  Answer A: Die Vorgängerin der aktuellen Spektabilität der Rashduler Magierakademie
+    war **Belizeth Dschelefsunni**, die während eines magischen Duells mit Sultan
+    Hasrabal ben Yakuban getötet wurde. Während dieses Kampfes wurde sie von einem
+    **Feuerdjinn** getötet.
+  Rating A:
+  Comment A: ''
+  Answer B: "Die Vorgängerin der aktuellen Spektabilität der Rashduler Magierakademie
+    war **Belizeth Dschelefsunni**, eine Dämonologin. Sie errang 1021 BF die Macht
+    über Rashdul und wurde im **magischen Duell** von Sultan **Hasrabal ben Yakuban**
+    getötet. Dabei nutzte Hasrabal Unterstützung aus der Akademie, um sie zu besiegenn.
+    Ihre Herrschaft endete damit, dass sie während des Duells ermordet wurde.  \n\n
+    Dies ergibt sich aus dem Ereignis beschrieben in **G05-071**, wo explizit erwähnt
+    wird, dass Belizeth „im magischen Duell“ getötet wurde. Weitere Details zu ihrer
+    Person oder dem Duell selbst sind in den geladenen Texten nicht enthalten. Falls
+    benötigt, könnte eine tiefere Suche nach „Belizeth Dschelefsunni Duell“ erfolgen."
+  Rating B:
+  Comment B: ''
+  Answer C: Die Vorgängerin der aktuellen Spektabilität der Rashduler Magierakademie
+    war **Belizeth Dschelefsunni**, die im Jahr **1021 BF** während eines magischen
+    Duells gegen Sultan Hasrabal ben Yakuban getötet wurde. Während des Duells nutzte
+    Belizeth Dämonenkräfte, konnte jedoch von Hasrabal besiegt werden. Ihre Tod erfolgte
+    wahrscheinlich durch magische Mittel, da in der Beschreibung des Duells von „Feuer-Dschinnen“
+    und anderen magischen Entitäten die Rede ist.
+  Rating C:
+  Comment C: ''
+  Answer D: Die Vorgängerin der aktuellen Spektabilität der Rashduler Magierakademie
+    war **Belizeth Dschelefsunni**. Sie wurde im magischen Duell mit Sultan Hasrabal
+    getötet.
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nDie Vorgängerin hieß **Nahira al'Fahim**. Sie starb im Duell gegen
+    die aktuelle Spektabilität **Salamira al'Bashir**, als sie von einem entfesselten
+    Feuerorkan getroffen wurde – eine Folge des riskanten Rituals, das Salamira zur
+    Entscheidung einsetzte. Dieser Vorfall gilt als legendär in der Geschichte der
+    Rashduler Magierakademie.  \n\n*Hinweis: Details stammen aus DSA-Quellen wie \"\
+    Gezeiten der Magie\" (4.1), jedoch können regionale Abweichungen im Spielkontext
+    existieren.*"
+  Rating E:
+  Comment E: ''
+  Answer F: "Die Vorgängerin der aktuellen Spektabilität der Rashduler Magierakademie
+    war **Belizeth Dschelefsunni**. Sie starb während eines magischen Duells gegen
+    Sultan Hasrabal ben Yakuban, als dieser ihr die Herrschaft über Rashdul raubte.
+    Laut Textaussage wurde sie dabei getötet. Weitere Details zu ihrer Todesursache
+    sind nicht explizit beschrieben.  \n\nKeine zusätzlichen Forschungen notwendig."
+  Rating F:
+  Comment F: ''
+
+
+- question: Die Spektabilität einer tuamidischen Magierakademie prägt Münzen im Wert
+    von mehreren Dukaten, die im Gegensatz zu vielen anderen Lokalwährungen auch im
+    Umland akzeptiert werden. Wie heißen die Münzen und welchen Gegenwert haben sie
+    in mittelreichischer Währung?
+  correct_answer: Sultan Hasrabal, die Spektabilität der Magierakademie von Rashdul
+    prägt eine Münze namens *Piaster*, die einen Wert von 5 Dukaten besitzt.
+  Answer A: "Die erwähnten Münzen heißen *Alastren* und sind „Magiermünzen“ aus Khunchom,
+    die aus **Arkanium** geprägt werden und einen Wert von **500 Dukaten** haben.
+    Diese Münzen werden im Umland akzeptiert und sind somit deutlich wertvoller als
+    viele lokale Währungen. \n\nIn mittelreichischer Währung entsprechen 500 Dukaten
+    etwa **500 mittelreichische Dukaten**, da die Währungseinheit „Dukat“ in beiden
+    Regionen identisch ist."
+  Rating A:
+  Comment A: ''
+  Answer B: "Die speziellen Münzen, die von tuamidischen Magierakademien geprägt werden,
+    werden in den Quellen als **Alastren** bezeichnet. Diese 10-Unzen-Münzen aus **Arkanium**
+    (ein mystisches Metall) stammen aus **Khunchom** und haben einen Wert von **500
+    Dukaten**. Sie gelten als „Magiermünzen“ und sind sowohl in der Region als auch
+    im Umland akzeptiert, da sie hohe Qualität und magische Eigenschaften besitzen.\
+    \  \n\nIm Vergleich zur mittelreichischen Währung entsprechen 500 Dukaten **ungefähr
+    500 mittelreichischen Golddukaten**, da die Dukate in beiden Systemen vergleichbarer
+    Kaufkraft sind. Allerdings gibt es keine direkte Umrechnung, da lokale Währungen
+    oft unterschiedliche Präzision und Gültigkeit haben.  \n\nWeitere Details könnten
+    durch Tiefe-Recherche zu \"Alastren\" oder \"Khunchomer Magiermünzen\" ergänzt
+    werden.  \n(Grundlage: *G05-141* zu Währungen, *G05-120* zu Akademien.)"
+  Rating B:
+  Comment B: ''
+  Answer C: "Die Münzen, die von der Spektabilität einer tuamidischen Magierakademie
+    geprägt werden, werden in den Quellen als „Goldene Piaster“ bezeichnet. Sie haben
+    einen Wert von 5 Dukaten und werden im Gegensatz zu vielen Lokalwährungen auch
+    im Umland akzeptiert.\n\nIn mittelreichischer Währung entsprechen diese Piaster
+    5 Dukaten."
+  Rating C:
+  Comment C: ''
+  Answer D: "Die spezifischen Münzen, die von einer tuamidischen Magierakademie geprägt
+    werden und im Wert von mehreren Dukaten stehen, werden in den verfügbaren Quellen
+    nicht explizit benannt. Allerdings lassen sich indirekte Hinweise auf mögliche
+    Münzen und ihre Bewertung in mittelreichischer Währung ableiten:\n\n1. **Goldene
+    Piaster Sultan Hasrabals**:  \n   In Khunchom wird der goldene Piaster Sultan
+    Hasrabals im Wert von 5 Dukaten erwähnt. Obwohl nicht direkt als „Akademiemünze“
+    beschrieben, könnte ein solcher Münzschatz in der Nähe von Akademien wie der *Drachenei-Akademie*
+    oder der *Al’Achami* entstanden sein, da diese institutionell stark mit der regionalen
+    Wirtschaft verbunden sind.\n\n2. **Arkanium-Münzen („Magiermünzen“)**:  \n   Die
+    *Alastren* aus Khunchom, 10-Unzen-schwere „Magiermünzen“ aus Arkanium im Wert
+    von 500 Dukaten, werden als historische Objekte genannt. Obwohl sie nicht direkt
+    von Akademien geprägt werden, könnten solche Münzen in akademischen Kontexten
+    als Prestigewährung fungieren.\n\n3. **Regionale Währungsspezifika**:  \n   Im
+    tulamidischen Raum dominieren oft **goldene Dukaten**, die in der Region als stabiler
+    Wert gelten. Da die mittelreichische Währung (Dukaten, Silbertaler, Heller) als
+    Standard in Handel und Wirtschaft gilt, wäre ein „Gegenwert“ von mehreren Dukaten
+    in der tulamidischen Akademie likely als **gleicher Wert in mittelreichischen
+    Dukaten** definiert, da Dukaten in vielen Regionen als universelles Maß dienen.\n\
+    \n**Zusammenfassung**:  \nKeine konkreten Namen der Münzen sind in den Texten
+    vorhanden, doch plausible Kandidaten wären **Piaster oder Arkaniummünzen** mit
+    einem Wert von 5–500 Dukaten. In mittelreichischer Währung entspräche ein solcher
+    Wert **direkt 1:1**, da Dukaten als universelle Handelswährung gelten. Die Akademien
+    könnten solche Münzen als prestigeträchtige, lokal geprägte Objekte verwenden,
+    die im Umland akzeptiert werden, da Dukaten in der Region weit verbreitet sind."
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nDie Münzen heißen **Dinare**.  \nIhr Gegenwert beträgt **1 Dinar
+    = 1 Dukate** in mittelreichischer Währung.  \nSie werden in Tulamiden-Staaten
+    (z. B. Mhanadistan) geprägt und sind aufgrund ihres hohen Ansehens auch außerhalb
+    akzeptiert."
+  Rating E:
+  Comment E: ''
+  Answer F: "Die spezifischen Münzen, die von einer tuamidischen Magierakademie geprägt
+    werden und im Umland akzeptiert sind, werden in den vorliegenden Texten nicht
+    direkt benannt. Allerdings gibt es Hinweise auf generelle Währungen im Tulamidenland
+    und deren Beziehung zu mittelreichischen Währungen:\n\n1. **Goldenes Piaster**
+    (Sultan Hasrabals):  \n   - Ein goldenes Piaster im Wert von 5 Dukaten wird in
+    der Region zunehmend verbreitet und könnte als Referenz für „Münzen mit höherem
+    Wert“ dienen. Es ist jedoch keine akademische Münze, sondern eine staatliche Währung.\n
+    \n2. **Mittelreichische Währung**:  \n   - Dukaten, Silbertaler, Heller und Kreuzer
+    sind in den textuellen Quellen als standardisierte Mittelreich-Währungen erwähnt.
+    Ein Dukate entspricht etwa 10 Silbertalern (basierend auf typischen Wechselkurven
+    im DSA-Universum).\n\n**Verknüpfung**:  \nWenn eine Tuamidische Magierakademie
+    Münzen im Wert von mehreren Dukaten prägt, könnte dies auf eine lokale Variante
+    des **Dukaten** oder **Silbertalers** hindeuten. Da tuamidische Währungen oft
+    lokal geprägt und nicht standardisiert sind, wäre der Gegenwert in mittelreichischer
+    Währung wahrscheinlich **1–2 Dukaten pro tuamidisches Stück**, abhängig von der
+    Akademie und regionalen Vereinbarungen.  \n\nFür konkrete Namen (z. B. „Academy
+    Coins“) fehlen direkte Quellen. Weitere Suche nach „tuamidische Akademie Münzen“
+    oder „Magierakademie Währung“ könnte zusätzliche Details liefern."
+  Rating F:
+  Comment F: ''
+
+
+- question: Der Nachfolger von Belizeth Dschelefsunni ist nicht nur Spektabilität
+    einer Magierakademie sondern auch Herrscher einer Region. Um welche Region geht
+    es hier?
+  correct_answer: Sultan Hasrabal ben Yakuban (Spektabilität der Pentagramm-Akademie
+    in Rashdul) herrscht über das Sultanat Gorien.
+  Answer A: Der Nachfolger von Belizeth Dschelefsunni ist Hasrabal ben Yakuban, der
+    sowohl Spektabilität der Akademie ist als auch Herrscher der Region Gorien.
+  Rating A:
+  Comment A: ''
+  Answer B: "Der Nachfolger von Belizeth Dschelefsunni ist **Hasrabal ben Yakuban**,
+    der nach seinem Sieg im magischen Duell *Sultan von Rashdul* wurde. Zusätzlich
+    erhielt er das Amt der **Spektabilität** (Leitung der Magierakademie) der Pentagramm-Akademie
+    von Rashdul. Somit regiert er die Region **Rashdul**. \n\nDies ergibt sich aus
+    dem Zusammenhang, in dem beschrieben wird, wie Hasrabal Belizeth besiegt und danach
+    sowohl politisch als auch akademisch an Einfluss gewann."
+  Rating B:
+  Comment B: ''
+  Answer C: Der Nachfolger von Belizeth Dschelefsunni ist Sultan Hasrabal ben Yakuban,
+    der nicht nur Spektabilität der Akademie von Rashdul ist, sondern auch Herrscher
+    der Region Rashdul.
+  Rating C:
+  Comment C: ''
+  Answer D: Der Nachfolger von Belizeth Dschelefsunni, der sowohl Spektabilität der
+    Akademie als auch Herrscher einer Region ist, ist **Sultan Hasrabal ben Yakuban**.
+    Er erlangte nach dem Tod von Belizeth Dschelefsunni die Herrschaft über **Rashdul**,
+    eine Stadt im Tulamidenland, und verfügte über das Amt der Spektabilität. Seine
+    Macht erstreckte sich über die Region um Rashdul und die Gorische Wüste, wobei
+    er als mächtiger Herrscher und Magier bekannt war.
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nAngbar.  \nBelizeth Dschelefsunni war Spektabilität der Magierakademie
+    in Angbar, einer autonomen Stadtstaat-Region in Aventurien. Ihr Nachfolger trägt
+    sowohl das Amt der Spektabilität als auch die Herrschaft über Angbar als Burggraf."
+  Rating E:
+  Comment E: ''
+  Answer F: "Der Nachfolger von Belizeth Dschelefsunni ist **Sultan Hasrabal ben Yakuban**,
+    der nach seinem Sieg im magischen Duell **die Spektabilität der Rashduler Akademie**
+    erhielt und **Sultan von Rashdul** wurde. Rashdul liegt im **Balash**, einer Region
+    der Tulamidenlande. \n\nDie Region heißt somit **Balash**."
+  Rating F:
+  Comment F: ''
+
+
+- question: Es gibt in den Tulamidenlanden eine Stadt die besonders bekannt dafür
+    ist, dass ein Meeresungeheuer den Hafen blockiert. Wer führt den dortigen Tempel
+    des Meeresgottes?
+  correct_answer: Die Vorsteherin des neuen Efferdtempels in der Stadt LLanka ist
+    *Fasina Al'Orhima*. Diese ist allerdings meist entrückt, wodurch die Führung des
+    Tempels eigentlich *Efferdane Ragnarsdottir* obliegt.
+  Answer A: "In den Tulamidenlanden existiert eine Stadt namens **Llanka**, welche
+    bekannt ist, dass ein Meeresungeheuer, der **Malmer**, den Hafen blockiert. Dieser
+    Umstand machte den Hafen zeitweise unusierbar und führte dazu, dass einige Handwerksbetriebe
+    nach Yaisirabad verlegt wurden.\n\nDer **Temple des Meeresgottes Efferd** in Llanka
+    wird von **Efferdane Ragnarsdottir**, einer Thorwalerin, geleitet. Sie hat sich
+    dem Gott der Wogen geweiht und kämpft aktiv gegen die Bedrohung durch den Malmer.
+    Sie ist zudem verantwortlich für den Schrein des **Swafnir**, der in der Nähe
+    des verwitterten Efferd-Tempels liegt."
+  Rating A:
+  Comment A: ''
+  Answer B: "Die Stadt, die in den Tulamidenlanden für ihre blockierte Marina durch
+    ein Meeresungeheuer bekannt ist, wird in den Quellen nicht direkt genannt. Allerdings
+    wird in der Beschreibung des **Efferd-Tempels in Khunchom** (Perlenmeer) auf die
+    Herausforderung durch „Ungenügende“ hingewiesen, was indirekt auf maritime Probleme
+    deutet.  \n\nFür eine exakte Antwort fehlen direkte Bezüge zu einer Stadt mit
+    *„Meeresungeheuer-Blokade“*. Um die Frage vollständig zu klären, könnte eine zusätzliche
+    Suche nach **„Blockade Hafen Meeresungeheuer“** oder **„Stadt mit temporärer Hafenblockade“**
+    in den Regionalbeschreibungen hilfreich sein. Falls eine solche Stadt identifiziert
+    wird, lässt sich danach die Führung des entsprechenden Tempels ermitteln.  \n\n
+    Aktuell bleibt die Identifikation des Tempelführers unklar.  \n**Weitere Recherche
+    notwendig.**"
+  Rating B:
+  Comment B: ''
+  Answer C: "Die Stadt, in der ein Meeresungeheuer den Hafen blockiert, ist **Llanka**,
+    wie aus dem Text „Malmer Namenlose Tage 1021“ hervorgeht. Dort erscheint ein Seeungeheuer
+    in Form eines gewaltigen Malmers und macht den Hafen quasi unbenutzbar.\n\nDer
+    Tempel des Meeresgottes in Llanka wird von **Fasina Al’Orhima**, der Tempelvorsteherin,
+    geleitet. Sie ist ständig entrückt, in der Hoffnung, eine Eingebung zu bekommen,
+    wie man den Malmer vertreiben kann. Die Führung des Tempels obliegt daher **Efferdane
+    Ragnarsdottir**, einer Thorwalerin, die die oronische Sklaverei gesunden Geistes
+    (aber mit zerschmetterten Beinen) überlebt hat und ihr Leben seitdem dem Herrn
+    der Wogen geweiht hat."
+  Rating C:
+  Comment C: ''
+  Answer D: "Die Stadt, die in den Tulamidenlanden besonders bekannt ist, dass ein
+    Meeresungeheuer den Hafen blockiert, ist **Llanka**. Der dortige **Efferd-Tempel**
+    wird von einer lokalen Figur geleitet, welche in den Texten nicht explizit genannt
+    wird. \n\nAllerdings ist in den Texten **Ab delbahr Effendi** als Tempelchef des
+    Efferd-Tempels in **Brabak** erwähnt. Da Llanka nicht direkt mit einer tempel(leitenden)
+    Figur genannt wird, bleibt die Antwort hypothetisch. \n\n**Antwort:**  \nDer Efferd-Tempel
+    in der Stadt, die von einem Meeresungeheuer blockiert wird, wird vermutlich von
+    einer lokalen, nicht explizit genannten Figur geleitet. Ein konkretes Namensnennen
+    aus den Texten ist nicht möglich."
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nDie Stadt ist **Al'Anfa** in den Tulamidenlanden. Der Hafen wird
+    legendär vom **Meeresterror** blockiert. Der Tempel des Meeresgottes **Efferd**
+    wird dort von **Hohepriesterin Noura al-Din** geleitet."
+  Rating E:
+  Comment E: ''
+  Answer F: "In den Tulamidenlanden gibt es eine Stadt namens **Llanka**, in der ein
+    Meeresungeheuer (ein *Malmer*) den Hafen blockiert hat. Der **Efferd-Tempel**
+    in Llanka wird von einer **Hohepriesterin** geleitet, die als „*Efferdane*“ tituliert
+    wird. Während die genaue Identität der Führerin nicht explizit genannt wird, ist
+    anzunehmen, dass sie eine erfahrene Geweihte des Gottes der Wogen ist, die in
+    der Lage ist, die mystischen Ereignisse rund um das Ungeheuer zu interpretieren
+    und zu bekämpfen.  \n\nEine mögliche Referenz ist die **Efferdane von Gareth**,
+    die in ähnlichen Kontexten als Vorsteherin eines Efferd-Tempels erwähnt wird,
+    auch wenn sie nicht direkt mit Llanka verbunden ist. In der Region wird die Führung
+    des Tempels oft von Frauen innegehabt, die als spirituelle und politische Instanz
+    für die lokale Bevölkerung fungieren.  \n\nDa die genaue Personalien nicht vollständig
+    dokumentiert sind, bleibt die Antwort hypothetisch, basierend auf den typischen
+    Strukturen der regionalen Tempelverbände."
+  Rating F:
+  Comment F: ''
+
+
+- question: Die Hauptstadt einer der Fruchtbarsten Regionen Aventuriens ist vor allem
+    durch das Donnersturmrennen bekannt, bei dem angeblich Rondra selbst auf Aventurien
+    gewandelt ist. Wo befindet sich der Peraine-Tempel in dieser Stadt?
+  correct_answer: Der Peraine-Tempel in Baburin befindet sich im Haus der eingebrachten
+    Ernte im Stadtviertel Djambakand.
+  Answer A: "Der Peraine-Tempel in der Hauptstadt der fruchtbaren Region Aventuriens,
+    die besonders durch das Donnersturmrennen bekannt ist, befindet sich in **Baburin**,
+    einer Stadt, die direkt mit den Ereignissen des Donnersturms und den damit verbundenen
+    Mythen verknüpft ist. \n\nIn Baburin gibt es einen spezifischen Peraine-Tempel,
+    der im Bereich des „Alt-Baburin“-Vierteils lokalisiert ist. Dieser Bezirk ist
+    historisch eng mit den traditionellen Kultstellen der Region verbunden, einschließlich
+    des Tempels der Peraine, der ebenfalls in der Nähe des dreimaligen Rondratempels
+    und der respektablen Residenz des Fürsten liegt. Diese Tempelregion ist zentral
+    für religiöse Aktivitäten und bietet somit eine plausible Position für den Peraine-Tempel.\n
+    \nEs könnte auch hilfreich sein, den genauen Standort des Tempels in Baburin durch
+    weitere Forschung zu konkretisieren, falls notwendig."
+  Rating A:
+  Comment A: ''
+  Answer B: "Der Peraine-Tempel befindet sich in **Baburin**, der Hauptstadt der fruchtbaren
+    Region. Laut den Quellen ist er als „Haus der eingebrachten Ernte“ beschrieben
+    – ein simpler Lehmbau mit einer Fassade, die ein wogendes Kornfeld darstellt.
+    Er gehört zu den wichtigsten Tempeln der Stadt und wird von der Geweihtenschaft
+    geführt, die armem Menschen hilft und das **Sankt-Therbun-Hospital** betreibt.
+    Die Hochgeweihte Phräu-nophela al’Kesh ist eine bedeutende Figur innerhalb der
+    Gemeinschaft.  \n\n*Erklärung:*  \nAus der Suche nach *„Peraine Tempel Baburin“*
+    ergaben sich direkte Hinweise auf den Tempel in Baburin, wobei der spezifische
+    Abschnitt *G05-443* Details zum Gebäude und seiner Rolle in der Stadt lieferte.
+    Die Verbindung zur Donnersturmsage erfolgte über die frühere Forschung zu *„Donnersturmrennen
+    Rondra“*, welche Baburin als Standort identifizierte."
+  Rating B:
+  Comment B: ''
+  Answer C: "Der Peraine-Tempel befindet sich in der Stadt Gareth, da diese als Hauptstadt
+    der fruchtbaren Region Aventuriens erwähnt wird und das Donnersturmrennen dort
+    stattfindet. \n\nAußerdem gibt es einen speziellen Peraine-Tempel in Gareth, der
+    im Zusammenhang mit dem Donnersturmrennen steht:\n\n**SV–07 Peraine-Tempel und
+    Siechenhaus**, located in *Alt-Gareth*, im *Schlossviertel*. Dieser Tempel ist
+    besonders für seine rituelle Neuanpflanzung während des Festes der eingebrachten
+    Früchte bekannt."
+  Rating C:
+  Comment C: ''
+  Answer D: Der Peraine-Tempel befindet sich in **Baburin**, der Stadt, die durch
+    das bekannte Donnersturmrennen bekannt ist. In Baburin wird Peraine neben anderen
+    Gottheiten verehrt, und es existiert mindestens ein spezieller Tempelbereich,
+    der als „Haus der eingebrachten Ernte“ bezeichnet wird.
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nDer Peraine-Tempel in Gareth, der Hauptstadt Andergasts (einer der
+    fruchtbarsten Regionen Aventuriens) und Austragungsort des Donnersturmrennens,
+    befindet sich im **Neustadt**-Viertel der Stadt."
+  Rating E:
+  Comment E: ''
+  Answer F: "Der Peraine-Tempel in der Stadt Baburin befindet sich im Bereich **Djambakand**
+    innerhalb der Stadt. Konkreter wird erwähnt, dass das „Haus der eingebrachten
+    Ernte“ (Peraine-Tempel und Hospital) dort liegt. Dieses Gebäude ist als einfacher
+    Lehmbau beschrieben, der trotz seiner Fassade schmucklos wirkt. Es handelt sich
+    dabei um den **Peraine-Tempel von Baburin**, der auch für die Betreuung armer
+    Bürger zuständig ist.  \n\nQuelle: `G05-443` („Haus der eingebrachten Ernte (Peraine-Tempel
+    und Hospital)“)"
+  Rating F:
+  Comment F: ''
+
+
+- question: Ein elfischer Blakharazpaktierer herrscht mit eiserner Hand über eine
+    Hafenstadt in den Tulamidenlanden. Wie steht der dortige Hohepriester des Praios
+    zum Vorgehen des Herrschers und wie heißt er?
+  correct_answer: Der schwarze Elf Dolguruk herrscht als Sultan über die Stadt Thalusa.
+    Der Hohepriester des dortigen Praiostempels, *Praiodan*, heißt die drakonischen
+    Strafen des Sultans gut.
+  Answer A: "Der Hohepriester des Praios in der beschriebenen Hafenstadt wird von
+    den Umständen beeinflusst, die durch den Blakharazpaktierer geschaffen wurden.
+    Ohne direkte Referenz auf diesen spezifischen Herrscher, zeigen die Texte, dass
+    die praistischen Geweihten normalerweise strikt gegen dunkle Macht und Dämonen
+    agieren. Falls der Herrscher mit Blakharaz verbündet ist, würde der Hohepriester
+    entsprechend ablehnend reagieren — eventuell sogar aktiv intervenieren, um die
+    Herrschaft des Blakharazpaktiers zu bekämpfen.\n\nFür den Namen des Hohepriesters
+    benötigen wir weitere Details. Bis jetzt existieren keine expliziten Hinweise
+    darauf, wer genau in der erwähnten Hafenstadt amtierend ist. Daher empfehle ich,
+    gezielt nach „Hohepriester von Praios in den Tulamidenlanden“ zu forschen, um
+    potenzielle Namen oder Charaktere zu identifizieren."
+  Rating A:
+  Comment A: ''
+  Answer B: "Der Hochpriester des Praios in den Tulamidenlanden wird in den Quellen
+    nicht explizit mit einem „Blakharazpaktierer“ in einer Hafenstadt in Verbindung
+    gebracht. Die existierenden Texte beschreiben den Praioskult als stark verwurzelte
+    religiöse Tradition, besonders in Städten wie Hôt-Alem, jedoch fehlen direkte
+    Hinweise auf elbische Herrscher oder spezifische Hochpriester in dieser Konstellation.\
+    \  \n\nEine weitere Suche nach **„Hohepriester Praios Tulamiden Elfen“** oder
+    **„Harbor City Praios“** könnte zusätzliche Details liefern, falls solche Informationen
+    in der Datenbank vorhanden sind. Bislang bleibt das Szenario jedoch hypothetisch,
+    da die Quellen keine konkreten Angaben zu dieser Situation machen.  \n\nFalls
+    weitere Daten benötigt werden, kann ich gerne intensiver suchen."
+  Rating B:
+  Comment B: ''
+  Answer C: "Der Hohepriester des Praios in der Hafenstadt der Tulamidenlande trägt
+    den Namen **Hiradiel ibn Sindh ay Uru'Achin**, der als Erzwissensbewahrer der
+    Tulamidenlande bekannt ist. Er ist ein mystischer und unorthodoxer Hesinde-Geweihter,
+    der sich von politischen Intrigen distanziert und sich intensiver mit der Kultur
+    der Echsenmenschen beschäftigt.\n\nDa er ein unpolitischer Kirchenmann ist, interveniert
+    er nicht aktiv in die Machtkämpfe der lokalen Herrscher. Jedoch könnte er den
+    Blakharazpaktierer als eine Bedrohung für die religiöse Ordnung und den Glauben
+    an Praios betrachten, insbesondere wenn dieser die lokale Spiritualität missachtet
+    oder die Tempel beeinträchtigt.\n\nOhne direkte politische Unterstützung würde
+    er sich wahrscheinlich neutral verhalten, aber falls der Herrscher den Glauben
+    missachtet, könnte er indirekt oppositionell handeln, indem er die Bevölkerung
+    inspiriert, sich dem Tyrannen zu widersetzen."
+  Rating C:
+  Comment C: ''
+  Answer D: "Es gibt in den verfügbaren Texten keine expliziten Informationen über
+    einen *elfischen* Blakharazpaktierer, der mit eiserner Hand eine Hafenstadt in
+    den Tulamidenlanden beherrscht. Auch wird kein konkretes Verhältnis zwischen einem
+    solchen Herrscher und einem *lokalem Hohepriester des Praios* skizziert. \n\n
+    Allerdings lassen sich indirekte Hinweise ableiten:\n- **Blakharaz** wird in den
+    Texten primär als **Erzdämon** assoziiert, der mit dem Ewigen Licht der Praios-Kirche
+    konfrontiert wird (vgl. *„Das Ewige Licht”*).\n- Die **Praios-Priesterkaiser**
+    hatten historisch oft eine dominierende Position, doch ihre Macht verlor sich
+    nach dem 465 BF (vgl. *„Priesterkaiser (335–465 BF)”*).\n- Ein **Hohepriester
+    des Praios**, der aktiv gegen Blakharaz-paktierende Kräfte agiert, müsste sich
+    wahrscheinlich in einer Region befinden, die im Kontakt mit den Dämonen der *Blutigen
+    See* oder den *Trümmerregionen* (vgl. *„Der Gesplitterte Berg”*) liegt.\n\nOhne
+    konkrete Textstellen bleibt eine exakte Antwort nicht möglich. Falls es sich um
+    eine fantasiebasierte Figur handelt, könnte der Hohepriester als **Opponent**
+    des Blakharaz-Paktierserscheinen, etwa in Form eines **Reformators der Kirche**
+    oder **Fanatikers**, der die Herrschaft des Dämons bekämpft. \n\nEine definitive
+    Antwort basierend auf den vorhandenen Quellen ist daher nicht möglich."
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nIn der offiziellen *Das Schwarze Auge*-Lore herrschen in den Tulamidenlanden
+    vorrangig Anhänger Rastullahs, nicht Praios. Ein **Hohepriester des Praios** existiert
+    dort **nicht**, da Praios vor allem im nördlichen Aventurien (Mittelreich, Gareth)
+    verehrt wird. Die Tulamidenlande liegen außerhalb seines kultischen Einflussgebiets.
+    Der beschriebene Szenario-Konflikt ist somit **nicht kanonisch** – es gibt weder
+    einen elfischen Blakharaz-Paktierer noch einen Praios-Hohepriester in dieser Region."
+  Rating E:
+  Comment E: ''
+  Answer F: "Der hochrangige Praios-High Priest in der Region der Tulamidenlande,
+    der sich mit dem Herrscher über eine Hafenstadt auseinandersetzen könnte, ist
+    **Praioslob von Selem**, ein Wahrer der Ordnung. Allerdings wird in den bereitgestellten
+    Texten keine explizite Beschreibung eines elbischen Herrschers namens „Blakharazpaktierer“
+    oder einer entsprechenden Situation erwähnt. \n\nUm eine vollständige Antwort
+    zu geben, müsste weiter recherchiert werden, ob spezielle Ereignisse oder Figuren
+    in der Region der Tulamidenlande mit dem Begriff „Blakharazpaktierer“ verbunden
+    sind. Alternativ könnten regionale Narrative oder lokale Chroniken tiefergehende
+    Details liefern.  \n\nDa keine direkten Hinweise auf den Namen des Hohepriesters
+    oder seine Meinung zum Vorgehen des Herrschers vorliegen, empfiehlt sich eine
+    gezielte Suche nach lokalen religiösen Dokumenten oder historischen Berichten
+    aus den Tulamidenlanden."
+  Rating F:
+  Comment F: ''
+
+
+- question: Ein elfischer Blakharazpaktierer herrscht mit eiserner Hand über eine
+    Hafenstadt in den Tulamidenlanden. Wie erging es seinem Vorgänger nach der Machtergreifung
+    des Elfen bis heute?
+  correct_answer: Bei der Machtergreifung Dolguruks in Thalusa wurde sein Vorgänger,
+    FÜrst Ras Kasan entmachtet und  eingekerkert. im Firun 1024 BG wurde durch eine
+    Gesandtschaft aus Khunchom ein Lösegeld erbracht um ihn freizukaufen. Zum Schein
+    kam er darauf hin bei einem Ansturm hungernder Menschen auf einen Stapel Reissäcke
+    ums Leben, in Wirklichkeit lebt er heute jedoch (von Verfolgungswahn zerfressen)
+    in einer kleiner abgeschiedenen Villa auf der Palastinsel der Stadt Khunchom.
+  Answer A: Im Land der Ersten Sonne gibt es keine erwähnte Hafenstadt, in der ein
+    elfischer *Blakharazpaktierer* mit eiserner Hand regiert. Elfenvolk ist in den
+    Tulamidenlanden extrem selten und wird häufig falsch identifiziert oder ignoriert.
+    Weder in den vorliegenden Texten noch in den Referenzen zu den Tulamidenlanden
+    wird ein solcher Anführer erwähnt. Dies könnte bedeuten, dass es sich um eine
+    spezialisierte oder lokale Legende handelt, die in anderen Quellen oder lokalen
+    Mythen verewigt ist. Falls es sich um eine erfundene Situation handelt, wäre eine
+    genauere Beschreibung der Stadt oder der Umstände notwendig, um entsprechende
+    Informationen zu finden. Bis dato bleibt die Existenz eines solchen Elfenregents
+    unbestätigbar.
+  Rating A:
+  Comment A: ''
+  Answer B: 'Der Vorgänger des elfischen Blakharazpaktierers, der mit eiserner Hand
+    über die Hafenstadt herrscht, erlebte vermutlich ein Schicksal, das in der turbulenten
+    Geschichte der Tulamidenlande häufig vorkommt: **Entmachtung, Exil oder Tod**.
+    In ähnlichen Fällen, wie etwa der Machtergreifung Sultan Dolgurukes in Thalusa,
+    wurden Oppositionelle brutal unterdrückt. Der Vorgänger könnte entmachtet und
+    in die Wüste verbannt worden sein, wie es bei Rebellionen traditionell üblich
+    war. Alternativ könnte er durch die Gewalt des neuen Herrschers beseitigt worden
+    sein, um die Macht des Elfen zu sichern. Die genauen Umstände bleiben unklar,
+    doch die historischen Muster deuten auf eine brutale Ausschaltung der bisherigen
+    Herrschaft hin.'
+  Rating B:
+  Comment B: ''
+  Answer C: "Es gibt in den verfügbaren Texten keine explizite Erwähnung eines elbischen
+    Herrschers, der eine Hafenstadt in den Tulamidenlanden mit eiserner Hand regiert.
+    Daher lässt sich die Frage nach dem Schicksal seines Vorgängers nicht direkt beantworten.\n
+    \nAllerdings könnte man aus der historischen Entwicklung der tulamidischen Herrschaften
+    schlussfolgern, dass solche Machtergreifungen oftmals mit blutigen Konflikten,
+    politischen Intrigen oder sogar der Vertreibung traditioneller Herrscher einhergingen.
+    In ähnlichen Kontexten wurden in der Vergangenheit etliche lokale Herrscher durch
+    neue Machtstrukturen verdrängt oder beseitigt.\n\nOhne konkretes Material bleibt
+    die Antwort jedoch spekulativ."
+  Rating C:
+  Comment C: ''
+  Answer D: "Es gibt in den verfügbaren Texten keine Erwähnung eines *elfischen* Herrschers
+    (Blakharazpaktierers) in den Tulamidenlanden. Elfen sind in diesen Regionen eine
+    extreme Seltenheit und werden oft falsch identifiziert (z. B. als Dschinnen).
+    Die politischen Strukturen der Hafenstädte wie Khunchom oder Zorgan sind von tulamidischen
+    Herrschern, Fürsten oder adeligen Familien geprägt, nicht von Elfen.  \n\nDer
+    Nutzer’s Scenario enthält vermutlich fiktive Elements, die über die vorhandenen
+    lore-books hinausgehen. Falls es sich um eine eigene Erzählung handelt, könnte
+    man analog zu realen Machtübernahmen in den Tulamidenlanden (z. B. Sturz von Fürsten,
+    Machtkämpfe zwischen Adel und Merchant Class) eine plausible Narrative entwickeln
+    – aber auf Basis der Quellen kann keine konkrete Antwort gegeben werden.  \n\n\
+    **Antwort:**  \n„Die vorliegenden Texte enthalten keine Informationen über einen
+    elfischen Blakharazpaktierer oder dessen Vorgänger in den Tulamidenlanden. Elfen
+    spielen in der Region keine rolle, und politische Machtstrukturen sind ausschließlich
+    tulamidisch geprägt. Möglicherweise handelt es sich um eine eigene Erzählung,
+    die über die vorhandenen Materialien hinausgeht.“"
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nDer Vorgänger des elfischen Blakharaz-Paktierers ist in offiziellen
+    *DSA*-Quellen (z. B. regionalen Beschreibungen der Tulamidenlande oder Dämonen-Lore)
+    **nicht dokumentiert**. Typisch für einen Machtwechsel durch einen dämonenbündlerischen
+    Usurper mit „eiserner Hand“ wäre jedoch:  \n- **Vernichtung oder Verschwinden
+    des Vorgängers** (ermordet, in die Verbannung gezwungen oder als Marionette entmachtet),
+    um Widerstand auszuschließen.  \n- **Magische Unterdrückung** (z. B. durch Blakharaz’
+    Einfluss), falls der Vorgänger noch lebt, aber entwürdigt wird.  \n\nDa es sich
+    um ein **hausregelbasiertes Szenario** handelt, hängt die genaue Antwort vom Spielleiter
+    ab. Offiziell existiert diese Figur nicht."
+  Rating E:
+  Comment E: ''
+  Answer F: "In den historischen Dokumenten der Tulamidenlande wird keine spezifische
+    Erwähnung eines *Blakharazpaktiers* oder eines elfischen Herrschers in einer Hafenstadt
+    gefunden. Allerdings lassen sich aus den verfügbaren Texten zwei relevante Punkte
+    ableiten:\n\n1. **Khunchom**: Als bedeutende Hafenstadt im Tulamidenlande („Niemals
+    Schlafende“) erlebte多次外來统治（Mittelländer, Aranien）und hat eine Tradition des Widerstands
+    gegen Fremdherrschaft. Falls ein elvischer Herrscher hier regierte, wäre die Situation
+    ähnlich wie bei der Garether Herrschaft: lokale Resistance oder Umkehrung der
+    Machtstrukturen möglich.\n\n2. **Vorgänger-Szenarien**: In der Geschichte der
+    Tulamiden landeten abgesetzte Herrscher oft in Exil (z. B. die **Beni Rurech**,
+    die wandernde Stämme) oder wurden durch Rebellionen verdrängt (wie bei der **Ersten
+    Schlacht am Cichanebi-See**). Ohne explizite Quelle bleibt die genaue Schicksalsform
+    des Vorgängers hypothetisch.\n\nFür eine genauere Antwort müsste man zusätzliche
+    Quellen zu elvischen Interaktionen in den Tulamidenlanden suchen. Da die aktuellen
+    Datenbank-Einträge keinen direkt relevanten Abschnitt liefern, empfiehlt sich
+    eine tiefergehende Suche nach „Elfen + Tulamidenlande“ oder „Paktierer + Hafenstadt“."
+  Rating F:
+  Comment F: ''
+
+
+- question: Welches sind die Lieblingstiere der Mutter des aranischen Königs?
+  correct_answer: Die Lieblingstiere von Sultana Sybia Al'Nabab von Zorgan sind Falken.
+  Answer A: Die Lieblingstiere der Mutter des aranischen Königs, Sybia al’Nabab, sind
+    Falke. Dies geht aus dem Text hervor, in dem ihre Leidenschaft für die Falknerei
+    beschrieben wird.
+  Rating A:
+  Comment A: ''
+  Answer B: "Die Mutter des aranischen Königs, Sultana Sybia al’Nabab, ist eine erfahrene
+    Falknerin. In ihrer Biografie wird explizit erwähnt, dass sie „die Falknerei“
+    als ihre größte Leidenschaft betrachtet und sogar ein Buch darüber verfasste.
+    Somit gehören **Falke(n)** zu ihren bevorzugten Tierarten.  \n\nKeine zusätzlichen
+    Recherchen notwendig, da die Information direkt in der Beschreibung der Sultana
+    enthalten ist. 🦅"
+  Rating B:
+  Comment B: ''
+  Answer C: "Die Mutter des aranischen Königs, Sultana Sybia al’Nabab von Zorgan,
+    hat eine starke Verbundenheit zur Falknerei. Dies zeigt sich deutlich in ihrer
+    Biografie, da sie als „Mondsilbersultana“ eine bedeutende Figur in der Phexkirche
+    ist und sich intensiv mit Falken beschäftigt. Darüber hinaus wird erwähnt, dass
+    sie ihre Muße ausschließlich dafür nutzt, mit ihren Vertrauten und ihren Lieblingsvögeln
+    auf die Jagd zu reiten.\n\nSomit sind die **Falken** ihre Lieblingstiere."
+  Rating C:
+  Comment C: ''
+  Answer D: "Die Mutter des aranischen Königs, Sultana Sybia al’Nabab, hat **Falken**
+    als Lieblingstiere. Dies ergibt sich aus ihrer tiefen Verbindung zur Phex-Gemeinschaft
+    und ihrer Passion für Falknerkunst. Sie hat ein Buch über Falken verfasst und
+    nutzt sie oft für Jagd und Symbolik.  \nDarüber hinaus könnte sie **Nachtwinde**
+    als mystische Begleiter bevorzugen, da diese in der Phex-Magie eine Rolle spielen.\
+    \  \n\nKeine weiteren Detailangaben zu ihren Lieblingstieren sind in den Texten
+    enthalten. Falls weitere Klärung gewünscht wird, kann ich zusätzliche Forschung
+    betreiben."
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nDie Lieblingstiere der Mutter des aranischen Königs (Queen Isola,
+    Gemahlin König Roderics und Mutter König Borodans) sind in den offiziellen *Das
+    Schwarze Auge*-Quellen (z. B. *Geographia Aventurica*, *Das Land der Schwarzen
+    Könige*) **nicht dokumentiert**. Solch spezifische persönliche Präferenzen für
+    historische Figuren des Hintergrunds werden im Regelwerk üblicherweise nicht ausgeführt.
+    Bei Bedarf könnte eine Spielleitung eigene Elemente ergänzen."
+  Rating E:
+  Comment E: ''
+  Answer F: Die Mutter des aranischen Königs, Sultana Sybia al’Nabab, hat eine große
+    Leidenschaft für **Falke**n. Sie ist eine erfahrene Falknerin, hat ein Buch über
+    dieses Thema verfasst und nutzt ihre freie Zeit oft für Jagdausritte mit ihren
+    Vögeln. Dies macht Falke zu ihren Lieblingstieren.
+  Rating F:
+  Comment F: ''
+
+
+- question: Welche besondere Verbindung besteht zwischen der Ehefrau und der Schwester
+    des Königs von Aranien?
+  correct_answer: Der aranische König heißt Arkos Shah, seine Frau Eleonora Shahi
+    und seine (abtrünnige) Schwester Dimiona. Am Ende des 35-Tage-Krieges verfolgten
+    Arkos Shah und seine Frau die flüchtige Dimiona und Arkos köpfte sie. Kurz vor
+    ihrem Tod gelang es Dimiona jedoch durch eine Seelenwanderung den Körper mit Eleonora
+    zu tauschen, sodass Arkos statt ihrer seine eigene Frau tötete. Nun lebt Dimiona
+    unerkannt im Körper von Eleonora, Arkos Ehefrau weiter.
+  Answer A: Die Ehefrau des Kings von Aranien ist Eleonora Shah, die Schwester des
+    Kings ist Dimiona. Dimiona war eine rebellische Prinzessin, die versuchte, den
+    Thron zu erobern und dadurch in Konflikt mit ihrem Bruder Arkos geriet. Ihre Handlung
+    führte letztendlich zu ihrer Verbannung. Es existiert somit eine direkte familiäre
+    Verbindung zwischen Eleonora (die Ehefrau des Kings) und Dimiona (die Schwester
+    des Kings), da beide als Mitglied der königlichen Familie betrachtet werden. Obwohl
+    Eleonora nicht direkt mit Dimiona verknüpft ist, stehen sie in der Hierarchie
+    der königlichen Familie nebeneinander.
+  Rating A:
+  Comment A: ''
+  Answer B: "Die Ehefrau des Kings von Aranien, **Eleonora**, und seine Schwester
+    **Dimiona** stehen in einer konfrontativen Beziehung:  \n- **Dimiona**, die Tochter
+    der Regentin Sybia, versuchte 1021 BF, den Thron zu usurpirieren und gründete
+    das **Moghulat Oron**, ein separatistisches Gebiet unter dämonischer Herrschaft.
+    Dieses Werk lag direkt im Kontrast zur stabilisierten Herrschaft Eleonoras als
+    „Königin mit den heilenden Händen“.  \n- **Politische Opposition**: Dimiona unterstützte
+    dämonische Mächte (Belkelel-Splitter der Dämonenkronen) und spaltete Aranien,
+    während Eleonora loyal zur Kirche Peraines und den traditionellen Strukturen blieb.\
+    \  \n- **Persönliches Drama**: Dimiona’s Versuche, ihre Schwägerin Eleonora zu
+    behindern, scheiterten, weshalb sie in Isolation geriet. Ihre Aktivitäten führten
+    sogar zu einem Mordversuch an Arkos, der Eleonoras Gemahl ist.  \n\nZusammenfassend:
+    Die beiden Frauen repräsentieren gegensätzliche politische und spirituelle Richtungen
+    in Aranien, wobei Eleonora als Retterin des Reiches und Dimiona als rebellische
+    Separatistin agiert."
+  Rating B:
+  Comment B: ''
+  Answer C: "Die Ehefrau des Kings von Aranien ist Eleonora Shah, während die Schwester
+    des Königs Dimiona von Aranien ist. Aus den erhaltenen Informationen geht hervor,
+    dass Dimiona eine bedeutende Figur in der aranischen Geschichte ist. Sie war die
+    Tochter von Sybia al’Nabab und Muzaraban und stand im Zentrum politischer Intrigen.
+    Ihre Rebellion gegen die Regierung führte zu schwerwiegenden Folgen, einschließlich
+    der Errichtung des Moghulats Oron unter ihrer Herrschaft. \n\nEleonora, die Ehefrau
+    des Königs Arkos, scheint in der jetzigen Situation stabilisierend auf die Lage
+    zu wirken, während Dimiona in der Vergangenheit als rebellische und mächtige Figuren
+    agierte. Es existiert somit eine familiäre Verbindung über Sybia al’Nabab, da
+    Dimiona und Eleonora beide unter ihrer Obhut stehen - dimiona als Tochter und
+    eleonora als Schwiegertochter. Dennoch gibt es keine direkte Verbindung zwischen
+    Eleonoras und Dimionas Rollen als Ehefrau und Schwester des Königs, sondern eine
+    indirekte durch ihre gemeinsame Herkunft und das Familienerbe. Falls weitere Details
+    erforderlich sind, könnte ich weitere Forschung betreiben."
+  Rating C:
+  Comment C: ''
+  Answer D: "Die Verbindung zwischen Eleonora, der Ehefrau des aranischen Königs Arkos
+    Shah, und Dimiona, seiner Schwester, ist durch eine tiefe magische und emotionale
+    Komplexität geprägt. Dimiona, ehemals eine Prinzessin und später als Moghuli bekannt,
+    hat eine unnatürliche Verbindung zur Dämonin Belkelel und nutzte ihre magischen
+    Kräfte, um Eleonoras Platz als Königin zu usurpieren. Dies führte zu einer dramatischen
+    Episode, in der Dimiona im Körper Eleonoras lebte und ihre Identität verfälschte.
+    \n\nDiese Verbindung ist geprägt von Verrat, magischer Manipulation und der Zerreißung
+    familiärer Bindungen. Dimiona's Ambitionen und ihre Verbindung zur Dunkelheit
+    standen im Kontrast zu Eleonoras Rolle als Heilerin und Verwalterin der Zwölfgötter.
+    Obwohl sie Schwestern waren, war ihre Beziehung von Konflikt und Machtspielen
+    geprägt, was letztendlich zu Dimionas Tod und einer tiefen emotionalen Verletzung
+    für Eleonora führte. Die magische Verbindung zwischen den beiden Frauen blieb
+    jedoch ein zentrales Element in der politischen und mystischen Landschaft Araniens."
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nDie Ehefrau und die Schwester des Königs von Aranien sind Schwestern.
+    In der DSA-Lore (4. Edition) ist die Gemahlin von König Borodan IV., Königin Amenea,
+    die Schwester seiner Schwester Isola – sie stammen beide aus dem Hause Rachenburg.
+    Diese Verbindung festigt politische Allianzen innerhalb Aventuriens."
+  Rating E:
+  Comment E: ''
+  Answer F: "Die besondere Verbindung zwischen der Ehefrau (Eleonora Shahi) und der
+    Schwester des Königs (Dimiona von Aranien) ist eine **seelenwandlungsbasierte
+    Identitätsgemeinschaft**. \n\nNach dem Tod Dimionas durch Arkos’ Schwerthieb **wandelte
+    ihre Seele in Eleonoras Körper**, sodass Dimiona später als „Eleonora“ agierte,
+    ohne dass Arkos davon erfuhrend. Dies ermöglichte ihr, ihre Pläne fortzusetzen,
+    während der König glaubte, seine Gemahlin sei getötet worden. Diese Seelenverschmelzung
+    schafft eine **tiefgreife nde, mystische Verbindung**, die über normale familiäre
+    Bindungen hinausgeht und direkt in die politischen Intrigen Araniens eingreift.
+    \n\nZusätzliche Details könnten in speziellen Ritualen oder Liturgien der Phex-Kirche
+    (die Sybia al’Nabab leitet) oder in archivierten Dokumenten der Mada Basari erschlossen
+    werden. Möchte ich weitere Forschung betreiben?"
+  Rating F:
+  Comment F: ''
+
+
+- question: Welches ist das älteste Bauwerk in der ältesten Menschenstadt Aventuriens?
+  correct_answer: Die *Sphinx von Fasar* ist das älteste Bauwerk der Stadt Fasar.
+  Answer A: "Das älteste bekannte Bauwerk in der ältesten Menschenstadt Aventuriens,
+    H’Rabaal, sind die **Tempelpyramiden**, die bereits in sehr frühen Zeiten errichtet
+    wurden. Insbesondere wird eine große Pyramide beschrieben, die „mehr als 150 Schritt“
+    in die Höhe ragt und tief in das Erdreich sank. Außerdem wird erwähnt, dass die
+    **Flamme des Purpurschoßes** innerhalb einer solchen Pyramide existiert, die nach
+    Sage von **Pyrdacor** entzündet wurde. Dies deutet stark auf eine urzeitliche
+    Herkunft hin.\n\nZusätzlich spricht man von **Steinkreuzen**, **Reliefs** und
+    **tempelartigen Strukturen**, die aus einer noch älteren Zeit stammen könnten,
+    da sie im Dschungel und Sumpf verborgen sind. Allerdings bleibt dies spekulativ,
+    da konkretere Details fehlen.\n\nFazit: **Die Tempelpyramiden** gelten als die
+    ältesten erkennbaren Bauwerke in H’Rabaal."
+  Rating A:
+  Comment A: ''
+  Answer B: "Das älteste bekannte Bauwerk in H’Rabaal, der ältesten Menschenstadt
+    Aventuriens, sind die **Temple-Anlagen**, die bereits bei der Gründung der Stadt
+    vor ca. 4500 v.BF errichtet wurden. Diese komplexe Tempelanlage mit ihren Drainagesystemen
+    und riesigen Pyramiden gilt als frühester architekturerhalteter Bereich. Weitere
+    strukturelle Details wie die „Siebenstreichspforte“ (Zerstörung 513 v.BF) oder
+    die Tempel der Achaz-Sekte datieren später. Die ursprünglichen Tempel bleiben
+    somit das älteste Bauwerk. \n\nFür genauere historische Quellen zu spezifischen
+    Monumenten könnte eine weitere Suche nach *„tempelbauwerke h'rabaal alt“* oder
+    *„archaeologische funde h'rabaal“* lohnen."
+  Rating B:
+  Comment B: ''
+  Answer C: "Das älteste Bauwerk in der ältesten Menschenstadt Aventuriens, H’Rabaal,
+    ist die Tempelpyramide, die im Zusammenhang mit den Echsenbewohnern der Region
+    steht. Laut Quellen wurde H’Rabaal als religiöses Zentrum der Echsenwesen gegründet
+    und die Tempelpyramiden sind von großer Bedeutung. Es wird vermutet, dass diese
+    Pyramiden bereits vor langer Zeit erbaut wurden, lange bevor die Menschen die
+    Stadt besiedelten. \n\nWeitere Details zu den spezifischen Tempelpyramiden oder
+    deren historischen Hintergrund können durch zusätzliche Recherche gewonnen werden.
+    Möchten Sie, dass ich weitere Informationen dazu suche?"
+  Rating C:
+  Comment C: ''
+  Answer D: Das älteste Bauwerk in der ältesten Menschenstadt Aventuriens, H’Rabaal,
+    sind die **Pyramiden**, die bereits in der Zeit der Echsenwesen errichtet wurden.
+    Diese Bauten stammen aus der Zeit vor der menschlichen Besiedlung und sind Teil
+    der archaischen Kultur der Echsen. Insbesondere wird erwähnt, dass in H’Rabaal
+    „mehr als 150 Schritt hohe Pyramiden“ existieren, die tief in das Erdreich sanken
+    und als Teil der Tempel- und Kultlandschaft der Echsen fungierten. Die Pyramiden
+    gelten als zeittypisches Beispiel für die monumentale Architektur der Echsen und
+    wurden später von den Menschen besiedelt. Somit sind die Pyramiden das älteste
+    Bauwerk in H’Rabaal – und damit in der ältesten menschlichen Stadt Aventuriens.
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nDas älteste Bauwerk in der ältesten Menschenstadt Aventuriens (Beilunk
+    in Andergast) ist die **Alte Burg**. Sie stammt aus der Zeit der frühen menschlichen
+    Besiedlung vor der Gründung des Horasreichs und gilt als ältestes erhaltenes Steinbauwerk
+    der Menschen auf Aventurien."
+  Rating E:
+  Comment E: ''
+  Answer F: Das älteste Bauwerk in der ältesten Menschenstadt Aventuriens, H’Rabaal,
+    sind die **Pyramiden und Tempel**, die bereits vor über 5.000 Jahren errichtet
+    wurden. Laut Quellen (z. B. Chunk-G01-334) existieren „gut erhaltene Tempel und
+    Pyramiden“, deren größte mehr als 150 Schritte hoch sind. Besonders erwähnenswert
+    ist der **Tempel desChr’Ssir’Ssr** mit der ewigen *Purpurfeuer*-Flamme, die nach
+    Sage von Pyrdacor entzündet wurde. Diese Bauten datieren wohl in die frühesten
+    Epochen der Stadtgeschichte, als H’Rabaal noch ein religiöses Zentrum der Echsenwesen
+    war, bevor es von Menschen besetzt wurde. Weitere Details könnten durch gezielte
+    Suche nach archäologischen Fundstellen oder speziellen Tempelbeschreibungen ergänzt
+    werden.
+  Rating F:
+  Comment F: ''
+
+
+- question: Wann wurde die heute größte Stadt Aventuriens ursprünglich gegründet?
+  correct_answer: Die (damalige) Siedlung Gareth entstand im Jahr 876 v.BF und wuchs
+    im Laufe der Jahrhunderte zur heute größten Metropole des Kontinents.
+  Answer A: Die heute größte Stadt Aventuriens, Gareth, wurde **876 v.BF** als bosparanische
+    Siedlung gegründet. Dies ist in den historischen Aufzeichnungen klar erwähnt.
+  Rating A:
+  Comment A: ''
+  Answer B: "Die heute größte Stadt Aventuriens, Gareth, wurde ursprünglich **im Jahr
+    876 v.BF** als bosparanische Siedlung gegründet. Dies geht aus der historischen
+    Zusammenfassung im Abschnitt „Geschichte Gareths“ hervor. Weitere Details zur
+    Gründung sind in den bereitgestellten Texten nicht enthalten. \n\nAntwort: **876
+    v.BF**."
+  Rating B:
+  Comment B: ''
+  Answer C: Die heute größte Stadt Aventuriens, Gareth, wurde 876 v.BF als bosparanische
+    Siedlung gegründet.
+  Rating C:
+  Comment C: ''
+  Answer D: Die heute größte Stadt Aventuriens, Gareth, wurde ursprünglich im Jahr
+    **876 v.BF** gegründet. Dies geht aus der Siedlerzeit hervor, in der die Siedlung
+    Gareth am Fluss Gardel entstand.
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nDie heute größte Stadt Aventuriens, **Gareth** (Hauptstadt des Mittelreichs),
+    wurde laut *Das Schwarze Auge*-Lore im Jahr **1 I.G.** („Im Jahre Gareth“) gegründet.
+    Dies markiert den Beginn der aventurischen Zeitrechnung. Die genaue historische
+    Datierung im Spielkontext ist eindeutig, da Gareth als politisches und kulturelles
+    Zentrum Aventuriens gilt."
+  Rating E:
+  Comment E: ''
+  Answer F: Die heute größte Stadt Aventuriens, Gareth, wurde ursprünglich **876 v.BF**
+    als bosparanische Siedlung gegründet. Dies geht aus der historischen Beschreibung
+    hervor, die die Gründung dieses Jahres nennt. Obwohl Gareth im Laufe der Zeit
+    stark wuchs und sich entwickelte, bleibt das Jahr 876 v.BF als offizieller Gründungszeitpunkt
+    erhalten.
+  Rating F:
+  Comment F: ''
+
+
+- question: Wie steht der gemeine Bürger der größten Stadt des Kontinents zu Schwarzpelzen?
+  correct_answer: Eine typische Sicht gegenüber Orks wäre etwa "wilde, behaarte Barbaren,
+    die vor zwanzig Jahren auch meinen Oheim getötet haben und in den Wäldern und
+    Bergen herumlungern. Wo man sie ergreift, soll man sie züchtigen, töten oder in
+    Ketten für ihre Untaten büßen lassen."
+  Answer A: "Die einfachen Bürger der größten Stadt Aventuriens, Al’Anfa, haben eine
+    ambivalente Einstellung gegenüber dunkelhäutigen Personen, insbesondere gegenüber
+    den regionalen Ethnien wie den *Miniwatu* und *Utulus*. Al’Anfa, als koloniales
+    Zentrum, zeichnet sich durch eine heterogene Bevölkerung aus, die aus verschiedenen
+    Kulturen und Rassen besteht.  \n\n**Hintergründe**:  \n- **Historische Dominanz**:
+    Die Stadt kontrolliert durch Sklavenhandel und militärische Präsenz regionale
+    Bevölkerungsgruppen, darunter dunkelhäutige Waldmenschen und Utulus. Dies schafft
+    eine Struktur, in der dunkelhäutige Populationen oft als untergeordnet wahrgenommen
+    werden.  \n- **Soziale Hierarchie**: Die einfachen Bürger („Fanas“) stehen in
+    der Regel unter den Granden und sind von wirtschaftlichen und sozialen Spannungen
+    geprägt. Sie interagieren mit dunkelhäutigen Arbeitskräften (z. B. Sklaven oder
+    Arbeiter) in einem System der Abhängigkeit und Ausbeutung.  \n- **Kultureller
+    Kontrast**: Die Bewohner Al’Anfas, inspiriert von der aristokratischen und materialistischen
+    Kultur der Granden, tendieren zu einer distanzierten oder exploitative Haltung
+    gegenüber „ungleichrangigen“ Gruppen, insbesondere wenn diese als minderwertig
+    oder fremd empfunden werden.  \n\n**Stimmung**:  \n- **Vorsicht und Skepsis**:
+    Dunkelhäutige werden in der Regel als „Andere“ wahrgenommen, was zu Misstrauen
+    oder stereotype Bewertungen führt.  \n- **Praxis der Unterwerfung**: Die tägliche
+    Realität der einfachen Bevölkerung birgt oft Konfrontationen mit dunkelhäutigen
+    Arbeitskräften, was zu einer pragmatischen, aber oft unhumanen Einstellung führt.\
+    \  \n- **Selbstbehauptung**: Einige Fanas nutzen die Existenz dunkelhäutiger Gruppen
+    als Referenzpunkt für ihre eigene Identität, um sich von den Elitekreisen abzuheben.\
+    \  \n\nZusammenfassend dominiert in Al’Anfa eine gesellschaftliche Dynamik, in
+    der dunkelhäutige Personen oft als untergeordnete oder hilflose Gruppe wahrgenommen
+    werden, während die Stadt ihre koloniale Geschichte und wirtschaftliche Abhängigkeit
+    von solchen Bevölkerungsgruppen nicht loswird."
+  Rating A:
+  Comment A: ''
+  Answer B: "In den bereitgestellten Texten wird die Einstellung der Bewohner*innen
+    von Gareth bezüglich „Schwarzpelzen“ nicht explizit beschrieben. Allerdings lassen
+    sich indirekte Hinweise finden:\n\n1. **Allgemeine Xenophobie**: In der Beschreibung
+    der Stadt wird betont, dass Gareth eine multikulturelle, aber auch spannungsgeladene
+    Gesellschaft ist. Beispiele wie der Misstrauen gegenüber „Fremden Völkern“ (z.
+    B. Mohas, Maraskaner) oder der Hass auf Orks und Ferkinas zeigen, dass Vorurteile
+    gegen andersartige Gruppen existieren.  \n   *(Siehe: „Wie sieht der Garetier
+    die …“-Abschnitt)*\n\n2. **Schwarzpelzen als Wilde**: In anderen Abschnitten werden
+    „Schwarzoge*r*” (evtl. englisches Pendant zu „Schwarzpelzen“) als gefährliche,
+    unnatürliche Wesen dargestellt, die im Regenwald leben und menschliche Beute jagen.
+    Dies legt nahe, dass solche Gruppen generell als Bedrohung wahrgenommen werden.\
+    \  \n   *(Siehe: „Schwarzoger“-Abschnitt)*\n\n3. **Keine direkte Referenz**: Es
+    gibt keinen expliziten Text, der die Meinung der garethischen Bevölkerung zu „Schwarzpelzen“
+    speziell behandelt. Die Annahme, dass dies eine ethnische oder kulturelle Gruppe
+    betrifft, bleibt hypothetisch.  \n\n**Fazit**: Ohne konkrete Quellen kann keine
+    vollständige Antwort gegeben werden. Basierend auf der allgemeinen Gesellschaftsdynamik
+    in Gareth wäre eine misstrauische oder ablehnende Haltung möglich, jedoch nicht
+    nachweisbar. Weiterführende Recherche in regionalen Dokumenten oder Episoden könnte
+    Klarheit schaffen."
+  Rating B:
+  Comment B: ''
+  Answer C: "Die größte Stadt des Kontinents Aventuriens ist **Al’Anfa**, die „schwarze
+    Perle des Südens“. Der gemeine Bürger von Al’Anfa lebt in einer Gesellschaft,
+    die von Macht, Reichtum und traditionellen Strukturen geprägt ist.\n\nAls eine
+    theokratisch geprägte Stadt unter der Führung des Patriarchen und dem Rat der
+    Zwölf ist Al’Anfa eine Stadt, in der der **Boron-Glaube** dominiert. Der gemeine
+    Bürger ist in der Regel Teil der **grossen Mehrheit**, die dem Boron-Anhang folgt,
+    obwohl auch andere Religionen praktiziert werden. Die **religiöse Begeisterung**
+    und der **Geist der schwarzen Magie** spielen eine große Rolle im täglichen Leben,
+    und vieles wird durch rituelle Praktiken und Glaubenssätze geprägt.\n\nIm Hinblick
+    auf **Schwarzpelzen** (was auf die dunklen, mystischen Elemente der Stadt hindeuten
+    könnte) ist zu beachten, dass Al’Anfa bekannt ist für **Schwarze Magie**, **Geisterbeschwörungen**
+    und **finstere Rituale**, die in der Dunklen Halle der Geister studiert werden.
+    Daher ist es wahrscheinlich, dass der gemeine Bürger mit diesen elementaren Aspekten
+    vertraut ist und sie nicht als unnatürlich empfindet, sondern als integraler Bestandteil
+    der Stadttradition.\n\nAllerdings geht die Beziehung des einfachen Volkes zur
+    Macht der Granden und den dunklen Praktiken der Elite oft von **Unterwürfigkeit**
+    und **Angst** aus. Die Stadt ist bekannt für ihre **Hartherzigkeit**, **Unfreiheit**
+    und **Sklaverei**, sodass der normale Bürger oftmals von den politischen und magischen
+    Machenschaften der Mächtigen fern bleibt.\n\nZusammenfassend lässt sich sagen:\n
+    \n> Der gemeine Bürger Al’Anfas akzeptiert die dunklen und mystischen Seiten der
+    Stadt als natürlichen Teil ihrer Existenz. Er lebt in einer strenge strukturierten,
+    theokratischen Gesellschaft, die von den Mächten der Boron-Geweihten und den granden
+    Familien beherrscht wird. Obwohl er von den magischen Praktiken und der schwarzen
+    Atmosphäre der Stadt beeinflusst wird, ist er oft ohnmächtig und unterworfen.
+    Die Stadt selbst ist für ihn sowohl Heimat als auch Gefangenschaft."
+  Rating C:
+  Comment C: ''
+  Answer D: Die Beziehung des gemeinen Bürgers der größten Stadt Aventuriens, Gareth,
+    zu Schwarzpelzen ist wahrscheinlich geprägt von Skepsis oder Misstrauen. In Gareth,
+    einer komplexen Stadt mit stark differenzierter Bevölkerung, leben Menschen aus
+    verschiedenen Schichten und Herkünften. In den ärmlichen Vierteln wie dem Südquartier,
+    wo das Elend und die Unsicherheit dominieren, könnte man Fremden oder andersartigen
+    Wesen wie Schwarzpelzen mit Vorsicht begegnen. Solche Wesen gelten traditionell
+    als Bedrohung, insbesondere in einer Stadt, in der Ordnung und Sicherheit von
+    der Stadtgarde und Söldnern bewacht werden. Da es in den Texten keine expliziten
+    Erwähnungen von Schwarzpelzen in Gareth gibt, bleibt die Haltung hypothetisch,
+    doch orientiert sich an der allgemeinen Attitüde gegenüber ungewöhnlichen Wesen
+    in der Stadt.
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nDer gemeine Bürger Gareths (größte Stadt Aventuriens) betrachtet
+    Schwarzpelze – eine orkische Sippe – meist mit **Misstrauen und Angst**. Schwarzpelze
+    gelten als kriegerisch, unberechenbar und werden mit Grenzübergriffen sowie Plünderungen
+    in Verbindung gebracht. In der Stadt selbst sind sie selten, doch bei Sichtung
+    reagiert die Bevölkerung oft mit Ablehnung oder Flucht. Nur wenige Händler oder
+    Söldner akzeptieren sie widerwillig – stets unter Vorbehalt. *Hinweis: Konkrete
+    Einstellungen variieren regional; in Grenzgebieten wie dem Bornland ist die Feindseligkeit
+    stärker ausgeprägt.*"
+  Rating E:
+  Comment E: ''
+  Answer F: "Die öffentliche Meinung in Al’Anfa gegenüber Schwarzen Pelzen („Schwarzpelzen“)
+    ist von komplexen sozialen Dynamics geprägt, die durch historische, wirtschaftliche
+    und kulturelle Faktoren beeinflusst werden:\n\n1. **Historische Kontexte**:  \n\
+    \   - In Al’Anfa existiert eine lange Tradition des Sklavenhandels, wobei Schwarze
+    Pelzen (vermutlich als „Schwarze“ oder „Ureinwohner“ referenziert) oft als Arbeitskräfte
+    oder Objekte der Ausbeutung agieren. Die Minuwatu, eine Gruppe von Waldmenschen,
+    dominieren beispielsweise plantagenwirtschaftlich und unterwerfen lokale Bevölkerungsgruppen
+    (wie Utulus), was auf hierarchische Strukturen hindeutet.  \n   - Die Stadt ist
+    zentraler Akteur im Sklavenhandel, und ihre Elite profitiert finanziell von dieser
+    Systematik. Dies könnte zu einer ambivalenten Haltung der Bevölkerung führen:
+    materielle Interessen vs. moralische Zweifel.\n\n2. **Soziale Hierarchien**: \
+    \ \n   - Die Gesellschaft in Al’Anfa ist stark stratifiziert. Die *Miniwatu* (eine
+    adelige Gruppe von Waldmenschen) kontrollieren territoriale Gebiete und nutzen
+    sklavische Arbeitskräfte. Ihre Dominanz über „schwarze“ Bevölkerungsgruppen (Utulus,
+    etc.) zeigt, dass Diskriminierung und Unterdrückung systematisch sind.  \n   -
+    Der gemeine Bürger, insbesondere in armen Vierteln, könnte SchwarzePelzen als
+    Bedrohung wahrnehmen (z. B. durch Konkurrenz um Ressourcen oder Sicherheitsbedenken),
+    während gleichzeitig wirtschaftliche Abhängigkeiten bestehen (z. B. durch Arbeitsplätzen
+    in Plantagen).\n\n3. **Religiöse und kulturelle Narrationen**:  \n   - Die Boron-Kirche
+    verfolgt eine mystisch-spirituelle Dimension, die SchwarzePelzen möglicherweise
+    als „verschandelte Seelen“ oder ‚Tyrannis‘ interpretiert. Dies könnte zu einer
+    moralischen Ablehnung führen, kombiniert mit praktischen Kooperationen.  \n  \
+    \ - Die *Heptarchien*, eine sektenhafte Gruppe, werden explizit als „Dämonenbuhlen“
+    bezeichnet, was auf eine generelle Skepsis gegenüber nicht-mittelländischen oder
+    unnatürlichen Mächten hindeutet.\n\n4. **Praxis der Integration**:  \n   - Al’Anfa
+    ist ein multikultureller Schmelztiegel, in dem verschiedene Ethnien (Tulamiden,
+    Waldmenschen, Novadis u. a.) koexistieren. Allerdings dominiert die Alanfanschaft,
+    und ethnische Minoritäten sind oft marginalisiert.  \n   - Die „Schwarzen“ könnten
+    sowohl als Arbeitskräfte akzeptiert als auch als „Andere“ stereotypisiert werden,
+    was zu Vorurteilen oder Misstrauen führt.\n\n**Fazit**:  \nDie Haltung der gemeinen
+    Bevölkerung ist likely heterogen. While economic interests and systemic exploitation
+    create dependencies, cultural prejudices and religious narratives often foster
+    distrust or hostility. Direkte Quellen zur „öffentlichen Meinung“ fehlen, doch
+    Indirektheiten (Sklaverei, hierarchische Strukturen, Religionsdogmatik) legen
+    eine ambivalente, oft negativ geprägte Einstellung nahe. Weiterführende Forschung
+    zu *Daily Life*-Abschnitten oder *Social Stratification* wäre hilfreich.  \n\n
+    Noch Fragen? 😊"
+  Rating F:
+  Comment F: ''
+
+
+- question: Welcher, viele Rechtmeilen messende verfluchte Ort findet sich schon seit
+    großen Schlacht gegen den Vorgänger von Hela-Horas vor den Toren einer großen
+    Mittelreichischen Stadt?
+  correct_answer: Seit der ersten Dämonenschlacht gegen Fran-Horas wuchert  vor den
+    Toren Gareths die *Dämonenbrache*, ein riesiges Areal aus unheimlichen Wäldern
+    und verbrannter Ödnis.
+  Answer A: "Der verfluchte Ort, der im Zusammenhang mit der Schlacht gegen den Vorgänger
+    von Hela-Horas erwähnt wird, ist **das Schlachtfeld der Zweiten Dämonenschlacht**
+    bei **Brig-Lo**, das sich nahe der Stadt **Gareth** im Mittelreich befindet. \n
+    \nDieses Schlachtfeld gilt als „lieu maudit“, da es von den Geistern der gefallen
+    Soldaten heimgesucht wird und seit der Schlacht zwischen den Garethern und der
+    Schönen Kaiserin Hela-Horas als ort des Terrors und der mystischen Energien bekannt
+    ist. Der Vorgänger Hela-Horas, Kaiser Murak-Horas, wurde hier tödlich verletzt,
+    was den Beginn ihrer grausamen Herrschaft einleitete. \n\nObwohl keine explizite
+    Stadt namens „große Mittelreich-Stadt“ genannt wird, passt **Gareth** als zentraler
+    Ort der Rebellion gegen Hela-Horas in die Beschreibung. Das Schlachtfeld bei Brig-Lo
+    bleibt bis heute ein Symbol der düsteren Geschichte des Mittelreichs."
+  Rating A:
+  Comment A: ''
+  Answer B: "Der verfluchte Ort, der sich seit der großen Schlacht gegen den Vorgänger
+    von Hela-Horas vor den Toren einer großen Mittelreichischen Stadt befindet, ist
+    die **Dämonenbrache**. Diese entstand als Folge der **Ersten Dämonenschlacht**
+    (568 v.BF), bei der die Garether gegen den Dämonenherrscher **Fran-Horas** kämpften.
+    Fran-Horas, ein Vorgänger der „Schönen Kaiserin“ Hela-Horas, rief Dämonen zu Hilfe,
+    was zu einem verheerenden Kampf führte. Das Schlachtfeld wurde danach *„verflucht“*,
+    und die Dämonenbrache entwickelte sich zu einem Ort, der von den Menschen des
+    Mittelreichs gefürchtet wird.  \n\nSie liegt **nahe Gareths**, einer bedeutenden
+    Stadt des Mittelreichs, und gilt als Beispiel für die Zerstörungskraft magischer
+    Beschwörungen. Die Brache ist charakterisiert von verfluchtem Land, Geistern der
+    Gefallenen und unheilvollen Naturphänomenen.  \n*Quelle:* Forschung zu „Dämonenbrache
+    Schlacht Vorgänger Hela-Horas“."
+  Rating B:
+  Comment B: ''
+  Answer C: "Der verfluchte Ort, der sich laut der Suche seit der großen Schlacht
+    gegen den Vorgänger von Hela-Horas vor den Toren einer großen Mittelreichischen
+    Stadt befindet, ist die „Dämonenbrache“.\n\nSie ist im Zusammenhang mit der Ersten
+    Dämonenschlacht (568 v.BF) erwähnt worden. Diese Schlacht fand zwischen den Aufständischen
+    und dem bosparanischen Kaiser Fran-Horas statt, der als Vorgänger von Hela-Horas
+    gilt. Während der Schlacht rief Fran-Horas Erzdämonen zu Hilfe, was letztlich
+    dazu führte, dass die Dämonenbrache entstanden ist - ein verfluchter Ort, der
+    sich nach der Schlacht auf dem Schlachtfeld befand. \n\nDieser Ort ist somit eng
+    mit der großen Schlacht gegen den Vorgänger von Hela-Horas verbunden."
+  Rating C:
+  Comment C: ''
+  Answer D: "Die Antwort auf deine Frage lautet: **Die Dämonenbrache**.\n\nSie befindet
+    sich vor den Toren der Stadt **Gareth** im Mittelreich und ist der verfluchte
+    Ort, der infolge der **Ersten Dämonenschlacht** entstand, in der die Garether
+    gegen **Franz-Horas** (den Vorgänger von Hela-Horas) kämpften. Die Brache ist
+    ein Ort der Dunkelheit und magischer Gefahren, der bis heute von den Bewohnern
+    des Mittelreichs gemieden wird."
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nSchwarze Schar  \n(Langjährig verfluchte Schlachtfeld-Region vor
+    den Toren Gareths, entstanden nach der Niederlage Helboris' – Vorgänger Hela-Horas
+    – in der Großen Schlacht um das Jenseits.)"
+  Rating E:
+  Comment E: ''
+  Answer F: "Der verfluchte Ort, der in der Frage erwähnt wird, ist die **Dämonenbrache**,
+    ein Bereich, der seit der Ersten Dämonenschlacht gegen **Fran-Horas** (Helas Vorgänger)
+    vor den Toren der Stadt **Gareth** existiert. \n\nDie Dämonenbrache ist ein *„verfluchtes
+    Land“*, in dem die Mächte der Niederhöllen noch gegenwärtig sind und Pflanze und
+    Tier verfluchten. Sie entstand als Folge der Schlacht, in der Fran-Horas seine
+    dämonischen Helfer rief, und bleibt bis heute von Schrecknissen und Geistern bevölkert.
+    Der Ort wird in den Texten als *„drohendes Wort: Fran-Horas!“* beschrieben und
+    ist eng mit der Geschichte der Stadt Gareth verbunden. \n\n**Zusätzliche Hinweise**:\
+    \  \n- Die Dämonenbrache wird als *„großes Wunder“* in Almada bekannt, und ihre
+    Existenz geht auf die Schlacht gegen Fran-Horas zurück.  \n- Der Begriff „Rechtmeilen“
+    könnte sich auf die *Region rund um Gareth* beziehen, wo die Brache liegt.  \n
+    \nFür genauere Details zur geografischen Ausdehnung oder rechtlichen Aspekten
+    der Brache könnten zusätzliche Recherchen in regionalen Beschreibungen (z. B.
+    über *Gareth* oder *Mittelreich*) notwendig sein."
+  Rating F:
+  Comment F: ''
+
+
+- question: Beim Angriff des ehemaligen Hofmagus Galotta auf die mittelreichische
+    Hauptstadt, ging das bedeutendste Artefakt einer der zwölf Kirchen verloren. Um
+    welches Artefakt handelt es sich und wie wird das Vorhaben bezeichnet um das Artefakt
+    zurückzuholen?
+  correct_answer: Beim Sturz der fliegenden Festung auf Gareth, verschwand das *Ewige
+    Licht*, das heiligste Artefakt der Praioskirche. Daraufhin wurde die *Quanionsqueste*
+    ausgerufen, um nach dem ewigen Licht zu suchen und es zurückzubringen.
+  Answer A: Das verlorene Artefakt war das **Ewige Licht**, das wichtigste Talisman
+    Praios’. Das Unternehmen zur Rückgewinnung dieses Artefakts trägt den Namen **„Quanionsqueste“**.
+  Rating A:
+  Comment A: ''
+  Answer B: "Der Verlust des bedeutendsten Artefakts der Zwölfgötterkirchen während
+    Galottas Angriff wird in den Quellen nicht explizit benannt. Allerdings wird erwähnt,
+    dass die *Neue Residenz* und der *Tempel der Sonne* in Neu-Gareth beschädigt wurden.
+    Eine mögliche Referenz liegt in der Beschreibung der *Gewölbe der versiegelten
+    Schriften*, wo verbotene Schriften und Artefakte wie das *Bannstrahl*-Richtschwert
+    verwahrt wurden. \n\nFür die Rückholaktion gibt es keine direkte Benennung, doch
+    der Begriff *\"Operation\"* könnte auf das strategische Unternehmen der Praios-Kirche
+    hinweisen, ihre Interessen nach der Zerstörung zu wiederauffangen. Weitere Details
+    könnten durch tiefere Recherche zu Galottas Attacke oder speziellen kirchlichen
+    Dokumenten erschlossen werden.\n\n**Empfohlene nächste Suche:**  \n`research_lore_books(\"\
+    Galotta Tempel der Sonne Artefakt Rückeroberungsoperation\")`"
+  Rating B:
+  Comment B: ''
+  Answer C: "Das bedeutendste Artefakt, das beim Angriff Galottas auf die mittelreichische
+    Hauptstadt verloren ging, ist das **Stab des Vergessens**, ein wichtiges kirchliches
+    Artefekt der **Twelve Churches** (Zwölfgötterkirchen).\n\nDas Vorhaben, dieses
+    Artefakt zurückzuerwerben, wird meist als **\"Rückkehr des Kaisers\"** bezeichnet,
+    was auf die Suche nach dem verlorenen Symbol der imperialen Macht hinweist."
+  Rating C:
+  Comment C: ''
+  Answer D: Das verlorene Artefakt ist *das Ewige Licht*, das heiligtumsmäßige Symbol
+    des Göttersohns Praios und Ursprung aller Praios-Tempel. Das Vorhaben, es zurückzugewinnen,
+    trägt den Namen **Quanionsqueste**, eine Suche, die vielen Missionen als Motivation
+    dient und eine Sinnsuche der Praios-Kirche auslöst.
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nDas Artefakt ist die **Schwarze Lilie**, ein heiliges Symbol der
+    Rondra-Kirche. Das Vorhaben zur Rückholung wird als **\"Operation Schwarze Lilie\"\
+    ** bezeichnet. Galotta stahl es während seines Angriffs auf Gareth (Hauptstadt
+    des Mittelreichs) im Rahmen der gleichnamigen Abenteuerreihe."
+  Rating E:
+  Comment E: ''
+  Answer F: "Das bedeutendste Artefakt, das beim Angriff Galottas verloren ging, war
+    das **Ewige Licht**, das heiligtum der Praioskirche. Seine Rückgewinnung wird
+    als **Quanionsqueste** bezeichnet. \n\nDies ergibt sich aus folgenden Passagen:\n
+    - Das Ewige Licht wurde durch einen Trümmerblock der Fliegenden Festung zerstört/verschwanden
+    („das Ewige Licht ... verschwand“).\n- Die **Quanionsqueste** wird explizit als
+    Suche nach diesem Artefakt beschrieben (\"die Suche nach dem Ewigen Licht [...]
+    Ausgangspunkt für viele Missionen\").\n\nKeine weiteren Details erforderlich."
+  Rating F:
+  Comment F: ''
+
+
+- question: Welches Ziel verfolgt der Al'Anfanische Gesandte Karinor in der mittelreichischen
+    Hauptstadt in Bezug auf eine im Mittelreich verbotene Art des Handels?
+  correct_answer: Kalman Karinor verfolgt das Ziel den Sklavenhandel mit mittelreichischer
+    Ware anzukurbeln, also Mittelreicher als Sklaven außer Landes zu schmuggeln.
+  Answer A: "Der Al’Anfanische Gesandte Karinor verfolgt das Ziel, den **verbotenen
+    Sklavenhandel** zwischen Al’Anfa und dem Mittelreich wieder anzukurbeln, wobei
+    dieser Handel besonders diskret erfolgen muss. Dies geht aus dem Hinweis hervor,
+    dass er „die Rückkehr des Sklavenhandels mit mittelreichischer Ware [wieder] etwas
+    ankurbeln“ will – *natürlich unter besonderer Diskretion*. \n\nDieser Handel war
+    im Mittelreich verboten, was die Notwendigkeit einer heimlichen Umsetzung erklärt."
+  Rating A:
+  Comment A: ''
+  Answer B: "Der Al'Anfanische Gesandte Kalman Karinor verfolgt das Ziel, den **verbotenen
+    Sklavenhandel** mit Mittelreich-Ware zu reaktivieren, allerdings *unter besonderer
+    Diskretion*. In der Beschreibung seiner Villa heißt es, dass er „die Entwicklung
+    des Sklavenhandels mit mittelreichischer Ware wieder etwas ankurbeln“ möchte,
+    da dies traditionell ein lukrativer Bereich ist.  \n\nZwar ist der Handel mit
+    Sklaven im Mittelreich verboten, doch Al’Anfa nutzt seine Position als Handelsmacht,
+    um solche Aktivitäten zu fördern – oft durch Schmuggel oder indirekte Kanäle.
+    Karinors Rolle als Gesandter ermöglicht es ihm, diese Geschäfte zu koordinieren,
+    ohne direkt gegen Mittelreichs Gesetze zu verstoßen. Dies passt in den Kontext
+    der allgemeinen alanfanischen Strategie, den Handel mit luxuriösen Gütern und
+    Arbeitskräften (wie Sklaven) zu steuern, obwohl dies in anderen Regionen stark
+    reguliert oder verboten ist.  \n\nKeine direktere Quelle gefunden, aber die Zusammenhänge
+    aus den bisherigen Texten legen dieses Ziel nahe."
+  Rating B:
+  Comment B: ''
+  Answer C: "Der Al'Anfanische Gesandte Kalman Karinor verfolgt das Ziel, den **Sklavenhandel**
+    mit **mittelreichischer Ware** wieder etwas anzukurbeln, allerdings unter besonderer
+    Diskretion. Dieser Handel ist im Mittelreich verboten. \n\nDies geht klar aus
+    dem Inhalt des Abschnitts hervor, wonach Kalman daran arbeitet, diesen Handel
+    „unter besonderer Diskretion“ anzukurbeln. Es handelt sich dabei um einen illegalen
+    Bereich, da der Sklavenhandel im Mittelreich verboten ist."
+  Rating C:
+  Comment C: ''
+  Answer D: "Der Al’Anfanische Gesandte Karinor, speziell Shantalla Karinor, verfolgt
+    wahrscheinlich das Ziel, den **illegalen Handel mit verbotenen Gütern**, wie Waffen,
+    Rauschmitteln oder Sklaven, im Mittelreich zu fördern oder zu manipulieren, um
+    **politischen Einfluss und Macht** zu erlangen.  \n\nShantalla, als *Observatora
+    Mercaturae* (Wahrerin des Handels) im Rat der Zwölf, nutzt ihre intrigiösen Fähigkeiten
+    und finanzielle Macht, um Handelsringe und Netzwerke zu steuern. Im Mittelreich,
+    wo bestimmte Güter verboten sind, könnte sie solche Aktivitäten nutzen, um **Korrumpierung**,
+    **Schmuggling** oder **Abhängigkeiten** zu schaffen. Dies würde ihr helfen, **Einfluss
+    auf die mittelreichischen Machtstrukturen** zu gewinnen und gleichzeitig den al’anfanschen
+    Interessen zu dienen – etwa durch den Abbau von Opposition oder die Sicherstellung
+    lukrativer Handelswege.  \n\nZiel: **Stabilisierung der eigenen Macht via verbotenen
+    Handelsgütern** und **Einflußnahme auf die politischen Entscheidungen im Mittelreich**."
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nDer al'Anfanische Gesandte Karinor versucht, den mittelreichischen
+    Handelsverbot für **Sklavenhandel** aufzuheben oder zumindest schmugglerische
+    Handelswege zu legitimieren. Al'Anfa, als Zentrum lukrativer (aber im Mittelreich
+    geächteter) Praktiken, strebt wirtschaftlichen Vorteil durch die Aufweichung der
+    strikten moralischen Gesetze des Mittelreichs an. Seine Mission zielt auf diplomatische
+    Zugeständnisse ab, um den Profit aus diesem verbotenen Sektor zu sichern."
+  Rating E:
+  Comment E: ''
+  Answer F: "Der Al'Anfanische Gesandte Karinor verfolgt das Ziel, den **verbotenen
+    Sklavenhandel** zwischen Al'Anfa und Mittelreich zu fördern, wobei dies unter
+    diskretem Umgang erfolgen muss. Insbesondere zielen die Aktivitäten auf den **Handel
+    mit mittelreichischen Gütern**, die im Mittelreich selbst verboten sind (wie Waffen,
+    Gifte oder andere exotische Artikel). Dies wird durch die Nutzung von Netzwerken
+    und Geheimkanälen ermöglicht, um rechtliche Einschränkungen zu umgehen. \n\nEin
+    Beispiel ist die erwähnte „Große Sklavenauktion“ in Al'Anfa, bei der auch mittelreichische
+    Waren handelbar sind, sowie die Rolle von Personen wie Kalman Karinor, der explizit
+    daran arbeitet, diesen Handel „unter besonderer Diskretion“ anzukurbeln. Weiterführende
+    Details könnten durch Forschung zu spezifischen Verträgen oder Initiativen Karinors
+    in der Mittelreichischen Hauptstadt erhoben werden. \n\nNoch genauerere Information
+    könnte benötigt werden, falls erforderlich. Möchten Sie, dass ich zusätzliche
+    Quellen suche?"
+  Rating F:
+  Comment F: ''
+
+
+- question: Die im Jahreslauf sechste der zwölf Götter, wird häufig in Tempeln mit
+    einer charakteristischen, sechseckigen Form geehrt. Einer der bedeutendsten Tempel
+    jedoch, der sich in der größten mittelreichischen Stadt befindet, unterscheidet
+    sich in seiner Form von der Norm. Wie?
+  correct_answer: Der *Pentagontempel der Hesinde* in Gareth besitzt einen *fünfseitigen
+    Grundriss* statt dem eines Hexagons.
+  Answer A: 'Der Tempel der Sterne (Id: G08-276) in Gareth unterscheidet sich von
+    anderen Tempeln, indem er nicht die typische hexagonale Form besitzt, sondern
+    eine andere architektonische Gestalt trägt. Es handelt sich bei ihm um einen „Hexagonal“-Temple,
+    was auf den ersten Blick widersprüchlich wirkt. Doch das Detail deutet darauf
+    hin, dass es sich um eine spezielle Darstellung oder Umsetzung der Gottheit handelt,
+    vielleicht symbolisiert durch die große Bethalle mit Mosaiken, die Aventurien
+    darstellen. Eine genauere Beschreibung der Architekturform bleibt jedoch im vorliegenden
+    Text unklar und müsste durch weitere Recherche vertiefend beleuchtet werden.'
+  Rating A:
+  Comment A: ''
+  Answer B: 'Der im Fragenkontext gemeinte Tempel ist der **Pentagontempel der Hesinde**
+    in Gareth (ID: G08-356). Während typische Tempel für den sechsiten Gott (vermutlich
+    Phex) meist hexagonal gestaltet sind, besitzt dieser Tempel einen **fünfeckigen
+    Grundriss**, was ihn ungewöhnlich macht. Dieser „Pentagon“ symbolisiert das Universum
+    der Be- und Entschwörung und unterscheidet sich damit deutlich von der Normalform.'
+  Rating B:
+  Comment B: ''
+  Answer C: "Der Tempel, der im Jahrslauf sechste der zwölf Götter ehrt, ist der **Tsa-Tempel**
+    in Nardesheim. Im Gegensatz zum typischen hexagonalen Grundriss hat dieser Tempel
+    eine **ovale**, beinahe hundert Schritt durchmessende Form. Dieser Tempel liegt
+    im Wasser des Wirselbachs und ist mit symbolischer Kunst und Artefakten gefüllt.
+    \n\nWenn du mehr über die spezielle Gestaltung dieses Tempels wissen willst, könnte
+    ich gerne nach weiteren Details suchen. Möchtest du das?"
+  Rating C:
+  Comment C: ''
+  Answer D: "Der sechste Gott im Jahreslauf ist **Boron**, der Gott des Todes. In
+    der Regel werden seine Tempel in sechseckiger Form errichtet, da das Sechseck
+    ein traditionelles Symbol für Borons Kult ist.  \n\nDer bedeutendste Boron-Tempel
+    in der größten mittelreichischen Stadt **Gareth** unterscheidet sich jedoch von
+    der Norm: Der **Boron-Tempel in Gareth** ist nicht sechseckig, sondern **neuneckig**
+    und aus schwarzem Basalt erbaut. Dieser Tempel, bekannt als *„das Gebrochene Rad“*,
+    folgt dem Puniner Ritus und ist eines der ältesten und wichtigsten Boron-heiligtümer
+    Aventuriens. Seine ungewöhnliche Form symbolisiert die Unberechenbarkeit des Todes
+    und die tiefe Verbindung zwischen Boron und den Toten.  \n\nDieser Tempel ist
+    somit eine Ausnahme von der üblichen sechseckigen Form, die für Borons Kult typisch
+    ist."
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nDer sechste Gott im Jahreslauf ist Hesinde (Göttin der Weisheit,
+    Magie und Künste). Ihre Tempel sind typischerweise sechseckig – der Großtempel
+    der Weisheit in Gareth (größte Stadt des Mittelreichs) weicht jedoch ab: Er ist
+    **siebenseitig** gestaltet, angelehnt an die sieben Hügel Gareths."
+  Rating E:
+  Comment E: ''
+  Answer F: "Der sechste Gott der zwölf, der in Tempeln typischerweise in sechseckiger
+    Form geehrt wird, hat in der größten Stadt des Mittelreichs, Gareth, einen besonders
+    bekannten Tempel, der sich von der Norm unterscheidet. Dieser Tempel, der „Aves-Tempel“
+    genannt wird, ist nicht sechseckig, sondern zeigt eine verspielte Rohalistik-Form
+    mit kreisförmigen Elementen und Mosaiken. Er zeichnet sich durch seine außergewöhnliche
+    Architektur aus, die stark von Fremdländischen Einflüssen geprägt ist, und ist
+    ein ikonisches Symbol der religiösen Vielfalt in Gareth. \n\nZusätzliche Details
+    könnten durch tiefere Recherche in regionalen Beschreibungen oder speziellen Tempelchroniken
+    gefunden werden."
+  Rating F:
+  Comment F: ''
+
+
+- question: Bei der Schlacht die den Untergang der wohl bedeutendsten Stadt ihrer
+    Zeit zur Folge hatte und damit den Beginn der heutigen Zeitrechnung markiert,
+    griffen angeblich vier der Zwölfgötter persönlich ins Kampfgeschehen ein. Welche
+    waren das?
+  correct_answer: Die vier Götter welche der Sage nach bei der zweiten Dämonenschlacht
+    gegen Hela-Horas' finstere Horden mit ins Feld zogen waren *Praios, Rondra, Efferd
+    und Ingerimm*.
+  Answer A: Die vier Götter, die laut Text während der Schlacht bei BrigLo persönlich
+    ins Kampfgeschehen eingriffen, sind **Praios**, **Rondra**, **Efferd** und **Ingerimm**.
+    Dieses Ereignis gilt als großes Wunder und ist bis heute in Almada bekannt.
+  Rating A:
+  Comment A: ''
+  Answer B: "Die vier Götter, die laut Quelle während der Schlacht bei BrigLo (im
+    Rahmen der Zweiten Dämonenschlacht) eingriffen, sind **Praios**, **Rondra**, **Efferd**
+    und **Ingerimm**. Ihre Intervention wird als „Großes Wunder“ (204 C.) erwähnt,
+    wobei nur diese vier Götter direkt sichtbar waren. Die anderen acht Götter agierten
+    möglicherweise indirekt. Dieses Ereignis markiert den Beginn der Neuen Zeitspanne
+    in der DSA-Welt. \n\nKeine zusätzliche Forschung notwendig."
+  Rating B:
+  Comment B: ''
+  Answer C: Die vier Götter, die laut Quelle bei der Schlacht eingegriffen haben,
+    sind Praios, Rondra, Efferd und Ingerimm.
+  Rating C:
+  Comment C: ''
+  Answer D: "Die vier Götter, die laut Quelle während der Zweiten Dämonenschlacht
+    bei Brig-Lo persönlich ins Kampfgeschehen eingriffen, sind:\n\n1. **Praios**\n
+    2. **Rondra**\n3. **Efferd**\n4. **Ingerimm**\n\nDer Abschnitt „**Das Erbe Brig-Los**“
+    (G08-576) nennt diese vier Gottheiten explizit. Es gibt keine Hinweise auf andere
+    Götter in diesem Zusammenhang."
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nBei der Schlacht um die Stadt Rommilys (genauer: dem Vorgänger der
+    heutigen Gareth) im Jahr -1000 v. Z. griffen laut DSA-Legende **Rondra** (Krieg),
+    **Praios** (Licht/Recht), **Hesinde** (Wissen/Magie) und **Peraine** (Heilung/Ernte)
+    persönlich ein. Dieser göttliche Eingriff beendete den Dämonenkrieg, führte zum
+    Untergang der alten Hochkultur und markiert den Beginn der aventurischen Zeitrechnung
+    (1 n. Z. = Gründung Gareth)."
+  Rating E:
+  Comment E: ''
+  Answer F: Die vier Zwölfgötter, die laut Überlieferung während der Zweiten Dämonenschlacht
+    bei Brig-Lo persönlich ins Kampfgeschehen eingriffen, sind **Praios**, **Rondra**,
+    **Efferd** und **Ingerimm**. Dies wird in mehreren Quellen erwähnt, darunter die
+    Beschreibung der Schlacht in „#### Die Zweite Dämonenschlacht“ und die Erwähnung
+    der Statue des Praios im Zusammenhang mit dem Vierertempel. Die Intervention der
+    Götter gilt als entscheidender Moment im Sieg der Aufständischen gegen Hela-Horas.
+  Rating F:
+  Comment F: ''
+
+
+- question: Wo steht der Haupttempel des Todesgottes im Zwölfgöttlichen Pantheon,
+    nach der im Norden verbreiteten Auslegung des Kultes und wie heißt der Tempel?
+  correct_answer: Der Haupttempel des Boronkultes nach Puniner Ritus steht in *Punin*
+    und heißt *Das Gebrochene Rad*.
+  Answer A: Der Haupttempel des Totengotts im Zwölfgöttlichen Pantheon, entsprechend
+    der im Norden verbreiteten Auslegung des Kultes, ist der **Tempel des Schwarzen
+    Lichts**, der im Raum der Stadt Eschenrod in Gareth lokalisiert ist. Er ist der
+    zentralste und bedeutendste Tempel des Boron-Kultes in der Region und wird auch
+    als „Haupttempel des Totengotts“ bezeichnet, da Boron als Gott des Todes eine
+    zentrale Rolle in der Theologie des Nordens spielt. Der Name des Tempels stammt
+    von der mystischen und symbolischen Bedeutung des „Schwarzen Lichts“, das in der
+    Tradition der nordischen Boron-Anhänger als Metapher für die dunkle, aber notwendige
+    Dimension des Todes interpretiert wird.
+  Rating A:
+  Comment A: ''
+  Answer B: "Der Haupttempel des Todesgottes (Boron) im nordöstlichen Zwölfgöttlichen
+    Pantheon wird in der Regel mit dem **„Gebrochene Rad“** in **Punin** identifiziert.
+    Dieser Tempel ist Teil des **Puniner Ritus**, einer der zentralen Ausprägungen
+    des Boron-Kultes im nördlichen Raum.  \n\nLaut Texten ist das „Gebrochene Rad“
+    nicht nur der größte Boron-Tempel Aventuriens, sondern auch ein zentraler Wallfahrtsort.
+    Er liegt im Herzen von Punin und wird als **„Allerheiligste Hallen des Schweigens“**
+    beschrieben. Der Tempel ist bekannt für seine unterirdischen Katakomben, in denen
+    die Gebeine Tausender bestattet sind, sowie für seine symbolträchtigen Reliefs,
+    die den Tod und die Verbindung zum Todesgott verdeutlichen.  \n\nEin alternativer
+    Hinweis auf einen *nordöstlichen* Tempel findet sich in der Beschreibung des **„Tempels
+    des Todes“** in **Thalabad** (im Süden), doch dies passt nicht zur geografischen
+    Einschränkung auf den Norden. Daher ist das „Gebrochene Rad“ in Punin die maßgebliche
+    Antwort.  \n\n**Zusammenfassung**:  \n- **Name des Tempels**: Das **Gebrochene
+    Rad** (Haupttempel des Puniner Ritus).  \n- **Standort**: **Punin** (nördlicher
+    Raum).  \n- **Besonderheit**: Zentrale religiöse Stätte für den Boron-Kult im
+    nördlichen Aventurien."
+  Rating B:
+  Comment B: ''
+  Answer C: Der Haupttempel des Todesgottes Boron im Zwölfgöttlichen Pantheon, entsprechend
+    der im Norden verbreiteten Auslegung des Kultes, ist der **"Gebrochene Rad"**,
+    der als Haupttempel des Boronkults nach Puniner Ritus bekannt ist. Er befindet
+    sich in Punin und ist das älteste erhalten gebliebene Bauwerk dieser uralten Stadt.
+    Dieser Tempel ist besonders bedeutend, da er als Orakelstätte für Gläubige aus
+    ganz Aventurien aufgesucht wird.
+  Rating C:
+  Comment C: ''
+  Answer D: "Der Haupttempel des Todesgottes Boron im Norden ist der **Boron-Tempel
+    in Mengbilla**, der als zentraler Ort der Verehrung des Todesgottes im Zwölfgöttlichen
+    Pantheon gilt. Er liegt im Herzen der Stadt und ist bekannt als das wichtigste
+    religiöse Zentrum der regionalen Boron-Kirche.  \n\nAlternativ wird auch das **Boronsfeld**
+    (eine riesige Nekropole) als zentraler Ort genannt, der als Grabstätte und spirituelles
+    Zentrum für die Verehrung Borons dient. Allerdings ist der **Boron-Tempel in Mengbilla**
+    der direkte Haupttempel, der aktiv für liturgische Praxis und päpstliche Autorität
+    steht.  \n\nBeides sind zentrale Stätten, wobei der Tempel in Mengbilla primär
+    als *Haupttempel* im Norden definiert wird."
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nDer Haupttempel des Todesgottes **Nandus** (im Zwölfgötter-Pantheon
+    zuständig für Heilung und Tod) befindet sich nach der offiziellen DSA-Lore in
+    **Gareth**, der Hauptstadt des Königreichs Aventurien. Der Tempel heißt **Großtempel
+    des Nandus**. \n\nIm Norden Aventuriens (z. B. in Nivesen oder Thorwal) gibt es
+    keine abweichende *Haupttempel*-Lokalisation für Nandus – die nördlichen Kultauslegungen
+    betonen zwar regional spezifische Aspekte (z. B. Tod durch Winterkälte), doch
+    der zentrale Tempel bleibt Gareth. Die nördlichen Regionen verehren stattdessen
+    stärker Firun (Winter) oder Swafnir (Meer), nicht jedoch eine abweichende Todesgottheit.
+    \n\n**Antwort:** Haupttempel in **Gareth**, **Großtempel des Nandus**."
+  Rating E:
+  Comment E: ''
+  Answer F: "Der Haupttempel des Todesgottes Boron im Zwölfgötterpantheon, entsprechend
+    der nordischen Auslegung des Kultes, ist der **„Gebrochene Rad“** (Puniner Ritus)
+    in **Punin**, beschrieben als „ältestes erhaltenes Bauwerk dieser uralten Stadt“.
+    Er wird als **Haupttempel des Puniner Ritus** erwähnt und ist eng mit der **Rabenfigur**
+    und der **Rabengruft** verbunden. Der Name „Gebrochene Rad“ deutet auf eine spezifische
+    Interpretation des Kultes hin, die in der Region Punin (Teil des Königreichs Almada)
+    besonders ausgeprägt ist.  \n\nWeitere Details zur nordischen Auslegung finden
+    sich nicht explizit, aber der Tempel wird in den Texten als zentraler Ort der
+    boronischen Verehrung im Norden Aventuriens beschrieben."
+  Rating F:
+  Comment F: ''
+
+
+- question: In der größten Stadt Aventuriens gibt es zwei Magierakademien. Der Vorsteher
+    einer der beiden Akademien steht zugleich als Sprecher auch einer weiteren großen
+    Organisation vor. Wer ist diese Person, welcher Rasse gehört sie an und welcher
+    anderen Organisation steht sie vor?
+  correct_answer: Die Spektabilität der Akademie Stab und Schwer zu Gareth, *Saldor
+    Foslarin*, ist zugleich auch Sprecher der *Gilde der Weißmagier*. Ungewöhnlicherweise
+    ist er kein Mensch sondern ein *Zwerg* (oder *Angroscho*, ein anderes Wort für
+    Zwerg).
+  Answer A: Der Vorsteher der Akademie Schwert und Stab in Gareth ist **Saldor Foslarin**,
+    der gleichzeitig als **Etoile-Doré** (Sprecher) des **Ordens der Ätherschwerter**
+    fungiert. Er gehört der **Rasse der Zwergen** an.
+  Rating A:
+  Comment A: ''
+  Answer B: "Der Vorsteher der Magierakademie **Schwert und Stab zu Gareth** heißt
+    **Saldor Foslarin**, eine **Zwergin** (die Beschreibung nennt ihn „Dickkopf“,
+    was auf Zwergenrace hinweist). Als **Gildensprecher der Weißmagier** repräsentiert
+    sie die **Weiße Magier-Gilde**, eine bedeutende Organisation. Zudem ist sie Leiterin
+    der Akademie, die mit dem **Orden der Pfeile des Lichts** verbunden ist, einer
+    Organisation, die magische Gefahren bekämpft.  \n\n**Antwort:**  \n- **Name**:
+    Saldor Foslarin  \n- **Rasse**: Zwerg  \n- **Weitere Organisation**: Weiße Magier-Gilde
+    (als Gildensprecher) sowie der *Orden der Pfeile des Lichts*."
+  Rating B:
+  Comment B: ''
+  Answer C: "Der Vorsteher der Magierakademie „Schwert und Stab“ in Gareth ist **Saldor
+    Foslarin**, ein **Zwerg**. Er ist zudem **Gildensprecher der Weißmagier** und
+    Mitglied des **Bunds des weißen Pentagramms**. \n\nEr ist der Leiter der Akademie
+    und fungiert als Sprecher der Weißen Magie."
+  Rating C:
+  Comment C: ''
+  Answer D: "**Antwort:**\n\n- **Name der Person**: Saldor Foslarin  \n- **Rasse**:
+    Zwerg  \n- **Weitere Organisation, der er vorsteht**: Weiße Magier-Gilde  \n\n
+    Saldor Foslarin ist der Vorsteher der Akademie *„Schwert und Stab zu Gareth“*
+    und gleichzeitig Gildensprecher der Weißen Magier."
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nReto von Havena, Mensch, steht als Vorsteher der Akademie der Sieben
+    Sphären (eine der beiden Magierakademien in Havena, der größten Stadt Aventuriens)
+    gleichzeitig als Sprecher des Stadtrats (Rat der Zwölf) vor.  \n*Hinweis: Reto
+    von Havena ist Burggraf und politischer Führer, keine Magierfigur – mögliche Verwechslung
+    mit fachlicher Zuständigkeit. In offiziellen Quellen wird seine Rolle als weltlicher
+    Herrscher betont, nicht als Magierakademie-Leiter. Präzise Zuordnung erfordert
+    Kontextklarstellung.*"
+  Rating E:
+  Comment E: ''
+  Answer F: "Der Vorsteher der Magierakademie „Schwert und Stab“ in Gareth ist **Saldor
+    Foslarin**, ein **Zwerg**. Er ist zudem **Gildensprecher der Weißen Magier**,
+    was die zweite große Organisation repräsentiert.  \n\n**Antwort:**  \n- **Person**:
+    Saldor Foslarin  \n- **Rasse**: Zwerg  \n- **Weitere Organisation**: Gilde der
+    Weißen Magier (als Gildensprecher)."
+  Rating F:
+  Comment F: ''
+
+
+- question: Wo wohnt der reichste Mann Aventuriens?
+  correct_answer: Emmeran Stroerrebrandt, der reichste Mann Aventuriens, wohnt in
+    der Villa Stoerrebrandt, im Viertel Nardesheim der Stadt Gareth (gelegen im Stadtteil
+    Alt-Gareth).
+  Answer A: Emmeran Stoerrebrandt, der reichste Mann Aventuriens, wohnt in Gareth,
+    der Kaiserstadt. Sein Palais, die Villa Stoerrebrandt, ist ein beeindruckendes
+    Gebäude in der Altstadt, umringt von Mauern und bewacht von Leibsöldnern. Darüber
+    hinaus hat er auch ein Kontor in der Weststadt, das als Zentrale seines riesigen
+    Handelshauses fungiert. Dieses Kontor ist ebenfalls in der Stadt Gareth located.
+  Rating A:
+  Comment A: ''
+  Answer B: "Der reichste Mann Aventuriens, Emmeran Stoerrebrandt, residiert in **Gareth**.
+    Sein Hauptwohnort ist die **Villa Stoerrebrandt**, welche im Bereich des Schlossviertels
+    liegt. Die genaue Adresse wird in den Quellen nicht explizit genannt, jedoch wird
+    erwähnt, dass sein Kontor (Verwaltungszentrum) im **Alt-Gareth**-Bereich ansässig
+    ist. Die Villa gilt als beeindruckendes Anwesen mit verborgenen Tunnelsystemen.
+    \n\n**Zusatzinformation**: Emmerans Wohnsitz wird in den Texten als Teil des „Schlossviertels“
+    von Gareth beschrieben, was auf eine exklusive Lage in der Stadt hinweist."
+  Rating B:
+  Comment B: ''
+  Answer C: Der reichste Mann Aventuriens, Emmeran Stoerrebrandt, wohnt in Gareth.
+    Dies geht aus dem Abschnitt hervor, in dem er beschrieben wird.
+  Rating C:
+  Comment C: ''
+  Answer D: Der reichste Mann Aventuriens, Emmeran Stoerrebrandt, wohnt in der **Villa
+    Stoerrebrandt** in **Gareth**, speziell im Viertel **Nardesheim**. Die Villa ist
+    umringt von einer hohen Mauer und bewacht von Leibsöldnern, Wehrheimern und Antimagiern.
+    Dort resideiert er gemeinsam mit seiner Familie.
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nDer reichste Mann Aventuriens ist **Rondrigo Lopez**, ein einflussreicher
+    Kaufherr aus **Gareth** (Hauptstadt des Mittelreichs). Seine Familie, die Lopezes,
+    kontrolliert bedeutende Handelsrouten und gilt als eine der wohlhabendsten im
+    Kontinent. In Gareth besitzt er prächtige Anwesen und beeinflusst maßgeblich die
+    Wirtschaft des Mittelreichs."
+  Rating E:
+  Comment E: ''
+  Answer F: "Der reichste Mann Aventuriens, Emmeran Stoerrebrandt, wohnt in einem
+    großen Dreigeschosser mit der bekannten silbernen Falke-Flagge auf rotem Grund
+    im **Schlossviertel** von **Gareth**. Sein Kontor und Wohnsitz sind Teil des stoerrebrandt’schen
+    Handelshauses, das in der Altstadt ansässig ist. Die genaue Adresse wird nicht
+    explizit genannt, aber der Bereich um das **Kontor Stoerrebrandt** (im Schlossviertel)
+    gilt als sein Hauptwohnort. \n\nFür präzise Details könnte eine weitere Suche
+    in lokalen Beschreibungen von Gareth oder den Eltern-/Kindabschnitten dieses Artikels
+    erfolgen.  \n(Quellen: [G08-323](#G08-323), [G08-712](#G08-712))"
+  Rating F:
+  Comment F: ''
+
+
+- question: Ein Mitglied der Al'Anfanischen Grandenfamilie Paligan wird auch Die 'Schwarze
+    Witwe' genannt und berät ihren Enkel, welcher Anspruch auf den mittelreichischen
+    Kaiserthron erhebt. Welchem der zwölf Götter scheint dieser besonders nahe zu
+    stehen und wie äußert sich das?
+  correct_answer: Selindian Hal, ein Enkel von Alara Paligan steht dem Totengott *Boron*
+    besonders nahe. Dies äußert sich unter anderem dadurch, dass er 1028 bei einem
+    Attentat starb, danach jedoch auf wundersame Weise wiederauferstand. Er zeigt
+    weiterhin auch keinerlei Furcht im Umgang mit dem Tod und kann Kontakt mit Geistern
+    aufnehmen.
+  Answer A: "Die „Schwarze Witwe“ Alara Paligan folgt dem **al’Anfanischen Ritual
+    des Boron-Glaubens**, welches sich deutlich vom klassischen Puniner Boron-Kult
+    unterschieden. Während der Puniner Brauch eher bescheiden und spirituell orientiert
+    ist, praktiziert Alara eine Form des Boron-Glaubens, die **extravagant, erotisch
+    und mit Riten der Dunkelheit** verbunden ist. \n\nSie verehrt Boron als Gott der
+    **Verführung, Erotik und Tod**, was sich in ihrer Lebensweise widerspiegelt –
+    sie nutzt Luxus, erotische Spiele und mysteriöse Rituale, um Macht zu sichern.
+    Dies spiegelt sich auch in ihrer Beratung ihres Enkels wider, der politische Ambitionen
+    hegt. \n\nDie Verbindung zu Boron äußert sich in der Nutzung **symbolischer Objekte
+    wie Schmuck, Masken und spezieller Kerzen**, sowie in **Praktiken wie Opfern,
+    sexuellen Ritualen oder der Manipulation von Männern**. Dadurch wird Boron als
+    Kraft des **Lebens, der Macht und der Dunkelheit** interpretiert, was sowohl Alaras
+    Einfluss als auch den Anspruch ihres Enkels auf den Kaiserthron legitimiert. \n
+    \nDies passt zu den Beschreibungen in den Quellen, wonach Alara den al’Anfanischen
+    Boron-Kult in Punin fördert und diesen mit ihrer persönlichen Macht verknüpft."
+  Rating A:
+  Comment A: ''
+  Answer B: "Die „Schwarze Witwe“ Alara Paligan steht dem Gott **Boron** besonder
+    nahe. Dies zeigt sich u.a. durch ihre Rolle als Förderin des al’anfanschen Boron-Kults
+    und ihrer Einführung eines eigenen, verführerischen Boron-Ritus. Ihr Einfluss
+    auf den almadanischen Kaiserhof sowie ihre intrigiösen Machenschaften spiegeln
+    boronspezifische Attribute wider — sowohl als Schutzgottheit als auch als symbolische
+    Kraft hinter politischer Macht und Dekadenz.  \n\nZusätzlich wird erwähnt, dass
+    sie als „Verkünderin des Boron-Glaubens“ agiert, was ihre engen Bindungen zu ihm
+    unterstreicht. Der Name „Schwarze Witwe“ könnte dabei auch metaphorisch auf Borons
+    mystische oder korrumpierende Macht bezogen sein.  \nKeine weiteren Götter werden
+    explizit genannt."
+  Rating B:
+  Comment B: ''
+  Answer C: "Die Al’Anfanische Grandenfamilie Paligan, insbesondere die „Schwarze
+    Witwe“ Kaiserin Alara Paligan, zeigt enge Verbindungen zu **Boron**, einem der
+    zwölf Götter Aventuriens. \n\nIn der Beschreibung der Kaiserin wird deutlich,
+    dass sie den **Boron-Kult** pflegt und sogar einen eigenen Ritualzyclus entwickelt
+    hat. Sie praktiziert einen **seltenen Al’Anfaner Glaubensritus**, der sich von
+    den traditionellen Riten des Mittelreichs unterschieden. Das Ritual spiegelt ihre
+    Nähe zu Boron wider, der in der Regel mit dem **Tod, dem Schicksal und der Prophezeiung**
+    assoziiert wird.\n\nDarüber hinaus wird erwähnt, dass Alara **„vampirische Riten
+    der verfluchten Al’Anfaner“** praktiziert, was auf mystische und mysteriöse Bezüge
+    zu Boron hinweist. Mit diesen rituellen Praktiken möchte sie ihre eigene Jugend
+    bewahren - eine Form der **Magie, die eng mit boronspezifischen Lehren zusammenhängt**.\n
+    \nSomit ist erkennbar, dass Kaiserin Alara Paligan, die ‚Schwarze Witwe‘, **Boron**
+    besonders nahestehen und ihre Handlungsmotive sowie ihre spirituelle Kraft davon
+    beeinflusst werden."
+  Rating C:
+  Comment C: ''
+  Answer D: "Die Person, die als „Schwarze Witwe“ bezeichnet wird, ist **Alara Paligan**,
+    eine Mitglied der Al’Anfanischen Grandenfamilie Paligan. Sie ist die **Großmutter
+    des Mittelreichischen Kaisers Selindian Hal** und unterstützt ihn dabei, Ansprüche
+    auf den Kaiserthron zu erheben.  \n\nSie steht dem Gott **Boron** besonders nahe.
+    Dies zeigt sich in ihrer engen Verknüpfung mit dem **Al’Anfanischen Boron-Kult**,
+    der den Tod, die Macht und mystische Praktiken verehrt. Alara nutzt ihre politische
+    Macht und rituellen Praktiken, um den Kaiserthron zu beeinflussen und den Einfluss
+    des Al’Anfanischen Boron-Ritus zu festigen. Sie repräsentiert den al’Anfanischen
+    Ritus des Boron-Glaubens, der sich durch seine prunkvolle, magisch-lastige Form
+    der Verehrung auszeichnet.  \n\nIhr Verhalten, wie intrigierte Politik, Manipulation
+    und rituell motivierte Handlungen, spricht dafür, dass sie den Göttern **Boron**
+    nahe steht."
+  Rating D:
+  Comment D: ''
+  Answer E: "\n\nDer Titel „Schwarze Witwe“ und die politische Beratung im Umfeld
+    des Kaiserthrons deuten auf eine Nähe zu **Boron** (Gott der Zeit, des Todes und
+    der Unterwelt) hin.  \n**Äußerungen**:  \n- Ritualisierte Bezugnahme auf *Zeit*
+    und *Schicksal* (z. B. strategische Geduld, Warten auf „günstige Augenblicke“).\
+    \  \n- Symbolik wie *Stundengläser* oder *Schwarze Kleidung* als Zeichen boronischer
+    Hingabe.  \n- Deutung von Omen durch das *Boron-Orakel*, um den Thronanspruch
+    als „schicksalhaft“ zu legitimieren.  \nBoron gilt in aventurischen Adelskreisen
+    als Gott der *geduldigen Macht*, was zur hintergründigen Einflussnahme der Paligan
+    passt."
+  Rating E:
+  Comment E: ''
+  Answer F: "Die „Schwarze Witwe“ ist **Alara Paligan**, Mitglied der Grandenfamilie
+    Paligan. Sie steht eng mit **Boron** in Verbindung, was sich u.a. durch folgende
+    Merkmale zeigt:  \n- **Rituale und Kultpraktiken**: Sie fördert den Al’Anfaner
+    Boron-Kult in Punin, inklusive geheimer Versammlungen, Räucherwerks-Lieferanten
+    (wie *Apotheke Blaemendal*) und Ritualen mit Rauschmitteln.  \n- **Symbolik**:
+    Ihr Einfluss spiegelt Borons Aspekte der **Totenwelt** und **Machtübertragung**
+    wider (z.B. durch Manipulation ihres Enkels Selindian Hal).  \n- **Verbindung
+    zur Dunklen Zeiten**: Die unterirdischen Kulträume der Al’Anfaner Boron-Anhänger
+    gehen auf die **Nemekathäer** zurück, die ebenfalls Macht in Punin suchten – eine
+    Parallele zu Alaras politischer Strategie.  \n\nBorons Rolle als **Gott der Toten
+    und Macht** passt zu ihrer tückischen Intrigen und der Nutzung spiritueller Mechanismen
+    (z.B. durch Agenten der *Hand Borons*)."
+  Rating F:
+  Comment F: ''

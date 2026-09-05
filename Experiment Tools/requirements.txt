@@ -1,0 +1,17 @@
+# only used for MeisterWissen (and some scripts)
+ollama==0.5.3
+sentence-transformers==5.1.0
+accelerate==1.10.1
+bitsandbytes==0.47.0
+transformers==4.56.0
+gptqmodel==4.2.0
+
+# only for scripts
+beautifulsoup4
+    
+# used for all tools
+ruamel.yaml
+fastapi[all]
+websockets
+Markdown
+

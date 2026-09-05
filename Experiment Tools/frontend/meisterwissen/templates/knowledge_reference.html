@@ -1,0 +1,41 @@
+{# ToDo less spacing between (sub-)children, more spacing between e.g. chapters #}
+{# group relative#}
+
+{#
+{#            {# not sure what would be a good format here, the hidden stuff is definitely not perfect#}
+{#            {{ 'hidden' if used_sources and not 'BookData' in child.__class__.__name__  and not (child.descendant_ids + [child.id])|select("in", used_sources)|list|length > 0 }}
+#}
+<div class="{{ 'text-xl font-bold' if 'BookData' in child.__class__.__name__  }} {{ 'text-slate-400 text-sm' if not child.id in used_sources }}">
+
+    <div class="flex items-baseline flex-cols gap-2">
+        <input type="checkbox" {{ 'checked' if child.id in used_sources}}>
+
+        <span _="{{ "on mouseenter toggle .hidden on .t-additional-info in me until mouseleave" if 'BookData' not in child.__class__.__name__ }}">
+            <span class="hidden t-additional-info cursor-pointer hover:text-lime-700"
+                  hx-target="#knowledge_references"
+                  hx-swap="outerHTML"
+                  hx-get="knowledge_reference_content/{{ child.id }}"
+                  hx-trigger="click">
+                <i class="fa-solid fa-book"></i>
+            </span>
+            <label class="pl-0 {{ 'cursor-pointer' if child.children }}" _="{{ 'on click toggle .hidden on next .child then toggle .hidden on next .expanded-sign then toggle .hidden on next .collapsed-sign' if child.children }}">
+                {{ child.id }} &bull; {{ child.title }}
+                <span class="t-additional-info hidden">
+                    <label class="t-headline-level">({{ child.headline_level }})</label>
+                </span>
+            </label>
+        </span>
+
+        {% if child.children %}
+            <span class="{{ 'hidden' if not child.descendant_ids|select("in", used_sources)|list|length == 0 }} collapsed-sign" _="on click toggle .hidden on next .child then toggle .hidden on next .expanded-sign then toggle .hidden on me"><i class="fa-solid fa-angle-left"></i></span>
+            <span class="{{ 'hidden' if not child.descendant_ids|select("in", used_sources)|list|length > 0 }} expanded-sign" _="on click toggle .hidden on next .child then toggle .hidden on previous .collapsed-sign then toggle .hidden on me"><i class="fa-solid fa-angle-down"></i></span>
+        {% endif %}
+
+    </div>
+
+</div>
+<div id="{{ child.id }}_children" class="child pl-4 {{ 'hidden' if not child.descendant_ids|select("in", used_sources)|list|length > 0 }}">
+    {% for child in child.children %}
+        {% include 'knowledge_reference.html' %}
+    {% endfor %}
+</div>

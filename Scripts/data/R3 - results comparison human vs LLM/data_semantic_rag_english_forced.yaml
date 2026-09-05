@@ -1,0 +1,360 @@
+- question: Welche Vorstellung haben die Menschen in Al’Anfa von der Lage und den
+    Bewohnern der Region Andergast/Nostria?
+  correct_answer: Die Menschen in Al’Anfa haben nur wenig Wissen über Andergast/Nostria
+    und vermuten, dass diese Region sehr weit entfernt liegt und möglicherweise von
+    Orks bewohnt wird.
+  inner_monologue: "<think>\nFirst, I need to go through what I already know about
+    the user's request. The question is asking about the perception of Andergast/Nostria
+    by people in Al'Anfa. From previous interactions, I've found some references that
+    mention Andergast/Nostria in the context of Al'Anfa's cultural and geographical
+    descriptions.\n\nLooking at the research results, there was a snippet mentioning:
+    \n\"###### ... Andergast/Nostria\n“Nie gehört ... Oder ist das nicht dort, wo
+    die Orks hausen? Jedenfalls am Ende der Welt.”\"\n\nThis indicates that some residents
+    of Al'Anfa might have limited knowledge or misconceptions about Andergast/Nostria,
+    possibly associating it with wild or dangerous places like where Orcs live. However,
+    this information alone isn't sufficient for a comprehensive answer.\n\nNext steps
+    would involve deeper exploration using available tools. Since I can use the `research_lore_books`
+    function again, I should search for more detailed insights on how Al'Anfa perceives
+    these regions. Searching with specific keywords related to perceptions could yield
+    better results. If no direct mentions are found, looking into broader cultural
+    contexts or neighboring areas might provide indirect evidence.\n\nAdditionally,
+    checking if any other chunks discuss relations between Al'Anfa and nearby regions
+    such as Andergast or Nostria could help build a fuller picture. Even though initial
+    searches didn’t find much, persistent searching often reveals hidden details.
+    Thus, continuing the investigation will ensure thoroughness before finalizing
+    the response.\n</think>"
+  system_answer: "Die Menschen in Al’Anfa haben eine eher vage oder missverständliche
+    Vorstellung von Andergast/Nostria, wie aus einem Fragment hervorgeht:  \n„*Nie
+    gehört … Oder ist das nicht dort, wo die Orks hausen? Jedenfalls am Ende der Welt.*“\
+    \  \n\nDies legt nahe, dass vielen Alanfans die Regionen Andergast und Nostria
+    fremd oder mythologisch wirken, möglicherweise mit Grenzbereichen oder gefährlichen
+    Gebieten assoziiert. Weitere Details zur kulturellen oder politischen Wahrnehmung
+    fehlen, daher wäre eine tiefere Forschung notwendig, um das Bild vollständig zu
+    skizzieren.  \n\nFür eine genauere Analyse könnte zusätzliche Literatur über interregionale
+    Beziehungen oder Fremdwörter in Al’Anfa relevant sein.  \nWould you like me to
+    proceed with further research?"
+  related_chunk: G01-244
+  grade_reasoning: "Okay, let me try to figure out how to grade this system answer.
+    So the task is to evaluate the system's response based on the given guidelines.
+    The question is about what people in Al'Anfa think about the location and inhabitants
+    of Andergast/Nostria.\n\nFirst, the gold answer says that people in Al'Anfa have
+    little knowledge, think it's very far away, and possibly inhabited by orcs. The
+    system answer quotes a fragment: “Nie gehört … Oder ist das nicht dort, wo die
+    Orks hausen? Jedenfalls am Ende der Welt.” Which translates to \"Never heard of
+    it... Or isn't that where the orcs live? Anyway, at the end of the world.\" So
+    the system answer correctly picks up that Al'Anfans associate Andergast/Nostria
+    with orcs and being at the edge of the world.\n\nThe system answer also adds that
+    the regions seem foreign or mythological to them, associated with border areas
+    or dangerous places. The background info only has that one quote, so the part
+    about \"mythologisch wirken\" (seeming mythological) and \"Grenzbereichen oder
+    gefährlichen Gebieten\" (border areas or dangerous regions) – are those supported?
+    The quote says \"am Ende der Welt\" (at the end of the world), which implies it's
+    very far and possibly dangerous. So associating it with dangerous areas makes
+    sense. The mention of orcs is directly from the quote.\n\nBut the system answer
+    says \"viele Alanfans\" (many Al'Anfans) – the quote is from one person, so maybe
+    generalizing to \"many\" is a stretch? However, the gold answer says \"die Menschen
+    in Al’Anfa\" (the people in Al'Anfa) have little knowledge, so maybe it's acceptable
+    as a general perception.\n\nThe system answer also adds that further research
+    is needed and suggests looking into interregional relations or foreign words.
+    The gold answer doesn't mention needing more research, but the background info
+    is just a fragment. The question is whether these additional statements are correct
+    or hallucinations. Since the background only provides that one quote, the system
+    is correctly noting that more details aren't available. So saying that further
+    research is needed is accurate because the background info is limited. However,
+    the gold answer doesn't include that part, but the guidelines say if the extra
+    info is true and relevant, it's okay.\n\nWait, the guidelines say: if the system
+    answer includes statements not in the gold answer, check if they're true based
+    on background. The background here is just the quote. The system's statement about
+    the perception being vague, associated with orcs and end of the world is correct.
+    The part about \"mythologisch wirken\" might be inferred from \"am Ende der Welt\"\
+    \ which is a common way to refer to distant, perhaps mythical places. So that's
+    reasonable.\n\nThe system answer also says \"Weitere Details zur kulturellen oder
+    politischen Wahrnehmung fehlen, daher wäre eine tiefere Forschung notwendig...\"\
+    \ which translates to \"Further details about cultural or political perception
+    are lacking, so deeper research would be necessary...\" Since the background only
+    has that one quote, it's true that more details aren't present. So this is accurate,
+    not a hallucination.\n\nHowever, the gold answer is concise: little knowledge,
+    very far, possibly orcs. The system answer includes all that plus the note about
+    needing more research. But the question is whether the additional info is correct.
+    Since the background doesn't provide more, stating that more research is needed
+    is correct. So the extra info is accurate.\n\nThe system answer also asks \"Would
+    you like me to proceed with further research?\" which is part of the SYSTEM ANSWER
+    as given. Wait, looking back, the SYSTEM ANSWER ends with \"Would you like me
+    to proceed with further research?\" But in the context of a RAG-based QA system,
+    this seems odd. The system shouldn't be asking the user if they want more research;
+    it should provide the answer based on available info. However, in this case, the
+    system is stating that further research is needed and then posing that question.
+    But according to the background, there's only that one fragment, so the system
+    is correct that more info isn't available. However, including a question to the
+    user might be inappropriate for a QA system answer. But the guidelines say to
+    check if added statements are true. The statement that further research is needed
+    is true, but phrasing it as a question might be considered extra and not part
+    of the answer. However, the gold answer doesn't have that, but the question is
+    whether it's a hallucination. Since the background doesn't mention anything else,
+    saying that more research is needed is accurate. The question at the end might
+    be a bit off, but maybe in the context of the system's design, it's part of the
+    answer.\n\nWait, the user instruction says: \"the system answer was generated
+    using a RAG based QA system.\" So typically, such systems don't ask questions
+    back; they provide answers. Including \"Would you like me to proceed...\" is probably
+    a mistake, as the system should just state that further research is needed without
+    prompting the user. However, the content before that is correct.\n\nBut according
+    to the evaluation guidelines: if the system answer includes statements not in
+    the gold answer, check background. The part about needing further research is
+    correct because background is limited. The question at the end might be considered
+    irrelevant or a hallucination since the system shouldn't be interactive. However,
+    the main content of the answer does include the correct points: vague knowledge,
+    orcs, end of the world.\n\nThe gold answer says \"vermuten, dass diese Region
+    sehr weit entfernt liegt und möglicherweise von Orks bewohnt wird.\" The system
+    answer captures that: \"am Ende der Welt\" (very far) and \"Orks hausen\". So
+    all key points from gold are present.\n\nThe system answer adds that it's associated
+    with border areas or dangerous regions. \"Am Ende der Welt\" implies it's remote
+    and possibly dangerous, so that's a reasonable inference. Not a hallucination.\n
+    \nThe part about \"mythologisch wirken\" – since they haven't heard of it and
+    think it's at the end of the world with orcs, it's logical that it's mythologized.
+    So that's okay.\n\nThe note about further research is accurate given the limited
+    background. So the extra info is correct.\n\nHowever, the system answer is a bit
+    wordy and includes a question, but the key points are all correct and additional
+    info is accurate. So it should get a high rating. The gold answer is concise,
+    but the system answer includes all necessary details plus accurate extra info.
+    So rating 5?\n\nWait, the guidelines say: \"A system answers that includes all
+    relevant information to answer the question should get the highest rating (5)\"\
+    . The system answer does include all the relevant info from the gold answer (far
+    away, orcs), plus accurate additional context. So yes, 5.\n\nBut wait, the gold
+    answer says \"nur wenig Wissen\" (little knowledge), which the system answer addresses
+    by saying \"vage oder missverständliche Vorstellung\" (vague or mistaken conception).
+    So that's covered.\n\nThe system answer doesn't contradict the gold answer, includes
+    all necessary details, and adds correct info. So 5.\n"
+  grade: 5
+  user_grade: 4
+- question: Welche Vorteile haben Utulus gegenüber Waldmenschen, wenn es um das Klima
+    im Regenwald geht?
+  correct_answer: Utulus verfügen von Haus aus über Hitzeresistenz, was ihnen im heißen
+    und feuchten Klima des Regenwaldes einen Vorteil gegenüber Waldmenschen verschafft.
+  inner_monologue: "<think>\nFirst, I need to go through what I already know about
+    the user's request. The question is asking which advantages Utulus have over forest
+    people regarding the climate in the rainforest. From my initial research on \"\
+    Utulus Regenwald Klima,\" I found some relevant information in the chunks provided.\n
+    \nLooking at the chunk with ID G01-041, there's a mention that Utulus have natural
+    heat resistance compared to forest people. It states, \"Insbesondere die Vor-
+    und Nachteile Hitzeresistenz, Kälteresistenz, Hitze- und Kälteempfindlich sind
+    im Spiel zu berücksichtigen. Hier sind sogar die Utulus den Waldmenschen gegenüber
+    im Vorteil, da sie im Gegensatz zu den Waldmenschen von Haus aus über Hitzeresistenz
+    verfügen.\" This directly answers part of the question by highlighting that Utulus
+    have inherent heat resistance, giving them an advantage in the rainforest's hot
+    climate.\n\nHowever, I should check if there's more detailed information available.
+    Maybe other chunks discuss this further. Since the user wants a comprehensive
+    answer, I should ensure there aren't additional benefits mentioned elsewhere.
+    Let me look into related sections or children/parents of the current chunks for
+    more details.\n\nI can use the retrieve_chunk function to get more specific information
+    if needed. But first, let me see if any other chunks provide insights. For example,
+    checking if there's a section specifically discussing Utulus or their adaptations.
+    If not, then the existing info might suffice. Alternatively, maybe another research
+    step could uncover more about Utulus' climatic advantages beyond just heat resistance.\n\
+    </think>"
+  system_answer: "Die Utulus haben im Vergleich zu Waldmenschen **Hitzeresistenz**,
+    was sie im Regenwald-Vergleich entscheidend unterstützt. Dies wird explizit in
+    der Quelle erwähnt:  \n*\"Hier sind sogar die Utulus den Waldmenschen gegenüber
+    im Vorteil, da sie im Gegensatz zu den Waldmenschen von Haus aus über Hitzeresistenz
+    verfügen.\"*  \n\nWeitere Details zu anderen Klimavor-teilen (z.B. Kälte-) wurden
+    nicht genannt. Falls benötigt, könnten weitere Forschungs-Schritte erfolgen."
+  related_chunk: G01-041
+  grade_reasoning: "Okay, let's see. The question is asking about the advantages Utulus
+    have over Waldmenschen regarding the climate in the rainforest.\n\nThe gold answer
+    says that Utulus naturally have heat resistance, which gives them an advantage
+    in the hot and humid rainforest climate compared to Waldmenschen.\n\nThe system
+    answer states that Utulus have heat resistance, which is crucial in the rainforest
+    comparison. It quotes the source: \"Hier sind sogar die Utulus den Waldmenschen
+    gegenüber im Vorteil, da sie im Gegensatz zu den Waldmenschen von Haus aus über
+    Hitzeresistenz verfügen.\" Then it mentions that other climate advantages (like
+    cold) weren't mentioned and suggests further research if needed.\n\nLooking at
+    the background info, the relevant part is where it says Utulus have Hitzeresistenz
+    naturally, unlike Waldmenschen. The background also talks about other effects
+    like overheating with heavy armor, cold at night, but the key point here is the
+    Hitzeresistenz.\n\nThe system answer correctly quotes the exact line from the
+    background. The additional note about other climate details not being mentioned
+    seems accurate because the background doesn't discuss other advantages like cold
+    resistance for Utulus in this context. The system answer doesn't add any false
+    information; it just points out that other aspects weren't covered, which is true
+    based on the background provided. The gold answer only mentions Hitzeresistenz,
+    so the system answer includes all necessary info and correctly notes the absence
+    of other details without hallucinating. So it's accurate and complete. Should
+    be a 5.\n"
+  grade: 5
+  user_grade: 4
+- question: In welchem Jahrhundert wurde Hôt-Alem gegründet, und welche Herkunft hatten
+    die ersten Siedler?
+  correct_answer: Hôt-Alem wurde im 4. Jahrhundert v.BF. gegründet, und die ersten
+    Siedler waren hungernde Menschen aus Brabak und Menschen aus Elem.
+  inner_monologue: "<think>\nFirst, I need to go through what I already know about
+    the user's request. The question is asking when Hôt-Alem was founded and the origin
+    of its first settlers. From the initial research results provided, there's information
+    that might answer this.\n\nLooking at the content from the chunk with ID G01-388,
+    it mentions: \"HôtAlem blickt auf eine bewegte Geschichte unter wechselnden Herrschern
+    zurück. Begründet wurde es 341 v.BF durch Siedler aus Brabak und Elem.\" This
+    directly states that Hôt-Alem was founded in 341 v.BF (before the Founding Era)
+    by settlers from Brabak and Elem. \n\nThe next part is about which century that
+    would be. Since the Gregorian calendar doesn't use centuries in the same way as
+    the era system here, but assuming the user wants the time period relative to the
+    founding year. However, since no specific reference point for converting 341 v.BF
+    into a commonly known historical context is given, perhaps the answer should just
+    state the year as found without conversion. Also, if the user meant the era-based
+    century, like the 3rd century before the Founding Era, then it would be correct
+    to say the 3rd century BCE (but not sure if they want it translated).\n\nI don’t
+    see any missing details in the chunks retrieved. All necessary info seems present.
+    Therefore, the answer can be constructed based on the existing data without further
+    tool calls.\n</think>"
+  system_answer: Hôt-Alem wurde **im Jahr 341 v.BF** (vor der Grundung des Mittelreichs)
+    gegründet. Die ersten Siedler stammen aus **Brabak und Elem**, wobei besonders
+    der Prinz Ukhraban aus dem Sultanat Elem eine bedeutende Rolle bei der Gründung
+    spielte.
+  related_chunk: G01-389
+  grade_reasoning: "Okay, let's tackle this evaluation. So, the question is asking
+    in which century Hôt-Alem was founded and the origin of the first settlers.\n\n
+    The gold answer states it was founded in the 4th century v.BF (before the founding
+    of the Mittelreich), and the settlers were from Brabak and Elem.\n\nThe system
+    answer says it was founded in 341 v.BF, which is in the 4th century (since centuries
+    are counted from year 1-100 as 1st, so 301-400 is 4th century). Wait, 341 would
+    be 4th century v.BF. So the system answer gives the exact year, which is more
+    precise but still within the 4th century. The gold answer uses the century, while
+    the system gives the specific year. The background info confirms that in 341 v.BF,
+    Prince Ukhraban founded Hôt-Elem with settlers from Brabak and Elem. So the system's
+    year is correct.\n\nThe system answer also mentions that the settlers are from
+    Brabak and Elem, which matches the gold answer. Additionally, it adds that Prince
+    Ukhraban from the Sultanate of Elem played a significant role. Checking the background
+    info, yes, it says \"der elemitische Prinz Ukhraban gründet Hôt-Elem... mit hungernden
+    Siedlern aus Brabak und Geld aus Elem.\" So the background confirms that Ukhraban
+    was involved, so that part is correct and relevant. The gold answer didn't include
+    the prince's role, but since the system's addition is accurate and relevant, that's
+    a good thing.\n\nWait, the question asks for the century and the origin of the
+    settlers. The system answer provides the exact year (which implies the century
+    correctly) and the origins, plus extra correct info. The gold answer uses the
+    century, but the system's specific year is correct. So the system answer includes
+    all necessary info from the gold answer (since 341 v.BF is 4th century) and adds
+    correct details. Therefore, it should get a 5.\n\nWait, but does the system answer
+    contradict the gold answer? The gold says 4th century, system says 341 v.BF. Since
+    341 is in the 4th century (301-400), there's no contradiction. So the system answer
+    is more precise but still correct. The additional info about Ukhraban is accurate
+    per background. So the system answer is correct and adds relevant, true info.
+    Therefore, rating 5.\n"
+  grade: 5
+  user_grade: 5
+- question: Mit wem soll die Prinzessin Sheyrazada am Ende der Mirhamer Brautwerbung
+    entflohen sein?
+  correct_answer: Die Prinzessin Sheyrazada soll am Ende der Mirhamer Brautwerbung
+    mit dem listigen Streuner Phecadio von Punin entflohen sein.
+  inner_monologue: "<think>\nFirst, I need to go through what I already know about
+    the user's request. The question is asking who Princess Sheyrazada fled with at
+    the end of the Mirhamer Brautwerbung. From the initial research results:\n\nIn
+    the first chunk (\"Herrschaft\"), there's no direct mention of Sheyrazada fleeing.
+    However, the third chunk titled \"Die Mirhamer Brautwerbung\" contains specific
+    information about this event. According to that content, she ultimately escaped
+    with \"dem listigen Streuner Phecadio von Punin.\" \n\nI should verify if any
+    additional details exist by researching further. Since the current data provides
+    a clear answer, but just to ensure completeness, perhaps checking for related
+    chunks could help confirm. If needed, using `retrieve_chunk` on the ID from the
+    relevant section would add depth. But since the existing text directly answers
+    the question without ambiguity, it’s sufficient here.\n</think>"
+  system_answer: "Die Prinzessin Sheyrazada entfloh am Ende der Mirhamer Brautwerbung
+    mit **Phecadio von Punin**, beschrieben als „listiger Streuner“. Dies geht klar
+    aus dem Abschnitt *„Die Mirhamer Brautwerbung“* (ID: G01-054) hervor. Keine zusätzlichen
+    Recherchen notwendig. \n\nAntwort: Sie floh mit Phecadio von Punin."
+  related_chunk: G01-054
+  grade_reasoning: "Okay, let's see. The question is asking with whom Princess Sheyrazada
+    fled at the end of the Mirhamer Brautwerbung.\n\nThe gold answer says she fled
+    with the cunning rogue Phecadio von Punin. The system answer states she fled with
+    Phecadio von Punin, referred to as a \"listiger Streuner\" (which translates to
+    cunning rogue or tricky wanderer). It also mentions that this is clear from section
+    \"Die Mirhamer Brautwerbung\" (ID: G01-054) and says no additional research is
+    needed. The final answer given is she fled with Phecadio von Punin.\n\nLooking
+    at the background information, the last sentence says: \"Die stolze Sheyrazada
+    aber entschwindet schließlich mit dem listigen Streuner Phecadio von Punin.\"
+    So \"listigen Streuner\" is directly from the text. The system answer correctly
+    identifies Phecadio von Punin and uses the exact phrase \"listiger Streuner\"
+    from the background. The gold answer also includes \"listigen Streuner Phecadio
+    von Punin\". \n\nThe system answer adds a bit more structure, mentioning the section
+    ID and stating no extra research is needed, but the key information matches. There's
+    no contradiction here. The additional details in the system answer (like the section
+    ID) are accurate based on the background provided (since the background is labeled
+    as \"Die Mirhamer Brautwerbung\" which would correspond to that section). The
+    phrase \"Keine zusätzlichen Recherchen notwendig\" is just a comment from the
+    system, not part of the answer content. The actual answer given is correct and
+    matches the gold answer. There's no hallucination here; all added info is supported
+    by the background. So the system answer includes all necessary details and the
+    extra info is correct. Therefore, it should get a 5.\n"
+  grade: 5
+  user_grade: 5
+- question: Welches einschneidende Ereignis ereignete sich in Mengbilla im Jahr 858
+    BF?
+  correct_answer: Im Jahr 858 BF erklärte Mengbilla seine Unabhängigkeit als Großemirat.
+  inner_monologue: "<think>\nFirst, I need to go through what I already know about
+    the user's request. The question is asking for a significant event that happened
+    in Mengbilla in the year 858 BF. From the previous interactions, I see that the
+    user has already done some research using the tools provided.\n\nIn the first
+    tool call, I used `research_lore_books` with the target \"Mengbilla 858 BF\" and
+    got back information about the \"History of Mengbilla\" chunk. That content mentioned
+    \"858 BF: Unabhängigkeitserklärung Mengbillas als Großemirat\" which translates
+    to \"Declaration of Independence of Mengbilla as a Grand Emirate.\" This seems
+    like a direct answer to the user's question.\n\nHowever, the user then made another
+    tool call to retrieve the chunk with ID \"G01-358,\" which is part of the \"Geschichte
+    Mengbillas\" section. The content from this chunk also mentions \"858 BF: Unabhängigkeitserklärung
+    Mengbillas als Großemirat.\" So both sources confirm the same event.\n\nNow, considering
+    if there might be any other events related to 858 BF in Mengbilla that weren't
+    covered by these chunks. But since the user hasn't provided additional data beyond
+    these two chunks, and given that the available information explicitly states the
+    declaration of independence as the key event, it's safe to conclude that this
+    is the main incident.\n\nNo further research is needed because the existing information
+    answers the query comprehensively. Therefore, the response should highlight the
+    Declaration of Independence as the major event in Mengbilla during 858 BF.\n</think>"
+  system_answer: Im Jahr 858 BF erklärte Mengbilla seine Unabhängigkeit vom Neuen
+    Reich und wurde als **Großemirat** neu gebildet. Dies markiert einen entscheidenden
+    Wendepunkt in der Geschichte der Stadt, da dies den Beginn ihrer faktischen Autonomie
+    einleitete. Kurz darauf folgte im Jahr 864 BF die „Große Havarie“, eine Niederlage
+    der kaiserlichen Flotte, die die Unabhängigkeit Mengbillas letztlich besiegelte.
+  related_chunk: G01-358
+  grade_reasoning: "Okay, let's tackle this evaluation. So, the question is asking
+    about a significant event in Mengbilla in the year 858 BF. The gold answer states
+    that Mengbilla declared its independence as a Grand Emirate in that year.\n\n
+    Looking at the system answer, it says that Mengbilla declared independence from
+    the New Empire and was reformed as a Grand Emirate. It also mentions that this
+    marked the start of their de facto autonomy, and then adds that in 864 BF, the
+    \"Great Havarie\" occurred, which sealed Mengbilla's independence.\n\nNow, checking
+    the background information. The background lists under 858 BF: \"Unabhängigkeitserklärung
+    Mengbillas als Großemirat\" which translates to \"Declaration of independence
+    of Mengbilla as Grand Emirate.\" So the gold answer is correct here.\n\nThe system
+    answer adds that it was independence from the \"Neuen Reich\" (New Empire). The
+    background doesn't specify who they declared independence from. However, looking
+    at prior events, in 467 BF, Mengbilla submitted to Rohal (as a vassal under a
+    Grand Vizier). Then in 744 BF, it was a staging area for imperial troops against
+    the Liebliche Feld, which might imply it was part of the Empire (maybe the New
+    Empire). The term \"Neues Reich\" (New Empire) isn't explicitly mentioned in the
+    background, but \"kaiserlichen Truppen\" (imperial troops) in 744 BF suggests
+    it was part of an empire. So maybe the New Empire is the correct term here. The
+    system answer's mention of declaring independence from the New Empire seems plausible
+    based on the context, even if the background doesn't use the exact term \"Neues
+    Reich.\" So that part might be correct.\n\nNext, the system answer says it was
+    \"neu gebildet\" (newly formed) as a Grand Emirate. The background says \"Unabhängigkeitserklärung...
+    als Großemirat,\" which matches. So that's accurate.\n\nThen, the system answer
+    adds that this marked the beginning of de facto autonomy. The background doesn't
+    explicitly state this, but declaring independence would logically lead to autonomy,
+    so this seems like a reasonable inference, not a hallucination.\n\nThe system
+    answer also mentions the \"Große Havarie\" in 864 BF, which is listed in the background
+    as \"864 BF: die ‘Große Havarie’\". The background doesn't explain what it is,
+    but the system answer says it was a defeat of the imperial fleet that sealed Mengbilla's
+    independence. Since the background lists it as an event, and given that in 745
+    BF there was a naval battle where Mengbilla's fleet won, it's plausible that the
+    Great Havarie was a naval defeat for the empire. The system answer's description
+    seems consistent with the background's mention of the event. So this additional
+    info is correct and relevant.\n\nThe gold answer only includes the 858 event,
+    but the system answer adds context about 864 BF. Since the question specifically
+    asks for the event in 858, the extra info about 864 might be unnecessary, but
+    it's not incorrect. The guidelines say that if the system answer includes true
+    and relevant info not in the gold answer, it's okay. The 864 event is relevant
+    to the independence's confirmation, so it's a good addition.\n\nNow, check for
+    contradictions. The gold answer says \"Großemirat\", system answer also says \"\
+    Großemirat\". The system answer adds details about the New Empire and the 864
+    event, which are supported by the background. No contradictions here.\n\nThe system
+    answer includes all the necessary info from the gold answer (independence as Grand
+    Emirate in 858) plus accurate additional context. So according to the guidelines,
+    this should get the highest rating (5).\n"
+  grade: 5
+  user_grade: 5

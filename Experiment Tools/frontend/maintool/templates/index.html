@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PnP Tools</title>
+
+    <link rel="stylesheet" href="{{ route.shared('css/style_out.css') }}">
+    <link rel="stylesheet" href="{{ route.static('style.css') }}">
+
+</head>
+<body>
+    <h1 class="text-center text-4xl my-6">Toolübersicht</h1>
+    
+    {% if user is none %}
+        <a class="button login-button" href="{{ route.login_form() }}">Login</a>
+    {% else %}
+        <a class="button logout-button" href="{{ route.logout_session() }}">Logout</a>
+    {% endif %}
+
+    {% if user is not none %}
+        <div class="welcome-message">Hallo <span class="username">{{ user.username.capitalize() }}</span>!</div>
+    {% endif %}
+
+    <div class="tool-container">
+
+        {% for tool in tools %}
+
+            <div class="tool">
+                <h2 class="text-2xl font-bold text-center mb-2">{{ tool.title.capitalize() }}</h2>
+                <img src="{{ route.static('ui/{}_image.png', f=[tool.title.lower(), ]) }}" alt="">
+                <div class="overlay">
+                    
+                    <div class="overlay-actions">
+
+                        {% for main_path, label in tool.main_paths %}
+                            <a href="{{ route.tool(tool).str_url(main_path) }}">{{ label }}</a>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+
+        {% endfor %}
+
+    </div>
+
+</body>
+</html>

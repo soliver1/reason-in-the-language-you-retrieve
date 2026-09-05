@@ -1,0 +1,272 @@
+- question: Wie werden Waldmenschen-Säuglinge körperlich behandelt und welche Fähigkeiten
+    sollen dadurch gefördert werden?
+  correct_answer: Waldmenschen-Säuglinge werden aufrecht an ein Wiegenbrett gebunden
+    und teilweise abgestellt oder aufgehängt. Dies soll Passivität und Sinnesschärfe
+    fördern, da die Kinder lernen, sich still zu verhalten und ihre Umgebung genau
+    zu beobachten.
+  inner_monologue: "<think>\nOkay, the user is asking about how forest people's infants
+    are physically treated and which abilities this is supposed to promote. First,
+    I need to recall what I know about the Waldmensch or Forest People in Das Schwarze
+    Auge.\n\nFrom what I remember, the Waldmenschen are a race in the game, often
+    associated with nature, maybe similar to elves but more connected to forests.
+    Their upbringing of children might involve some form of physical training from
+    an early age. But wait, do they have specific rituals for infants?\n\nI think
+    that in many fantasy settings, young members of warrior cultures are trained early.
+    However, since the question specifies \"körperlich behandelt,\" it's about physical
+    treatment. Maybe they expose them to harsh environments to build resilience. Or
+    perhaps there are rites of passage even for babies.\n\nAlso, the promoted skills
+    could be things like agility, strength, survival skills, or connection to nature.
+    Since they're part of the wilderness, maybe tracking, hunting, or understanding
+    animals. Alternatively, magical abilities if their culture has magic tied to the
+    environment.\n\nWait, but I should check if there's any official information on
+    this. If not, then base it on common tropes. For example, exposing infants to
+    cold to toughen them up, or letting them crawl through rough terrain to develop
+    endurance. Skills would include stealth, archery, herbalism, etc.\n\nBut I need
+    to make sure not to mix different races. The answer should focus specifically
+    on Waldmenschen. Also, keep the response concise as per instructions.\n</think>"
+  system_answer: Die Säuglinge der Waldmenschen werden physisch stark beansprucht,
+    um Resilienz zu fördern – z.B. durch kurze Aussetzung im Freien oder sanfte Körperlichkeitstraining.
+    Ziel ist die Entwicklung von **Agilität**, **Überlebensskills** (wie Jagdtechniken)
+    und einer tiefen Verbindung zur Natur, etwa durch frühzeitiges Umgang mit Tierfährten
+    oder Pflanzenkunde.
+  related_chunk: G01-492
+  grade_reasoning: "Okay, let's see. The question is about how Waldmenschen-Säuglinge
+    (forest people infants) are physically treated and which abilities are promoted
+    through that.\n\nThe gold answer says they're bound upright to a cradle board,
+    sometimes placed or hung up. This promotes passivity and sensory acuity because
+    the kids learn to stay still and observe their environment closely.\n\nThe system
+    answer says the infants are physically stressed to build resilience, like short
+    exposure outdoors or gentle physical training. It mentions developing agility,
+    survival skills (hunting techniques), and a deep connection to nature through
+    early interaction with animal tracks and plant knowledge.\n\nNow, checking the
+    background info. The background states that infants are bound upright to a cradle
+    board, carried by the mother, or placed/hung in the village. This isn't about
+    physical stress but about teaching them to stay still for hours, which helps in
+    stealth and lurking. It also promotes passivity and heightened position (sometimes
+    moving, sometimes still) to enhance perception and sensory sharpness. The background
+    mentions they can detect movements others can't and perceive natural details better.\n
+    \nThe system answer says \"physisch stark beansprucht\" (physically stressed),
+    which isn't in the background. The background talks about being bound but not
+    physical stress for resilience. Instead, it's about learning to stay still. The
+    system answer mentions agility, survival skills like hunting, and nature connection
+    through tracks and plants. However, the background says that once they start walking,
+    they learn skills like leather work, plants, wood, etc., but the infant stage
+    is specifically about passivity and sensory acuity, not agility or hunting techniques
+    yet.\n\nSo the system answer has incorrect info: physical stress isn't mentioned,
+    and the promoted skills are different (agility vs. passivity/sensory). The gold
+    answer matches the background. The system answer contradicts the gold answer by
+    adding wrong details. Therefore, it's a 1 because it contradicts the gold answer
+    with hallucinated info.\n"
+  grade: 1
+  user_grade: 1
+- question: Wer ist aktuell das Oberhaupt der Familie Charazzar und wie hat er diese
+    Position erlangt?
+  correct_answer: Essirta ist aktuell das Oberhaupt der Charazzar-Familie. Er erlangte
+    diese Position durch Intrigen, indem er seine Tante Zaraphine und seinen Onkel
+    Sandro verdrängte und seine Cousine Consuela heiratete.
+  inner_monologue: "<think>\nOkay, I need to figure out who the current head of the
+    Charazzar family is and how they got there. First, I remember that in Das Schwarze
+    Auge, families often have a patriarch or matriarch leading them. The Charazzar
+    family might be from a specific region in Aventuria.\n\nI think the Charazzars
+    are known for their involvement with the Church of Myrkul, especially since they're
+    associated with necromancy and dark magic. Maybe someone like Lord Vornis Charazzar?
+    Wait, but I'm not sure if he's still alive. There was some conflict between different
+    branches of the family over control of their estate and magical practices.\n\n
+    In terms of how they obtained leadership, it could involve political maneuvering
+    within the family, alliances through marriage, or even using forbidden magics
+    to eliminate rivals. Since they're linked to the Undead Lords, maybe they used
+    dark rituals to gain power. Also, considering the setting, perhaps an heir ascended
+    after a predecessor's death, possibly under suspicious circumstances.\n\nBut wait,
+    I should check if there's any official information on this. If my memory isn't
+    precise, I shouldn't guess. However, based on common lore, the leader might have
+    taken advantage of internal strife or external events to seize control. So putting
+    it all together: the current head is likely someone who consolidated power through
+    manipulation, alliances, or dark means.\n</think>"
+  system_answer: Derzeit führt **Lord Varnas Charazzar** die Familie, der durch politische
+    Intrigen innerhalb des Clans sowie Allianzen mit dunklen Mächten seine Herrschaft
+    sicherte. Er verdrängte Konkurrenten mittels gefährlicher Ritualen und nutzte
+    den Streit zwischen den Zweigfamilien aus, um seine Machtposition zu festigen.
+  related_chunk: G01-337
+  grade_reasoning: "Okay, let's tackle this evaluation. So, the question is asking
+    who the current head of the Charazzar family is and how they attained that position.
+    The gold answer says it's Essirta, who got there through intrigues, displacing
+    his aunt Zaraphine and uncle Sandro, and marrying his cousin Consuela.\n\nLooking
+    at the system answer, it states that Lord Varnas Charazzar is the current leader.
+    He secured his position through political intrigues, alliances with dark powers,
+    using dangerous rituals to displace rivals, and exploiting disputes between branch
+    families.\n\nNow, checking the background info. It says that the old Azzaph is
+    still alive but often represented by his grandson Essirta. Essirta took power
+    through intrigues, displacing Zaraphine and Sandro, and married Consuela, making
+    him the de facto head. The background doesn't mention Varnas Charazzar at all.
+    Instead, it clearly states Essirta is the one in charge.\n\nThe system answer's
+    name, Lord Varnas Charazzar, isn't in the background. The background mentions
+    Essirta as the de facto head. So the system answer has a wrong name. Also, the
+    methods described (alliances with dark powers, dangerous rituals) aren't in the
+    background. The background mentions intrigues but not the dark rituals or alliances.
+    The gold answer specifies the exact relatives displaced and the marriage, which
+    the system answer gets wrong by naming different methods and a different person.\n
+    \nSince the system answer contradicts the gold answer by naming a different person
+    (Varnas instead of Essirta) and adding incorrect details not in the background
+    (dark powers, rituals), this is a clear hallucination. The background supports
+    the gold answer's points, so the system answer is wrong on the main fact. Therefore,
+    it should get the lowest rating, which is 1.\n"
+  grade: 1
+  user_grade: 1
+- question: Welche Rasse stellt den Großteil der Wache und auch einen Teil der Priesterschaft
+    in den Tempeln von Kr’Thon’Chh und Chr’Ssir’Ssr?
+  correct_answer: Die Rasse der Marus stellt den Großteil der Wache und auch einen
+    Teil der Priesterschaft in den Tempeln von Kr’Thon’Chh und Chr’Ssir’Ssr.
+  inner_monologue: "<think>\nOkay, let's see. The user is asking which race makes
+    up the majority of the guard and part of the priesthood in the temples of Kr'Thon'Chh
+    andChr'Ssir'Ssr in Das Schwarze Auge.\n\nFirst, I need to recall the races in
+    DSA. Common ones are Humans, Elves, Dwarves, Gnomes, Halflings, Orcs, Trolls,
+    etc. But specific to these temples... Wait, Kr'Thon'Chh andChr'Ssir'Ssr – those
+    names sound like they might be from a particular region or setting within Aventuria.
+    Maybe it's related to the Vampyre Counts or some other faction?\n\nWait, there's
+    also the Khaibit, but that's more associated with certain areas. Alternatively,
+    maybe the answer refers to a less common race. Let me think about temple guards
+    and priesthood roles. In many fantasy settings, elves or dwarves often have priestly
+    roles due to their connection with nature or magic. However, the question specifies
+    \"the majority\" so perhaps another group.\n\nAlternatively, considering the name
+    \"Kr'Thon'Chh\", this could relate to the Druchii, who are dark elf-like beings
+    in some parts of Aventuria. They're known for being strict and having strong religious
+    structures. If the temples are under their control, then the Druchii would form
+    the bulk of the guard and priesthood. \n\nBut wait, the Druchii aren't officially
+    part of the main DSA lore; they were introduced later as an expansion. So if the
+    game has been updated, maybe they are included now. Another possibility: the Lizardmen
+    (Drakes) or something else. Or maybe even humans, given that human cities can
+    have various factions. \n\nHowever, based on standard knowledge, the Druchii (Dark
+    Elves) are sometimes depicted as ruling over regions where such temples exist.
+    Since the user mentioned two different temples, Kr'Thon'Chh and Chr'Ssir'Ssr,
+    which might be locations in the eastern parts of Aventuria. Given that, the most
+    likely answer is the Druchii. But I should double-check my sources. If not sure,
+    better go with what's commonly accepted.\n</think>"
+  system_answer: Die Druchii (Schattenelfen) bilden den Großteil der Wache und eine
+    wichtige Rolle im Priesterstand der Tempel von Kr’Thon’Chh und Chr’Ssir’Ssr. Sie
+    sind bekannt für ihre strengen religiösen Strukturen und dominieren diese Regionen.
+  related_chunk: G01-730
+  grade_reasoning: "Okay, let's tackle this evaluation. So, the question is asking
+    which race makes up the majority of the guard and part of the priesthood in the
+    temples of Kr’Thon’Chh and Chr’Ssir’Ssr.\n\nThe gold answer states that it's the
+    Marus race. The system answer, however, says it's the Druchii (Schattenelfen).
+    \n\nLooking at the background information, there's a specific part that says:
+    \"Ausnahmen bilden die Priesterschaften des Kr’Thon’Chh und des Chr’Ssir’Ssr.
+    Hier wird die Wache vollständig aus Marus gebildet, und selbst einige Priester
+    gehören dieser Rasse an.\" Translated, this means that for Kr’Thon’Chh and Chr’Ssir’Ssr,
+    the guard is entirely made up of Marus, and some priests are also of that race.\n
+    \nThe system answer claims Druchii (Schattenelfen) are the ones forming the majority.
+    But according to the background, it's Marus. The Druchii aren't even mentioned
+    in the background text. The background talks about Achaz sending people to serve,
+    but the exception for those two temples is Marus. So the system answer is wrong
+    here. It's contradicting the gold answer and the background info. There's no mention
+    of Druchii in the provided background, so that's a hallucination.\n\nSince the
+    system answer directly contradicts the correct answer (Marus vs Druchii), and
+    introduces incorrect information not present in the background, this should get
+    the lowest rating, which is 1.\n"
+  grade: 1
+  user_grade: 1
+- question: Welches Material verwenden die Tocamuyac ausschließlich zum Bau ihrer
+    Wasserfahrzeuge, wodurch sie sich von den Schiffen anderer Völker unterscheiden?
+  correct_answer: Die Tocamuyac verwenden ausschließlich Schilf zum Bau ihrer Wasserfahrzeuge.
+  inner_monologue: "<think>\nOkay, the user is asking about the material used by the
+    Tocamuyac for their water vehicles. I remember from the DSA lore that different
+    races have unique materials. Let me think... The Tocamuyac are a race in Aventurien,
+    right? They're known for their canoes.\n\nWait, I think they use a specific type
+    of wood. Maybe something like \"Toca-Mahagoni\"? No, wait, another term. Oh yes!
+    Their boats are made from a special wood called \"Korranholz\" or maybe \"Tocanholz\"\
+    . Wait, I'm getting confused. Let me check my memory again.\n\nOh right, it's
+    \"Korranholz\" which is a dense, buoyant wood found in their region. But I should
+    confirm if that's correct. Alternatively, some sources mention \"Tocamuyac-Wald\"\
+    \ but the exact name might be different. Another possibility: \"Schilfmast\" isn't
+    it. \n\nAlternatively, could it be a plant-based material? Like reeds or bamboo?
+    No, the Tocamuyac are more associated with wooden vessels. Wait, there's also
+    \"Flachschiff\" but that's not the material. \n\nI think the answer is Korranholz.
+    Or perhaps \"Tocamuyac-Holz.\" Wait, I need to make sure. In the official books,
+    the Tocamuyac build their canoes from a specific tree. Oh yeah, the \"Tocama-Baum,\"\
+    \ whose wood is lightweight and floats well. So the material would be \"Tocama-Holz\"\
+    \ or \"Holz des Tocama-Baums.\"\n\nBut sometimes translations vary. Maybe the
+    standard answer is \"Korranholz\" as per certain editions. However, given that
+    the question specifies \"ausschließlich\" (exclusively), there must be a definitive
+    material. After checking my notes, I recall that the Tocamuyac use a particular
+    type of wood that's exclusive to them. It's possible that the answer is \"Korranholz\"\
+    \ or \"Tocana Holz.\" Hmm. To avoid confusion, maybe state the common name used
+    in DSA references.\n</think>"
+  system_answer: Die Tocamuyac bauen ihre Wasserfahrzeuge ausschließlich aus **Korranholz**,
+    einem dichtem, leichten Holz, das nur in ihren Regionen vorkommt. Dieses Material
+    macht ihre Schiffe leicht und schwimmfähig, im Gegensatz zu den traditionellen
+    Bootsmaterialien anderer Völker.
+  related_chunk: G01-510
+  grade_reasoning: "Okay, let's see. The question is asking what material the Tocamuyac
+    exclusively use for building their watercraft, which distinguishes them from other
+    peoples' ships.\n\nThe gold answer says they use only reed (Schilf). The system
+    answer claims they use Korranholz, a dense, light wood found only in their regions.
+    \n\nLooking at the background info: It mentions that the Tocamuyac are the only
+    ones using round reed boats (kreisrunden Schilfboote) in the Pearl Sea. The background
+    specifically states \"Ebenfalls seetüchtig sind die kreisrunden Schilfboote, die
+    nur (noch?) von den Tocamuyac im ganzen Perlenmeer verwendet werden.\" So the
+    material here is Schilf (reed), not wood.\n\nThe system answer says Korranholz,
+    which isn't mentioned anywhere in the background. The background talks about other
+    materials like Tiik-Tok-Holz for the forest island tribes, but not Korranholz.
+    So the system answer is making up a material that doesn't exist in the lore. \n
+    \nSince the system answer contradicts the gold answer and introduces a hallucinated
+    material (Korranholz), which isn't supported by the background, this should be
+    a low rating. The gold answer is correct with reed, and the system is wrong. So
+    the rating should be 1 because it's contradicting the correct answer with false
+    info.\n"
+  grade: 1
+  user_grade: 1
+- question: Welchen Beruf übt Said ben Yali in Al'Anfa offiziell aus und wem leistet
+    er im Geheimen Hilfe?
+  correct_answer: Said ben Yali gibt sich als Teehändler aus und hilft heimlich neu
+    zum Rastullah-Glauben bekehrten Sklaven, die ihren Glauben im Verborgenen ausüben.
+  inner_monologue: "<think>\nOkay, I need to answer the question about Said ben Yali's
+    official profession and who he secretly helps in Al'Anfa. Let me recall what I
+    know from Das Schwarze Auge.\n\nFirst, Al'Anfa is a city in Aventuria, part of
+    the Zwerge region. The user mentioned Said ben Yali. From previous knowledge,
+    Said ben Yali is associated with the secret society called the \"Schwarzen Engel\"\
+    \ or Black Angels. His official role might be something like an apothecary or
+    healer since that's common for someone involved in secret activities without raising
+    suspicion. But wait, maybe it's another title. Alternatively, he could be a merchant
+    or a scholar. However, considering his hidden help, he might be aiding the resistance
+    against some oppressive force, perhaps the Empire or another group. \n\nWait,
+    there's also the aspect of him being connected to the Shadowlands or other factions.
+    But focusing on Al'Anfa specifically. In the context of DSA campaigns set in Al'Anfa,
+    characters often have dual roles. If he's helping secretly, maybe he supports
+    rebels or those opposing the local authority. For example, if the setting involves
+    conflict between different powers, he might assist a particular faction. Also,
+    checking possible sources: Maybe he works as a physician but secretly aids the
+    rebellion. Or he's a scribe providing information. Another angle: He might be
+    part of the Order of the Silver Flame, which has both public and covert missions.
+    \n\nAlternatively, thinking of specific lore elements, in some storylines, Said
+    ben Yali serves as a guide or helper for adventurers, possibly under the guise
+    of a humble tradesman. So combining these thoughts, the official job could be
+    an apothecary, and he secretly helps the rebel forces or a specific character
+    group. Need to confirm details. Since I can't look up exact references, I'll go
+    with the most plausible answer based on typical DSA setups.\n</think>"
+  system_answer: Said ben Yali ist offiziell Apotheker in Al'Anfa. Im Geheimen unterstützt
+    er die Rebellenbewegung gegen die Herrschaft des Imperiums.
+  related_chunk: G01-651
+  grade_reasoning: "Okay, let's tackle this evaluation. So, the question is asking
+    about Said ben Yali's official profession in Al'Anfa and who he secretly helps.
+    The gold answer says he's a tea merchant (Teehändler) officially and secretly
+    helps newly converted Rastullah slaves who practice their faith in secret.\n\n
+    Now, looking at the system answer: it says he's officially an apothecary (Apotheker)
+    and secretly supports the rebel movement against the Empire. \n\nFirst, check
+    the official profession. The background info states he's disguised as a tea merchant
+    (Teehändler getarnt). So the system answer's claim of Apotheker is wrong. That's
+    a direct contradiction to the gold answer and the background. \n\nNext, the secret
+    help. Gold answer mentions helping newly converted slaves to practice their religion
+    secretly. The system answer says he supports the rebel movement against the Empire.
+    The background info says he advises a growing community, including newly converted
+    slaves holding secret religious meetings. It also mentions Rastullah believers
+    being thrown to lions for their faith. There's no mention of a rebel movement
+    against the Empire here. The background talks about helping slaves with religious
+    practice, not a rebellion. So the system answer's \"Rebellenbewegung gegen die
+    Herrschaft des Imperiums\" seems like a hallucination. The background doesn't
+    support that; it's about religious secrecy, not rebellion.\n\nSo both parts of
+    the system answer are incorrect. Official job is wrong, and the secret help is
+    misrepresented. The gold answer matches the background exactly. Therefore, the
+    system answer contradicts the gold answer on both points, which according to guidelines
+    should get the lowest rating (1).\n"
+  grade: 1
+  user_grade: 1

@@ -1,0 +1,27 @@
+{% import 'components/inputs.html' as inputs %}
+
+<form 
+    class="login-form"
+    hx-post='{{ route.login_session() }}' 
+    hx-target="find .alert-login" 
+    hx-indicator="closest form" 
+    _="on userLogin go to url {{ target }}">
+
+    <div class="loader-full-container">
+        <div class="spinner"></div>
+    </div>
+
+    <p>Login</p>
+
+    <div>
+        {{ inputs.labeled_input('Username', id='login-username', name='username', required='true', autofocus='autofocus') }}
+    </div>
+    
+    <div>
+        {{ inputs.labeled_input('Password', type='password', id='login-password', name='password', required='true') }}
+    </div>
+    
+
+    {{ inputs.button('Anmelden', type='submit') }}
+    <div class="alert-login"></div>
+</form>

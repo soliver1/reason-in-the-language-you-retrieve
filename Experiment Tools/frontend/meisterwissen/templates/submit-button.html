@@ -1,0 +1,14 @@
+{% if generation_in_progress %}
+    <button type="submit" name="button" class="cursor-pointer bg-amber-800 rounded-sm px-2 py-3 w-30 hover:bg-amber-700" id="submit-button" hx-swap-oob="true">
+        <i class="fa-solid fa-circle-stop text-xl"></i>
+        <input type="hidden" name="task" value="stop">
+    </button>
+
+{% else %}
+    <button type="submit" name="button" class="cursor-pointer bg-lime-800 rounded-sm px-2 py-3 w-30 hover:bg-lime-700" id="submit-button" hx-swap-oob="true">
+        <span>Absenden</span>
+        <input type="hidden" name="task" value="start">
+    </button>
+
+{% endif %}
+

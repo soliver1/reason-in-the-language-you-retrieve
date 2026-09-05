@@ -1,0 +1,656 @@
+- question: In welchem Jahr wurde Menchal ak’Taran geboren?
+  correct_answer: Menchal ak’Taran wurde im Jahr 929 BF geboren.
+  inner_monologue: "<think>\nOkay, let's tackle this question. The user is asking
+    for the year Menchal ak'Taran was born. From the previous tool response, there's
+    a chunk with ID G01-674 that mentions him. Let me check that content again.\n\n
+    Looking at the content provided: \"Geb.: 929 BF (geheim)\" which translates to
+    \"Born: 929 BF (secret)\". So the birth year is given as 929 BF. But wait, the
+    user might need confirmation if there's more information elsewhere. However, the
+    other chunks retrieved don't mention his birth date. The other entries talk about
+    names and places but not his age. Since the available data directly states the
+    birth year, there's no need for further research. The answer should be 929 BF.\n\
+    </think>"
+  system_answer: "Menchal ak’Taran wurde im Jahr **929 BF** geboren. Dies ist direkt
+    in der Beschreibung seines Eintrags angegeben. \n\nAntwort: **929 BF**."
+  related_chunk: G01-674
+  grade_reasoning: "Okay, let's see. The question is asking for the year Menchal ak’Taran
+    was born. The gold answer states he was born in 929 BF.\n\nLooking at the system
+    answer, it says he was born in 929 BF, which matches the gold answer. The system
+    also adds that this is directly stated in his entry description. Now, checking
+    the background information provided, under the \"Geb.: 929 BF (geheim)\" part,
+    it confirms the birth year as 929 BF. The system answer correctly cites this and
+    even mentions it's from the entry, which aligns with the background info. There's
+    no extra information here that's incorrect. The background does mention \"geheim\"\
+    \ (secret), but the system answer doesn't contradict that; it just states the
+    year as given. So the additional statement about it being in the description is
+    accurate based on the background. No hallucinations here. All relevant info is
+    included, and it's correct. So this should be a 5.\n"
+  grade: 5
+  user_grade: 5
+- question: Die Shokubunga nutzen Gift in ihrer Jagd und im Kampf. Welche Pflanzenteile
+    des Shurinstrauches verwenden sie?
+  correct_answer: Sie verwenden Blätter, Rinde und Harz des Shurinstrauches für ihre
+    Giftmischungen.
+  inner_monologue: "<think>\nOkay, let's tackle this question about the Shokubunga
+    and their use of the Shurinstrauch. The user is asking which parts of the plant
+    they use for poison.\n\nFirst, I remember from the previous tool response that
+    there was mention of the Shokubunga using the Shurinstrauch's gift. In the text
+    provided, it says: \"die Shokubunga jagen und kämpfen mit dem Gift des Shurinstrauchs.\"\
+    \ So they definitely use the Shurinstrauch as a source of poison. But the specific
+    parts of the plant? Let me check the details again.\n\nLooking at the content
+    under \"G01-553\" (The Shokubunga), there's a sentence: \"Während zivilisierte
+    Giftmischer nur die grünen Kirschen verarbeiten, verwenden die Shokubunga Blätter,
+    Rinde und Harz für Mischungen unterschiedlicher Wirkung.\" Here, it mentions that
+    while civilized poison makers only use the green cherries, the Shokubunga use
+    leaves, bark, and resin. \n\nSo the answer should include those three parts: Blätter
+    (leaves), Rinde (bark), and Harz (resin). However, I need to make sure there isn't
+    any other information elsewhere. Maybe there's another section where they specify
+    more details. But according to the given data, that's the key info. Since the
+    user's question is specifically about the Shurinstrauch, and the text directly
+    states these parts, I can confidently answer based on that. No further research
+    needed here because the required information is present.\n</think>"
+  system_answer: Die Shokubunga verwenden **Blätter**, **Rinde** und **Harz** des
+    Shurinstrauches für ihre Giftspezialitäten, wie im Abschnitt zu den Shokubunga
+    erwähnt. Dabei unterscheiden sie sich von „zivilisierten“ Giftmachern, die ausschließlich
+    die grünen Kirschen dieses Baumes nutzen.
+  related_chunk: G01-553
+  grade_reasoning: "Okay, let's see. The question is about which parts of the Shurinstrauch
+    the Shokubunga use for their poison. The gold answer says they use leaves, bark,
+    and resin (Blätter, Rinde und Harz). The system answer also mentions Blätter,
+    Rinde, and Harz, which matches the gold answer. But it adds that they differ from
+    \"civilized\" poison makers who only use the green cherries of the tree.\n\nLooking
+    at the background info, it says: \"Während zivilisierte Giftmischer nur die grünen
+    Kirschen verarbeiten, verwenden die Shokubunga Blätter, Rinde und Harz für Mischungen
+    unterschiedlicher Wirkung.\" So the system answer's additional info about civilized
+    poison makers using green cherries is correct according to the background. The
+    system answer correctly includes all the parts mentioned in the gold answer and
+    adds a true statement from the background. There's no contradiction, and the extra
+    info is accurate. So the system answer should get a 5.\n"
+  grade: 5
+  user_grade: 5
+- question: Welche Wirkungen hat das Rauschmittel Ilmenblatt und wie lange dauern
+    diese etwa?
+  correct_answer: Das Rauschmittel wirkt beruhigend, leicht euphorisierend bis belebend
+    und die Wirkung hält etwa 4 bis 6 Stunden an.
+  inner_monologue: "<think>\nOkay, let's tackle this question about Ilmenblatt. The
+    user wants to know its effects and how long they last. From the previous tool
+    response, there's a chunk with ID G01-141 titled \"Ilmenblatt (Alphana, Batonga)\"\
+    . Let me check that content again.\n\nThe content says: \"Wirkung und Dauer: 4W6
+    Stunden beruhigend, leicht euphorisierend bis belebend\". So the effects are calming,
+    slightly euphoric, or invigorating, lasting 4W6 hours. But wait, what does \"\
+    4W6\" mean? In dice terminology, 4W6 usually means rolling four six-sided dice
+    and adding the results. However, in the context of duration, it might refer to
+    a range. For example, 4 to 24 hours (since 4d6 can roll between 4 and 24). But
+    maybe in the game's terms, it's a specific duration. However, the user might need
+    clarification on that. \n\nBut looking at the provided data, there's no further
+    information. The other chunks don't mention Ilmenblatt's effects. The first chunk
+    about names doesn't relate, and the second is just acknowledgments. So the answer
+    should be based on the available info. However, the user might want to know if
+    there's more details elsewhere. Since the initial research found the relevant
+    chunk, but perhaps checking children or parent sections could help. Let me see
+    if there are any children or parents for G01-141. The ancestors are under \"Life
+    and Culture in Al'Anfa\", \"Cultural Decadence\", \"Psychoactive Substances\"
+    . Maybe there's more in the parent sections. But since the user hasn't provided
+    those, I can only use the given data. Therefore, the answer is as per the content
+    of G01-141. Unless there's another chunk, but the tools would need to be used
+    again. Wait, the user said if info is missing, use the tools again. But in the
+    current data, the effect is mentioned. So the answer is clear. However, the \"\
+    4W6\" might need explanation. Since the user is asking for the duration, converting
+    4W6 into a numerical range would be helpful. But without additional data, we can
+    state it as 4 to 24 hours. Alternatively, note that it's represented as 4W6 in
+    the game mechanics. But the exact interpretation might depend on the game's rules.
+    Since the provided text doesn't explain it, the answer should stick to the given
+    info.\n</think>"
+  system_answer: "Das Rauschmittel **Ilmenblatt** (Batonga) hat folgende Wirkungen:\
+    \  \n- **Beruhigend**, **leicht euphorisierend** bis **belebend**.  \n\nDie Dauer
+    beträgt **4W6 Stunden** (im Spielmechanik-Kontext oft als vierseitiger Würfel-Wurf
+    interpretiert, was ca. **4–24 Stunden** entspricht).  \n\nKeine zusätzlichen Details
+    zur Wirkung wurden in den bereitgestellten Quellen gefunden. Falls erforderlich,
+    könnten tiefere Recherchen in verwandten Abschnitten (z. B. medizinische oder
+    magische Zusammenhänge) notwendig sein."
+  related_chunk: G01-141
+  grade_reasoning: "Okay, let's see. The question is about the effects of the drug
+    Ilmenblatt and how long the effects last.\n\nThe gold answer says it's calming,
+    slightly euphoric to invigorating, and lasts about 4 to 6 hours.\n\nThe system
+    answer mentions the same effects: calming, slightly euphoric to invigorating.
+    But for the duration, it says 4W6 hours, which in game mechanics is a four-sided
+    die roll, translating to 4-24 hours. However, the background info states \"Wirkung
+    und Dauer: 4W6 Stunden beruhigend, leicht euphorisierend bis belebend\". Wait,
+    but in the gold answer, it's 4-6 hours. Wait, maybe there's a confusion here.\n
+    \nWait, the background says \"4W6 Stunden\". In some tabletop games, 4W6 might
+    mean rolling four six-sided dice, but the background says \"4W6 Stunden\". However,
+    the gold answer says \"etwa 4 bis 6 Stunden\". But the system answer interprets
+    4W6 as a four-sided die (W4), leading to 4-24 hours. Wait, that's a mistake. Because
+    4W6 would typically be four six-sided dice, which would sum to 4-24, but the gold
+    answer says 4-6. Hmm, but the background info says \"4W6 Stunden\", which in the
+    context of the game might be a typo or specific notation.\n\nWait, looking at
+    the background info again: \"Wirkung und Dauer: 4W6 Stunden beruhigend, leicht
+    euphorisierend bis belebend\". So the duration is written as 4W6 hours. In German
+    gaming terms, \"W\" stands for \"Würfel\" (dice). So 4W6 would mean 4 six-sided
+    dice, which would give a range of 4 to 24. But the gold answer says 4 to 6 hours.
+    That's conflicting.\n\nWait, but the gold answer is provided as correct. So maybe
+    the background info has a typo, or perhaps in the context of the game, 4W6 is
+    meant to be 4-6. Wait, but 4W6 is standard for four six-sided dice. However, the
+    gold answer says \"etwa 4 bis 6 Stunden\", which is approximately 4-6 hours. So
+    there's a discrepancy here.\n\nWait, the system answer says \"4W6 Stunden (im
+    Spielmechanik-Kontext oft als vierseitiger Würfel-Wurf interpretiert, was ca.
+    4–24 Stunden entspricht)\". Wait, that's incorrect. Because 4W6 would be four
+    six-sided dice, not four-sided. A four-sided die is W4. So the system answer made
+    a mistake here, interpreting 4W6 as a four-sided die, which is wrong. It should
+    be six-sided, leading to 4-24, but the gold answer says 4-6. So why is the gold
+    answer 4-6?\n\nWait, perhaps in the background info, \"4W6\" is a typo and should
+    be \"1W6+3\" or something else, but according to the given background, it's written
+    as 4W6. However, the gold answer says 4-6 hours, which would correspond to 1W3+3
+    or similar, but not 4W6. This is confusing.\n\nWait, maybe in the game's context,
+    \"4W6\" is a misprint and should be \"W6+3\" or something that results in 4-6.
+    Alternatively, maybe it's a different notation. But given the background info
+    states \"4W6 Stunden\", and the gold answer says 4-6 hours, there's a conflict.\n
+    \nBut the task is to check if the system answer's additional info is correct based
+    on the background. The system answer says duration is 4W6 hours, interpreted as
+    4-24 hours. But the background says \"4W6 Stunden\", which would indeed be 4-24
+    (since 4d6 in dice notation is 4 to 24). However, the gold answer says 4-6 hours.
+    So why the discrepancy?\n\nWait, perhaps the gold answer is wrong? But no, the
+    gold answer is given as correct. So maybe the background info has a typo. Wait,
+    the user says the background info is from the lore book used to create the question
+    and gold answer. So if the background says 4W6, but the gold answer says 4-6,
+    that's a problem. But according to the problem statement, the gold answer is correct.
+    Therefore, perhaps \"4W6\" in the background is a mistake, and the intended duration
+    is 4-6 hours. Alternatively, maybe \"4W6\" is a specific term in the game that
+    actually means 4-6. Wait, but in standard dice notation, 4W6 is four six-sided
+    dice.\n\nWait, the system answer mentions \"4W6 Stunden (im Spielmechanik-Kontext
+    oft als vierseitiger Würfel-Wurf interpretiert, was ca. 4–24 Stunden entspricht)\"\
+    . Wait, that's incorrect. A four-sided die is W4, so 4W6 would be four six-sided
+    dice. The system answer mistakenly refers to a four-sided die, which is wrong.
+    So the system answer has a hallucination here. It says \"vierseitiger Würfel\"\
+    \ (four-sided die) for 4W6, but 4W6 should be six-sided. So that part is incorrect.\n
+    \nBut the background says \"4W6 Stunden\", which should translate to 4-24 hours.
+    However, the gold answer says 4-6 hours. So the gold answer seems to contradict
+    the background. But according to the problem statement, the gold answer is correct.
+    Therefore, maybe in this fictional world, \"4W6\" is a typo and should be something
+    else, but given the background info as is, the system answer is trying to interpret
+    it.\n\nWait, but the user instructions say: \"use the background information in
+    case the system answer includes more information not relevant in the gold answer,
+    to determine if the additional information is correct or hallucinated.\"\n\nSo
+    the system answer added that the duration is 4W6 hours, which in game terms is
+    4-24. But the gold answer says 4-6. So according to the background, the duration
+    is 4W6 hours. So the correct duration should be 4-24 hours. But the gold answer
+    says 4-6. That's a problem. However, the gold answer is given as correct, so perhaps
+    there's a misunderstanding here.\n\nWait, maybe \"4W6\" in the background is a
+    mistake, and it's supposed to be \"W6\" (1W6), which would be 1-6, but the gold
+    answer says 4-6. Alternatively, maybe it's \"W3+3\", which would be 4-6. But the
+    background says 4W6.\n\nThis is confusing. Let's re-examine the background info:\n\
+    \n\"#### Ilmenblatt (Alphana, Batonga)\n...\nWirkung und Dauer: 4W6 Stunden beruhigend,
+    leicht euphorisierend bis belebend\"\n\nSo the duration is written as \"4W6 Stunden\"\
+    , followed by the effects. So according to the background, the duration is 4W6
+    hours. In standard gaming terms, that's four six-sided dice, so 4-24 hours. But
+    the gold answer says 4-6 hours. So either the gold answer is wrong, or there's
+    a misinterpretation.\n\nBut the problem states that the gold answer is correct.
+    Therefore, perhaps in this context, \"4W6\" is a typo and should be \"1W6\" or
+    similar, but given the background as provided, the system answer is correct in
+    stating 4-24 hours, but the gold answer says 4-6. However, the user says the gold
+    answer is the correct one. So this is a conflict.\n\nWait, but the task is to
+    grade the system answer against the gold answer. The gold answer says 4-6 hours.
+    The system answer says 4-24 hours based on 4W6. But according to the background,
+    it's 4W6, which would be 4-24. However, the gold answer says 4-6. So which is
+    correct?\n\nThe user instructions say: \"the background information is a piece
+    of text from a lore book that includes information that was used to create the
+    question and gold answer.\" So the gold answer should be based on the background.
+    But here, the background says 4W6 hours, which should translate to 4-24, but the
+    gold answer says 4-6. That suggests that either the background has a typo, or
+    the gold answer is incorrect. But according to the problem statement, the gold
+    answer is correct, so perhaps \"4W6\" in the background is a mistake, and it should
+    be something else.\n\nAlternatively, maybe in the game's specific notation, \"\
+    4W6\" means something different. For example, in some contexts, \"W\" might stand
+    for \"Wurf\" (throw), but 4W6 is still four six-sided dice.\n\nWait, the system
+    answer says \"4W6 Stunden (im Spielmechanik-Kontext oft als vierseitiger Würfel-Wurf
+    interpretiert, was ca. 4–24 Stunden entspricht)\". Wait, that's wrong because
+    4W6 would be four six-sided dice (4-24), but the system answer says \"vierseitiger
+    Würfel\" (four-sided die), which would be W4. So if it were 4W4, it would be 4-16.
+    But the system answer incorrectly states that 4W6 is a four-sided die, leading
+    to 4-24. Wait, no: a four-sided die (W4) has outcomes 1-4. So 4W4 would be 4-16.
+    But the system answer says \"vierseitiger Würfel-Wurf\" for 4W6, which is incorrect.
+    4W6 should be six-sided dice.\n\nSo the system answer has a mistake here: it's
+    interpreting 4W6 as using a four-sided die, which is wrong. Therefore, the duration
+    part of the system answer is hallucinated because it's based on a wrong interpretation.
+    The background says 4W6, which should be four six-sided dice (4-24), but the system
+    answer incorrectly refers to a four-sided die, leading to the same numerical range
+    but for the wrong reason. Wait, 4W6 (four six-sided dice) is 4-24, which matches
+    the system answer's 4-24. However, the system answer says it's a four-sided die,
+    which is incorrect. So the range 4-24 is correct for 4W6, but the explanation
+    about the die type is wrong.\n\nBut the gold answer says 4-6 hours, which contradicts
+    the background. However, according to the problem statement, the gold answer is
+    correct. Therefore, there must be a mistake in the background or in the gold answer.
+    But since we have to go by the given gold answer as correct, the system answer's
+    duration of 4-24 is wrong, whereas the gold answer says 4-6.\n\nWait, this is
+    very confusing. Let's try to clarify:\n\n- Background states duration is \"4W6
+    Stunden\".\n- Gold answer says duration is \"4 bis 6 Stunden\".\n- System answer
+    says duration is \"4W6 Stunden [...] 4–24 Stunden\".\n\nGiven that the gold answer
+    is supposed to be correct, but the background says 4W6, which would mean 4-24,
+    there's a conflict. However, the user instructions say the background was used
+    to create the question and gold answer, so perhaps \"4W6\" in the background is
+    a typo and should be \"W6\" or similar. Alternatively, maybe in the game's context,
+    \"4W6\" is a miswriting of \"1W6+3\" or something that results in 4-6.\n\nBut
+    according to the strict reading of the background, 4W6 would be 4-24. However,
+    the gold answer says 4-6, so the correct answer should be 4-6. Therefore, the
+    system answer is incorrect in stating 4-24, which contradicts the gold answer.
+    But why does the background say 4W6?\n\nWait, perhaps \"4W6\" is a typo and should
+    be \"W6/2\" or something else. Alternatively, maybe in German gaming jargon, \"\
+    4W6\" is used differently. But standardly, it's four six-sided dice.\n\nGiven
+    that the gold answer is provided as correct, the system answer's duration of 4-24
+    is wrong. Therefore, the system answer contradicts the gold answer on the duration.
+    The effects part is correct (beruhigend, leicht euphorisierend bis belebend),
+    but the duration is wrong.\n\nHowever, the system answer also adds a note saying
+    \"Keine zusätzlichen Details [...] notwendig sein.\" which is probably harmless.\n
+    \nBut according to the guidelines: \"A system answer contradicting the gold answer
+    should get the lowest rating (1)\". But does it contradict? The gold answer says
+    4-6 hours, system says 4-24. That's a contradiction. However, the system answer
+    is based on the background's \"4W6\", which if correctly interpreted as 4-24,
+    but the gold answer says 4-6. So either the background is wrong, or the gold answer
+    is wrong.\n\nBut per the problem statement, the gold answer is correct. Therefore,
+    the system answer is wrong in the duration, thus contradicting the gold answer.
+    So the rating should be 1.\n\nWait, but the system answer also correctly states
+    the effects. So it's partially correct but wrong on duration. The guidelines say:
+    \"A system answer contradicting the gold answer should get the lowest rating (1)\"\
+    . Contradicting means any part that contradicts. Since the duration is wrong,
+    it contradicts, so rating 1.\n\nBut wait, maybe the \"4W6\" in the background
+    is actually supposed to mean 4-6. For example, in some contexts, \"W\" might mean
+    \"bis\" (up to), but that's not standard. Alternatively, maybe it's a typo for
+    \"4-6\". If the background had a typo and said \"4W6\" instead of \"4-6\", then
+    the gold answer is correct, and the system answer incorrectly interpreted the
+    typo as dice notation.\n\nIn that case, the system answer's duration is hallucinated
+    because the background's \"4W6\" was a typo, and the correct duration is 4-6.
+    Therefore, the system answer's 4-24 is a hallucination, contradicting the gold
+    answer.\n\nThus, the system answer has a contradiction in the duration part, so
+    it should get a 1.\n\nBut wait, the system answer says \"4W6 Stunden (im Spielmechanik-Kontext
+    oft als vierseitiger Würfel-Wurf interpretiert, was ca. 4–24 Stunden entspricht)\"\
+    . The \"vierseitiger Würfel\" part is wrong because 4W6 should be six-sided, but
+    the range 4-24 is correct for 4W6. However, if the intended answer is 4-6, then
+    the system answer is wrong.\n\nGiven that the gold answer is 4-6, the system answer's
+    4-24 is incorrect. Therefore, contradiction, rating 1.\n\nBut let me check again.
+    The background says: \"Wirkung und Dauer: 4W6 Stunden beruhigend, leicht euphorisierend
+    bis belebend\"\n\nSo the structure is: Duration: 4W6 hours, effects: calming,
+    etc.\n\nIf in the game's rules, 4W6 means something else, but according to standard
+    notation, it's 4-24. However, the gold answer says 4-6. So unless there's a specific
+    rule in Aventuria that 4W6 here means 4-6, which there's no indication of, the
+    system answer's duration is correct per background, but gold answer is wrong.
+    But the problem states gold answer is correct.\n\nThis is a dilemma. But according
+    to the user's instructions, we must prioritize the gold answer as correct. Therefore,
+    the system answer's duration is wrong, hence contradicting, so rating 1.\n\nBut
+    wait, the system answer also correctly lists the effects. So it's partially correct.
+    The guidelines say: \"A system answer contradicting the gold answer should get
+    the lowest rating (1)\". If any part contradicts, then it's a 1. Since the duration
+    contradicts, it's a 1.\n\nHowever, maybe the \"4W6\" in the background is a mistake,
+    and the correct duration is 4-6. For example, if it's supposed to be \"W6\" (1-6),
+    but the gold answer says 4-6, which could be a specific case. Alternatively, maybe
+    \"4W6\" is a typo for \"4-6\".\n\nGiven that the gold answer is provided as correct,
+    we have to go with that. Therefore, the system answer's duration is incorrect,
+    leading to a contradiction. So rating 1.\n"
+  grade: 3
+  user_grade: 4
+- question: Welches Zeichen tragen Reisende auf ihrem Körper, um ins Tal Kun-Kau-Peh
+    freies Geleit zu erhalten?
+  correct_answer: Reisende, die das Tal Kun-Kau-Peh besuchen, zeichnen sich eine rote
+    Spinne auf die rechte Schulter.
+  inner_monologue: "<think>\nOkay, let's tackle this question. The user is asking
+    which symbol travelers wear on their body to gain free passage into the Kun-Kau-Peh
+    valley. From the previous tool responses, I remember that in the text about the
+    Tapam, there's a mention of a red spider drawn on the right shoulder. The relevant
+    part says: \"Jeder Waldmensch, der auf dem Weg ins Kun-Kau-Peh ist, zeichnet sich
+    eine rote Spinne auf die rechte Schulter.\" Translating that, it means every forest
+    human (Waldmensch) who is traveling to Kun-Kau-Peh draws a red spider on their
+    right shoulder. This act grants them free passage according to the taboo mentioned.
+    \n\nBut wait, the user specifically asked about \"Reisende\" which translates
+    to travelers. The texts here refer to Waldmenschen, but maybe the term applies
+    to any traveler entering the area. Also, the key point is the red spider symbol.
+    The other parts about the Tapam and the rituals might not directly answer the
+    question, but the specific mention of the red spider on the shoulder seems to
+    be the direct answer. \n\nI should check if there's any other information in the
+    provided chunks. Looking at the chunk for Kun-Kau-Peh, it mentions the tabu about
+    drawing the spider, but no other symbols. The other sections don't mention different
+    signs. So based on the given data, the answer is the red spider on the right shoulder.
+    Since the user's question is straightforward and the info is present, no need
+    for further research. Just need to confirm that the answer is correctly extracted
+    from the provided texts.\n</think>"
+  system_answer: "Die Reisenden tragen ein **rotes Symbol der Spinne** auf der **recht
+    Schulter**, um im Tal Kun-Kau-Peh freies Geleit zu erhalten. Dieses Zeichen entspricht
+    dem Tabu der Waldmenschen, das sicherstellt, dass sie während ihrer Reise nicht
+    angegriffen werden.  \n\nQuelle: [G01-520](#TapaM) (\"*Jeder Waldmensch...zeichnet
+    sich eine rote Spinne auf die rechte Schulter.*\")"
+  related_chunk: G01-727
+  grade_reasoning: "Okay, let's see. The question is asking what sign travelers put
+    on their body to get safe passage into the Tal Kun-Kau-Peh.\n\nThe gold answer
+    says they draw a red spider on their right shoulder. The system answer mentions
+    a red spider symbol on the right shoulder, which matches. But wait, the system
+    answer also adds that this sign corresponds to the taboo of the forest people,
+    ensuring they aren't attacked during their journey. \n\nLooking at the background
+    info: \"Jeder Waldmensch, der auf dem Weg ins Kun-Kau-Peh ist, zeichnet sich eine
+    rote Spinne auf die rechte Schulter. Dem Tabu zufolge hat er damit überall freies
+    Geleit und muss seinerseits alle Feindseligkeiten unterlassen.\" So the taboo
+    part is correct. The system answer included that the symbol ensures they aren't
+    attacked, which aligns with \"freies Geleit\" (safe passage) and the taboo requiring
+    them to not engage in hostilities. \n\nThe system answer also cites a source [G01-520]
+    with a quote that matches the background info. The only typo is \"recht Schulter\"\
+    \ instead of \"rechten Schulter\", but that's minor. The extra info about the
+    taboo is accurate per the background. No hallucinations detected. It includes
+    all necessary details from the gold answer and adds correct context. So it should
+    be a 5.\n"
+  grade: 5
+  user_grade: 4
+- question: Welche unterschiedlichen Beschreibungen existieren über das Aussehen und
+    die Fähigkeiten der Bestie Harodia, die Geron besiegte?
+  correct_answer: Berichte sprechen von sieben riesenhaften Schlangenhälsen, der Fähigkeit,
+    die Gestalt zu wechseln, zersetzend giftigem Blut und abgetrennten Körperteilen,
+    die wieder anwachsen konnten.
+  inner_monologue: "<think>\nOkay, let's tackle this question about Harodia, the beast
+    that Geron defeated. The user is asking for different descriptions of its appearance
+    and abilities. From the previous tool calls, I have some information already.\n
+    \nFirst, looking back at the tool responses, there's a mention from the text where
+    Geron fought Harodia. The content says that Harodia was described as a monstrous
+    creature with seven huge snake necks, the ability to change shape, toxic blood,
+    and parts that regenerated. Another source mentions it had a demonic regeneration
+    ability, which Geron broke by calling on all the gods. \n\nBut wait, another part
+    talks about H’Ranga G’dzill, a giant slinger sleeping in Lake Harodrol, guarded
+    by Achaz. There's a connection here, but the user specifically asked about Harodia.
+    However, in the text about the Achaz, they mention that G'dzill might be related
+    to the Harodia mentioned earlier. But the exact description of Harodia isn't detailed
+    beyond the initial account. \n\nAnother piece of info comes from the section about
+    Ungeheuer aus alter Zeit, where it's stated that Harodia might be a fragment of
+    Omegatherion. Also, there's a reference to a monster named Al’Grodor, the Ice
+    Swaller, but that's a different creature. \n\nThe problem is, the existing data
+    doesn't provide multiple distinct descriptions of Harodia's appearance. It only
+    describes it once with the seven-necked serpent, shape-shifting, toxic blood,
+    and regeneration. The other mentions link it to other creatures like G’dzill or
+    Omegatherion fragments, but those aren't separate descriptions of Harodia itself.
+    \n\nSo, to answer fully, maybe need to check if there are other sources. Since
+    the user said to keep researching if needed, perhaps use the research_lore_books
+    function again with specific targets like \"Harodia Appearance\" or \"Harodia
+    Abilities\". But since the available data might not have more, I should check
+    based on what's given. \n\nWait, the first response when searching for \"Harodia\"\
+    \ had a chunk about Geron defeating it, mentioning the various legends describing
+    it differently. The user wants the differing descriptions. The text says that
+    all legends agree on its regeneration but differ on specifics like seven snakes,
+    shape-changing, etc. So even though the details are similar, the key points are
+    the regeneration and varied forms. \n\nTherefore, compiling the known aspects:
+    seven-necked serpent, shape-shifting, toxic blood, regeneration. No other distinct
+    descriptions found. Maybe conclude that while the core traits are consistent,
+    the exact appearance varies in legends, focusing on those elements.\n</think>"
+  system_answer: "Die Bestie Harodia, die Geron besiegte, wird in den Quellen unterschiedlich
+    beschrieben, wobei die grundlegenden Merkmale konstant bleiben:\n\n1. **Aussehen**:\
+    \  \n   - **Siebenriesenhafte Schlangenhälse**: Mehrere Quellen sprechen von sieben
+    monströsen Schlangenhälsern, die sich durch ihre Grässlichkeit auszeichnen.  \n\
+    \   - **Verwandlungsfähigkeit**: Harodia kann ihre Gestalt wechseln, was zu widersprüchlichen
+    Darstellungen führt (z. B. als „Ungetüm“ oder als „großes Tier“).  \n   - **Giftiges
+    Blut**: Einige Berichte erwähnen, dass Harodia giftiges Blut ausschwitzt, das
+    selbst starke Wunden verursacht.  \n\n2. **Fähigkeiten**:  \n   - **Dämonische
+    Regeneration**: Die Bestie kann sich rasch erholen, was Geron erst durch Intervention
+    der Götter brechen kann. Dieses Merkmal wird in allen Versionen betont.  \n  \
+    \ - **Abgeteilte Körperteile**, die sich neu bilden: Einige Erzählungen berichten,
+    dass abgetrennte Teile der Bestie wieder wachsen.  \n\n3. **Mythologische Verknüpfung**:\
+    \  \n   - Die Bestie wird als **Teilleib des Omegatherions** bezeichnet, was auf
+    eine kosmische Ursprung verweist.  \n   - Einige Legenden verknüpfen Harodia mit
+    dem **H’Ranga G’dzill** (einem riesigen Schlinger im Loch Harodrôl), obwohl dies
+    nicht direkt als Beschreibung der Bestie fungiert.  \n\n**Zusammenfassung**: Die
+    Beschreibungen variieren in Details (Form, Gift, Regeneration), doch die fundamentale
+    Natur Harodijs als regulierendes, gefährliches Wesen bleibt konsistent. Weitere
+    Unterschiede sind in den vorliegenden Texten nicht explizit detailliert."
+  related_chunk: G01-052
+  grade_reasoning: "Okay, let's tackle this evaluation. So, the task is to grade the
+    system answer based on the given guidelines. Let me start by understanding the
+    components here.\n\nFirst, the question asks about the different descriptions
+    of Harodia's appearance and abilities that Geron defeated. The gold answer lists
+    four specific points: seven giant snake necks, shape-shifting ability, corrosive
+    poisonous blood, and body parts that regrow when severed.\n\nNow, looking at the
+    system answer. It's structured into sections: Aussehen (appearance), Fähigkeiten
+    (abilities), and Mythologische Verknüpfung (mythological connection). Let me go
+    through each part.\n\nUnder Aussehen, it mentions seven monstrous snake necks,
+    which matches the gold answer. Then shape-shifting ability, which is also in the
+    gold answer. Then it says some reports mention poisonous blood that causes severe
+    wounds. The gold answer specifies \"zersetzend giftigem Blut\" (corrosive poisonous
+    blood), so that's correct.\n\nUnder Fähigkeiten, it lists \"Dämonische Regeneration\"\
+    \ (demonic regeneration), which the background info confirms as a fact all legends
+    agree on. The gold answer doesn't mention regeneration, though. Wait, the gold
+    answer only lists four points, but the background says that all legends agree
+    on two facts: regeneration and needing the gods' help. The gold answer didn't
+    include regeneration, but the system answer does. However, the question is about
+    \"unterschiedlichen Beschreibungen\" (different descriptions), so the parts that
+    are consistent across sources might not be what the question is asking for. Wait,
+    the question is about the different descriptions that exist, so the varying aspects.
+    The gold answer lists the varying aspects: seven necks, shape-shifting, poison
+    blood, regrowing parts. But the background says that regeneration (demonic ability)
+    is one of the two facts all agree on. So the regrowing parts (abgetrennte Körperteile)
+    is part of the varying descriptions? Wait, the background says: \"Von sieben riesenhaften
+    Schlangenhälsen wird berichtet, von der Fähigkeit, die Gestalt zu wechseln, von
+    zersetzend giftigem Blut und von abgetrennten Körperteilen, die wieder anwuchsen.\"\
+    \ So those four are the varying descriptions. Then it says \"Über zwei Fakten
+    sind sich jedoch alle Legenden und Märchen einig: Die Bestie hatte eine geradezu
+    dämonische Fähigkeit der Regeneration.\" So the regeneration is a consistent fact,
+    not part of the differing descriptions.\n\nWait, the question is asking for \"\
+    unterschiedlichen Beschreibungen\" (different descriptions), so the parts where
+    the sources differ. The gold answer lists the four varying aspects. The system
+    answer includes \"Dämonische Regeneration\" under abilities, but according to
+    the background, that's a fact all legends agree on, so it's not a differing description.
+    However, the system answer also mentions \"abgeteilte Körperteile, die sich neu
+    bilden\" which is part of the varying descriptions (matches the gold answer).
+    But the system answer adds the regeneration as a separate point. Wait, the background
+    says that the regrowing of body parts is part of the varying reports (\"von abgetrennten
+    Körperteilen, die wieder anwuchsen\"), but the demonic regeneration is the consistent
+    fact. Wait, maybe the regrowing of body parts is part of the varying descriptions,
+    while the demonic regeneration is the consistent fact. Let me check the background
+    again.\n\nBackground: \"Von sieben riesenhaften Schlangenhälsen wird berichtet,
+    von der Fähigkeit, die Gestalt zu wechseln, von zersetzend giftigem Blut und von
+    abgetrennten Körperteilen, die wieder anwuchsen. Über zwei Fakten sind sich jedoch
+    alle Legenden und Märchen einig: Die Bestie hatte eine geradezu dämonische Fähigkeit
+    der Regeneration. Geron konnte diesen Fluch – nach drei vergeblichen Angriffen
+    mit dem legendären Schwert Siebenstreich – erst brechen, als er die Macht aller
+    Götter zur Hilfe rief.\"\n\nSo the four items (seven necks, shape-shifting, poison
+    blood, regrowing parts) are the differing descriptions. The two facts all agree
+    on are: 1) demonic regeneration ability, 2) Geron breaking it with gods' help.\n
+    \nWait, but the gold answer lists the four varying aspects. The system answer
+    includes \"Dämonische Regeneration\" as a point under abilities, which according
+    to the background is a consistent fact, not a varying description. However, the
+    question is about \"unterschiedlichen Beschreibungen\" (different descriptions),
+    so the system answer is including a fact that's not part of the differing descriptions.
+    But the system answer also mentions \"abgeteilte Körperteile, die sich neu bilden\"\
+    , which is part of the varying descriptions.\n\nWait, the gold answer lists four
+    points, all from the background's varying descriptions. The system answer lists:\n
+    \n1. Seven snake necks – correct.\n\n2. Shape-shifting – correct.\n\n3. Poisonous
+    blood – correct.\n\n4. Demonic regeneration – but according to background, this
+    is a consistent fact, not a varying description. However, the system answer says
+    \"Dämonische Regeneration: Die Bestie kann sich rasch erholen, was Geron erst
+    durch Intervention der Götter brechen kann. Dieses Merkmal wird in allen Versionen
+    betont.\" So the system answer correctly identifies that this is a consistent
+    fact, but the question is about the different descriptions. So including a consistent
+    fact might be irrelevant, but is it incorrect?\n\nThe question is: \"Welche unterschiedlichen
+    Beschreibungen existieren...\" So the answer should only list the differing aspects,
+    not the consistent ones. The gold answer correctly lists only the differing aspects.
+    The system answer includes both differing and consistent aspects. However, the
+    system answer's section 2 says \"Dämonische Regeneration... wird in allen Versionen
+    betont.\" So it's clarifying that this is a consistent fact, not a differing description.
+    Wait, but the question is about the differing descriptions, so including the consistent
+    fact might be extra information, but is it wrong?\n\nWait, the system answer's
+    structure: under Fähigkeiten, it lists \"Dämonische Regeneration\" as a point,
+    but notes that it's emphasized in all versions. Then \"abgeteilte Körperteile...\"\
+    \ as another point. The gold answer includes the regrowing parts but not the demonic
+    regeneration. Wait, the background says that the regrowing parts are part of the
+    varying reports (\"von abgetrennten Körperteilen, die wieder anwuchsen\"), while
+    the demonic regeneration is the consistent fact. So the regrowing parts are a
+    varying description, and the demonic regeneration is a consistent fact.\n\nWait,
+    perhaps there's confusion here. Let me parse the background again.\n\nThe background
+    states: \"Von sieben riesenhaften Schlangenhälsen wird berichtet, von der Fähigkeit,
+    die Gestalt zu wechseln, von zersetzend giftigem Blut und von abgetrennten Körperteilen,
+    die wieder anwuchsen.\" So these four are the varying descriptions (i.e., some
+    sources mention these, others might not, or describe them differently). Then it
+    says \"Über zwei Fakten sind sich jedoch alle Legenden und Märchen einig: Die
+    Bestie hatte eine geradezu dämonische Fähigkeit der Regeneration. Geron konnte
+    diesen Fluch... erst brechen, als er die Macht aller Götter zur Hilfe rief.\"\n
+    \nSo the two agreed-upon facts are: 1) demonic regeneration ability, 2) Geron
+    needed gods' help to break it.\n\nTherefore, the varying descriptions are the
+    four listed (seven necks, shape-shifting, poison blood, regrowing parts). The
+    regrowing parts (\"abgetrennten Körperteile, die wieder anwuchsen\") is part of
+    the varying descriptions. Wait, but the demonic regeneration is separate. So the
+    regrowing parts might be a specific instance of the regeneration ability, but
+    according to the background, the regrowing parts are part of the varying reports,
+    while the demonic regeneration is the consistent fact.\n\nWait, maybe the regrowing
+    parts is a manifestation of the demonic regeneration. But the background lists
+    them as separate: the varying reports include regrowing parts, and the consistent
+    fact is the demonic regeneration. Hmm, perhaps the regrowing parts is one aspect
+    of the varying descriptions, while the overall regeneration ability is consistent.\n
+    \nBut regardless, the gold answer lists the four varying aspects, including \"\
+    abgetrennten Körperteilen, die wieder anwachsen konnten\". The system answer includes
+    \"abgeteilte Körperteile, die sich neu bilden\" which matches. It also includes
+    \"Dämonische Regeneration\" as a separate point, which according to the background
+    is a consistent fact, not a varying description. However, the question is about
+    the different descriptions that exist, so including a consistent fact might be
+    irrelevant, but is it incorrect?\n\nThe system answer says: \"Dämonische Regeneration:
+    Die Bestie kann sich rasch erholen, was Geron erst durch Intervention der Götter
+    brechen kann. Dieses Merkmal wird in allen Versionen betont.\" So it's correctly
+    stating that this is a consistent fact, not a differing description. But the question
+    asks for the differing descriptions, so including this might be extra information,
+    but since it's clarifying that it's a consistent fact, perhaps it's not wrong.
+    However, the gold answer doesn't include it, so the system answer is adding information
+    not in the gold answer.\n\nNow, according to the evaluation guidelines: \"A system
+    answer that includes statements not included in the gold answer but is not completely
+    wrong as well should get a rating between 2 and 4.\" But we need to check if the
+    additional info is correct or hallucinated.\n\nThe system answer also mentions
+    \"Mythologische Verknüpfung\" with Omegatherion and H’Ranga G’dzill. Let's check
+    the background info. The background provided doesn't mention Omegatherion or H’Ranga
+    G’dzill. The background is only the part given, which is the Geron defeating Harodia
+    section. So those mythological connections are not in the background info, meaning
+    they are hallucinations.\n\nWait, the background info provided is only the section
+    starting with \"#### Geron besiegt die Bestie Harodia\" and the text following.
+    There's no mention of Omegatherion or H’Ranga G’dzill there. Therefore, the system
+    answer's points under \"Mythologische Verknüpfung\" are not supported by the background
+    info and are likely hallucinations.\n\nSo, the system answer includes correct
+    information (the four varying aspects plus the consistent regeneration fact) but
+    also adds unsupported mythological connections. The gold answer only lists the
+    four varying aspects.\n\nThe guidelines say: if the system answer includes statements
+    not in the gold answer, check if they're true (using background info). If true
+    and relevant, okay; if hallucinations, lower rating.\n\nThe \"Dämonische Regeneration\"\
+    \ part: the background says it's a consistent fact, so mentioning it as a consistent
+    fact (not part of the differing descriptions) might be extra but correct. However,
+    the question is about differing descriptions, so including a consistent fact might
+    not be relevant. But the system answer clarifies that it's a consistent fact,
+    so it's not presenting it as a differing description. However, the question specifically
+    asks for the differing descriptions, so including non-differing facts could be
+    irrelevant but not wrong.\n\nBut the mythological connections (Omegatherion and
+    H’Ranga G’dzill) are not in the background, so they are hallucinations. That's
+    a problem.\n\nThe system answer also says \"abgeteilte Körperteile, die sich neu
+    bilden: Einige Erzählungen berichten, dass abgetrennte Teile der Bestie wieder
+    wachsen.\" Which matches the gold answer and background.\n\nNow, the gold answer
+    has four points. The system answer includes those four (seven necks, shape-shifting,
+    poison blood, regrowing parts) but adds the consistent regeneration fact and the
+    mythological connections.\n\nWait, the system answer's section 2 lists \"Dämonische
+    Regeneration\" and \"abgeteilte Körperteile...\". But according to the background,
+    the regrowing parts are part of the varying descriptions, while the demonic regeneration
+    is the consistent fact. So the system answer is separating them into two different
+    points, but perhaps they are related. However, the key issue is the mythological
+    connections which are hallucinations.\n\nSo, the system answer has correct information
+    from the gold answer plus some correct but possibly irrelevant info (the consistent
+    fact) and some hallucinated info (mythological connections).\n\nAccording to the
+    guidelines: if there are hallucinations, that should lower the rating.\n\nThe
+    gold answer is correct. The system answer includes all the gold answer's points
+    (seven necks, shape-shifting, poison blood, regrowing parts) but adds extra info.
+    The extra info includes a correct but possibly irrelevant point (consistent regeneration)
+    and hallucinated mythological links.\n\nThe hallucinations are a significant issue.
+    The presence of hallucinated content would lead to a lower rating.\n\nNow, the
+    rating scale:\n\n- 1: contradicts gold answer.\n\n- 5: includes all relevant info.\n
+    \n- 2-4: missing some details but not completely wrong.\n\nBut also, hallucinations
+    lower the rating.\n\nThe system answer does include all the gold answer's points.
+    However, it adds hallucinated content. The guidelines say: \"If the statements
+    are not true (hallucinations), this should generally lead to a lower rating.\"\
+    \n\nSo even if the answer includes all correct info from the gold answer, adding
+    hallucinations would reduce the score.\n\nHow much? The hallucinations here are
+    two points under \"Mythologische Verknüpfung\". The rest of the answer seems correct.\n
+    \nThe question is about differing descriptions of appearance and abilities. The
+    mythological connections are not about appearance or abilities, but rather about
+    origin/mythology, which might be considered irrelevant or incorrect.\n\nSince
+    the hallucinations are present, the rating should be less than 5.\n\nIs the system
+    answer contradicting the gold answer? No, it includes all the gold answer's points.
+    But adds extra incorrect info.\n\nAccording to guidelines: \"A system answer that
+    includes all relevant information to answer the question should get the highest
+    rating (5)\". But if it has hallucinations, even if it includes all relevant info,
+    does it still get 5? Probably not, because hallucinations are bad.\n\nThe guidelines
+    say: \"If the statements are not true (hallucinations), this should generally
+    lead to a lower rating.\"\n\nSo even if all the gold answer points are there,
+    hallucinations would lower it.\n\nHow much? Let's see. The system answer has the
+    four correct points, plus a correct but possibly irrelevant consistent fact, plus
+    two hallucinated points.\n\nThe hallucinations are in a separate section, but
+    they are presented as part of the answer. Since the question is about descriptions
+    of appearance and abilities, the mythological connections might not be directly
+    relevant, but they are presented as additional information.\n\nThe presence of
+    hallucinations would likely drop the score to a 3 or 4.\n\nWait, the guidelines
+    say: \"A system answer that does not include all necessary details given in the
+    gold answer but is not completely wrong as well should get a rating between 2
+    and 4.\"\n\nBut in this case, the system answer does include all necessary details
+    from the gold answer. The problem is the extra hallucinated info.\n\nThe guidelines
+    also state: \"If the statements are not true (hallucinations), this should generally
+    lead to a lower rating.\"\n\nSo even if all correct info is present, hallucinations
+    reduce the score.\n\nHow severe is this? The hallucinations here are two specific
+    claims not in the background. The background doesn't mention Omegatherion or H’Ranga
+    G’dzill, so those are made up.\n\nIn evaluation terms, if an answer has correct
+    info plus hallucinations, it's not fully accurate, so it can't be a 5. Depending
+    on the severity, maybe a 3 or 4.\n\nBut the system answer also correctly includes
+    all the gold answer points. So it's not missing anything, but adds false info.\n
+    \nThe guidelines say: \"A system answer contradicting the gold answer should get
+    the lowest rating (1)\". This doesn't contradict, so not 1.\n\n\"A system answers
+    that includes all relevant information to answer the question should get the highest
+    rating (5)\". But with hallucinations, it's not fully accurate.\n\nThe key is
+    whether the hallucinations are significant. Since they are two specific false
+    claims, this would lower the rating.\n\nIn some rubrics, adding incorrect information
+    can reduce the score even if correct info is present.\n\nGiven that, perhaps a
+    3 or 4.\n\nWait, another angle: the system answer's structure. It lists the correct
+    points, then adds the consistent fact (which is correct but not part of the differing
+    descriptions), then adds hallucinated mythological links.\n\nThe question is about
+    differing descriptions. The consistent fact is not a differing description, so
+    including it might be irrelevant but not wrong. However, the mythological links
+    are wrong.\n\nThe presence of hallucinations would definitely lower the score.
+    How much?\n\nIf the hallucinations are a small part, maybe 4. If significant,
+    3.\n\nThe system answer has a section with two hallucinated points. The rest is
+    correct.\n\nIn some cases, even one hallucination can drop the score to 3.\n\n
+    But let's check the exact guidelines.\n\nThe guidelines say: \"If the statements
+    are not true (hallucinations), this should generally lead to a lower rating.\"\
+    \n\nSo any hallucination should lower it from 5.\n\nIf the answer has all correct
+    info plus hallucinations, it's not a 5.\n\nNow, between 4 and 3.\n\nA 4 might
+    be for answers that have minor inaccuracies or irrelevant correct info.\n\nA 3
+    would be for answers that have some hallucinations but core correct.\n\nBut the
+    hallucinations here are specific and false.\n\nLooking for examples:\n\n- 5: perfect,
+    all correct, no hallucinations.\n\n- 4: minor issues, like extra correct info,
+    or very minor hallucination.\n\n- 3: noticeable hallucinations that don't contradict
+    but are wrong.\n\nIn this case, two hallucinated points. The answer is mostly
+    correct but has false info.\n\nGiven that, probably a 3.\n\nWait, but the system
+    answer does include all the gold answer's points. The hallucinations are additional.\n
+    \nThe gold answer is four points. The system answer has those four, plus some
+    correct but irrelevant (consistent fact), plus two hallucinations.\n\nThe hallucinations
+    are in a separate section, but they are part of the answer.\n\nGiven that the
+    hallucinations are present, and they are not minor (two specific false claims),
+    the rating should be 3.\n\nAlternatively, maybe 4 if the hallucinations are considered
+    less severe.\n\nWait, the background info provided doesn't mention those mythological
+    elements, so they are definitely hallucinations.\n\nIn the context of the evaluation,
+    since the system is supposed to use the background info, adding info not in the
+    background is a hallucination.\n\nThus, the presence of hallucinations would lower
+    the score.\n\nGiven that, and that all correct info is present, but with hallucinations,
+    the rating is likely 3.\n\nWait, another point: the system answer says \"Dämonische
+    Regeneration\" is a ability where the beast can recover quickly, which Geron breaks
+    with gods' help. The background says that all legends agree on the demonic regeneration
+    ability and that Geron needed gods' help. So that part is correct. However, the
+    question is about differing descriptions, so this is a consistent fact, not a
+    differing one. Including it might be irrelevant, but it's correct. So that's okay.\n
+    \nThe hallucinations are the mythological connections. So two false points.\n\n
+    In the system answer's structure, after listing the correct differing descriptions
+    and the consistent fact, it adds the mythological part which is false.\n\nSince
+    the question is about differing descriptions of appearance and abilities, the
+    mythological connections are not relevant to the question. But the system answer
+    includes them as part of the answer, which is incorrect.\n\nTherefore, the answer
+    has correct info but also incorrect info.\n\nAccording to guidelines, hallucinations
+    lower the rating.\n\nGiven that, I think the rating should be 3.\n\nBut let me
+    check again.\n\nGold answer has four points.\n\nSystem answer has those four points,
+    plus:\n\n- Demonic regeneration (correct but consistent fact, not differing)\n
+    \n- Mythological connections (hallucinations)\n\nThe question is about differing
+    descriptions, so the consistent fact is not part of the answer expected, but it's
+    correct. The hallucinations are wrong.\n\nThe presence of hallucinations is a
+    bigger issue.\n\nIn grading, if an answer has all correct required points but
+    adds wrong info, it's usually penalized.\n\nIn some rubrics, that would be a 3.\n
+    \nAlternatively, if the hallucinations are minor, maybe 4.\n\nBut here, two specific
+    false claims.\n\nI think 3 is appropriate.\n"
+  grade: 3
+  user_grade: 4

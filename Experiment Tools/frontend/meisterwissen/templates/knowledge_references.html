@@ -1,0 +1,5 @@
+<div id="knowledge_references" hx-swap-oob="true">
+    {% for child in knowledge_base.books %}
+        {% include 'knowledge_reference.html' %}
+    {% endfor %}
+</div>

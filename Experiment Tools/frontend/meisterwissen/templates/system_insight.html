@@ -1,0 +1,30 @@
+{# This part should be switched regularly by polling the backend #}
+<div id="system-insight" hx-swap-oob="beforeend">
+    <div class="system-insight">
+        <hr class="m-2 my-4">
+        <div class="italic cursor-pointer text-sm" _="on click log clicked then toggle .hidden on next .reformulated-query">Umformulierte Suchanfrage</div>
+        <div class="reformulated-query hidden">
+            {{ reformulated_query | safe}}
+            <hr class="my-2 h-px border-t-0 bg-transparent bg-gradient-to-r from-transparent via-neutral-500 to-transparent opacity-50 dark:via-neutral-400" />
+        </div>
+        {% for chunk in references %}
+            <!-- not entirely sure if text-balance looks great here -->
+            <div class="flex flex-cols items-baseline gap-2">
+                <span>&bull;</span>
+
+                <h3 class="text-xl font-bold cursor-pointer text-balance {{ 'pt-2' if not loop.first }}" _="on click
+                toggle .hidden on next .chunk-content then
+                toggle between .fa-angle-left and .fa-angle-down on <i/> in me">
+                    {{ chunk.title }} ({{ chunk.id }} &bull; S. {{ chunk.source_pages|join(", ") }})
+                <i class="fa-solid fa-angle-left"></i>
+                </h3>
+            </div>
+            <div class="chunk-content hidden">
+                {{ chunk.content }}
+                <hr class="my-2 h-px border-t-0 bg-transparent bg-gradient-to-r from-transparent via-neutral-500 to-transparent opacity-50 dark:via-neutral-400" />
+            </div>
+        {% endfor %}
+
+    </div>
+</div>
+{#</div>#}

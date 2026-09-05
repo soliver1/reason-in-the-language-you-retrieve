@@ -1,0 +1,1005 @@
+- question: Wie wird das Aussehen und Verhalten von Kaufleuten aus dem Bornland in
+    Al'Anfa gesehen?
+  correct_answer: Kaufleute aus dem Bornland werden in Al'Anfa als fleißig und arbeitsam
+    beschrieben, wobei sie trotz der Hitze ihren zobelbesetzten Wams tragen und oft
+    verlegen wirken.
+  inner_monologue: "Okay, I need to answer how Bornland merchants in Al'Anfa are perceived
+    in terms of appearance and behavior in DSA. Let me recall what I know about DSA
+    lore.\n\nFirst, the Bornland is a region in Aventuria, part of the northern areas,
+    known for its harsh climate and maybe a bit more rugged people. Al'Anfa is a city-state
+    in the south, a trade hub with a Mediterranean vibe, influenced by cultures similar
+    to Moorish or Spanish.\n\nBornlanders are probably seen as sturdy, maybe less
+    refined compared to the more cosmopolitan Al'Anfaners. Their appearance might
+    be practical, heavy clothing suited for cold climates, which would stand out in
+    the warmer Al'Anfa. Maybe they wear furs or wool, which isn't common there.\n\n
+    Behavior-wise, Bornland merchants might be straightforward, maybe a bit blunt,
+    valuing honesty and direct deals. Al'Anfa is a trade city, so merchants there
+    might be more used to haggling and intricate negotiations. So Bornlanders could
+    be seen as trustworthy but perhaps naive or too rigid in business practices.\n
+    \nWait, I should check if there's specific lore. In DSA, Bornland is part of the
+    Bornland region, which is more Germanic in influence, while Al'Anfa has a more
+    exotic, southern culture. The cultural clash would mean Bornlanders are seen as
+    outsiders. Their appearance: maybe tall, fair-haired, wearing practical but less
+    fashionable clothes. Behavior: maybe less accustomed to the complex social customs
+    of Al'Anfa, leading to perceptions of rudeness or simplicity.\n\nAlso, Al'Anfa
+    is a city of merchants, so they might respect Bornland goods (like furs, timber)
+    but find the merchants themselves a bit rough around the edges. Maybe they're
+    reliable but not as sophisticated as local traders.\n\nI should make sure not
+    to mix in real-world stereotypes. Stick to DSA canon. From what I remember, Bornlanders
+    are part of the human cultures in the north, and Al'Anfa is a melting pot. So
+    the answer should highlight cultural differences: practical vs. ornate clothing,
+    direct vs. diplomatic behavior, possible respect for reliability but seen as unsophisticated.\n
+    \nCheck if there's any official source mentioning Bornlanders in Al'Anfa. If not,
+    infer based on regional traits. Since the user is asking for how they're viewed,
+    it's about in-game perception, not real-world.\n\nSo, summarize: Appearance-wise,
+    Bornland merchants wear sturdy, warm clothing (furs, wool) which contrasts with
+    Al'Anfa's lighter attire, making them stand out. Behaviorally, they're seen as
+    honest and straightforward but perhaps too blunt or inflexible in negotiations,
+    which Al'Anfan merchants might view as naive or unsophisticated. They're trusted
+    for reliability but not for intricate deals.\n\nMake sure the answer is concise,
+    as per instructions. Avoid markdown, just plain text in German. Keep it short.\n"
+  system_answer: "\n\nBornländische Kaufleute in Al’Anfa fallen durch ihr robustes,
+    zweckmäßiges Erscheinungsbild auf: Sie tragen oft wärmere, rustikale Kleidung
+    aus Wolle oder Fell, was im mediterranen Klima Al’Anfas ungewöhnlich wirkt. Ihr
+    Verhalten gilt als direkt und ehrlich, aber auch als etwas ungehobelt oder starr
+    – im Gegensatz zur geschliffenen, diplomatischen Handelskultur der Al’Anfaner.
+    Sie werden geschätzt für Zuverlässigkeit (z. B. bei Rohstofflieferungen wie Pelzen),
+    aber als weniger versiert in komplexen Verhandlungen angesehen. Kulturelle Unterschiede
+    führen manchmal zu Vorurteilen, etwa der Glaube, sie seien „zu einfach gestrickt“
+    für die subtilen Spielarten des Al’Anfanischen Handels."
+  related_chunk: G01-239
+  grade_reasoning: "Okay, let's tackle this evaluation. So, the task is to grade the
+    system answer based on the given guidelines. Let me break it down step by step.\n
+    \nFirst, the question is asking how merchants from the Bornland are perceived
+    in Al'Anfa in terms of their appearance and behavior. The gold answer states that
+    they're seen as diligent and hardworking, wearing their fur-trimmed doublets despite
+    the heat and often appearing embarrassed.\n\nNow, looking at the system answer:
+    It says they have a robust, practical appearance, wearing warmer wool or fur clothing
+    which is unusual in Al'Anfa's Mediterranean climate. Their behavior is described
+    as direct and honest but also a bit rough or stiff compared to the refined Al'Anfaner
+    trade culture. They're appreciated for reliability (like delivering raw materials
+    such as furs) but seen as less skilled in complex negotiations. Cultural differences
+    lead to prejudices, like being thought of as \"too simple\" for the subtle trade
+    practices in Al'Anfa.\n\nThe background info mentions that Bornlanders are viewed
+    as \"fleißig und arbeitsam\" (diligent and hardworking), like bees making mead.
+    The typical image is a sweaty, red-faced merchant who won't take off his fur-trimmed
+    doublet despite the heat and stammers embarrassedly due to the freewheeling lifestyle.
+    Their competition in the colonies isn't taken seriously.\n\nComparing system answer
+    to gold answer: Gold says \"fleißig und arbeitsam\", \"zobelbesetzten Wams tragen
+    trotz Hitze\", \"verlegen wirken\". System answer includes \"robustes, zweckmäßiges
+    Erscheinungsbild\", \"wärmere Kleidung aus Wolle oder Fell\", \"direkt und ehrlich,
+    aber ungehobelt/starr\", \"geschätzt für Zuverlässigkeit (Rohstofflieferungen
+    wie Pelze)\", \"weniger versiert in komplexen Verhandlungen\", \"Vorurteile wie
+    'zu einfach gestrickt'\".\n\nCheck if system answer's additional info is correct
+    based on background. Background says \"ewig schwitzenden, rotgesichtigen Händler,
+    der sich trotz der Hitze seines zobelbesetzten Wams nicht entledigt und angesichts
+    der freizügigen Lebensart in ein verlegenes Stammeln verfällt.\" So wearing fur
+    despite heat and being embarrassed (verlegen) is correct. The system mentions
+    \"wärmere Kleidung aus Wolle oder Fell\" which aligns with zobelbesetzten Wams
+    (sable-trimmed doublet, which is fur). The behavior part: \"direkt und ehrlich\"\
+    \ matches \"aufrecht und ehrlich\" from background. \"Ungehobelt oder starr\"
+    isn't directly stated but \"verklemmt\" (prudish) might relate to being stiff.
+    The part about being less versed in negotiations and cultural prejudices isn't
+    in the gold answer but is in the background's \"Konkurrenz... nicht recht ernst
+    genommen\" which implies they aren't taken seriously, so maybe the system's point
+    about not being skilled in complex negotiations is an inference from that.\n\n
+    Wait, the gold answer doesn't mention anything about being less versed in negotiations
+    or reliability in raw materials. However, the background info does say \"gute
+    Geschäftsleute\" (good merchants) but their competition isn't taken seriously.
+    The system answer's addition about reliability in delivering furs (Pelze) is correct
+    since the background mentions Pelze (furs) as part of their trade. The part about
+    \"zu einfach gestrickt\" might be inferred from \"verklemmt\" or not being taken
+    seriously.\n\nBut the key points in gold are diligence, wearing fur despite heat,
+    appearing embarrassed. The system answer includes these (diligent/hardworking
+    is covered by \"geschätzt für Zuverlässigkeit\" maybe, but the main descriptors
+    in system are \"direkt und ehrlich\", etc. Wait, the system answer starts with
+    \"robustes, zweckmäßiges Erscheinungsbild\" which isn't in gold but is in background
+    as \"rotgesichtigen Händler\" (red-faced merchant), which could be part of the
+    appearance.\n\nWait, the gold answer's key points are:\n\n- fleißig und arbeitsam
+    (diligent and hardworking)\n- zobelbesetzten Wams tragen trotz Hitze (wear sable-trimmed
+    doublet despite heat)\n- oft verlegen wirken (often appear embarrassed)\n\nThe
+    system answer includes:\n\n- wärmere Kleidung aus Wolle oder Fell (warmer clothing
+    made of wool or fur) → matches zobelbesetzten Wams (sable is a type of fur)\n
+    - trotz mediterranen Klimas ungewöhnlich → same as despite the heat\n- Verhalten:
+    direkt und ehrlich, aber ungehobelt/starr → background says \"aufrecht und ehrlich\"\
+    \ and \"verklemmt\", so \"direct and honest\" is correct, \"ungehobelt\" (uncouth)
+    might be a stretch but \"verklemmt\" could imply stiffness\n- verlegen wirken
+    → system mentions \"verlegen wirken\" isn't directly there, but background says
+    \"verlegenes Stammeln\", so system answer should include that they appear embarrassed.
+    Wait, the system answer says \"Ihr Verhalten gilt als direkt und ehrlich, aber
+    auch als etwas ungehobelt oder starr\" but doesn't explicitly say they appear
+    embarrassed. However, the gold answer's \"oft verlegen wirken\" is a key point.\n
+    \nWait, the system answer doesn't mention them appearing embarrassed or stammering.
+    The background info says they fall into \"verlegenes Stammeln\" (embarrassed stammering)
+    due to the freewheeling lifestyle. The system answer talks about cultural differences
+    leading to prejudices but doesn't specifically state that they often appear embarrassed.
+    So the system answer might be missing that part.\n\nBut wait, let's check the
+    system answer again: \"Ihr Verhalten gilt als direkt und ehrlich, aber auch als
+    etwas ungehobelt oder starr – im Gegensatz zur geschliffenen, diplomatischen Handelskultur
+    der Al’Anfaner.\" It doesn't mention the embarrassment. The gold answer specifically
+    includes \"oft verlegen wirken\". So the system answer is missing that key detail
+    from the gold answer.\n\nHowever, the system answer adds other details that are
+    correct based on background: wearing warm clothes, being direct/honest, not taken
+    seriously in negotiations, reliability with raw materials like furs. But the gold
+    answer requires mentioning the embarrassment. Since the system answer doesn't
+    include \"oft verlegen wirken\", which is part of the gold answer, that's a missing
+    detail.\n\nBut wait, does the system answer indirectly cover it? The background
+    says \"angesichts der freizügigen Lebensart in ein verlegenes Stammeln verfällt\"\
+    , so maybe the system's mention of cultural differences leading to prejudices
+    could imply that, but it's not explicit. The gold answer specifically states they
+    \"often appear embarrassed\", so if the system answer doesn't include that, it's
+    missing a necessary detail.\n\nSo the system answer has all the correct info from
+    the background but misses the \"verlegen wirken\" part. Wait, let me check again.\n
+    \nGold answer: \"Kaufleute aus dem Bornland werden in Al'Anfa als fleißig und
+    arbeitsam beschrieben, wobei sie trotz der Hitze ihren zobelbesetzten Wams tragen
+    und oft verlegen wirken.\"\n\nSystem answer mentions wearing warm clothing (zobelbesetzten
+    Wams equivalent), diligent/hardworking is covered by \"geschätzt für Zuverlässigkeit\"\
+    \ perhaps, but the key adjectives are \"fleißig und arbeitsam\", which the system
+    answer doesn't explicitly state. Wait, the system answer says \"Ihr Verhalten
+    gilt als direkt und ehrlich\", but the gold says \"fleißig und arbeitsam\". Are
+    \"direct and honest\" equivalent to \"diligent and hardworking\"? Not exactly.
+    Diligent/hardworking refers to work ethic, while direct/honest is about communication
+    style.\n\nWait, the background info says: “Fleißig und arbeitsam, wie die Bienen,
+    aus deren Honig sie ihren Meskinnes brennen. Aufrecht und ehrlich und gute Geschäftsleute.”
+    So \"fleißig und arbeitsam\" (diligent and hardworking) and \"aufrecht und ehrlich\"\
+    \ (upright and honest). So the gold answer includes the diligent/hardworking part,
+    while the system answer mentions \"direkt und ehrlich\" (direct and honest), which
+    corresponds to \"aufrecht und ehrlich\". But the gold answer's main descriptor
+    is \"fleißig und arbeitsam\", which the system answer doesn't explicitly state.
+    Wait, the system answer says \"geschätzt für Zuverlässigkeit\", which could relate
+    to being hardworking, but it's not the same.\n\nSo the system answer includes
+    some correct details not in the gold answer (like being seen as less versed in
+    negotiations), but misses the \"fleißig und arbeitsam\" part? Wait no: the gold
+    answer starts with \"als fleißig und arbeitsam beschrieben\", so that's a key
+    point. The system answer says \"Ihr Verhalten gilt als direkt und ehrlich\", but
+    doesn't mention \"fleißig und arbeitsam\". However, the background info has both
+    \"fleißig und arbeitsam\" and \"aufrecht und ehrlich\".\n\nWait, the system answer's
+    first sentence: \"Bornländische Kaufleute in Al’Anfa fallen durch ihr robustes,
+    zweckmäßiges Erscheinungsbild auf...\" then talks about clothing. Then \"Ihr Verhalten
+    gilt als direkt und ehrlich...\" So it's describing behavior as direct and honest,
+    but the gold answer describes them as diligent and hardworking. Are these different
+    aspects?\n\nYes. The gold answer's primary description is \"fleißig und arbeitsam\"\
+    \ (diligent and hardworking), which is about work ethic. The system answer talks
+    about behavior being direct and honest (communication style). However, the background
+    info includes both: “Fleißig und arbeitsam... Aufrecht und ehrlich...”. So the
+    gold answer chose to include the diligent/hardworking part, while the system answer
+    included the upright/honest part.\n\nBut the question is about how their appearance
+    and behavior are seen. The gold answer covers appearance (zobelbesetzten Wams
+    trotz Hitze) and behavior (fleißig, arbeitsam, verlegen). Wait, \"fleißig und
+    arbeitsam\" is behavior, as well as \"verlegen wirken\".\n\nThe system answer
+    covers appearance (robust, warm clothing) and behavior (direct, honest, ungehobelt,
+    etc.). But does it include \"fleißig und arbeitsam\"? Not explicitly. However,
+    \"geschätzt für Zuverlässigkeit\" might imply diligence, but it's not the same.\n
+    \nWait, the background says they're \"gute Geschäftsleute\" (good merchants),
+    which could encompass being diligent. But the gold answer specifically uses \"\
+    fleißig und arbeitsam\".\n\nSo the system answer is missing the \"fleißig und
+    arbeitsam\" descriptor, which is part of the gold answer. Instead, it uses \"
+    direkt und ehrlich\". Both are from the background, but the gold answer selected
+    certain parts. The task is whether the system answer includes all necessary details
+    from the gold answer.\n\nThe gold answer has three elements: 1) described as diligent/hardworking,
+    2) wear fur-trimmed doublet despite heat, 3) often appear embarrassed.\n\nThe
+    system answer includes: 2) wearing warm/fur clothing despite climate, 3) ? It
+    mentions cultural differences leading to prejudices, but not specifically that
+    they appear embarrassed. The \"verlegen wirken\" is missing. Instead, it talks
+    about being seen as less versed in negotiations.\n\nSo the system answer misses
+    two elements from the gold answer: \"fleißig und arbeitsam\" and \"oft verlegen
+    wirken\". Wait, no: does \"geschätzt für Zuverlässigkeit\" cover diligent/hardworking?
+    Maybe partially, but not exactly. And the embarrassed part is not mentioned.\n
+    \nBut wait, the system answer says: \"Ihr Verhalten gilt als direkt und ehrlich,
+    aber auch als etwas ungehobelt oder starr\". The \"starr\" (stiff) might relate
+    to being prudish (\"verklemmt\") from the background, which could lead to appearing
+    embarrassed. But it's not explicit.\n\nThe gold answer requires \"oft verlegen
+    wirken\", which is a specific point. If the system answer doesn't include that,
+    it's missing a necessary detail.\n\nHowever, looking back, the system answer might
+    have included it indirectly. Let me check again.\n\nSystem answer: \"Kulturelle
+    Unterschiede führen manchmal zu Vorurteilen, etwa der Glaube, sie seien „zu einfach
+    gestrickt“ für die subtilen Spielarten des Al’Anfanischen Handels.\"\n\nThis talks
+    about prejudices but not about them appearing embarrassed. The background specifically
+    mentions \"verlegenes Stammeln\" (embarrassed stammering), so the gold answer's
+    \"oft verlegen wirken\" is a direct reference to that. The system answer doesn't
+    mention this aspect.\n\nSo the system answer is missing the \"often appear embarrassed\"\
+    \ part. It also doesn't explicitly state they're \"fleißig und arbeitsam\", though
+    it does say they're reliable (Zuverlässigkeit), which might be related.\n\nAccording
+    to the guidelines: \"A system answer that does not include all necessary details
+    given in the gold answer but is not completely wrong as well should get a rating
+    between 2 and 4.\"\n\nThe system answer gets some details right (clothing, some
+    behavior aspects) but misses key parts from the gold answer (diligent/hardworking,
+    appearing embarrassed). However, the additional details it provides (like being
+    less versed in negotiations) are correct based on background (\"Konkurrenz...
+    nicht recht ernst genommen\" implies not taken seriously, which could mean not
+    skilled in complex negotiations).\n\nBut the main issue is missing the two key
+    points from the gold answer. Wait, let's list:\n\nGold answer components:\n1.
+    fleißig und arbeitsam (diligent and hardworking)\n2. tragen zobelbesetzten Wams
+    trotz Hitze (wear sable-trimmed doublet despite heat)\n3. oft verlegen wirken
+    (often appear embarrassed)\n\nSystem answer components:\n- wärmere Kleidung aus
+    Wolle/Fell trotz Klima (matches 2)\n- Verhalten: direkt und ehrlich, ungehobelt/starr
+    (new info, correct per background)\n- geschätzt für Zuverlässigkeit bei Rohstofflieferungen
+    (correct, per background's Pelze mention)\n- weniger versiert in komplexen Verhandlungen
+    (inference from \"Konkurrenz nicht ernst genommen\")\n- Vorurteile wie \"zu einfach
+    gestrickt\" (related to not being taken seriously)\n\nMissing from system answer:\n
+    - fleißig und arbeitsam (1)\n- oft verlegen wirken (3)\n\nBut wait, does \"geschätzt
+    für Zuverlässigkeit\" equate to diligent/hardworking? Maybe partially, but \"\
+    fleißig\" is more about diligence in work, whereas reliability is about keeping
+    promises. They're related but not the same.\n\nThe \"oft verlegen wirken\" is
+    completely missing. The system answer talks about cultural differences leading
+    to prejudices but doesn't mention the merchants themselves appearing embarrassed.\n
+    \nSo the system answer misses two out of three key points from the gold answer.
+    However, it adds other correct details. According to the guidelines, if it doesn't
+    include all necessary details but isn't completely wrong, rating between 2-4.\n
+    \nBut how critical are the missing points? The gold answer's main descriptors
+    are \"fleißig und arbeitsam\" and \"verlegen wirken\", along with the clothing.
+    If the system answer replaces \"fleißig\" with \"direct and honest\", which is
+    another trait from the background, but the gold answer specifically chose \"fleißig\"\
+    , then the system answer is not matching the gold answer's required content.\n
+    \nHowever, the evaluation criteria says: \"A system answer that includes all relevant
+    information to answer the question should get the highest rating (5)\". The relevant
+    information is what's in the gold answer, which is based on the background.\n\n
+    Wait, the task says: \"use the background information in case the system answer
+    includes more information not relevant in the gold answer, to determine if the
+    additional information is correct or hallucinated.\"\n\nSo the gold answer is
+    the correct answer, so the system answer must include all the points in the gold
+    answer. Additional correct info is okay, but missing points from gold answer lowers
+    the score.\n\nThe gold answer has three main points. The system answer includes
+    the clothing part (matches), but instead of \"fleißig und arbeitsam\" and \"verlegen\"\
+    , it has other behavior descriptors. So it's missing two key elements.\n\nBut
+    wait, let's check the system answer again for \"fleißig und arbeitsam\". The system
+    answer says \"geschätzt für Zuverlässigkeit\", which might be a way of saying
+    they're diligent, but it's not explicit. The background says \"Fleißig und arbeitsam\"\
+    , so the gold answer includes that phrase. If the system answer doesn't use those
+    exact terms but conveys a similar meaning through \"Zuverlässigkeit\", is that
+    acceptable?\n\nPossibly, but \"fleißig\" is more about diligence in work, while
+    \"Zuverlässigkeit\" is reliability. They're related but distinct. So it's a partial
+    match.\n\nAs for \"oft verlegen wirken\", the system answer doesn't mention it
+    at all. The background clearly states they fall into embarrassed stammering, so
+    this is a key point that's missing.\n\nTherefore, the system answer is missing
+    two important details from the gold answer. However, the additional information
+    it provides is correct per the background.\n\nAccording to the guidelines: if
+    it doesn't include all necessary details but isn't completely wrong, rating between
+    2-4. Since it's missing two out of three main points, but those points are crucial
+    to the gold answer, it might be a 3 or 2.\n\nWait, the first point of the gold
+    answer is \"fleißig und arbeitsam\", which is a primary descriptor. The system
+    answer doesn't include this; instead, it uses different descriptors. So the core
+    description is different.\n\nBut the background includes both \"fleißig und arbeitsam\"\
+    \ and \"aufrecht und ehrlich\", so both are correct. However, the gold answer
+    selected \"fleißig und arbeitsam\" as the main behavioral trait, whereas the system
+    answer chose \"direkt und ehrlich\". So the system answer is correct in what it
+    says, but didn't include the specific traits mentioned in the gold answer.\n\n
+    The evaluation criteria states: \"A system answer contradicting the gold answer
+    should get the lowest rating (1)\". It doesn't contradict, but misses details.\n
+    \nAnother guideline: \"A system answer that does not include all necessary details
+    given in the gold answer but is not completely wrong as well should get a rating
+    between 2 and 4.\"\n\nHow many necessary details are missing? The gold answer
+    has three components. The system answer includes one (clothing), misses two (diligent,
+    embarrassed). However, the system answer's description of behavior is correct
+    but different from the gold answer's choice.\n\nWait, but the question is about
+    how they are seen in terms of appearance and behavior. The gold answer specifies
+    the behavior as \"fleißig und arbeitsam\" and \"verlegen\". The system answer
+    describes behavior as \"direct and honest, but uncouth or stiff\", which are also
+    correct per background, but different aspects.\n\nThe issue is whether the system
+    answer covers the same aspects as the gold answer. If the gold answer requires
+    mentioning diligence and embarrassment, and the system answer talks about directness
+    and being unrefined instead, then it's missing the required points.\n\nIn grading,
+    the system answer must include all the information in the gold answer. Additional
+    correct info is fine, but missing gold answer details lowers the score.\n\nSince
+    the system answer doesn't mention \"fleißig und arbeitsam\" or \"oft verlegen
+    wirken\", it's missing two key points from the gold answer. However, the parts
+    it does include are correct.\n\nAccording to the scale:\n\n- 5: includes all relevant
+    info (gold answer's points)\n- 4: minor omissions but mostly correct\n- 3: some
+    missing details but core is there\n- 2: major omissions but not wrong\n- 1: contradicts\n
+    \nHere, two out of three main points are missing. The clothing part is there,
+    but the behavioral descriptors are different. Since the behavioral part is crucial
+    (the question is about appearance AND behavior), missing both behavioral aspects
+    from the gold answer would be a significant omission.\n\nHowever, the system answer's
+    behavioral description is correct per background, just not the same as gold answer's
+    selection. But the gold answer is the standard, so the system must match it.\n
+    \nWait, the gold answer is the correct answer created from the background. So
+    if the background has multiple points, the gold answer selects specific ones.
+    The system answer must match those selected points, even if other points are also
+    correct.\n\nTherefore, missing the \"fleißig\" and \"verlegen\" parts is a problem,
+    even if other correct info is added.\n\nSo the system answer should have included
+    \"fleißig und arbeitsam\" and \"oft verlegen wirken\" in addition to the clothing.
+    Since it didn't, it's missing necessary details.\n\nHow severe is this? The question
+    asks for how they are seen in terms of appearance and behavior. The gold answer
+    provides specific behavior traits. The system answer provides different behavior
+    traits. So it's answering the question but with different (though correct) details.
+    However, the gold answer is the benchmark.\n\nIn grading, the system answer needs
+    to match the gold answer's content. If the gold answer specifies certain points,
+    the system must include them.\n\nGiven that, missing two of three key points would
+    likely result in a lower score. But let's see examples.\n\nIf the gold answer
+    says \"A, B, C\" and the system says \"B, D, E\" where D and E are correct, but
+    A and C are missing, then it's missing necessary details.\n\nHere, gold is \"
+    fleißig, clothing, verlegen\". System has \"clothing, direct/honest, other points\"\
+    . So missing \"fleißig\" and \"verlegen\".\n\nSince the question is about appearance
+    and behavior, and behavior has two aspects in gold (diligent, embarrassed), missing
+    both behavior points would be bad.\n\nBut the system does address behavior, just
+    different aspects. However, the gold answer's behavior aspects are required.\n
+    \nThis is tricky. Maybe the \"fleißig und arbeitsam\" is considered the main behavioral
+    trait, and \"verlegen\" is secondary. If the system answer misses both, but includes
+    other behavior traits, it's a significant omission.\n\nGiven the guidelines, a
+    rating between 2-4. Since it's not contradicting, not completely wrong, but missing
+    key details.\n\nHow many points are critical? The \"tragen trotz Hitze zobelbesetzten
+    Wams\" is included, which is appearance. The behavior parts are missing. Since
+    the question asks for both appearance and behavior, and behavior is half the answer,
+    missing both behavior points from gold answer would be a major issue.\n\nBut the
+    system answer does talk about behavior, just different aspects. However, the gold
+    answer's specific behavior points are required.\n\nI think this would be a 3.
+    It includes some correct info, misses key parts but isn't wrong. Alternatively,
+    a 2 if the omissions are severe.\n\nWait, another angle: the gold answer's \"
+    fleißig und arbeitsam\" is directly from the background's first line. The system
+    answer's \"direkt und ehrlich\" is from the next part. So both are correct, but
+    the gold answer chose the first descriptor. However, the question is about how
+    they are seen, and multiple descriptors are valid. But the gold answer is the
+    standard, so the system must match it.\n\nIn an exam setting, if the correct answer
+    is \"X and Y\", and the student writes \"Y and Z\" (where Z is also correct),
+    but misses X, it's partially correct.\n\nGiven that, missing one key point might
+    be a 4, missing two might be a 3.\n\nHere, missing two behavior points (but appearance
+    is correct). Since the question is about both appearance and behavior, and behavior
+    is a major part, missing both behavior elements from gold answer would be significant.\n
+    \nBut the system answer's behavior description is correct, just not the same as
+    gold. However, the task is to match the gold answer's content, not just be correct.\n
+    \nThe guidelines say: \"A system answer that includes all relevant information
+    to answer the question should get the highest rating (5)\". The relevant information
+    is what's in the gold answer.\n\nTherefore, the system answer must include the
+    same points as the gold answer. Additional correct info is okay, but missing gold
+    answer points reduces the score.\n\nSince two out of three points are missing,
+    but the third is present, and additional correct info is added, the rating would
+    be a 3.\n\nAlternatively, if the \"fleißig\" is considered the most important
+    part, missing that might be a bigger issue.\n\nWait, the gold answer starts with
+    \"als fleißig und arbeitsam beschrieben\", making that the primary descriptor.
+    Not including that would be a major omission.\n\nSo the system answer doesn't
+    mention they're seen as diligent and hardworking at all. Instead, it says they're
+    direct and honest. While both are true, the gold answer specifies the former,
+    so the system answer fails to include the main point.\n\nThat would be a significant
+    omission. Missing the main descriptor would likely bring the score down to 2 or
+    3.\n\nGiven that, I think the rating is 3. It has correct additional info, includes
+    the appearance part, but misses the two key behavioral descriptors from the gold
+    answer.\n"
+  grade: 3
+  user_grade: 3
+- question: Welche natürlichen Hindernisse machen die Hexeninsel schwer zugänglich?
+  correct_answer: Die Hexeninsel ist von scharfzähnigen Riffen und unberechenbaren
+    Strömungen umgeben, was die Annäherung erschwert.
+  inner_monologue: "Okay, the user is asking about natural obstacles that make the
+    Witch Island hard to access in DSA. Let me recall the lore.\n\nFirst, the Witch
+    Island is part of the DSA universe, specifically in Aventuria. I think it's located
+    in the Meer der Sieben Winde. The main natural barriers would probably be geographical
+    features.\n\nI remember that the island is surrounded by dangerous waters. There
+    are strong currents and maybe reefs or rocks that make navigation tough. Also,
+    maybe there are frequent storms in that area, which would deter ships.\n\nAnother
+    point could be the dense forests or swamps on the island itself, making it hard
+    to move inland once you land. Maybe there are magical barriers or illusions created
+    by the witches, but the question specifies natural obstacles, so I should focus
+    on non-magical ones.\n\nWait, the user said \"natürliche Hindernisse,\" so I need
+    to stick to natural, not magical. So things like treacherous coastlines, cliffs,
+    maybe fog that's naturally occurring. Also, perhaps the island is isolated, far
+    from other lands, making the journey long and perilous.\n\nLet me check my knowledge:
+    In DSA lore, the Hexeninsel (Witch Island) is known for being surrounded by the
+    \"Schwarze Klippen\" (Black Cliffs), which are steep and hard to scale. There
+    are also the \"Rabenklippen\" (Raven Cliffs) with sharp rocks that can wreck ships.
+    The surrounding sea has unpredictable currents and frequent fog banks, making
+    navigation difficult. Additionally, the waters might have dangerous marine life,
+    though I'm not sure if that's specified.\n\nSo the main points are: treacherous
+    cliffs, dangerous reefs/rocks, strong currents, frequent fog, and maybe storms.
+    I should list these as the natural obstacles.\n"
+  system_answer: "\n\nDie Hexeninsel in *Das Schwarze Auge* ist schwer zugänglich
+    durch:  \n- **Schwarze Klippen** (steile, unüberwindliche Felswände entlang der
+    Küste),  \n- **Rabenklippen** (versunkene Riffzonen, die Schiffe kentern lassen),\
+    \  \n- **unberechenbare Strömungen** im *Meer der Sieben Winde*,  \n- **dichten
+    Nebel**, der die Navigation unmöglich macht,  \n- **stürmische See**, die Landungsversuche
+    gefährdet.  \nMagische Barrieren existieren ebenfalls, sind aber keine *natürlichen*
+    Hindernisse."
+  related_chunk: G01-013
+  grade_reasoning: "Okay, let's tackle this evaluation. So, the question is asking
+    about the natural obstacles that make the Hexeninsel (Witches' Island) hard to
+    access.\n\nFirst, I'll look at the gold answer. It says the island is surrounded
+    by \"scharfzähnigen Riffen\" (sharp-toothed reefs) and \"unberechenbaren Strömungen\"\
+    \ (unpredictable currents), which make approaching it difficult.\n\nNow, the system
+    answer lists several obstacles: Schwarze Klippen (black cliffs), Rabenklippen
+    (raven cliffs, described as submerged reef zones), unberechenbare Strömungen (unpredictable
+    currents), dichten Nebel (thick fog), stürmische See (stormy sea), and mentions
+    magical barriers but notes they aren't natural.\n\nThe background info states
+    the island is protected by \"scharfzähnigen Riffen und unberechenbaren Strömungen\"\
+    \ and mentions it's probably uninhabited. It also talks about Efferd nights, strange
+    plants, etc., but no other natural obstacles.\n\nSo, comparing system answer to
+    gold answer: Gold mentions reefs and currents. System adds black cliffs, raven
+    cliffs (submerged reefs), fog, stormy sea. Wait, the background info only confirms
+    reefs and currents. The other elements (cliffs, fog, stormy sea) aren't in the
+    background. Wait, the background says \"scharfzähnigen Riffen\" which are sharp-toothed
+    reefs. The system answer lists \"Schwarze Klippen\" (black cliffs) and \"Rabenklippen\"\
+    \ (raven cliffs) as separate items. But the background doesn't mention cliffs.
+    It just says reefs and currents.\n\nWait, \"Rabenklippen\" might be a specific
+    term. The system answer describes Rabenklippen as \"versunkene Riffzonen\" (submerged
+    reef zones). So maybe Rabenklippen are part of the reefs mentioned in the background.
+    But the background says \"scharfzähnigen Riffen\" (sharp-toothed reefs), which
+    could be the same as Rabenklippen. However, the system answer lists them as separate
+    from the reefs. Wait, no—the system answer lists Rabenklippen as a separate bullet
+    point. Wait, the system answer's first bullet is Schwarze Klippen (steep cliffs),
+    second is Rabenklippen (submerged reefs), third is currents. But the background
+    only mentions reefs and currents. So Schwarze Klippen (black cliffs) aren't in
+    the background. The background doesn't mention any cliffs, just reefs and currents.\n
+    \nSo the system answer added Schwarze Klippen, which are described as steep, insurmountable
+    cliffs. But the background doesn't say that. So that's a hallucination. Similarly,
+    dichten Nebel (thick fog) and stürmische See (stormy sea) are added, which aren't
+    in the background. The background only mentions reefs and currents as natural
+    obstacles.\n\nThe gold answer only includes the two elements from the background.
+    The system answer includes those two (unberechenbare Strömungen is present), but
+    adds others. However, the system answer's \"Rabenklippen\" might be a made-up
+    term. Wait, the background says \"scharfzähnigen Riffen\"—sharp-toothed reefs.
+    The system answer's Rabenklippen are described as submerged reef zones. Maybe
+    \"Rabenklippen\" is a specific name for those reefs in the lore, but the background
+    doesn't mention that term. So if the background doesn't mention Rabenklippen,
+    then that's a hallucination.\n\nSimilarly, Schwarze Klippen (black cliffs) aren't
+    mentioned. The background says the island is surrounded by reefs and currents,
+    but not cliffs. So the system answer is adding extra obstacles that aren't in
+    the background info. Therefore, those are hallucinations.\n\nThe system answer
+    does correctly include \"unberechenbare Strömungen\" which matches the gold answer
+    and background. But the other points are not supported. The question is about
+    natural obstacles, and the system answer lists more than the gold answer, but
+    some are incorrect.\n\nAccording to the guidelines: if the system answer includes
+    statements not in the gold answer, check if they're true based on background.
+    If they're false (hallucinations), that lowers the rating.\n\nSo the system answer
+    has correct info (currents, maybe reefs as Rabenklippen?), but also incorrect
+    info (black cliffs, fog, stormy sea). Wait, the system answer lists \"Rabenklippen
+    (versunkene Riffzonen, die Schiffe kentern lassen)\"—so they're describing Rabenklippen
+    as submerged reefs. The background mentions \"scharfzähnigen Riffen\"—sharp-toothed
+    reefs. So maybe Rabenklippen is a term for those reefs in the lore. But since
+    the background doesn't use that term, but the system answer is part of a fictional
+    world, perhaps Rabenklippen is correct. Wait, but the background info provided
+    here is the source we have to check against. The background says \"scharfzähnigen
+    Riffen\", not Rabenklippen. So unless Rabenklippen is another name for those reefs,
+    but the background doesn't say that. So the system answer is introducing a term
+    not in the background, which would be a hallucination.\n\nSimilarly, Schwarze
+    Klippen aren't mentioned. So those are made up.\n\nTherefore, the system answer
+    includes hallucinated elements. The gold answer only has the two correct points.
+    The system answer has those two (currents) but adds incorrect ones. Wait, the
+    system answer lists \"unberechenbare Strömungen\" which is correct, but also adds
+    other obstacles that aren't in the background.\n\nSo the system answer is partially
+    correct but includes hallucinations. According to the guidelines, if it contradicts
+    the gold answer, it's a 1. But here, the gold answer is a subset. The system answer
+    doesn't contradict but adds extra info, some of which is wrong.\n\nThe guidelines
+    say: if the system answer includes statements not in the gold answer, check background.
+    If true and relevant, okay. If false, lower rating.\n\nIn this case, the extra
+    statements (black cliffs, raven cliffs as separate, fog, stormy sea) are not in
+    the background, so they're hallucinations. So the answer has incorrect additional
+    info.\n\nThe gold answer has two points. The system answer includes the currents
+    (correct) but the reefs part: the gold says \"scharfzähnigen Riffen\", system
+    says \"Rabenklippen (versunkene Riffzonen)\" and \"Schwarze Klippen\". Wait, the
+    system answer lists two reef-related items: Schwarze Klippen (cliffs) and Rabenklippen
+    (submerged reefs). But the background only mentions reefs (Riffen). So maybe the
+    system answer is splitting the reefs into two types, but the background doesn't
+    specify. However, \"Klippen\" usually means cliffs, not reefs. So Schwarze Klippen
+    as cliffs would be different from Riffen (reefs). So the system answer is adding
+    cliffs as obstacles, which the background doesn't mention. So that's a hallucination.\n
+    \nThus, the system answer has correct info (currents) and some incorrect info
+    (cliffs, fog, etc.). The gold answer only includes the correct parts. So the system
+    answer is not contradicting the gold answer but adding false details.\n\nAccording
+    to the guidelines, if it includes all relevant info (gold answer) and extra true
+    info, it's a 5. But if extra info is false, then lower rating.\n\nHere, the system
+    answer does include the correct \"unberechenbare Strömungen\", but the reefs part:
+    the gold answer says \"scharfzähnigen Riffen\", but the system answer refers to
+    Rabenklippen as submerged reefs. If Rabenklippen is a correct term from the lore
+    not mentioned in the background provided, but since we can only use the given
+    background info, and the background says \"scharfzähnigen Riffen\", not Rabenklippen,
+    then Rabenklippen is a hallucination.\n\nWait, the background info is the source
+    we have to check against. The problem statement says: \"You shall use the background
+    information in case the system answer includes more information not relevant in
+    the gold answer, to determine if the additional information is correct or hallucinated.\"\
+    \n\nSo the background info is the authoritative source here. The background says
+    the obstacles are scharfzähnigen Riffen and Strömungen. The system answer lists
+    multiple items, some of which (like Schwarze Klippen, dichten Nebel, stürmische
+    See) are not in the background. Therefore, those are hallucinations.\n\nSo the
+    system answer has the correct Strömungen, but the Riffen part is split into Rabenklippen
+    (which may or may not be the same as scharfzähnigen Riffen). But since the background
+    doesn't mention Rabenklippen, it's an addition. However, the system answer describes
+    Rabenklippen as submerged reef zones, which could be a way to describe the scharfzähnigen
+    Riffen. But the term \"Rabenklippen\" isn't in the background, so it's introducing
+    a new term not present, which is a hallucination.\n\nTherefore, the system answer
+    includes both correct and incorrect information. The gold answer is correct and
+    concise. The system answer has extra incorrect details.\n\nAccording to the guidelines:
+    \"A system answer that does not include all necessary details given in the gold
+    answer but is not completely wrong as well should get a rating between 2 and 4.\"\
+    \n\nWait, but in this case, the system answer does include the necessary details
+    from the gold answer (reefs and currents), but adds more. However, some of the
+    added details are incorrect.\n\nThe guidelines also say: \"If the statements are
+    not true (hallucinations), this should generally lead to a lower rating.\"\n\n
+    So even though the system answer includes the correct info, the hallucinations
+    should lower the rating.\n\nHow much lower? The gold answer has two points. The
+    system answer includes those two (though possibly misrepresenting reefs as Rabenklippen),
+    but adds three incorrect points. So it's mostly correct but with significant hallucinations.\n
+    \nThe rating scale: 5 is all relevant info, correct. 4 might be minor issues.
+    3 is partially correct with some errors. 2 is mostly wrong but not completely.
+    1 contradicts.\n\nSince the system answer does include the correct elements (currents
+    and reefs, albeit possibly renamed), but adds false obstacles, it's not contradicting
+    the gold answer but adding false info. So it's not a 1. It's partially correct
+    but with hallucinations.\n\nI think this would be a 3. Because it has the correct
+    core info but adds incorrect details. Alternatively, maybe a 2 if the hallucinations
+    are significant.\n\nWait, the gold answer's two points are both present in the
+    system answer? Let's check:\n\nGold: scharfzähnigen Riffen und unberechenbaren
+    Strömungen.\n\nSystem answer lists:\n\n- Schwarze Klippen (not in background)\n
+    \n- Rabenklippen (submerged reefs) – perhaps intended to be the scharfzähnigen
+    Riffen, but the term isn't in background\n\n- unberechenbare Strömungen (correct)\n
+    \nSo the system answer does include the Strömungen, which is correct. For the
+    reefs, it's split into two cliff/reef terms not in the background. So the system
+    answer's mention of Rabenklippen as reefs might be an attempt to specify the reefs,
+    but since the background doesn't name them, it's adding a detail that's not there.\n
+    \nSo the system answer does cover the two elements from the gold answer (reefs
+    and currents), but misrepresents the reefs as two different named obstacles, which
+    are not in the background. So the core answer is there, but with extra, incorrect
+    specifics.\n\nIn that case, the answer is partially correct but includes hallucinations.
+    According to guidelines, if it includes all necessary details (which it does,
+    since reefs and currents are covered, even if reefs are split into made-up terms),
+    but adds false info, the rating would be lower than 5.\n\nBut the guidelines say:
+    \"A system answers that includes all relevant information to answer the question
+    should get the highest rating (5)\". Here, the relevant information is reefs and
+    currents. The system answer does include those (currents explicitly, reefs via
+    Rabenklippen maybe). However, the additional info is hallucinated.\n\nBut the
+    problem is whether the system answer's way of presenting the reefs is correct.
+    If Rabenklippen is a correct term from the broader lore but not mentioned in the
+    provided background, but since we can only use the given background, we have to
+    assume it's a hallucination.\n\nTherefore, the system answer has the correct Strömungen,
+    but the Riffen part is presented as two different obstacles not in the background.
+    So the answer includes the necessary info but adds incorrect details.\n\nIn such
+    cases, the rating would be 3 or 4. If the hallucinations are significant, it's
+    a 3. If minor, 4.\n\nGiven that three out of five points in the system answer
+    are hallucinations (Schwarze Klippen, dichten Nebel, stürmische See), and Rabenklippen
+    is possibly a hallucination (since background doesn't name the reefs), that's
+    four hallucinated points out of five. Only \"unberechenbare Strömungen\" is correct.\n
+    \nWait, system answer lists five bullet points:\n\n1. Schwarze Klippen – hallucination\n
+    \n2. Rabenklippen – possibly hallucination (not in background)\n\n3. Strömungen
+    – correct\n\n4. Nebel – hallucination\n\n5. Stürmische See – hallucination\n\n
+    So only one correct point out of five? But the gold answer has two points. Wait,
+    the gold answer's \"scharfzähnigen Riffen\" should correspond to the reefs. The
+    system answer's Rabenklippen is described as submerged reefs, so maybe that's
+    their way of referring to the scharfzähnigen Riffen. If that's the case, then
+    Rabenklippen is an attempt to specify the reefs, but the name isn't in the background.
+    So it's adding a detail not present, which is a hallucination. But the existence
+    of reefs is correct.\n\nSo the system answer does mention reefs (as Rabenklippen)
+    and currents. So two correct elements, but presented with made-up names and additional
+    incorrect obstacles.\n\nSo the core answer is there (reefs and currents), but
+    with extra false info. The question is whether the answer is still correct in
+    essence.\n\nThe guidelines say: if it includes all relevant info and no hallucinations,
+    5. If it includes all relevant info but has some hallucinations, then lower.\n
+    \nIn this case, the relevant info is reefs and currents. The system answer includes
+    those (though reefs are given a specific name not in background), plus extra false
+    info.\n\nSo the answer is correct in the necessary parts but has additional hallucinations.
+    How does that affect the rating?\n\nThe example in guidelines: if it includes
+    all necessary details, 5. If it has extra true info, still 5. If extra false info,
+    lower.\n\nSo here, since there are false additions, the rating should be less
+    than 5.\n\nHow much less? If the false info is significant, maybe 3.\n\nAnother
+    angle: the question asks for natural obstacles. The system answer lists five,
+    two of which are correct (reefs and currents, though reefs are split into two
+    terms), three are hallucinations. But the gold answer only requires the two.\n
+    \nThe presence of hallucinations would lower the score. If the hallucinations
+    are major, like adding three incorrect obstacles, that's a problem.\n\nIn such
+    cases, the answer is partially correct but misleading. So a rating of 2 or 3.\n
+    \nWait, the guidelines say: \"A system answer contradicting the gold answer should
+    get the lowest rating (1)\". This doesn't contradict, it adds more.\n\n\"A system
+    answer that does not include all necessary details given in the gold answer but
+    is not completely wrong as well should get a rating between 2 and 4.\"\n\nBut
+    in this case, it does include all necessary details (reefs and currents are covered),
+    but adds incorrect ones. So it's not missing details, but has extra false ones.\n
+    \nThe guidelines mention that if additional statements are not true, it should
+    lower the rating.\n\nSo even if the necessary info is there, hallucinations lower
+    the score.\n\nHow severe is it? If the hallucinations are significant, maybe a
+    3.\n\nAlternatively, if the core answer is correct but with extra fluff, maybe
+    a 4. But since the extra info is false, not just extra.\n\nIn academic grading,
+    if an answer has correct info plus incorrect info, it's penalized.\n\nGiven that
+    three of the five points are outright hallucinations (not mentioned in background),
+    and one is a possibly misnamed correct point, the answer is somewhat accurate
+    but with significant errors.\n\nI think the appropriate rating here is 2 or 3.\n
+    \nWait, the gold answer has two points. The system answer includes the two concepts
+    (reefs and currents), but presents reefs as two different named obstacles (which
+    are hallucinations) and adds three more false ones.\n\nSo the necessary info is
+    present, but the answer is inflated with false details. Depending on the severity.\n
+    \nIn some rubrics, including incorrect information can be worse than omitting
+    info. But according to the given guidelines, contradicting is 1, which this isn't.
+    It's adding false info.\n\nThe example given in guidelines: if extra info is true,
+    it's okay. If false, lower rating.\n\nSo how much to lower? If the answer has
+    the correct info plus some false, it's better than missing info but not as good
+    as perfect.\n\nIf all necessary info is present and correct, but extra false info,
+    maybe a 3.\n\nYes, I think 3 is appropriate here. Because it gets the main points
+    right (currents and reefs, even if reefs are mislabeled), but adds several incorrect
+    obstacles.\n"
+  grade: 3
+  user_grade: 3
+- question: Welche Rechtsbereiche werden an der Juristischen Fakultät in Al’Anfa nicht
+    primär gelehrt und warum?
+  correct_answer: An der Juristischen Fakultät werden 'klassische' Themen der Rechtskunde
+    wie die Heraldik nur selten gelehrt, da diese im südlichen Aventurien kaum von
+    Belang sind.
+  inner_monologue: "Okay, the user is asking about which legal areas are not primarily
+    taught at the Juristische Fakultät in Al’Anfa and why. First, I need to recall
+    that Al’Anfa is a city in the fictional world of Aventurien from Das Schwarze
+    Auge (DSA). \n\nWait, but the user mentioned the Juristische Fakultät, which translates
+    to Law Faculty. However, in DSA lore, Al’Anfa is a city known for its trade, piracy,
+    and a more mercantile society. I should check if there's any official DSA material
+    that mentions a law faculty there.\n\nFrom what I remember, Al’Anfa is part of
+    the Horasreich (Imperial Realm) but has a unique culture with influences from
+    the Mhanadistan region. The city is more focused on commerce and has a reputation
+    for being a bit lawless compared to other parts of the empire. \n\nIn DSA, universities
+    and faculties are usually found in cities like Gareth or Ferdok. Al’Anfa might
+    not have a traditional law faculty because it's a port city with a strong merchant
+    class. The legal system there might be more based on trade laws and maritime codes
+    rather than a comprehensive legal education system.\n\nWait, the user is asking
+    about which areas are NOT primarily taught. So I need to think about standard
+    legal areas in DSA and see which ones wouldn't be emphasized in Al’Anfa. Common
+    law areas in Aventurien would include Imperial law (Reichsrecht), local laws of
+    the provinces, maybe church laws (like the cult of Praios), and trade/commercial
+    law.\n\nSince Al’Anfa is a major trade hub, they probably focus heavily on commercial
+    and maritime law. Areas they might not teach could be things like ecclesiastical
+    law (since Al’Anfa has a more diverse religious landscape, maybe less influence
+    from the state church), or maybe imperial administrative law if they have a lot
+    of autonomy.\n\nWait, but Al’Anfa is part of the Horasreich, so they should follow
+    Imperial law. However, historically, Al’Anfa has had periods of independence and
+    strong local governance. Maybe they don't emphasize Imperial administrative law
+    as much because they have their own local customs.\n\nAnother angle: In DSA, the
+    city is known for being a melting pot with influences from Mhanadistan, so maybe
+    they don't teach traditional Aventurian noble law or feudal systems, which are
+    more prominent in other regions. Instead, they focus on mercantile and contract
+    law.\n\nI should check if there's any official source. The DSA 4.1 or 5th edition
+    materials mention Al’Anfa's culture. From what I recall, Al’Anfa's legal system
+    is based on trade agreements and merchant guild regulations rather than a formal
+    university system. So the Juristische Fakultät might not exist there in the same
+    way as in Gareth. Wait, the question assumes there is a Juristische Fakultät in
+    Al’Anfa. Is that accurate?\n\nHmm, maybe the user is mistaken, but as an assistant,
+    I should answer based on DSA lore. If Al’Anfa doesn't have a law faculty, but
+    the question states there is one, I need to proceed carefully.\n\nAlternatively,
+    perhaps the faculty exists but focuses on specific areas. The key is to state
+    that in DSA lore, Al’Anfa is not known for a traditional law faculty. However,
+    the question posits that there is one, so I have to work with that.\n\nPossible
+    answer: Al’Anfa's law faculty would prioritize trade and maritime law due to the
+    city's role as a port. Areas not taught might include ecclesiastical law (since
+    the city is religiously diverse and less dominated by the state church) or noble/feudal
+    law (as Al’Anfa has a merchant oligarchy rather than a feudal structure). The
+    reason would be the city's mercantile focus and historical autonomy from traditional
+    Aventurian feudal systems.\n\nNeed to verify if ecclesiastical law is a thing
+    in DSA. Yes, the cults have their own legal systems, especially Praios. But Al’Anfa
+    has a mix of religions, so maybe church law isn't emphasized.\n\nAlso, Imperial
+    law (Reichsrecht) might still be taught, but local customs override it. So perhaps
+    areas like Imperial administrative procedures aren't focused on because Al’Anfa
+    manages its own affairs.\n\nAnother point: Al’Anfa was under Mhanadistan influence,
+    which has different legal traditions, so maybe they don't teach traditional Aventurian
+    criminal law, focusing instead on restorative or merchant dispute resolution.\n
+    \nBut I need to be precise. The answer should list specific legal areas not taught
+    and why. Since the user is asking for Rechtsbereiche (legal areas), examples could
+    be:\n\n- Kirchenrecht (ecclesiastical law) because of religious pluralism and
+    lesser influence of state cults.\n- Adelsrecht (noble law) as Al’Anfa is governed
+    by merchants, not nobility.\n- Maybe Reichsverwaltungsrecht (imperial administrative
+    law) due to local autonomy.\n\nThe why would tie into Al’Anfa's mercantile society,
+    historical independence, and cultural influences from Mhanadistan.\n\nI should
+    make sure not to invent too much, stick to established lore. If there's no explicit
+    mention of a law faculty in Al’Anfa, but the question assumes it exists, answer
+    based on the city's characteristics.\n\nFinal answer structure: List 2-3 areas
+    not taught, each with a brief reason based on Al’Anfa's setting.\n"
+  system_answer: "\n\nAn der Juristischen Fakultät in Al’Anfa (DSA-Lore) werden v.
+    a. **Adelsrecht** und **kirchliches Praios-Recht** nicht primär gelehrt.  \n**Gründe**:\
+    \  \n- Al’Anfa ist eine **kaufmännisch geprägte Stadtstaat**-Gesellschaft mit
+    oligarchischer Herrschaft der Gilde, nicht adliger Strukturen. Adelsrecht ist
+    dort irrelevant.  \n- Die religiöse Vielfalt (v. a. Einflüsse aus Mhanadistan)
+    und geringe Präsenz des Staatskults um Praios machen kirchliches Recht weniger
+    zentral. Stattdessen dominieren **Handels- und Seerecht**.  \n\n*Hinweis: In offiziellen
+    DSA-Quellen existiert keine explizite „Juristische Fakultät“ in Al’Anfa – die
+    Antwort orientiert sich an der loretypischen Gesellschaftsstruktur.*"
+  related_chunk: G01-169
+  grade_reasoning: "Okay, let's tackle this evaluation. So, the task is to grade the
+    system answer based on the given guidelines. Let me go through each part step
+    by step.\n\nFirst, the question is asking which legal areas are not primarily
+    taught at the Juristische Fakultät in Al’Anfa and why. The gold answer states
+    that 'classical' topics like Heraldik are rarely taught because they're not relevant
+    in southern Aventuria.\n\nLooking at the system answer, it says that Adelsrecht
+    and kirchliches Praios-Recht aren't primarily taught. The reasons given are that
+    Al’Anfa is a merchant city-state with oligarchic guild rule, so Adelsrecht is
+    irrelevant, and due to religious diversity and less Praios influence, church law
+    isn't central. Instead, Handels- und Seerecht dominate.\n\nNow, checking the background
+    info. The background mentions that in contrast to places like Methumis, 'classical'
+    topics like Heraldik are rarely taught because they aren't relevant in southern
+    Aventuria. The background lists the faculty's areas: Rechtsphilosophie, Kirchenrechte,
+    Handelsrecht, etc. Wait, Kirchenrechte (church rights) is actually a listed faculty
+    area. But the system answer says kirchliches Praios-Recht isn't taught. Hmm.\n
+    \nWait, the background says \"Kirchenrechte\" is a Fachbereich (department). But
+    the system answer specifies \"kirchliches Praios-Recht\" (Praios church law).
+    Maybe in Al’Anfa, since there's religious diversity, Praios-specific law isn't
+    the focus, but other church laws might be? The background does mention religious
+    arguments in the caste system of law. But the gold answer only mentions Heraldik
+    as the classical topic not taught.\n\nThe system answer claims Adelsrecht isn't
+    taught. The background's example lectures include \"Die hohe Bürde des Granden
+    für Staat und Gesellschaft,\" which seems related to nobility (Granden are nobles).
+    So maybe Adelsrecht is actually taught there? The background says they have a
+    caste system explaining different social layers, which might involve nobility.
+    So the system answer saying Adelsrecht isn't taught might be incorrect.\n\nWait,
+    the gold answer says 'classical' topics like Heraldik aren't taught. The system
+    answer lists Adelsrecht and Praios church law as not taught. But according to
+    the background, Kirchenrechte is a department, so church law in general is taught,
+    but maybe not specifically Praios. However, the background doesn't mention Praios
+    specifically. Al’Anfa is in southern Aventuria, which has Mhanadistan influences
+    (as per system answer), which is more about other gods, so Praios (a northern
+    god) might not be prominent. So maybe kirchliches Praios-Recht isn't taught, but
+    other church laws are. The background says \"Kirchenrechte\" as a department,
+    which could include various religions.\n\nBut the gold answer only mentions Heraldik
+    as the example. The system answer adds Adelsrecht. However, the background's example
+    lecture about Granden suggests that nobility-related topics are taught. So Adelsrecht
+    might actually be part of the curriculum, which would mean the system answer is
+    wrong about Adelsrecht not being taught.\n\nAlso, the system answer mentions that
+    there's no explicit \"Juristische Fakultät\" in official sources, which is a note,
+    but the background info provided here does describe such a faculty. So maybe the
+    system is acknowledging that, but in the context of this question, the background
+    is given as fact.\n\nSo, comparing to gold answer: gold says Heraldik isn't taught
+    because not relevant in south. System says Adelsrecht and Praios church law aren't
+    taught. But background shows that Heraldik is the example given for classical
+    topics not taught, and Adelsrecht might actually be taught (given the Granden
+    lecture). So the system answer is introducing Adelsrecht as not taught, which
+    might be incorrect. Also, the gold answer doesn't mention Praios, but the system
+    does. However, the background does say Kirchenrechte is a department, so church
+    law is taught, but perhaps not Praios-specific. But the gold answer's example
+    is Heraldik, not church law.\n\nSo the system answer is adding information not
+    in the gold answer. Need to check if those additions are correct based on background.\n
+    \nBackground states: \" Anders als beispielsweise in Methumis werden hier ‘klassische’
+    Themen der Rechtskunde wie die Heraldik nur selten gelehrt, da sie im südlichen
+    Aventurien kaum von Belang sind.\"\n\nSo the main point is Heraldik (as an example
+    of classical topics) isn't taught. The system answer says Adelsrecht and Praios
+    church law aren't taught. But the background lists \"Staatswissenschaft und Regierungslehre\"\
+    \ and the example lecture on Granden (nobles), which suggests Adelsrecht might
+    be part of the curriculum. So claiming Adelsrecht isn't taught is likely incorrect.
+    Also, Kirchenrechte is a department, so church law is taught, but maybe not Praios-specific.
+    However, the background doesn't specify which churches, but Al’Anfa's religious
+    context (per system answer) has Mhanadistan influences, so Praios (a northern
+    deity) might not be relevant. So maybe kirchliches Praios-Recht isn't taught,
+    but other church laws are. The gold answer doesn't mention church law at all,
+    only Heraldik.\n\nThe system answer's inclusion of Adelsrecht as not taught seems
+    to contradict the background, which implies nobility topics are taught (via the
+    Granden example). Therefore, that part is a hallucination. The part about Praios
+    might be correct given the regional religious context, but the background doesn't
+    explicitly say that. However, the background does say that classical topics like
+    Heraldik are not taught, which the system answer doesn't mention at all. The gold
+    answer focuses on Heraldik, but the system answer talks about Adelsrecht and Praios
+    law instead.\n\nSo the system answer misses the key point from the gold answer
+    (Heraldik) and adds incorrect information (Adelsrecht not taught). It does correctly
+    note that Heraldik isn't mentioned, but the main answer should be about Heraldik.
+    Wait, the system answer doesn't mention Heraldik at all. The gold answer says
+    Heraldik is the example of classical topics not taught. The system answer instead
+    says Adelsrecht and Praios law aren't taught. So the system answer is addressing
+    different legal areas than the gold answer.\n\nThis is a problem because the question
+    is asking which areas are not primarily taught. The gold answer specifies Heraldik
+    as an example of classical topics. The system answer picks different areas. If
+    the background says that classical topics like Heraldik are not taught, but the
+    system answer says Adelsrecht isn't taught (which may actually be taught), then
+    the system answer is incorrect.\n\nTherefore, the system answer contradicts the
+    gold answer by focusing on different legal areas. The gold answer's main point
+    is Heraldik (as part of classical topics), but the system answer talks about Adelsrecht
+    and Praios law. Since the background confirms that Heraldik is the example given
+    for not being taught, and the system answer doesn't mention that but instead introduces
+    possibly incorrect areas, this is a contradiction.\n\nAdditionally, the system
+    answer's note says there's no explicit Juristische Fakultät in official sources,
+    but the background provided here does describe it, so within the context of this
+    question, that note might be unnecessary but not directly affecting the answer's
+    correctness.\n\nSo, the system answer does not align with the gold answer. It
+    provides different legal areas not taught, some of which may be incorrect (Adelsrecht),
+    while missing the correct example (Heraldik). Therefore, this should be a low
+    rating. The guidelines say if it contradicts the gold answer, rate 1. But wait,
+    does it contradict or just provide different info?\n\nThe gold answer says 'classical'
+    topics like Heraldik are rarely taught. The system answer says Adelsrecht and
+    Praios law are not primarily taught. If Heraldik is the correct example, and the
+    system answer doesn't mention it but instead mentions other areas, some of which
+    might be incorrect, then it's not fully contradicting but missing the key point
+    and adding errors.\n\nWait, the question is \"welche Rechtsbereiche werden ...
+    nicht primär gelehrt\". The gold answer specifies Heraldik as an example. The
+    system answer lists Adelsrecht and Praios law. If the background says that classical
+    topics like Heraldik are not taught, then Heraldik is a correct answer. If the
+    system answer says other areas, but those areas are actually taught (per background),
+    then the system answer is wrong.\n\nLooking at background: Fachbereiche include
+    Kirchenrechte, so church law is taught. The system answer says kirchliches Praios-Recht
+    isn't taught. Maybe in Al’Anfa, since it's in the south, Praios isn't the main
+    religion, so Praios-specific church law isn't taught, but other church laws are.
+    So that part might be correct. However, the gold answer doesn't mention church
+    law at all.\n\nThe main issue is that the gold answer's focus is on Heraldik (as
+    part of classical topics), but the system answer doesn't mention Heraldik. Instead,
+    it talks about Adelsrecht. The background's example lecture on Granden suggests
+    that Adelsrecht might be part of the curriculum. So the system answer's claim
+    that Adelsrecht isn't taught is likely incorrect.\n\nTherefore, the system answer
+    provides incorrect information (Adelsrecht not taught) and misses the correct
+    example (Heraldik). This means it's contradicting the gold answer indirectly by
+    providing wrong specifics. According to the guidelines, if it contradicts the
+    gold answer, rate 1. But does it contradict? The gold answer says Heraldik is
+    an example of not taught topics. The system answer says Adelsrecht and Praios
+    law aren't taught. If Heraldik should be the answer, and the system answer doesn't
+    include it but includes incorrect areas, then it's wrong.\n\nAlternatively, maybe
+    the question allows for multiple correct answers, but the gold answer specifies
+    Heraldik as the example. The background says \"klassische Themen der Rechtskunde
+    wie die Heraldik\", implying Heraldik is one example, but there could be others.
+    However, the system answer's examples may not be valid.\n\nGiven that the background
+    explicitly states Heraldik as the example of classical topics not taught, and
+    the system answer does not mention Heraldik but instead mentions Adelsrecht (which
+    seems to be taught, based on the Granden lecture), the system answer is incorrect.
+    Therefore, it contradicts the gold answer by providing wrong information. Hence,
+    rating 1.\n\nWait, but the system answer's note says there's no explicit faculty
+    in official sources, but the background here does describe it, so within this
+    context, the note is perhaps a disclaimer but not part of the answer's correctness.
+    The main answer parts are the bullet points.\n\nAnother angle: the gold answer
+    says 'classical' topics like Heraldik are rarely taught. The system answer says
+    Adelsrecht isn't taught. If Adelsrecht is considered a classical topic, then maybe
+    it's part of the same category. But the background's example of what is taught
+    includes a lecture on Granden (nobles), which relates to Adelsrecht. So Adelsrecht
+    is likely taught, hence the system answer is wrong to say it's not.\n\nThus, the
+    system answer includes hallucinated information (Adelsrecht not taught) and misses
+    the correct example (Heraldik). Therefore, it's incorrect. Since it contradicts
+    the gold answer's main point by providing different and incorrect areas, the rating
+    should be 1.\n"
+  grade: 1
+  user_grade: 1
+- question: Welchen besonderen Weg gehen junge Erwachsene des Volkes der Panaq-Si,
+    um als erwachsene Mitglieder ihrer Gemeinschaft zu gelten?
+  correct_answer: Junge Erwachsene ziehen sich für eine Zeit zurück und imitieren
+    das Verhalten eines Tieres, das ihnen im Traum erschienen ist, um eine enge Verbindung
+    zu diesem Tier aufzubauen und als Erwachsene anerkannt zu werden.
+  inner_monologue: "Okay, I need to answer the user's question about the Panaq-Si
+    from Das Schwarze Auge (DSA). The question is asking about the special path young
+    adults of the Panaq-Si take to be recognized as full members of their community.\n
+    \nFirst, I should recall if the Panaq-Si are a known group in DSA lore. Wait,
+    I think the correct name might be \"Panaq\" or maybe \"Panaqi\"? Let me check.
+    Oh, right, in DSA, the elves are divided into different tribes. The Panaq-Si are
+    one of the elven tribes, specifically the \"Waldmenschen\" or forest people. Wait,
+    no, the elves have different groups like the Waldmenschen (forest elves), but
+    maybe Panaq-Si is a specific subgroup.\n\nWait, maybe it's a typo. The user wrote
+    \"Panaq-Si\". In DSA, there's the tribe called \"Panaq\" or \"Panaqi\"? Let me
+    think. Actually, the elves in Aventurien include the \"Panaq-Si\" as one of the
+    elven tribes. Wait, no, I might be mixing it up with other names. Let me recall.
+    The main elven tribes in DSA are the Waldmenschen (forest elves), the Aesir (Nordic-inspired),
+    but maybe the Panaq-Si are part of the jungle elves or another subgroup.\n\nWait,
+    perhaps the user is referring to the \"Panaq-Si\" as the \"Waldmenschen\" (forest
+    people) elves. Alternatively, maybe it's a specific tribe from a supplement. I
+    should check the DSA lore. In the standard DSA 4.1 rules, the elves are divided
+    into different tribes, such as the \"Waldmenschen\" (forest elves), \"Wüstenmenschen\"\
+    \ (desert elves), etc. But the name \"Panaq-Si\" doesn't ring a bell. Maybe it's
+    a specific tribe from a later edition or a supplement.\n\nAlternatively, maybe
+    the user made a typo. Could it be \"Panaq\" as in \"Panaqi\"? Wait, in some sources,
+    the elves of the jungle region (like in the country of Mhanadistan) might have
+    different tribes. Wait, Mhanadistan is a region inspired by the Middle East, but
+    the elves there might have different names.\n\nAlternatively, maybe the Panaq-Si
+    are part of the \"Nivesen\" elves, who live in the jungle. Wait, the Nivesen are
+    a human culture in the jungle, not elves. Hmm.\n\nWait, perhaps the user is referring
+    to the \"Panaq-Si\" as a specific elven tribe. Let me think again. In DSA, the
+    elves (Elfen) have several tribes: the \"Waldmenschen\" (forest elves), \"Wüstenmenschen\"\
+    \ (desert elves), \"Bergmenschen\" (mountain elves), etc. Each has their own coming-of-age
+    rituals.\n\nWait, the question is about young adults of the Panaq-Si. If Panaq-Si
+    is a tribe, their coming-of-age ritual might involve a journey into the forest,
+    a hunt, or a spiritual quest. But I need to be precise.\n\nWait, maybe it's a
+    confusion with the \"Panaq\" tribe. Alternatively, perhaps the user meant \"Panaq-Si\"\
+    \ as a specific term. Let me check if there's any DSA lore about this.\n\nUpon
+    checking my knowledge, I recall that in DSA, the elves of the \"Waldmenschen\"\
+    \ have a coming-of-age ritual called the \"Waldlauf\" (Forest Run), where young
+    elves must survive alone in the forest for a certain period, proving their skills
+    and connection to nature. But is this specific to the Panaq-Si?\n\nAlternatively,
+    maybe the Panaq-Si are a tribe from the jungle, and their ritual involves a journey
+    through the jungle, facing trials. But I'm not sure if \"Panaq-Si\" is the correct
+    name.\n\nWait, perhaps the user is referring to the \"Panaq-Si\" as the \"Waldmenschen\"\
+    \ elves. If that's the case, the ritual might be the \"Waldlauf\". But I need
+    to confirm.\n\nAlternatively, maybe the term \"Panaq-Si\" is a mistranslation
+    or misspelling. For example, in some contexts, \"Panaq\" could be related to \"\
+    Panaqi\", but I'm not sure.\n\nGiven that I might not have the exact term, but
+    in DSA, common elven coming-of-age rituals include the \"Waldlauf\" for forest
+    elves. So perhaps the answer is that they undergo the Waldlauf, a solitary journey
+    through the forest to prove their survival skills and connection to nature.\n\n
+    Alternatively, if the Panaq-Si are a specific tribe, maybe their ritual is different.
+    But since I can't recall the exact term \"Panaq-Si\", I should state that there
+    might be a confusion in the name, but assuming it refers to the forest elves,
+    the Waldlauf is the ritual.\n\nWait, but the user specifically says \"Panaq-Si\"\
+    . Let me check again. Maybe it's from a specific DSA sourcebook. For example,
+    in \"Gezeitenwelt\" or other supplements. Alternatively, maybe it's a typo for
+    \"Panaq\" as in the \"Panaq\" tribe.\n\nAlternatively, perhaps the user is referring
+    to the \"Panaq-Si\" as the \"Nivesen\" elves, but Nivesen are humans.\n\nWait,
+    another angle: In DSA, the elves (Elfen) have different tribes, and one of them
+    is the \"Panaq-Si\" (maybe a typo for \"Panaqi Si\" or similar). If I can't find
+    exact info, I should state that the term might be incorrect, but common elven
+    rituals include the Waldlauf.\n\nAlternatively, maybe the answer is the \"Waldlauf\"\
+    \ as the standard ritual for forest elves, which might be what the user is referring
+    to, even if the tribe name is slightly off.\n\nGiven that the user is asking about
+    the Panaq-Si, and assuming that's a specific tribe, but I can't recall it exactly,
+    the safest answer is to mention the Waldlauf as the common ritual for elven coming-of-age
+    in DSA, possibly noting that the tribe name might be a variation.\n"
+  system_answer: "\n\nDie Panaq-Si (auch \"Waldmenschen\" genannt) sind ein elfischer
+    Stamm in Aventurien. Ihr wichtigster Initiationsritus für junge Erwachsene ist
+    der **Waldlauf**: Eine mehrwöchige Alleinreise durch den Wald, bei der sie Wildniskenntnisse,
+    Jagdgeschick und spirituelle Verbundenheit mit der Natur unter Beweis stellen
+    müssen. Erst nach erfolgreichem Abschluss gilt man als vollwertiges Gemeinschaftsmitglied.\
+    \  \n*Hinweis: Der exakte Name \"Panaq-Si\" ist in offiziellen DSA-Quellen nicht
+    geläufig – möglicherweise handelt es sich um eine regionale oder abweichende Bezeichnung
+    für die Waldelfen.*"
+  related_chunk: G01-543
+  grade_reasoning: "Okay, let's tackle this evaluation. So, the task is to grade the
+    system answer based on the given background info, question, gold answer, and system
+    answer.\n\nFirst, the question is asking about the special way young adults of
+    the Panaq-Si people become recognized as adult members. The gold answer states
+    that they withdraw for a period and imitate the behavior of an animal that appeared
+    in their dream to form a close connection with it.\n\nNow, looking at the system
+    answer: It mentions the Panaq-Si as an elven tribe, their initiation rite called
+    the \"Waldlauf,\" which is a multi-week solo journey through the forest to prove
+    wilderness skills, hunting, and spiritual connection. It also adds a note that
+    \"Panaq-Si\" isn't an official DSA term, possibly a regional name for wood elves.\n
+    \nBut the background info describes that young adults isolate themselves, observe
+    and imitate a totem animal from a dream until their lifestyle matches the animal's.
+    Examples given are panther behavior, hunting with specific weapons, etc. The key
+    points here are the withdrawal, imitating the dream animal's behavior, and forming
+    a connection.\n\nThe system answer talks about the Waldlauf as a solo journey
+    testing skills, which isn't mentioned in the background. The background doesn't
+    mention a \"Waldlauf\" term or a journey focused on skills; instead, it's about
+    imitating a specific animal. The system answer's description of the ritual is
+    different from what's in the background. Also, the note about Panaq-Si not being
+    an official term might be correct, but the main issue is the incorrect ritual
+    description.\n\nSince the system answer contradicts the gold answer (which is
+    based on the background), which specifies imitating a dream animal, not a wilderness
+    journey, this is a contradiction. The system answer's details about the Waldlauf
+    aren't supported by the background, so it's a hallucination. Therefore, the answer
+    is wrong, leading to the lowest rating.\n"
+  grade: 1
+  user_grade: 1
+- question: Welchen Bund gründeten Magier und Alchimisten im Jahr 766?
+  correct_answer: Den Bund des Roten Salamanders.
+  inner_monologue: "Okay, I need to figure out which guild was founded by mages and
+    alchemists in the year 766 in Das Schwarze Auge (DSA). Let me recall the lore
+    of DSA. The game is set in Aventuria, and there are various organizations and
+    guilds.\n\nI remember that the Alchimisten have their own guild, but when was
+    it founded? Wait, the question specifies the year 766. Let me think about the
+    timeline. The main guilds for mages are the Magierakademie, but the Alchimisten
+    might have a different one.\n\nWait, there's the \"Alchimistische Gilde\" which
+    was founded in 766 BF (Before Founding? No, DSA uses different calendar systems.
+    Wait, DSA's calendar is based on the founding of the city of Gareth, I think.
+    The current year in DSA is often denoted as BF (Before Founding) or AF (After
+    Founding), but maybe the question is using the in-game calendar.\n\nWait, the
+    question says \"im Jahr 766\" which is 766 in the in-game calendar. Let me check
+    my memory. The Alchimistische Gilde was founded in 766 BF? Or AF? Wait, no. In
+    DSA lore, the Alchimistische Gilde was established in 766 BF (Before Founding
+    of the Academy?), but I might be mixing up dates.\n\nWait, actually, the Magierakademie
+    in Angbar was founded in 1023 BF, but that's for wizards. Alchemists have their
+    own organization. Wait, maybe the correct answer is the Alchimistische Gilde,
+    founded in 766 BF. But the question says \"Jahr 766\" without specifying BF or
+    AF. However, in DSA, the current era is often counted from the founding of the
+    city of Gareth, which is year 0. So 766 would be 766 BF (Before Gareth) or AF?\n
+    \nWait, the standard DSA timeline uses the \"Boron-Ära\" (Boron Era), where year
+    0 is the year Boron became the god of time. But I'm not sure. Alternatively, the
+    founding of the Alchimistische Gilde is a known event. Let me recall: In DSA 4,
+    the Alchimistische Gilde was founded in 766 BF (Before Founding of the Academy?),
+    but I need to be precise.\n\nWait, checking my memory: The Alchimistische Gilde
+    was founded in 766 BF (Before the founding of the Magierakademie in Angbar, which
+    was in 1023 BF). Wait, no, maybe the dates are different. Alternatively, the correct
+    answer is the \"Alchimistische Gilde\" founded in 766 BF. But the user didn't
+    specify BF, but in DSA context, years are often given as BF (Before Founding of
+    Gareth) or similar.\n\nWait, another angle: The user is asking for the guild founded
+    by mages and alchemists in 766. But mages and alchemists are separate. Mages belong
+    to the Magierakademien, while alchemists have their own guild. However, the question
+    says \"Magier und Alchimisten\" founded a bund together. Hmm, maybe it's a specific
+    guild that includes both.\n\nWait, but in DSA lore, mages and alchemists are separate
+    professions. Alchemists are part of the \"Alchimistische Gilde\", which was founded
+    in 766 BF. Let me confirm. According to DSA lore, the Alchimistische Gilde was
+    established in 766 BF by alchemists, not mages. Mages have their own academies.
+    So maybe the question is a bit tricky. Wait, the user says \"Magier und Alchimisten\"\
+    \ founded the bund. But in reality, it's only alchemists. Maybe the question has
+    a mistake, but I need to answer based on canon.\n\nWait, checking the timeline:
+    The Alchimistische Gilde was founded in 766 BF. Yes, that's a key date. So the
+    answer should be the Alchimistische Gilde. Even though the question mentions both
+    mages and alchemists, the actual guild is for alchemists only. Maybe the user
+    is conflating the two, but according to lore, it's the Alchimistische Gilde founded
+    in 766 BF.\n"
+  system_answer: "\n\nDen **Alchimistischen Bund** (auch *Alchimistische Gilde*),
+    der im Jahr 766 v. d. Gr. (vor der Gründung Gareth) von Alchimisten gegründet
+    wurde. Magier gehörten diesem Bund nicht an, da sie eigene Akademien (z. B. Angbar)
+    gründeten."
+  related_chunk: G01-076
+  grade_reasoning: "Okay, let's tackle this evaluation. So, the question is asking
+    which Bund was founded by Magier and Alchimisten in the year 766.\n\nThe gold
+    answer is \"Den Bund des Roten Salamanders.\" The system answer says \"Den Alchimistischen
+    Bund (auch Alchimistische Gilde), der im Jahr 766 v. d. Gr. (vor der Gründung
+    Gareth) von Alchimisten gegründet wurde. Magier gehörten diesem Bund nicht an,
+    da sie eigene Akademien (z. B. Angbar) gründeten.\"\n\nLooking at the background
+    info: It states that \"Magier und Alchimisten aus ganz Aventurien schlossen sich
+    766 im Bund des Roten Salamanders zusammen – in Brabak, wo noch heute das Haupthaus
+    der Gilde steht.\"\n\nSo the gold answer is correct as per the background. The
+    system answer claims it's the Alchimistischen Bund, which contradicts the background
+    info which says it's the Bund des Roten Salamanders. Also, the system answer adds
+    that Magier didn't belong to this Bund because they founded their own academies.
+    But the background says both Magier and Alchimisten joined the Bund des Roten
+    Salamanders in 766. Therefore, the system answer is incorrect on two counts: the
+    name of the Bund and the inclusion of Magier.\n\nSince the system answer contradicts
+    the gold answer and the background info, it should get the lowest rating, which
+    is 1.\n"
+  grade: 1
+  user_grade: 1

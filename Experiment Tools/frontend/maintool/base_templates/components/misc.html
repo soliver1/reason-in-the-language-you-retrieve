@@ -1,0 +1,24 @@
+{% macro icon(name, equal_size=false) %}
+<i class="fa-solid fa-{{name}} {{ 'fa-fw' if equal_size }}" ></i>
+{% endmacro %}
+
+
+{% macro text_icon_align() %}
+<div class="flex items-center gap-1">
+    {% for arg in varargs %}
+        {{arg}}
+    {% endfor %}
+</div>
+{% endmacro %}
+
+
+{%- macro roman_numeral(num) -%}
+  {# works for numbers < 50 #}
+  {%- if num >= 40 -%} XL{{ roman_numeral(num - 40) }}
+  {%- elif num >= 10 and num < 40 -%} X{{ roman_numeral(num - 10) }}
+  {%- elif num >= 9 and num < 10 -%} IX{{ roman_numeral(num - 9) }}
+  {%- elif num >= 5 and num < 9 -%} V{{ roman_numeral(num - 5) }}
+  {%- elif num >= 4 and num < 5 -%} IV{{ roman_numeral(num - 4) }}
+  {%- elif num >= 1 and num < 4 -%} I{{roman_numeral(num - 1) }}
+  {%- elif num < 1 -%}{%- endif -%}
+{%- endmacro -%}
