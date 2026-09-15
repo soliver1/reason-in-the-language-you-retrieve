@@ -1,5 +1,5 @@
 This repository contains the code used for all experiments conducted in the paper 
-**Reason in the Language You Retrieve: Reasoning-Language Alignment in Monolingual Retrieval-Augmented Generation**.
+**Investigating the Role of Reasoning-Language Alignment in Monolingual Retrieval-Augmented Generation**.
 
 As the source material that was used for the evaluation (i.e. region description books from the german RPG *The Dark Eye*) we performed is copyrighted, 
 we cannot publish it with this repo. We do however publish the tools that were developed and used to extract the dataset from the pdf versions of the books, 
